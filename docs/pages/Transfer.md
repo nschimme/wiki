@@ -1,0 +1,32 @@
+---
+title: Transfer
+description: 'Transfer is a level 14 cleric'
+tags:
+  - Spells
+  - Cleric spells
+---
+**Transfer** is a level 14 [cleric](./cleric.md)
+[spell](./spell.md). Like [Summon](./Summon.md) it will
+transfer a creature or player to the location of the caster but unlike
+*Summon* the transfer will include the
+[equipment](./equipment.md).
+
+Wearing a [ring](./ring.md) (or collar for shape-shifting
+[bears](./bear.md)) can protect against being transfered
+involuntarily.
+
+Syntax : cast 'transfer' \&lt;recipient\&gt; Type : Long range Accumulative:
+N/A Duration : No Casting : Extremely long Position : Standing Level :
+Level 14 Class : Cleric Min. Mana : 50 Example: \> cast 'transfer'
+Aschit
+
+This spell can be learned from:
+
+`                            Sessions `
+[`Forlond Cleric Guild`](./Forlond_Cleric_Guild.md)`              23`
+[`Lórien Cleric Guild`](./Lórien_Cleric_Guild.md)`               14`
+
+## See also
+
+- [Summon](./Summon.md)
+ 

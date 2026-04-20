@@ -1,0 +1,26 @@
+---
+title: Citizen
+description: 'When you begin the game, if you''re not an Orc, a'
+tags:
+  - Help files
+---
+When you begin the game, if you're not an [Orc](./Orc.md), a
+[Troll](./Troll.md) or a [Black
+Numenorean](./Black_Numenorean.md), you will become a **citizen**
+of the [town](./town.md) you '[pray](./pray.md)' to (the
+first time you pray, thus choosing your hometown).
+
+Being a citizen affects certain aspects to life in the city, e.g.
+
+`- In most cities you may not walk about with an unsheathed `[`weapon`](./weapon.md)` unless `
+`  you're a citizen.`
+`- `[`Shopkeepers`](./Shop.md)` will charge higher prices to you for their goods and `
+`  `[`innkeepers`](./inn.md)` will charge you higher `[`rent`](./rent.md)` if you're not a citizen.`
+`- You may only complain about `[`criminals`](./crime.md)` if you're a citizen`
+`- The city `[`gates`](./gates.md)` will open even at night for citizens.`
+
+Depending on the town, there are different means of obtaining
+citizenship. Some may require payment, others will give it free
+depending on [alignment](./alignment.md). However, make sure you
+have no outstanding [crimes](./crime.md) when you try to obtain
+citizenship, else you may lose it just as fast.

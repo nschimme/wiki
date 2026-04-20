@@ -1,0 +1,18 @@
+---
+title: Huge warg
+description: 'Huge wargs are aggressive level ~13-14 mobs found'
+tags:
+  - Mobiles
+---
+**Huge wargs** are aggressive level ~13-14 [mobs](./mob.md) found
+mostly in the eastern parts of [Arda](./Arda.md). They can
+[track](./track.md), and their [corpses](./corpse.md) can be
+[butchered](./butcher.md) to produce a [warg
+fur](./warg_fur.md).
+
+`A huge warg is here, moving in for the kill.`
+`>`**`look warg`**
+`Over six feet long, this evil wolf-spirit dwarfs most of its common kin.`
+`Its coarse fur of dark fur covers a strong skeleton, framed by rippling`
+`muscles. Allied with the orcs, this monster is more than a match for many an`
+`elf or dwarf warrior.`

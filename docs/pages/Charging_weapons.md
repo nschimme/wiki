@@ -1,0 +1,29 @@
+---
+title: Charging weapons
+description: 'Charge is a warrior skill'
+tags:
+  - Warrior skills
+  - Skills
+  - Commands
+---
+**Charge** is a [warrior](./warrior.md) [skill](./skill.md)
+and [weapon](./weapon.md) class. To charge successfully, you need
+good [riding](./ride.md) skill, a horse and a lance. Charging only
+works outdoors on flat [terrain](./terrain.md), and a successful
+charge will inflict major damage on the victim; it will do more damage
+if you charge for a longer distance. You can not charge once you are
+already engaged in combat.
+
+Example:
+
+\> **charge morthan**
+
+NOTE: This skill is considered useless.
+
+## See also
+
+- [Concussion](./Concussion.md), [Cleaving](./Cleaving.md),
+  [Missile](./Missile.md), [Piercing](./Piercing.md),
+  [Slashing](./Slashing.md), [Stabbing](./Stabbing.md),
+  [Two-handed](./Two-handed.md)
+ 

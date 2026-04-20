@@ -1,0 +1,59 @@
+---
+title: Orc
+description: 'Goblins, are foul creatures that were created by Morgoth in the'
+tags:
+  - Playable races
+---
+![Uruk-hai](/img/Uruk-hai.jpg) **Orcs**, also known as
+**Goblins**, are foul creatures that were created by Morgoth in the
+First Age. Through his evil power, it is said he corrupted the beautiful
+[Elves](./elf.md) and transformed them into his servants of evil,
+the Orcs. They delight in seeing things suffer and bear malice
+especially to Elves and [Dwarves](./dwarf.md). They are not
+intelligent and gain most of their destructive power in their large
+clans. The evil force of Mordor has drawn Orcs together to create a
+force along with His other servants which is maybe too strong for the
+Elves and [Men](./man.md) to vanquish.
+
+## Orcs in [MUME](./MUME.md)
+
+MUME Orcs are very strong, but other than that suffer considerably. Orcs
+make powerful warriors, but have difficulties with other classes.
+
+There are two playable tribes of Orcs in MUME; the
+[Uruk-Tarkhnarb](./Uruk-Tarkhnarb.md) and the
+[Uruk-Zaugurz](./Uruk-Zaugurz.md). The Tarkhnarb Orcs are subjects
+of Sauron, allies of the [Black
+Númenoreans](./Black_Númenorean.md) and the powerful
+[Trolls](./Troll.md) in the battle against the Free People. The
+Zaugurz Orcs were cast out of Goblin Gate (the primary dwelling of the
+Tarkhnarb), and are now at war with the Tarkhnarb and their allies.
+
+Orcs in MUME are treated differently from the other races:
+
+- They may not become immortal.
+- They generally have worse stats than the other races.
+- Sunlight affects them badly (much lower bonuses, use movement points
+  much faster, increased difficulty in spell casting).
+- They have the ability to see in the dark without a light source.
+
+In addition to the playable orc tribes, there are many non-playable
+tribes in MUME:
+
+- [Uruk-Burzruth](./Burzruth_Orc.md) who live in the eastern half
+  of the [Mines of Moria](./Moria.md)
+- [Uruk-Durbûk](./Durbûk_Orc.md) who reside in the mountains of
+  [Emyn-nu-Fuin](./Mirkwood.md)
+- [Uruk-Durghash](./Durghash_Orc.md) who have taken over the
+  western half of the [Mines of Moria](./Moria.md)
+- [Uruk-Moragog](./Moragog_Orc.md) who live in the upper levels of
+  eastern [Moria](./Moria.md)
+- [Uruk-Morgundul](./Morgundul_Orc.md) that reside in Red Horn
+  Pass, [Vales of Anduin](./Anduin_Vale.md), and [Dol
+  Guldur](./Dol_Guldur.md)
+- [Uruk-Ohurk](./Ohurk_Orc.md) who have set up camp around the
+  Ford of the River Bruinen
+- [Uruk-Urughash](./Urughash_Orc.md) who live in the Misty
+  Mountains bordering [Dunland](./Dunland.md)
+
+<!--@include: ../includes/ClassRace.md-->

@@ -1,0 +1,47 @@
+---
+title: Identify
+description: 'Identify is a level 15 mage'
+tags:
+  - Mage spells
+  - Spells
+---
+**Identify** is a [level](./level.md) 15 [mage](./mage.md)
+[spell](./spell.md). When [cast](./cast.md) on an
+[object](./item.md), this spell will reveal some of the important
+properties of the object. It also gives the caster the magical 'key'
+which would be used to find instances of such objects with the
+'[locate](./locate.md)' spell.
+
+When cast on a [mobile](./mobile.md) or player, it provides a
+locate key but does not provide additional information (see also:
+[Divination](./Divination.md)).
+
+Syntax : cast 'identify' \&lt;object\&gt;/\&lt;mobile\&gt;/\&lt;player\&gt; Type :
+Miscellaneous Accumulative: N/A Duration : No Casting : Extremely long
+Position : Standing Level : Level 15 Class : Magic User Min. Mana : 90
+Duration : No
+
+NOTE: It is strongly suggested not to reveal the exact
+[statistics](./statistic.md) of items you identify. Saying that
+"sword X is slighly better at parrying than sword Y, but you need to be
+very strong in order to use it efficiently" is acceptable.
+
+Publishing tables of item statistics, either via boards or by web or by
+any other means, is highly frowned upon by the management. Please
+refrain from doing so.
+
+A clarification: MAGIC refers to long-lasting magical effects, such as
+the [enchantment](./enchant.md) on a [weapon](./weapon.md)
+or the effects of '[armour](./Armour_Spell.md)' or
+'[shield](./Shield_Spell.md)'. SPELL refers to instantaneous
+effects, such as a fireball or a dispel magic. A weapon that is
+efficient vs SPELL can't be enchanted or dispelled; it does not have
+special properties against magical opponents.
+
+Example: \> cast 'identify' ring
+
+This spell can be learned from:
+
+`                     Sessions `
+[`Erestor`](./Erestor.md)`                    16`
+[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`           8`

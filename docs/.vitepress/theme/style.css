@@ -1,0 +1,311 @@
+/* MUME Wiki — dark fantasy theme inspired by mume.org */
+
+:root {
+  /* Brand colors */
+  --mume-gold: #c9a84c;
+  --mume-gold-light: #e0c070;
+  --mume-bg-dark: #1a1410;
+  --mume-bg-card: #231c16;
+  --mume-bg-sidebar: #1e1710;
+  --mume-border: #3d3020;
+  --mume-text: #d4c9b0;
+  --mume-text-muted: #8a7d65;
+
+  /* Override VitePress color tokens */
+  --vp-c-brand-1: var(--mume-gold);
+  --vp-c-brand-2: var(--mume-gold-light);
+  --vp-c-brand-3: #a8882a;
+  --vp-c-brand-soft: rgba(201, 168, 76, 0.14);
+
+  --vp-c-bg: var(--mume-bg-dark);
+  --vp-c-bg-soft: var(--mume-bg-card);
+  --vp-c-bg-mute: #2a2018;
+  --vp-c-bg-elv: var(--mume-bg-card);
+  --vp-c-bg-alt: var(--mume-bg-sidebar);
+
+  --vp-c-divider: var(--mume-border);
+  --vp-c-gutter: var(--mume-border);
+
+  --vp-c-text-1: var(--mume-text);
+  --vp-c-text-2: #b0a080;
+  --vp-c-text-3: var(--mume-text-muted);
+
+  --vp-c-neutral: var(--mume-gold);
+  --vp-c-neutral-inverse: var(--mume-bg-dark);
+
+  /* Nav */
+  --vp-nav-bg-color: rgba(26, 20, 16, 0.95);
+  --vp-nav-logo-height: 28px;
+
+  /* Sidebar */
+  --vp-sidebar-bg-color: var(--mume-bg-sidebar);
+  --vp-sidebar-width: 260px;
+
+  /* Code blocks */
+  --vp-code-bg: #120e0a;
+  --vp-code-color: #d4c9b0;
+  --vp-code-block-bg: #120e0a;
+  --vp-code-line-highlight-color: rgba(201, 168, 76, 0.08);
+
+  /* Buttons */
+  --vp-button-brand-border: var(--mume-gold);
+  --vp-button-brand-text: var(--mume-bg-dark);
+  --vp-button-brand-bg: var(--mume-gold);
+  --vp-button-brand-hover-border: var(--mume-gold-light);
+  --vp-button-brand-hover-text: var(--mume-bg-dark);
+  --vp-button-brand-hover-bg: var(--mume-gold-light);
+
+  /* Home hero */
+  --vp-home-hero-name-color: var(--mume-gold);
+  --vp-home-hero-name-background: none;
+}
+
+/* ---------- Typography ---------- */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: var(--mume-gold);
+  letter-spacing: 0.02em;
+}
+
+.vp-doc h1 { border-bottom: 1px solid var(--mume-border); }
+.vp-doc h2 { border-bottom: 1px solid var(--mume-border); }
+
+a {
+  color: var(--mume-gold);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+a:hover {
+  color: var(--mume-gold-light);
+  text-decoration: underline;
+}
+
+/* ---------- Nav ---------- */
+
+.VPNav {
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--mume-border);
+}
+
+.VPNavBar .title {
+  font-family: Georgia, serif;
+  color: var(--mume-gold) !important;
+  font-size: 1.1rem;
+}
+
+/* ---------- Sidebar ---------- */
+
+.VPSidebar {
+  border-right: 1px solid var(--mume-border);
+}
+
+.VPSidebarItem.level-1 > .item > .text {
+  color: var(--mume-gold);
+  font-family: Georgia, serif;
+}
+
+/* ---------- Content ---------- */
+
+.vp-doc {
+  max-width: 860px;
+}
+
+.vp-doc table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+.vp-doc th {
+  background: var(--mume-bg-card);
+  color: var(--mume-gold);
+  font-family: Georgia, serif;
+  border: 1px solid var(--mume-border);
+  padding: 0.5em 0.75em;
+}
+
+.vp-doc td {
+  border: 1px solid var(--mume-border);
+  padding: 0.4em 0.75em;
+  color: var(--mume-text);
+}
+
+.vp-doc tr:nth-child(even) td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* ---------- Images ---------- */
+
+.vp-doc img {
+  border: 1px solid var(--mume-border);
+  border-radius: 4px;
+  max-width: 100%;
+  height: auto;
+  margin: 0.5em 0;
+}
+
+/* ---------- Code ---------- */
+
+.vp-doc code {
+  background: var(--vp-code-bg);
+  color: #d4c9b0;
+  border: 1px solid var(--mume-border);
+  border-radius: 3px;
+}
+
+.vp-doc div[class*='language-'] {
+  border: 1px solid var(--mume-border);
+}
+
+/* ---------- Custom containers ---------- */
+
+.vp-doc .warning {
+  border-color: #8a6020;
+  background: rgba(138, 96, 32, 0.12);
+}
+
+.vp-doc .tip {
+  border-color: var(--mume-gold);
+  background: rgba(201, 168, 76, 0.08);
+}
+
+/* ---------- Home page ---------- */
+
+.VPHero .name {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(2rem, 6vw, 3.5rem);
+}
+
+.VPHero .tagline {
+  color: var(--mume-text);
+  font-size: 1.1rem;
+}
+
+.VPFeature {
+  background: var(--mume-bg-card) !important;
+  border: 1px solid var(--mume-border) !important;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.VPFeature:hover {
+  border-color: var(--mume-gold) !important;
+  box-shadow: 0 0 12px rgba(201, 168, 76, 0.15);
+}
+
+.VPFeature .title {
+  color: var(--mume-gold) !important;
+  font-family: Georgia, serif;
+}
+
+/* ---------- Tags page ---------- */
+
+.tag-index .tag-group {
+  margin: 2em 0;
+}
+
+.tag-index .tag-letter {
+  font-family: Georgia, serif;
+  color: var(--mume-gold);
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--mume-border);
+  padding-bottom: 0.25em;
+  margin-bottom: 0.75em;
+}
+
+.tag-index .tag-name {
+  font-family: Georgia, serif;
+  color: var(--mume-gold-light);
+  font-size: 1rem;
+  margin: 1em 0 0.4em;
+}
+
+.tag-index .tag-pages {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+}
+
+.tag-index .tag-pages li a {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  background: var(--mume-bg-card);
+  border: 1px solid var(--mume-border);
+  border-radius: 3px;
+  font-size: 0.85rem;
+  color: var(--mume-text);
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.tag-index .tag-pages li a:hover {
+  border-color: var(--mume-gold);
+  color: var(--mume-gold);
+  text-decoration: none;
+}
+
+.az-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-bottom: 1.5em;
+}
+
+.az-nav a, .az-nav span {
+  display: inline-block;
+  width: 2em;
+  text-align: center;
+  padding: 0.2em;
+  font-family: Georgia, serif;
+  font-size: 1rem;
+}
+
+.az-nav a {
+  color: var(--mume-gold);
+  border: 1px solid var(--mume-border);
+  border-radius: 3px;
+}
+
+.az-nav a:hover {
+  background: var(--mume-bg-card);
+  text-decoration: none;
+}
+
+.az-nav span {
+  color: var(--mume-text-muted);
+}
+
+/* ---------- Edit link ---------- */
+
+.VPDocFooter .edit-link-button {
+  color: var(--mume-text-muted);
+  font-size: 0.85rem;
+}
+
+.VPDocFooter .edit-link-button:hover {
+  color: var(--mume-gold);
+}
+
+/* ---------- Search ---------- */
+
+.VPLocalSearchBox .title {
+  color: var(--mume-gold);
+  font-family: Georgia, serif;
+}
+
+/* ---------- Scrollbar ---------- */
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--mume-bg-dark);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--mume-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--mume-gold);
+}

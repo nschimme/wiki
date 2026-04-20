@@ -1,0 +1,23 @@
+---
+title: Sleep Spell
+description: 'Sleep is a level 14 mage'
+---
+
+**Sleep** is a level 14 [mage](./mage.md)
+[spell](./spell.md). If successfully [cast](./cast.md) on a
+creature, it will fall asleep and be unable to awake for some time.
+Sleep is primarily used to deactivate tough
+[mobiles](./mobile.md). It can also be used on players. Use on
+players is uncommon since it is such a long casting time, unless they
+[store](./store.md) it. Many characters also have a good will
+defence to protect them.
+
+Syntax : cast 'sleep' \&lt;person or mobile\&gt; Type : Offensive, mental
+Accumulative: No Duration : Yes Casting : Extremely long Position :
+Standing Level : Level 14 Class : Magic User Min. Mana : 15 Example: \>
+cast 'sleep' olog This spell can be learned from:
+
+`                          Sessions `
+[`Lórien Mage Guild`](./Lórien_Mage_Guild.md)`               12`
+[`Rivendell Mage Guild`](./Rivendell_Mage_Guild.md)`             3`
+[`Tharbad Mage Guild`](./Tharbad_Mage_Guild.md)`              16`

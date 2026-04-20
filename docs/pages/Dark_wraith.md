@@ -1,0 +1,20 @@
+---
+title: Dark wraith
+description: 'Dark wraiths are aggressive, evil'
+tags:
+  - Mobiles
+---
+**Dark wraiths** are aggressive, [evil](./alignment.md)
+[level](./level.md) ~13-14 [mobs](./mob.md) found in various
+locations around [Arda](./Arda.md). They are incorporeal and
+cannot be [bashed](./bash.md). The can cast [Lightning
+Bolt](./Lightning_Bolt.md). Most of them load with a common
+[weapon](./weapon.md), and will also pick up
+[items](./item.md) from the ground.
+
+`A dark intangible shadow turns to face you.`
+`>`**`look wraith`**
+`The shape seems to shift and coalesce in the murky light, but a vague`
+`humanoid outline can be gleaned. Tattered rags hang from the creature's`
+`body, seeming to almost float about its ethereal body. The only noticeable`
+`feature of this wraith is the gaze of its bloodshot, lidless eyes.`

@@ -1,0 +1,24 @@
+---
+title: Rules Reimbursement
+description: 'In general, reimbursements are not given on MUME.'
+---
+
+In general, **reimbursements** are not given on [MUME](./MUME.md).
+The only case in which you will get one is when you died due to a
+reproducible bug.
+
+Reimbursements are never given for the following things:
+
+- Lagdeaths, both due to the net and due to MUME.
+- Loss of [equipment](./equipment.md) or
+  [experience](./experience.md) due to a crash.
+- Reconnecting in a deadly place after losing [link](./link.md).
+- Following another player in a deadly situation.
+- Death due to [pkilling](./PK.md) (unless the killer was
+  violating pkilling rules).
+- Loss of [artifacts](./artifact.md), for any reason.
+- Loss of equipment to [rent](./rent.md) confiscation for whatever
+  reason.
+
+See also: [Rules Reimbursement
+Policy](./Rules_Reimbursement_Policy.md) for examples.

@@ -1,0 +1,22 @@
+---
+title: Two-handed weapons
+description: 'Two-handed weapons is a warrior'
+tags:
+  - Warrior skills
+  - Skills
+---
+**Two-handed weapons** is a [warrior](./warrior.md)
+[skill](./skill.md) and [weapon](./weapon.md) class. It is
+impossible to wear a [shield](./shield.md) other than a buckler
+with a two-handed weapon. Using such force behind the weapon might well
+cause a lot of damage.
+
+Note that you may not be able to practice in two-handed weapons at low
+levels.
+
+## See also
+
+- [Charge](./Charge.md), [Cleaving](./Cleaving.md),
+  [Concussion](./Concussion.md), [Missile](./Missile.md),
+  [Piercing](./Piercing.md), [Slashing](./Slashing.md),
+  [Stabbing](./Stabbing.md)

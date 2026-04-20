@@ -1,0 +1,5 @@
+---
+title: Category:Cleric spells
+---
+
+
