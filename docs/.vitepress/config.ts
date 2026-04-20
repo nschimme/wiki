@@ -1,21 +1,13 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  markdown: {
-    config(md) {
-      // Render absolute-path images as plain HTML <img> so VitePress doesn't try
-      // to resolve /img/*.jpg as ES module imports (fails for missing public assets).
-      const defaultRule = md.renderer.rules.image
-      md.renderer.rules.image = (tokens, idx, options, env, self) => {
-        const token = tokens[idx]
-        const src = token.attrGet('src') ?? ''
-        if (src.startsWith('/')) {
-          const alt = token.content.replace(/"/g, '&quot;')
-          return `<img src="${src}" alt="${alt}" loading="lazy">`
-        }
-        if (defaultRule) return defaultRule(tokens, idx, options, env, self)
-        return self.renderToken(tokens, idx, options)
-      }
+  // Prevent Vue template compiler from converting <img src="/img/..."> into
+  // ES module imports. All wiki images are in public/img/ and served as-is;
+  // they don't need asset hashing. Without this, missing images (pages that
+  // reference images never uploaded) break the production build.
+  vue: {
+    template: {
+      transformAssetUrls: false,
     },
   },
 
