@@ -5,12 +5,12 @@ tags:
   - Cleric spells
   - Spells
 ---
-**Divination** is a [cleric](./cleric.md)
-[spell](./spell.md) that allows you to gain information about the
-target's [level](./level.md),
-[offensive](./offensive_bonus.md), [dodge](./dodge_bonus.md)
-and [parry bonuses](./parry_bonus.md) and
-[alignment](./alignment.md). The spell may fail if the target's
+**Divination** is a [cleric](./Cleric.md)
+[spell](./Spell.md) that allows you to gain information about the
+target's [level](./Level.md),
+[offensive](./Offensive_bonus.md), [dodge](./Dodge_bonus.md)
+and [parry bonuses](./Parry_bonus.md) and
+[alignment](./Alignment.md). The spell may fail if the target's
 [willpower](./willpower.md) is too high.
 
 Syntax : cast 'divination' Type : Miscellaneous Accumulative: N/A

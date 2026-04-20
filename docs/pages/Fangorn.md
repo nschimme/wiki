@@ -7,14 +7,14 @@ tags:
 **Fangorn** is the home of the [Ents](./Ent.md). It is a large
 forested area, located between [Isengard](./Isengard.md) and
 [Lorién](./Lorién.md), and is mainly populated by ents, huorns and
-other [plants](./plant.md). [Riding](./Ride.md) and
-[scouting](./scout.md) is not possible in most
+other [plants](./Plant.md). [Riding](./Ride.md) and
+[scouting](./Scout.md) is not possible in most
 [rooms](./room.md). [Drinking](./Drink.md) from the streams
 and rivers in Fangorn grants a "refreshment" buff, the exact effects of
 which are not known, though it seems to increase
-[regeneration](./regeneration.md). Beware when lighting
-[campfires](./camp.md) or [casting](./cast.md) fire-based
-[spells](./spell.md) in the forest, as the ents do not like fire
+[regeneration](./Regeneration.md). Beware when lighting
+[campfires](./Camp.md) or [casting](./Cast.md) fire-based
+[spells](./Spell.md) in the forest, as the ents do not like fire
 and may be angered if they see you using it.
 
 ## Quests

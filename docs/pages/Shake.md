@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-The **shake** command is like a normal [social](./socials.md) with
+The **shake** command is like a normal [social](./Socials.md) with
 a minor twist. You can either shake &lt;someone&gt; or shake head &lt;someone&gt;
 which will shake your head at someone, or you can shake hands &lt;someone&gt;
 which will shake its hands.

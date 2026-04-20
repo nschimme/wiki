@@ -4,7 +4,7 @@ description: 'Age affects a character''s statistics'
 tags:
   - Help files
 ---
-**Age** affects a character's [statistics](./statistic.md)
+**Age** affects a character's [statistics](./Statistic.md)
 according to the following table. The change is linear between the
 various age brackets; so, the modifier for strength changes from -1 to 0
 at age 21 (midpoint of 18 and 24), and from 0 to +1 at age 28 (midpoint
@@ -17,10 +17,10 @@ Age: 18 24 32 40 50 65 90 Statistics: STR 0 1 1 0 -1 -1 -2 INT 1 1 1 0 0
 6 +Hit 3 2 1 0 -1 -2 -5 +Move 3 3 2 1 -3 -6 -9
 
 Your initial age depends on your base statistics: characters more suited
-to the life of a [warrior](./warrior.md) start out younger; those
+to the life of a [warrior](./Warrior.md) start out younger; those
 more suited to spellcasting begin adventuring at an older age.
 
-Aging rate depends on [races](./race.md) (see 'help races' for
+Aging rate depends on [races](./Race.md) (see 'help races' for
 more information). Ages shown in the previous table refer to Men
 (excluding Dúnedain); for other races the following table applies.
 

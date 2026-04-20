@@ -4,7 +4,7 @@ description: 'A metal shield is a common shield that can be'
 tags:
   - Shields
 ---
-A **metal shield** is a common [shield](./shield.md) that can be
+A **metal shield** is a common [shield](./Shield.md) that can be
 bought from most armourers for around 15 [silver](./silver.md).
 
 `A metal shield is on the ground.`

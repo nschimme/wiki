@@ -4,8 +4,8 @@ description: 'The metal buckler is a small shield that can be'
 tags:
   - Shields
 ---
-The **metal buckler** is a small [shield](./shield.md) that can be
-worn while wielding a [two-handed weapon](./two-handed_weapon.md).
+The **metal buckler** is a small [shield](./Shield.md) that can be
+worn while wielding a [two-handed weapon](./Two-handed_weapon.md).
 Metal bucklers can be bought from most armourers for around 13
 [silver](./silver.md).
 

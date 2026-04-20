@@ -4,12 +4,12 @@ description: 'Mother wolves are aggressive level 7'
 tags:
   - Mobiles
 ---
-**Mother wolves** are aggressive [level](./level.md) 7
-[mobiles](./mobile.md), found in various locations around
+**Mother wolves** are aggressive [level](./Level.md) 7
+[mobiles](./Mobile.md), found in various locations around
 [Arda](./Arda.md). Unlike most other wolves, they do not
-[track](./track.md). Their corpses can be
-[butchered](./butcher.md) to produce a [grey wolf
-fur](./grey_wolf_fur.md) and some [meat](./meat.md).
+[track](./Track.md). Their corpses can be
+[butchered](./Butcher.md) to produce a [grey wolf
+fur](./Grey_wolf_fur.md) and some [meat](./Meat.md).
 
 `The mother wolf stands here, protecting her young cubs.`
 `>`**`examine wolf`**

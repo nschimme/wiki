@@ -5,12 +5,12 @@ tags:
   - Cloth equipment
   - Cloaks
 ---
-The **ragged, blackened cloak** is a [cloak](./cloak.md) that
-increases [dodge bonus](./dodge_bonus.md) and [movement
-point](./movement_points.md)
-[regeneration](./regeneration.md). It loads on [Thena
+The **ragged, blackened cloak** is a [cloak](./Cloak.md) that
+increases [dodge bonus](./Dodge_bonus.md) and [movement
+point](./Movement_points.md)
+[regeneration](./Regeneration.md). It loads on [Thena
 Shadowstalker](./Thena_Shadowstalker.md) and can also be bought
-from some tailors for around 3 [gold](./gold.md) and 5 silver.
+from some tailors for around 3 [gold](./Gold.md) and 5 silver.
 
 `A ragged, dark cloak lies discarded on the ground. `
 `>`**`look cloak`**

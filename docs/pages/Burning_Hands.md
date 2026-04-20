@@ -6,8 +6,8 @@ tags:
   - Mage spells
   - Shaman spells
 ---
-**Burning hands** is a [level](./level.md) 5
-[mage](./mage.md) [spell](./spell.md) that does additional
+**Burning hands** is a [level](./Level.md) 5
+[mage](./Mage.md) [spell](./Spell.md) that does additional
 damage against wooden mobs (e.g. roots, trees).
 
 Syntax : cast 'burning hands' \[victim Type : Offensive, physical

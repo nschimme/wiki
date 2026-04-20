@@ -9,7 +9,7 @@ If you want all the players near you to hear something, **yell** it.
 Your voice will travel better indoors, and doors will make it travel
 worse.
 
-Please, yell rather than [shout](./shout.md)! Do not abuse this
+Please, yell rather than [shout](./Shout.md)! Do not abuse this
 command. [Orcs](./Orc.md) and [Trolls](./Troll.md) may hear
 white-side players' yells and vice-versa.
 

@@ -6,14 +6,14 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Cure Light** is a [level](./level.md) 1
-[cleric](./cleric.md) [spell](./spell.md) that cures the
-target of a few [hit points](./hit_points.md) (around 10). It's a
+**Cure Light** is a [level](./Level.md) 1
+[cleric](./Cleric.md) [spell](./Spell.md) that cures the
+target of a few [hit points](./Hit_points.md) (around 10). It's a
 must for any low-level [caster](./caster.md), and most mid-high
-level non-casters ([warriors](./warrior.md),
-[thieves](./thief.md)) learn it some as well. It significantly
-improves the hit-point [regeneration](./regeneration.md) downtime
-warriors have, and gives them a use for their [mana](./mana.md).
+level non-casters ([warriors](./Warrior.md),
+[thieves](./Thief.md)) learn it some as well. It significantly
+improves the hit-point [regeneration](./Regeneration.md) downtime
+warriors have, and gives them a use for their [mana](./Mana.md).
 Around 40% knowledge.
 
 Syntax : cast 'cure light' \[victim Type : Healing Accumulative: N/A

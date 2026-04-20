@@ -5,8 +5,8 @@ tags:
   - Mage spells
   - Spells
 ---
-**Portal** is a [mage](./mage.md) [spell](./spell.md) with
-[mana](./mana.md) cost 90 that allows to move groups of people
+**Portal** is a [mage](./Mage.md) [spell](./Spell.md) with
+[mana](./Mana.md) cost 90 that allows to move groups of people
 from one location to another by opening a portal from one
 [room](./room.md) to another. In order to cast portal, you need to
 use [Locate Life](./Locate_Life.md) to locate someone in the
@@ -32,11 +32,11 @@ destination room as shown by [Detect Magic](./Detect_Magic.md)
 will not necessarily be the key that was used to portal, but may be a
 newer key even if the old key is still valid.
 
-Even when cast without [backfire](./backfire.md), portal has a
+Even when cast without [backfire](./Backfire.md), portal has a
 noticeable failure rate if going to a location that is more than just a
-couple of [zones](./zone.md) away. This failure rate may be quite
-high for characters below [legend](./legend.md) level, characters
-that have not [practiced](./practice.md) portal to maximal
+couple of [zones](./Zone.md) away. This failure rate may be quite
+high for characters below [legend](./Legend.md) level, characters
+that have not [practiced](./Practice.md) portal to maximal
 possible percentage, or characters that are aiming to portal very far. A
 failed portal, also called a *misportal*, opens into a random locateable
 room that may be quite far away from the target room. A [Black

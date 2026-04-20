@@ -4,8 +4,8 @@ description: 'The large wooden shield is a shield. It'
 tags:
   - Shields
 ---
-The **large wooden shield** is a [shield](./shield.md). It
-provides a mediocre amount of [parry bonus](./parry_bonus.md) for
+The **large wooden shield** is a [shield](./Shield.md). It
+provides a mediocre amount of [parry bonus](./Parry_bonus.md) for
 its weight. It is worth around 10 [silver](./silver.md), and is
 sold by most armourers.
 

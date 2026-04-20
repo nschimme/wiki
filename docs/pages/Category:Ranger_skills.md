@@ -3,4 +3,4 @@ title: Category:Ranger skills
 tags:
   - Skills
 ---
-[Ranger](./general.md) [skills](./skill.md).
+[Ranger](./General.md) [skills](./Skill.md).

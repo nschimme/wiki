@@ -5,7 +5,7 @@ tags:
   - Containers
 ---
 The **ceramic cup** is a [drink](./Food_%26_Drink#Drink.md)
-[container](./container.md). It can contain a bit less then 1
+[container](./Container.md). It can contain a bit less then 1
 pound worth of liquid. It is worth around 5 copper and is sold at many
 general stores and taverns.
 

@@ -4,8 +4,8 @@ description: 'A sorcerer teaches mage'
 tags:
   - Guildmasters
 ---
-A **sorcerer** teaches [mage](./mage.md)
-[spells](./spell.md) at the **Top of the Eastern Tower** in [Minas
+A **sorcerer** teaches [mage](./Mage.md)
+[spells](./Spell.md) at the **Top of the Eastern Tower** in [Minas
 Brethil](./Minas_Brethil.md).
 
 `A sorcerer is waiting here to teach his art.`

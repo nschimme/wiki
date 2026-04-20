@@ -5,20 +5,20 @@ tags:
   - Help files
 ---
 There are two reasons for you to **retire**: to prevent auto deletion of
-your character or to obtain a limited [reroll](./reroll.md) or
-[practice](./practice.md) reset. It is also possible for you to
+your character or to obtain a limited [reroll](./Reroll.md) or
+[practice](./Practice.md) reset. It is also possible for you to
 obtain an age reset after you've been retired for a real year.
 
 Your characters have a limited lifespan after you log off, before they
-are deleted, irrespective of how much [gold](./gold.md) or
-[equipment](./equipment.md) they have for renting. This time
+are deleted, irrespective of how much [gold](./Gold.md) or
+[equipment](./Equipment.md) they have for renting. This time
 period is approximately (Level - 1) \* 5 Real Life days. If you will be
 unable to log in for an extended period and yet want to return at a
 later date with the same character you need to retire him/her.
 
 In order to retire you must go to a
 [receptionist](./receptionist.md) and type
-"[rent](./rent.md) retire" twice. There is currently a requirement
+"[rent](./Rent.md) retire" twice. There is currently a requirement
 that you have at least one item such as a loaf of bread and 1 coin such
 as a copper (a busc in the Elven tongue). This restriction might be
 lifted in the future. Also note that you still need to have enough money
@@ -27,21 +27,21 @@ to rent for 30 days to be able to retire.
 The cost of retiring is the same as 30 days of rent. However, once you
 have retired there will be no further cost. If you wish to check the
 cost of retirement before you actually retire you may do so with the
-command "[offer](./offer.md) retire" at a receptionist.
+command "[offer](./Offer.md) retire" at a receptionist.
 
-To leave the retirement home you use the "[leave](./leave.md)"
+To leave the retirement home you use the "[leave](./Leave.md)"
 command. If you leave before you can reroll or pracreset, you will not
 get a refund and you will not be able to use the "pracreset" and
 "reroll" commands.
 
 Pracreset allows you to reset your practices, "reroll" lets you make
-small changes to your [statistics](./statistic.md). They may be
+small changes to your [statistics](./Statistic.md). They may be
 used any time after 30 days of retirement\*, but they must be used WHILE
 YOU ARE STILL RETIRED. Please do not "leave" before using "reroll" or
 "pracreset". If you do so the gods will not grant you a reroll/reset and
 you will have to retire for 30 more days\* to obtain it.
 
-- NOTE: for [legends](./legend.md) who retire(d) on or after
+- NOTE: for [legends](./Legend.md) who retire(d) on or after
   February 1, 2004, it is ONE YEAR, not 30 days!
 
 If you have been retired for a real life year, "agereset" will allow you

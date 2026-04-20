@@ -7,11 +7,11 @@ tags:
 **Black wolves** are level ~6-7 mobs found in various places around
 [Arda](./Arda.md). They are normally not aggressive, but may be
 grouped with another type of wolf such as a [huge, black
-wolf](./huge,_black_wolf.md) or [pack
+wolf](./Huge,_black_wolf.md) or [pack
 leader](./pack_leader.md), in which case they will attack along
-with the leader. Their [corpses](./corpse.md) can be butchered to
-produce a [black wolf fur](./black_wolf_fur.md) and some
-[meat](./meat.md).
+with the leader. Their [corpses](./Corpse.md) can be butchered to
+produce a [black wolf fur](./Black_wolf_fur.md) and some
+[meat](./Meat.md).
 
 `A black wolf pads restlessly, looking for its next prey.`
 `>`**`examine wolf`**

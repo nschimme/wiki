@@ -4,11 +4,11 @@ description: 'The ancient weaver is a level <10'
 tags:
   - Mobiles
 ---
-The **ancient weaver** is a [level](./level.md) \<10
-[mobile](./mobile.md), located in a house southwest of the gates
+The **ancient weaver** is a [level](./Level.md) \<10
+[mobile](./Mobile.md), located in a house southwest of the gates
 of [Harlond](./Harlond.md). She is looking for someone to
 [help](./Quest#The_Elven_Weaver.md) her replenish the supplies of
-dye she uses for making [cloaks](./forest_green_cloak.md).
+dye she uses for making [cloaks](./Forest_green_cloak.md).
 
 `An exceptionally old elf is here, examining a piece of cloth.`
 `>`**`examine weaver`**

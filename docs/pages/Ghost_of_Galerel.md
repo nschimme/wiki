@@ -7,14 +7,14 @@ tags:
 ---
 The **ghost of Galerel** is a spirit inhabiting the ruins of his former
 [mansion](./Galerel's_mansion.md) east of [Bree](./Bree.md).
-He is an aggressive [level](./level.md) ?
-[mobile](./mobile.md). He loads with some combination of a
-[ring](./ring.md), a [gilded round
-shield](./gilded_round_shield.md), a [black and silver
-surcoat](./black_and_silver_surcoat.md) and a [double-edged
-eket](./double-edged_eket.md). As an incorporeal spirit, he cannot
-be [bashed](./bash.md) unless he happens to load wearing a
-[shield](./shield.md).
+He is an aggressive [level](./Level.md) ?
+[mobile](./Mobile.md). He loads with some combination of a
+[ring](./Ring.md), a [gilded round
+shield](./Gilded_round_shield.md), a [black and silver
+surcoat](./Black_and_silver_surcoat.md) and a [double-edged
+eket](./Double-edged_eket.md). As an incorporeal spirit, he cannot
+be [bashed](./Bash.md) unless he happens to load wearing a
+[shield](./Shield.md).
 
 `The darkened figure of a once noble being lingers here.`
 `>`**`examine ghost`**

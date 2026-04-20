@@ -4,8 +4,8 @@ description: 'An elven priest teaches cleric'
 tags:
   - Guildmasters
 ---
-An **elven priest** teaches [cleric](./cleric.md)
-[spells](./spell.md) at the **Cleric Guild** in
+An **elven priest** teaches [cleric](./Cleric.md)
+[spells](./Spell.md) at the **Cleric Guild** in
 [Rivendell](./Rivendell.md).
 
 `A venerable elven priest is here, willing to teach his art.`

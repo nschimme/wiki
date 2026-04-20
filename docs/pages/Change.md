@@ -35,7 +35,7 @@ Use 'change &lt;parameter&gt;', where &lt;parameter&gt; is one of the following:
 
 - Remember to use one of the "standard languages" (whiteside: Westron)
   if you want to be understood by all players when using the Forgotten
-  Tales (also known as [narrating](./narrate.md)).
+  Tales (also known as [narrating](./Narrate.md)).
 
 <!-- -->
 

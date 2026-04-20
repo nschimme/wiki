@@ -28,7 +28,7 @@ new players of simple rules, and to teach them the basics of gameplay.
 ## The Istar Quest
 
 Any player at level 21 or higher, and with a sufficiently high
-[alignment](./alignment.md), may opt to take the Istar Quest by
+[alignment](./Alignment.md), may opt to take the Istar Quest by
 sailing west to Valinor, and visiting the Istari Sanctuary, where they
 may listen to the Ainulindalë. If they are successful, they will be
 returned to level 21 and must spend the next two levels of their quest

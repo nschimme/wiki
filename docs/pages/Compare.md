@@ -8,10 +8,10 @@ tags:
 Syntax: **compare** \&lt;object\|number\&gt; \&lt;object\|number\&gt;
 
 This command will compare the first object with the second giving you an
-idea of their relative merits. If used in a [shop](./shop.md),
+idea of their relative merits. If used in a [shop](./Shop.md),
 objects in the shopkeeper's stock can also be compared.
 
-Comparing objects in your [inventory](./inventory.md) or in
+Comparing objects in your [inventory](./Inventory.md) or in
 [room](./room.md):
 
 ` > compare sword spear`

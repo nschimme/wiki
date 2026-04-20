@@ -5,10 +5,10 @@ tags:
   - Help files
 ---
 Command **'justice**' allows you to read the justice
-[board](./board.md) where punishments of cheaters are documented.
+[board](./Board.md) where punishments of cheaters are documented.
 For the syntax of command 'justice', see 'help news'.
 
-Following is a description of how [city](./city.md) **justice**
+Following is a description of how [city](./City.md) **justice**
 works in cities of [Arda](./Arda.md).
 
 ## Crimes
@@ -19,18 +19,18 @@ An action can be a crime only in a town or its immediate environs:
 
 <!-- -->
 
-- Wandering with an unsheathed [weapon](./weapon.md) if you are
-  not a town's [citizen](./citizen.md). (This is not a crime in
+- Wandering with an unsheathed [weapon](./Weapon.md) if you are
+  not a town's [citizen](./Citizen.md). (This is not a crime in
   some towns.)
 
 <!-- -->
 
-- Using [magic](./magic.md) if you are not a citizen of the town.
+- Using [magic](./Magic.md) if you are not a citizen of the town.
   (This is not a crime in some towns.)
 
 <!-- -->
 
-- [Stealing](./Steal.md) from a [mobile](./mobile.md)
+- [Stealing](./Steal.md) from a [mobile](./Mobile.md)
   citizen or a player.
 
 <!-- -->
@@ -59,12 +59,12 @@ You may *not* complain about anything that you have not witnessed unless
 you want to be arrested yourself and charged with perjury! If it's not
 in the "Evidence", don't complain about it!
 
-For example, if a known [thief](./thief.md) is standing in the
-room with you and you see that all your [gold](./gold.md) is
+For example, if a known [thief](./Thief.md) is standing in the
+room with you and you see that all your [gold](./Gold.md) is
 disappearing, but you have not actually *witnessed* it, you cannot
 complain about it (without being charged with perjury).
 
-Note that [death](./death.md) results in you forgetting the crimes
+Note that [death](./Death.md) results in you forgetting the crimes
 you have witnessed. So, you can *not* complain about someone's having
 killed *you*, because it is no longer in your evidence!
 
@@ -78,7 +78,7 @@ the second time will be treated as perjury!
 
 - 'complain &lt;me&gt;' always works. It is the only way to surrender when
   wanted. It is also the way to visit someone who is in
-  [jail](./jail.md). Note that you are going to complain only
+  [jail](./Jail.md). Note that you are going to complain only
   those of your crimes that have been already witnessed by the justice;
   others will still stay unreported and may get reported later, giving
   you a nasty surprise after you leave the jail!
@@ -124,8 +124,8 @@ from 1 real time day to 30 real time days.
 3\) By being killed by somebody inside the town when wanted.
 
 Note however that if you die not to a kill but to
-[drowning](./drowning.md), [climb](./climb.md),
-[poison](./poison.md), etc., and/or outside the town where you are
+[drowning](./Drowning.md), [climb](./Climb.md),
+[poison](./Poison.md), etc., and/or outside the town where you are
 wanted - the town will *not* forget that you are wanted there.
 
 See also: [Citizen](./Citizen.md), [Jail](./Jail.md)

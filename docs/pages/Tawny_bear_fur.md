@@ -24,6 +24,6 @@ It weighs one stone and five pounds.
 
 ## Other
 
-Increases [offensive bonus](./offensive_bonus.md) by 2.
+Increases [offensive bonus](./Offensive_bonus.md) by 2.
 
 <!--@include: ../includes/Items.md-->

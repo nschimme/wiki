@@ -17,7 +17,7 @@ Several options exist in order to view specific things:
 - 'map [rooms](./room.md)' displays your surroundings, only works
   with good visibility.
 - 'map weather' displays the nearby weather, see
-  [weather](./weather.md) for details.
+  [weather](./Weather.md) for details.
 - 'map fog' shows fog in the nearby zones.
 
 These maps have the following key:
@@ -61,7 +61,7 @@ Examples:
 `> map g w     Shows a global map of the weather on Arda.`
 
 There are also external client applications (called 'mapper') that can
-help you in creating maps. See [mappers](./mapper.md) and [Rules
+help you in creating maps. See [mappers](./Mapper.md) and [Rules
 Mappers](./Rules_Mappers.md) for further details.
 
 See also: [Map Rooms](./Map_Rooms.md),

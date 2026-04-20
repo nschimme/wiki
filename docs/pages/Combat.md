@@ -5,7 +5,7 @@ tags:
   - Help files
 ---
 For your character to successfully survive **combat** with the fierce
-[creatures](./mobile.md) of [Arda](./Arda.md), it is
+[creatures](./Mobile.md) of [Arda](./Arda.md), it is
 important that you as a player feel confident with the use of the
 different [commands](./commands.md) used to fight. When reading a
 help file, check out the "See Also" section at the bottom.

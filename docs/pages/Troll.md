@@ -28,7 +28,7 @@ trolls live within the Trollshaws in a gigantic cave-system known as the
 most other races:
 
 - They may not become immortal.
-- They cannot cast [spells](./spell.md) at all.
+- They cannot cast [spells](./Spell.md) at all.
 - They have access to no shops.
 - They do heavy damage [barehanded](./Unarmed.md).
 - They can not practice leadership.
@@ -108,13 +108,13 @@ Sécrêt's troll advice from the Palantíri on Elvenrunes:
 own written and unwritten rules, its own social status and its own way
 of [pking](./PK.md) and xping. In my opinion there is three
 different trolls: the trackless troll with defence, the berserker
-[hitter](./Unarmed.md) and the [track](./track.md) troll.
+[hitter](./Unarmed.md) and the [track](./Track.md) troll.
 Make up your mind before you level up your troll because the playstyle
 is very different. As troll, you need to know which areas are dark and
 which are light, which is the most important. If you have experience as
-[puke](./Pukes.md)/[orc](./orc.md)/[bn](./Black_Númenórean.md)
+[puke](./Pukes.md)/[orc](./Orc.md)/[bn](./Black_Númenórean.md)
 then the troll race is pretty easy, BESIDES in pk situations with
-sunlight and other things. Just going [berserk](./mood.md) works
+sunlight and other things. Just going [berserk](./Mood.md) works
 if you don’t care to die however if you don’t just want to die like a
 piece of meat, trolls take time to master :)'
 

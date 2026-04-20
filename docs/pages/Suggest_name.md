@@ -8,7 +8,7 @@ tags:
 Syntax: **suggest** (a) **name** (for) (a) &lt;gender&gt; &lt;race&gt;
 
 This command accesses [MUME](./MUME.md)'s name generator and
-suggests a name for the specified sex/[race](./race.md).
+suggests a name for the specified sex/[race](./Race.md).
 
 Example:
 
@@ -17,7 +17,7 @@ Example:
 Accepted races/subraces:
 
 [`Beorning`](./Beorning.md)`            Numenorean          Dunadan             `[`Dwarf`](./Dwarf.md)
-`Eriadorian          `[`Half-elf`](./Half-elf.md)`            `[`Hobbit`](./Hobbit.md)`              Noldor`
+`Eriadorian          `[`Half-elf`](./Half-Elf.md)`            `[`Hobbit`](./Hobbit.md)`              Noldor`
 [`Orc`](./Orc.md)`                 Rohir               `[`Troll`](./Troll.md)`               Silvan`
 `Sindar              Oldelf              Oldorc`
 

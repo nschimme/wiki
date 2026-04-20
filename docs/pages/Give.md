@@ -6,11 +6,11 @@ tags:
   - Commands
 ---
 The **give** command transfers objects between characters and
-[mobiles](./mobile.md).
+[mobiles](./Mobile.md).
 
 Examples:
 
-`> give bread beggar  [This does not improve `[`alignment`](./alignment.md)`!]`
+`> give bread beggar  [This does not improve `[`alignment`](./Alignment.md)`!]`
 `> give 47 copper to bilbo`
 
 Note that the monetary units (copper, silver, gold) are different for

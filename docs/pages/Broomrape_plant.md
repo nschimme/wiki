@@ -4,8 +4,8 @@ description: 'Broomrape plants are aggressive, evil'
 tags:
   - Plants
 ---
-**Broomrape plants** are aggressive, [evil](./alignment.md)
-[level](./level.md) 8 [plants](./plant.md) found in
+**Broomrape plants** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 8 [plants](./Plant.md) found in
 [Fangorn](./Fangorn.md).
 
 `A spiky broomrape plant pokes its blooms out of the soil.`

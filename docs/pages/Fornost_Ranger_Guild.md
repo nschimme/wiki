@@ -4,8 +4,8 @@ description: 'A ranger teaches ranger'
 tags:
   - Guildmasters
 ---
-A **ranger** teaches [ranger](./ranger.md)
-[skills](./skill.md) at the **Ranger's Guild** in
+A **ranger** teaches [ranger](./Ranger.md)
+[skills](./Skill.md) at the **Ranger's Guild** in
 [Fornost](./Fornost.md).
 
 `A ranger stands quietly here, willing to teach his knowledge of woodcraft.`
@@ -17,12 +17,12 @@ A **ranger** teaches [ranger](./ranger.md)
 ## Skill list
 
 `            Sessions  Difficulty`
-[`awareness`](./awareness.md)`         22  Normal`
-[`bandage`](./bandage.md)`           10  Easy`
-[`climb`](./climb.md)`              3  Very easy`
-[`command`](./command.md)`            8  Normal`
-[`leadership`](./leadership.md)`        27  Normal`
+[`awareness`](./Awareness.md)`         22  Normal`
+[`bandage`](./Bandage.md)`           10  Easy`
+[`climb`](./Climb.md)`              3  Very easy`
+[`command`](./Command.md)`            8  Normal`
+[`leadership`](./Leadership.md)`        27  Normal`
 [`ride`](./ride.md)`              13  Very easy`
-[`swim`](./swim.md)`               3  Very easy`
-[`track`](./track.md)`             27  Normal`
-[`wilderness`](./wilderness.md)`        27  Normal     `
+[`swim`](./Swim.md)`               3  Very easy`
+[`track`](./Track.md)`             27  Normal`
+[`wilderness`](./Wilderness.md)`        27  Normal     `

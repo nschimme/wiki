@@ -5,7 +5,7 @@ tags:
   - Cleaving weapons
 ---
 The **woodsman's axe** is a [cleaving
-weapon](./cleaving_weapon.md). It is worth around 7
+weapon](./Cleaving_weapon.md). It is worth around 7
 [silver](./silver.md) and 50 copper, and is sold by most
 weaponsmiths.
 

@@ -5,9 +5,9 @@ tags:
   - Help files
 ---
 Certain aspects of the game depend on your **hometown**, such as
-calculating [rent](./rent.md) costs. Rent costs are lower in
+calculating [rent](./Rent.md) costs. Rent costs are lower in
 hometowns than other towns. Note! You must be a
-[citizen](./citizen.md) to get this bonus.
+[citizen](./Citizen.md) to get this bonus.
 
 These are the races town officials recognize as being at home:
 

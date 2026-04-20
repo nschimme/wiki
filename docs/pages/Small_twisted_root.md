@@ -4,7 +4,7 @@ description: 'The small twisted root is a key. It loads on [Bill'
 tags:
   - Keys
 ---
-The **small twisted root** is a [key](./key.md). It loads on [Bill
+The **small twisted root** is a [key](./Key.md). It loads on [Bill
 Ferny](./Bill_Ferny.md) and can be used to
 [unlock](./unlock.md) the hidden wall to the east of the
 [room](./room.md) where he spawns.

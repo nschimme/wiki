@@ -48,7 +48,7 @@ gates will be opened only for citizens.
 
 For non beornings, citizenship can be obtained by bringing a letter of
 introduction to Loryen. The letter can be obtained through multiple
-[quests](./quest.md).
+[quests](./Quest.md).
 
 Casting for non citizens is a [criminal offense](./Justice.md).
 However, Old Hag north of the well, does not care about casting.

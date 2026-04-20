@@ -5,10 +5,10 @@ tags:
   - Metal equipment
   - Legs items
 ---
-**Metal greaves** are worn on the [legs](./legs.md). They provide
+**Metal greaves** are worn on the [legs](./Legs.md). They provide
 a large amount of damage absorption and slightly decrease [dodge
-bonus](./dodge_bonus.md). They are worth around 6
-[gold](./gold.md) and two silver, and are sold by most armourers.
+bonus](./Dodge_bonus.md). They are worth around 6
+[gold](./Gold.md) and two silver, and are sold by most armourers.
 
 `>`**`examine greaves`**
 `These greaves are forged out of thin, steel plates. They cover the entire leg`

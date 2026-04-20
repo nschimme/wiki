@@ -5,8 +5,8 @@ tags:
   - Mage spells
   - Spells
 ---
-**Call Lightning** is a [level](./level.md) 12
-[mage](./mage.md) [spell](./spell.md). It deals a large
+**Call Lightning** is a [level](./Level.md) 12
+[mage](./Mage.md) [spell](./Spell.md). It deals a large
 amount of damage, but can only be cast during a lightning storm - either
 [created magically](./Control_Weather.md) or naturally.
 

@@ -5,9 +5,9 @@ tags:
   - Consumables
 ---
 An **infusion** is a potion that can cure some
-[diseases](./disease.md) like flu and amibia, as well as increase
-your maximum [mana](./mana.md) and mana
-[regeneration](./regeneration.md) for a few in-game hours. It can
+[diseases](./Disease.md) like flu and amibia, as well as increase
+your maximum [mana](./Mana.md) and mana
+[regeneration](./Regeneration.md) for a few in-game hours. It can
 be found inside the Great Smials in the [Shire](./Shire.md).
 
 `An infusion of herbs gives out a nice scent.`

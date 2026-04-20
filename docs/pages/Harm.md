@@ -6,8 +6,8 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Harm** is a level 15 [cleric](./cleric.md)
-[spell](./spell.md). It is the most powerful attack spell for
+**Harm** is a level 15 [cleric](./Cleric.md)
+[spell](./Spell.md). It is the most powerful attack spell for
 clerics, but is slow and has a high mana cost. It will cause a large
 amount of damage on the creature it is cast upon.
 

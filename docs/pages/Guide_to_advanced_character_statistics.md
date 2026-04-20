@@ -45,7 +45,7 @@ generator](http://sites.google.com/site/jaharamume/index/stat-generator).
 
 - Strength: Wieldable [Weapons](./Weapon.md), Carrying
   Capacity/[Fleeing](./Flee.md), [Offensive
-  Bonus](./Offensive_Bonus.md)
+  Bonus](./Offensive_bonus.md)
 - Intelligence: Maximum [Mana](./Mana.md),
   [Armour](./Armour.md) Spell, (Herblore?)
 - Wisdom: Maximum Mana, Herblore, ([Sanctuary](./Sanctuary.md)

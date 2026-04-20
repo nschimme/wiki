@@ -4,10 +4,10 @@ description: 'The blue crystal is an item use for creating'
 tags:
   - Uncategorized items
 ---
-The **blue crystal** is an [item](./item.md) use for creating
-[foci](./focus.md). It loads on [Old Man
+The **blue crystal** is an [item](./Item.md) use for creating
+[foci](./Focus.md). It loads on [Old Man
 Willow](./Old_Man_Willow.md). It is worth about 35
-[gold](./gold.md).
+[gold](./Gold.md).
 
 `A blue crystal has been left here.`
 `>`**`examine crystal`**

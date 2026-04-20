@@ -4,8 +4,8 @@ description: 'The woollen traveller''s cloak is a cloak. It is'
 tags:
   - Cloaks
 ---
-The **woollen traveller's cloak** is a [cloak](./cloak.md). It is
-worth around 7 [silver](./gold.md).
+The **woollen traveller's cloak** is a [cloak](./Cloak.md). It is
+worth around 7 [silver](./Gold.md).
 
 `A woollen traveller's cloak lies on the floor.`
 `>`**`examine cloak`**

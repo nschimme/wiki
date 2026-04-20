@@ -8,10 +8,10 @@ tags:
 ---
 Syntax: **consider** \&lt;mobile \| player \| object\&gt;
 
-This command will compare your [level](./level.md) with the target
-[mobile](./mobile.md) or player. You will then receive a rough
+This command will compare your [level](./Level.md) with the target
+[mobile](./Mobile.md) or player. You will then receive a rough
 estimate, which is by no means exact. Consider does not take [hit
-points](./hit_points.md)/special attacks/damage into account.
+points](./Hit_points.md)/special attacks/damage into account.
 
 If used on an object, you will be told an estimate of its weight, and
 possibly some other information.

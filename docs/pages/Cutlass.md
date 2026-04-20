@@ -4,7 +4,7 @@ description: 'The cutlass is a slashing weapon. It'
 tags:
   - Slashing weapons
 ---
-The **cutlass** is a [slashing weapon](./slashing_weapon.md). It
+The **cutlass** is a [slashing weapon](./Slashing_weapon.md). It
 is worth around 12 [silver](./silver.md), and is sold by most
 weaponsmiths.
 

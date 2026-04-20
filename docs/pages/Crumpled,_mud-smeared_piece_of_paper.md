@@ -5,10 +5,10 @@ tags:
   - Quest items
 ---
 The **crumpled, mud-smeared piece of paper** is an
-[item](./item.md) needed for the [Bandit's
+[item](./Item.md) needed for the [Bandit's
 Note](./Quest#Bandit.27s_Note.md) quest. It is carried by a
-[bandit](./bandit.md) on the [lookout
-plateau](./watchtower.md) north of the road to [Grey
+[bandit](./Bandit.md) on the [lookout
+plateau](./Watchtower.md) north of the road to [Grey
 Havens](./Grey_Havens.md).
 
 `A crumpled piece of mud-smeared paper lies here.`

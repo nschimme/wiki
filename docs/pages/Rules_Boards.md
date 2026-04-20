@@ -9,29 +9,29 @@ removed. After repeated infractions you run the risk of having your
 privilege to use that board removed.
 
 1\. Use the correct board for the post. For instance, do not post about
-[clerics](./cleric.md) on the General board if you can post it on
+[clerics](./Cleric.md) on the General board if you can post it on
 the Cleric board. Do not use a public board when a
-[mail](./mail.md) to someone would suffice.
+[mail](./Mail.md) to someone would suffice.
 
-2\. Post with the right character. If you are an [elf](./elf.md)
-and want to post on the [troll](./troll.md)-board about your
+2\. Post with the right character. If you are an [elf](./Elf.md)
+and want to post on the [troll](./Troll.md)-board about your
 exploits as an elf, don't log on a troll and discuss your elf. The same
 goes for mortal-immortal relationships, i.e. an
 [immortal](./Ainur.md) should not post on the
-[orc](./orc.md) board about his/her [dwarf](./dwarf.md).
+[orc](./Orc.md) board about his/her [dwarf](./Dwarf.md).
 
-3\. Do not post [maps](./map.md) or statistics of
-[mobiles](./mobile.md) or objects. This information is not for
+3\. Do not post [maps](./Map.md) or statistics of
+[mobiles](./Mobile.md) or objects. This information is not for
 general release. At best the information should be vague and at times
 misleading. For advice contact one of the management.
 
 4\. Do not post for information on how to do such-and-such. For instance
-a post on "how do I fill a [lantern](./lantern.md)?" is best
+a post on "how do I fill a [lantern](./Lantern.md)?" is best
 served by asking a fellow player. Posting a list of secret
-[doors](./door.md) and mobs, or posting "mail me to get the secret
+[doors](./Door.md) and mobs, or posting "mail me to get the secret
 door list", is also forbidden.
 
-5\. Do not post [items](./item.md) for sale/wanted. Also, don't
+5\. Do not post [items](./Item.md) for sale/wanted. Also, don't
 advertise any out-of [MUME](./MUME.md) stuff unless it is MUME
 related: e.g. Web pages set up for MUME are ok, generic homepages and
 adverts for other MUDs are not.

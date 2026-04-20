@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 This command is used to **reply** to a message on a bulletin
-[board](./board.md).
+[board](./Board.md).
 
 Usage: reply \[quoted \[&lt;number&gt; \[by mail \[
 
@@ -27,7 +27,7 @@ replying to with 'Re: ' prepended to it.
 If you include the word 'quoted', the messages you are replying to will
 be included quoted using '\>'.
 
-If you write 'by [mail](./mail.md)', you will instead send a
+If you write 'by [mail](./Mail.md)', you will instead send a
 private mail to the author. Example:
 
 ` reply 123 by mail             reply to message 123 by mail`

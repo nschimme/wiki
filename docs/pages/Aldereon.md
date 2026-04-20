@@ -6,7 +6,7 @@ tags:
 ---
 **Aldereon** is a powerful elf living in an elven village east of [Grey
 Havens](./Grey_Havens.md). If you visit him and ask about
-[herblores](./herblore.md), he will offer to teach you the Walking
+[herblores](./Herblore.md), he will offer to teach you the Walking
 herblore in exchange for [delivering some
 letters](./Quest#Aldereon_the_Wise.md) to his acquiantances.
 

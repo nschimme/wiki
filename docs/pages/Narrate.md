@@ -17,14 +17,14 @@ the same side of the war between Good and Evil.
 
 NOTE: The effort you make when communicating with other players on a
 global level takes it's toll. Narrating reduces your [movement
-points](./movement_points.md).
+points](./Movement_points.md).
 
 The **Narrate** channel is meant primarily for in-game communication.
 Discussions about music, movies, computers, sports, sex or other RL
 related issues generally don't belong there.
 
 If you are asked by other player(s) to take your discussion to the
-[Songs](./sing.md) channel, you are required to do so.
+[Songs](./Sing.md) channel, you are required to do so.
 
 Example:
 

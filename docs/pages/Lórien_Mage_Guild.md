@@ -4,7 +4,7 @@ description: 'Rumil teaches mage spells at'
 tags:
   - Guildmasters
 ---
-**Rumil** teaches [mage](./mage.md) [spells](./spell.md) at
+**Rumil** teaches [mage](./Mage.md) [spells](./Spell.md) at
 the **Flet of the Bards** in [Caras
 Galadhon](./Caras_Galadhon.md). The guild is open from 6am to 6pm.
 

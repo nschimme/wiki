@@ -8,9 +8,9 @@ tags:
 When you get tired of playing, you can leave the game by typing
 **quit**. Note that whatever stuff you might be carrying with you is
 simply left on the ground (other than [money](./money.md)). If you
-wish to have your [equipment](./equipment.md) put away until you
-are able to return, you'll have to find an [inn](./inn.md) and
-'[rent](./rent.md)'.
+wish to have your [equipment](./Equipment.md) put away until you
+are able to return, you'll have to find an [inn](./Inn.md) and
+'[rent](./Rent.md)'.
 
 If you just type 'quit', and you are actually carrying anything that
 would be abandoned on the ground, you are asked to confirm your

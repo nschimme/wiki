@@ -6,40 +6,40 @@ description: 'For the mobile, see thief (mobile) "wikilink").'
 *For the mobile, see [thief (mobile)](thief_(mobile) "wikilink").*
 
 **Thieves** (or 'scouts') are known to have very special qualities that
-no other [class](./class.md) offers. Many of these qualities can
+no other [class](./Class.md) offers. Many of these qualities can
 come in handy in many situations, such as [picking
-locks](./pick.md).
+locks](./Pick.md).
 
 Thieves can be played in many different ways. You may
-[sneak](./sneak.md) and [shoot](./shoot.md) enemies, doing a
+[sneak](./Sneak.md) and [shoot](./Shoot.md) enemies, doing a
 maximum of damage, whilst taking few blows yourself. As you are quite
-dextrous, you may also simply [dodge](./dodge.md) most hits whilst
+dextrous, you may also simply [dodge](./Dodge.md) most hits whilst
 attacking with your dagger. Another option would be to
-[backstab](./backstab.md) your foes while you are
-[hidden](./hide.md) from their sight.
+[backstab](./Backstab.md) your foes while you are
+[hidden](./Hide.md) from their sight.
 
 ### Opinion
 
 The most difficult class to play in the game. A thief values
-[stealth](./sneak.md) over everything and has a lot of difficulty
+[stealth](./Sneak.md) over everything and has a lot of difficulty
 fighting toe-to-toe with the other classes. Playing a thief takes
 patience, luck, and the ability to know when to
-[strike](./backstab.md)!
+[strike](./Backstab.md)!
 
 ### Beginner tips for group play
 
 You can't backstab a fighting opponent, so you're best bets are either
-to practice [piercing weapons](./piercing_weapons.md),
-[attack](./attack.md) and [assist](./assist.md) a
-[warrior](./warrior.md)/buffer/tank with a [piercing
-weapon](./piercing_weapon.md) that deals decent damage per second
-(on aggressive mood), or [assist](./assist.md) and shoot, or shoot
+to practice [piercing weapons](./Piercing_weapons.md),
+[attack](./Attack.md) and [assist](./Assist.md) a
+[warrior](./Warrior.md)/buffer/tank with a [piercing
+weapon](./Piercing_weapon.md) that deals decent damage per second
+(on aggressive mood), or [assist](./Assist.md) and shoot, or shoot
 from hidden - which involves sneaking into the room, shooting once,
 moving out and back in and then shooting again (you'll need good sneak
 for this). This will use up more moves, but shooting from hidden gives
 you a bonus to your shot. On the other hand, assisting causes [parry
-split](./parry_split.md) on the target (their [parry
-bonus](./parry_bonus.md) is divided by the number of melee
+split](./Parry_split.md) on the target (their [parry
+bonus](./Parry_bonus.md) is divided by the number of melee
 opponents), so that also helps both your attack and also all the others
 in melee (close) combat with the target. If you are shooting, and
 particularly if you are going to sneak in and out of the room, make sure
@@ -47,7 +47,7 @@ your fellow group mates know you are going to be doing this, and ensure
 your leader (if that's not you) is fine with waiting a few seconds after
 kills before moving on for you to recover your arrows. You may wish to
 only shoot when faced with stronger opponents to avoid the
-[recover](./recover.md) delays on opponents that will die quickly.
+[recover](./Recover.md) delays on opponents that will die quickly.
 
 ### Other beginner tips
 
@@ -72,8 +72,8 @@ goes through if you don't get detected by a mob.
 #### Alternatives
 
 You could level up to 18 or so practiced and
-[equipped](./equipment.md) as a warrior/buffer, but with your
-thief stats, using [citizen mercenaries](./citizen_mercenaries.md)
+[equipped](./Equipment.md) as a warrior/buffer, but with your
+thief stats, using [citizen mercenaries](./Citizen_mercenaries.md)
 for parry splitting, retire for 1 month and then get a practice reset
 and maybe an age reset. Or train off warrior skills and train up thief
 skills when you get to level 16+.
@@ -81,8 +81,8 @@ skills when you get to level 16+.
 ### Other guides
 
 There are better and longer guides out there if you search for them -
-either in game (check the [boards](./boards.md) and
-[libraries](./libraries.md)) or in the forums, like [this
+either in game (check the [boards](./Boards.md) and
+[libraries](./Libraries.md)) or in the forums, like [this
 one](https://mume.org/forum/viewtopic.php?p=5970&sid=b7d0ef4db9c9ab9ad8f057abce07658c#p5970).
 [This thread](https://mume.org/forum/viewtopic.php?t=1283) may also be
 useful.

@@ -4,8 +4,8 @@ description: 'A ranger teaches ranger'
 tags:
   - Guildmasters
 ---
-A **ranger** teaches [ranger](./general.md)
-[skills](./skill.md) at the **Lessons Room** in the
+A **ranger** teaches [ranger](./General.md)
+[skills](./Skill.md) at the **Lessons Room** in the
 [Shire](./Shire.md), just east of Hobbiton.
 
 `A ranger stands quietly here, willing to teach his knowledge of woodcraft.`
@@ -17,11 +17,11 @@ A **ranger** teaches [ranger](./general.md)
 ## Skill list
 
 `            Sessions  Difficulty`
-[`awareness`](./awareness.md)`         17  Normal`
-[`bandage`](./bandage.md)`            3  Easy`
-[`climb`](./climb.md)`              1  Very easy`
-[`command`](./command.md)`            2  Normal`
-[`leadership`](./leadership.md)`         3  Normal`
+[`awareness`](./Awareness.md)`         17  Normal`
+[`bandage`](./Bandage.md)`            3  Easy`
+[`climb`](./Climb.md)`              1  Very easy`
+[`command`](./Command.md)`            2  Normal`
+[`leadership`](./Leadership.md)`         3  Normal`
 [`ride`](./ride.md)`               2  Very easy`
-[`swim`](./swim.md)`               2  Very easy`
-[`wilderness`](./wilderness.md)`         7  Normal`
+[`swim`](./Swim.md)`               2  Very easy`
+[`wilderness`](./Wilderness.md)`         7  Normal`

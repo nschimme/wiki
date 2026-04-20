@@ -21,6 +21,6 @@ They weigh a few ounces.
 
 ## Other
 
-Provides some protection against [poison](./poison.md).
+Provides some protection against [poison](./Poison.md).
 
 <!--@include: ../includes/Items.md-->

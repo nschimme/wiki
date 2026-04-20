@@ -19,6 +19,6 @@ It is a warg fur. It weighs seven pounds.
 
 ## Other
 
-Increases [offensive bonus](./offensive_bonus.md) by 1.
+Increases [offensive bonus](./Offensive_bonus.md) by 1.
 
 <!--@include: ../includes/Items.md-->

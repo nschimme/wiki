@@ -9,18 +9,18 @@ alignment is obtained by good actions and no evil deeds, evil alignment
 is the opposite. You can also be neutral, and do as much good as evil.
 
 Your alignment has effects in how efficiently you will be able to do
-things, such as [fight](./combat.md) or [cast](./cast.md)
-[spells](./spell.md), in different parts of
+things, such as [fight](./Combat.md) or [cast](./Cast.md)
+[spells](./Spell.md), in different parts of
 [Arda](./Arda.md). If your alignment is like to that of the
-[zone](./zone.md) you are in, you will do best, but it is possible
+[zone](./Zone.md) you are in, you will do best, but it is possible
 for very virtuous, or very evil people to overcome some of the malus in
 zones of alignment opposite to theirs. Thus, past a point, the more
 extreme you are, the less penalty you suffer.
 
 IMPORTANT: Note that the evil folks cannot enter some good
-[cities](./city.md) and may be hunted by certain protectors of the
+[cities](./City.md) and may be hunted by certain protectors of the
 western lands. Thus being an evil character of a good
-[race](./race.md) is likely to make your life hard and may often
+[race](./Race.md) is likely to make your life hard and may often
 get you killed. The more evil you are, the more likely you are to
 suffer.
 
@@ -31,7 +31,7 @@ to have.
 Your actual alignment will change throughout the game, as a result of
 your actions. There are a few points.
 
-- It doesn't move more slowly as [levels](./level.md) increase.
+- It doesn't move more slowly as [levels](./Level.md) increase.
 - Players with an evil basic alignment won't necessarily improve their
   alignment when killing an evil being.
 - Killing a player is an evil act, unless the player was very evil or
@@ -41,7 +41,7 @@ your actions. There are a few points.
 - Killing a good being generally has a larger negative effect on
   alignment than the positive effect gained by killing evil.
 
-You can see your alignment by using the [info](./info.md) command
+You can see your alignment by using the [info](./Info.md) command
 or more specific *info %q*
 
 ## Alignment descriptions

@@ -5,10 +5,10 @@ tags:
   - Help files
 ---
 Upon achieving level 21, MUME characters are deemed
-'[heroic](./hero.md)'. They gain the option of choosing their own
-[title](./title.md) (via [Change](./Change.md) TITLE); they
+'[heroic](./Hero.md)'. They gain the option of choosing their own
+[title](./Title.md) (via [Change](./Change.md) TITLE); they
 may also gain certain abilities depending on their race and alignment.
-These abilities include creating a [focus](./focus.md), becoming
+These abilities include creating a [focus](./Focus.md), becoming
 an [Istar](./Istari.md), and casting some 'special' spells.
 
 Also see: [Istari](./Istari.md),

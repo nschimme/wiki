@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-If you wish to **empty** a [container](./container.md), you can
+If you wish to **empty** a [container](./Container.md), you can
 use the empty command:
 
 `> empty sack`

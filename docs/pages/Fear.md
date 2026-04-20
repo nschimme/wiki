@@ -6,13 +6,13 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Fear** is a level 15 [cleric](./cleric.md)
-[spell](./spell.md). It will instill a surge of fear in every
+**Fear** is a level 15 [cleric](./Cleric.md)
+[spell](./Spell.md). It will instill a surge of fear in every
 creature in the same room who are not grouped with the caster. Depending
 on the willpower of the opponent the effect may be either none, forcing
 the opponent to flee or the opponents immediate
-[death](./death.md). This spell is primarily useful to break up
-large hostile [groups](./group.md).
+[death](./Death.md). This spell is primarily useful to break up
+large hostile [groups](./Group.md).
 
 Syntax : cast 'fear' Type : Offensive, mental Accumulative: N/A Duration
 : No Casting : Very long Position : Standing, fighting Level : Level 15

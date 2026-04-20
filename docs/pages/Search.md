@@ -5,8 +5,8 @@ tags:
   - Thief skills
   - Skills
 ---
-**Search** is a [thief](./thief.md) [skill](./skill.md) that
-allows you to search for otherwise [hidden](./hide.md) people,
+**Search** is a [thief](./Thief.md) [skill](./Skill.md) that
+allows you to search for otherwise [hidden](./Hide.md) people,
 exits and objects in the [room](./room.md).
 
 With a given direction, you search for a secret door in that way. The

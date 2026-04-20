@@ -19,7 +19,7 @@ The 'hints' command lets everyone review these tips at will. Example:
 Feel free to contribute! Please '[idea](./idea.md)' new hints that
 are:
 
-- Focused on issues that new players ([levels](./level.md) 1-12)
+- Focused on issues that new players ([levels](./Level.md) 1-12)
   may have.
 - Express one idea concisely (make that two hints if needed).
 - Preferably in-character (but OOC if that cannot be done conveniently).

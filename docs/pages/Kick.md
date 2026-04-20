@@ -5,7 +5,7 @@ tags:
   - Warrior skills
   - Skills
 ---
-**Kick** is a [warrior](./warrior.md) [skill](./skill.md).
+**Kick** is a [warrior](./Warrior.md) [skill](./Skill.md).
 The success of a kick depends upon how well you learned the 'kick'
 skill. The better you are at kicking, the harder you kick.
 

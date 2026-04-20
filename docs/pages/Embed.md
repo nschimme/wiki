@@ -32,7 +32,7 @@ major gem but adding a focus increases this to 2 major gems.
 - [corberyl](./corberyl.md) - spell attack
 - [lustrous opal](./lustrous_opal.md) - spell attack
 - [rubellite](./rubellite.md) - increased max mana
-- [tiger's eye](./tiger's_eye.md) - hit/mana regeneration (race
+- [tiger's eye](./Tiger's_eye.md) - hit/mana regeneration (race
   dependent)
 - [chunk of honey-coloured
   amber](./chunk_of_honey-coloured_amber.md) - absorb spell damage
@@ -52,7 +52,7 @@ major gem but adding a focus increases this to 2 major gems.
 
 - [chunk of metal](./chunk_of_metal.md)
 - [huge silvery bracer](./huge_silvery_bracer.md)
-- [bar of iron](./bar_of_iron.md)
+- [bar of iron](./Bar_of_iron.md)
 
 See also: [Staff](./Staff.md), [Focus](./Focus.md) <!--@include: ../includes/Items.md-->
  

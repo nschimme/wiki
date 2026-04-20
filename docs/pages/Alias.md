@@ -28,10 +28,10 @@ added to the end of the command.
 
 If &lt;word&gt; starts with a "%" it is a "keyword alias" which will be
 expanded whenever a keyword lookup is done to find a character,
-[object](./object.md), or [door](./door.md).
+[object](./object.md), or [door](./Door.md).
 
 Some words cannot be used as keyword aliases: words that the
-[look](./look.md) command treats specially ("at", "around",
+[look](./Look.md) command treats specially ("at", "around",
 "north", "east", ...) and some prepositions like "in", "from", and
 "with".
 

@@ -6,8 +6,8 @@ description: 'Magic on MUME is fairly complex, but also represented in a fairly 
 Magic on MUME is fairly complex, but also represented in a fairly simple
 way. There are many spells, and it takes a long time before a new mage
 can master all spells, learn all their uses and so forth. Unlike
-[skills](./skill.md), spells are [cast](./cast.md) and
-consume [mana](./mana.md).
+[skills](./Skill.md), spells are [cast](./Cast.md) and
+consume [mana](./Mana.md).
 
 # Spell List
 

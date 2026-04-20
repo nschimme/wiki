@@ -5,14 +5,14 @@ tags:
   - Mage spells
   - Spells
 ---
-**Identify** is a [level](./level.md) 15 [mage](./mage.md)
-[spell](./spell.md). When [cast](./cast.md) on an
-[object](./item.md), this spell will reveal some of the important
+**Identify** is a [level](./Level.md) 15 [mage](./Mage.md)
+[spell](./Spell.md). When [cast](./Cast.md) on an
+[object](./Item.md), this spell will reveal some of the important
 properties of the object. It also gives the caster the magical 'key'
 which would be used to find instances of such objects with the
-'[locate](./locate.md)' spell.
+'[locate](./Locate.md)' spell.
 
-When cast on a [mobile](./mobile.md) or player, it provides a
+When cast on a [mobile](./Mobile.md) or player, it provides a
 locate key but does not provide additional information (see also:
 [Divination](./Divination.md)).
 
@@ -22,7 +22,7 @@ Position : Standing Level : Level 15 Class : Magic User Min. Mana : 90
 Duration : No
 
 NOTE: It is strongly suggested not to reveal the exact
-[statistics](./statistic.md) of items you identify. Saying that
+[statistics](./Statistic.md) of items you identify. Saying that
 "sword X is slighly better at parrying than sword Y, but you need to be
 very strong in order to use it efficiently" is acceptable.
 
@@ -31,7 +31,7 @@ any other means, is highly frowned upon by the management. Please
 refrain from doing so.
 
 A clarification: MAGIC refers to long-lasting magical effects, such as
-the [enchantment](./enchant.md) on a [weapon](./weapon.md)
+the [enchantment](./Enchant.md) on a [weapon](./Weapon.md)
 or the effects of '[armour](./Armour_Spell.md)' or
 '[shield](./Shield_Spell.md)'. SPELL refers to instantaneous
 effects, such as a fireball or a dispel magic. A weapon that is

@@ -9,15 +9,15 @@ In the [Halls of Mandos](./Halls_of_Mandos.md), the **pray**
 command is used to transport yourself to one of the main
 [towns](./town.md) and cities of [Middle
 Earth](./Middle_Earth.md). The locations to which you may choose
-to pray are dictated by your [race](./race.md) and
-[citizenships](./citizen.md). The first time you pray, or if you
+to pray are dictated by your [race](./Race.md) and
+[citizenships](./Citizen.md). The first time you pray, or if you
 have no citizenships for any other reason, you may pray only to the
 hometowns for your race, and will be made a citizen of that place,
 unless you are wanted there:
 
 |                                                            |                                                                        |
 |------------------------------------------------------------|------------------------------------------------------------------------|
-| [Elves](./Elf.md), [Half-elves](./Half-elf.md) | [Grey Havens](./Grey_Havens.md), [Lòrien](./Lothlórien.md) |
+| [Elves](./Elf.md), [Half-elves](./Half-Elf.md) | [Grey Havens](./Grey_Havens.md), [Lòrien](./Lothlórien.md) |
 | [Men](./Man.md)                                      | [Fornost](./Fornost.md), [Tharbad](./Tharbad.md)           |
 | [Dwarves](./Dwarf.md)                                | [Blue Mountains](./Blue_Mountains.md)                            |
 | [Hobbits](./Hobbit.md)                               | [Shire](./Shire.md) (Hobbiton)                                   |
@@ -52,7 +52,7 @@ Good prays:
 - my [strength](./strength.md) suddenly decreased from 17 to 1,
   what's up?
 - Morgul blade disappeared, but it was Sauron's darkness
-- Fornost [warrior](./warrior.md) [guild](./guild.md) isn't
+- Fornost [warrior](./Warrior.md) [guild](./Guild.md) isn't
   working
 
 Bad prays:

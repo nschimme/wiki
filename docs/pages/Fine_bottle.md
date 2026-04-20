@@ -5,7 +5,7 @@ tags:
   - Containers
 ---
 The **fine bottle** is a [drink](./Food_%26_Drink#Drink.md)
-[container](./container.md). It can contain about 2 and a half
+[container](./Container.md). It can contain about 2 and a half
 pounds worth of liquid. It is worth around 7 [silver](./silver.md)
 and 50 copper. Fine bottles are sold in many general stores and taverns,
 most often containing wine.

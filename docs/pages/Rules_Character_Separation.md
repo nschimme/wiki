@@ -7,7 +7,7 @@ The basic rule here, is that character knowledge separation must exist.
 You are NOT allowed to use the knowledge gained with one character with
 another character, regardless if they are same race or not. Since this
 is impossible to demand in some cases (if you know a
-[zone](./zone.md), you know a zone, for example), we usually limit
+[zone](./Zone.md), you know a zone, for example), we usually limit
 the "knowledge" definition to things like knowing where players are,
 where dropped objects are, where corpses are, what players are playing
 etc - dynamic knowledge.
@@ -31,5 +31,5 @@ naturally applies to equipment obtained by [PK](./PK.md) as well.
 
 Lastly, while keeping your characters separate you should also take care
 not to break the character separation of others such as
-[narrating](./narrate.md) or in any other way publicising other
+[narrating](./Narrate.md) or in any other way publicising other
 people's characters.

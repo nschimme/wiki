@@ -22,4 +22,4 @@ Level: ~11-12
 
 Animated skeletons are hostile.
 
-Loot: Sometimes drops a [rib-bone](./rib-bone_of_a_skeleton.md).
+Loot: Sometimes drops a [rib-bone](./Rib-bone_of_a_skeleton.md).

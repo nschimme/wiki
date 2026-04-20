@@ -4,8 +4,8 @@ description: 'Huge millipedes are aggressive, evil'
 tags:
   - Mobiles
 ---
-**Huge millipedes** are aggressive, [evil](./alignment.md)
-[level](./level.md) 10 [mobiles](./mobile.md) found in
+**Huge millipedes** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 10 [mobiles](./Mobile.md) found in
 [Fangorn](./Fangorn.md).
 
 `A huge millipede is writhing around here.`

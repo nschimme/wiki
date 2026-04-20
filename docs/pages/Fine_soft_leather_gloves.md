@@ -19,8 +19,8 @@ They weigh about one pound.
 
 ## Other
 
-Loads in [Dunland](./Dunland.md) on a [mobile](./mobile.md)
-called Mab, they give an [offensive bonus](./offensive_bonus.md)
+Loads in [Dunland](./Dunland.md) on a [mobile](./Mobile.md)
+called Mab, they give an [offensive bonus](./Offensive_bonus.md)
 slightly higher compared to other leather gloves.
 
 <!--@include: ../includes/Items.md-->

@@ -4,9 +4,9 @@ description: 'The old Shirriff teaches warrior'
 tags:
   - Guildmasters
 ---
-The **old Shirriff** teaches [warrior](./warrior.md)
-[skills](./skill.md) at the **Shirriffs' Office** in Stock. The
-[guild](./guild.md) is open from 7am to 7pm.
+The **old Shirriff** teaches [warrior](./Warrior.md)
+[skills](./Skill.md) at the **Shirriffs' Office** in Stock. The
+[guild](./Guild.md) is open from 7am to 7pm.
 
 `An old, and slightly overweight Shirriff sits in a chair.`
 `>`**`examine shirriff`**
@@ -18,9 +18,9 @@ The **old Shirriff** teaches [warrior](./warrior.md)
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`cleaving weapons`](./cleaving_weapons.md)`         8  Normal`
-[`endurance`](./endurance.md)`                4  Very hard`
-[`kick`](./kick.md)`                     8  Normal`
-[`parry`](./parry.md)`                    8  Normal`
-[`rescue`](./rescue.md)`                   5  Easy`
-[`slashing weapons`](./slashing_weapons.md)`         8  Normal`
+[`cleaving weapons`](./Cleaving_weapons.md)`         8  Normal`
+[`endurance`](./Endurance.md)`                4  Very hard`
+[`kick`](./Kick.md)`                     8  Normal`
+[`parry`](./Parry.md)`                    8  Normal`
+[`rescue`](./Rescue.md)`                   5  Easy`
+[`slashing weapons`](./Slashing_weapons.md)`         8  Normal`

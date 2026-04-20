@@ -4,8 +4,8 @@ description: 'skills in the Warrior Guild in [Blue'
 tags:
   - Guildmasters
 ---
-**Frag** teaches [warrior](./warrior.md)
-[skills](./skill.md) in the **Warrior Guild** in [Blue
+**Frag** teaches [warrior](./Warrior.md)
+[skills](./Skill.md) in the **Warrior Guild** in [Blue
 Mountains](./Blue_Mountains.md).
 
 `Frag the dwarven warrior-master stands here drilling recruits.`
@@ -16,13 +16,13 @@ Mountains](./Blue_Mountains.md).
 ## Skill list
 
 `                    Sessions  Difficulty`
-[`bash`](./bash.md)`                      28  Hard`
-[`cleaving weapons`](./cleaving_weapons.md)`          29  Normal`
-[`concussion weapons`](./concussion_weapons.md)`        29  Normal`
-[`endurance`](./endurance.md)`                 58  Very hard`
-[`kick`](./kick.md)`                       9  Normal`
-[`parry`](./parry.md)`                     29  Normal`
-[`rescue`](./rescue.md)`                    10  Easy`
-[`slashing weapons`](./slashing_weapons.md)`          24  Normal`
-[`stabbing weapons`](./stabbing_weapons.md)`          15  Normal`
-[`two-handed weapons`](./two-handed_weapons.md)`        24  Normal`
+[`bash`](./Bash.md)`                      28  Hard`
+[`cleaving weapons`](./Cleaving_weapons.md)`          29  Normal`
+[`concussion weapons`](./Concussion_weapons.md)`        29  Normal`
+[`endurance`](./Endurance.md)`                 58  Very hard`
+[`kick`](./Kick.md)`                       9  Normal`
+[`parry`](./Parry.md)`                     29  Normal`
+[`rescue`](./Rescue.md)`                    10  Easy`
+[`slashing weapons`](./Slashing_weapons.md)`          24  Normal`
+[`stabbing weapons`](./Stabbing_weapons.md)`          15  Normal`
+[`two-handed weapons`](./Two-handed_weapons.md)`        24  Normal`

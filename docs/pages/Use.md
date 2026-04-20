@@ -7,7 +7,7 @@ tags:
 ---
 Syntax: **use** &lt;item&gt; &lt;target&gt;
 
-In general, items that you can 'use' must be [held](./hold.md)
+In general, items that you can 'use' must be [held](./Hold.md)
 before usage.
 
 Example:

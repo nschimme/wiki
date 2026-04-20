@@ -4,11 +4,11 @@ description: 'Grizzly cubs are aggressive level 4'
 tags:
   - Mobiles
 ---
-**Grizzly cubs** are aggressive [level](./level.md) 4
-[mobiles](./mobile.md), usually found
-[following](./follow.md) [grizzly bears](./grizzly_bear.md).
-Their [corpses](./corpse.md) can be
-[butchered](./butcher.md) to produce some [meat](./meat.md).
+**Grizzly cubs** are aggressive [level](./Level.md) 4
+[mobiles](./Mobile.md), usually found
+[following](./Follow.md) [grizzly bears](./Grizzly_bear.md).
+Their [corpses](./Corpse.md) can be
+[butchered](./Butcher.md) to produce some [meat](./Meat.md).
 
 `A grizzly cub is here, snarling loudly.`
 `>`**`examine cub`**

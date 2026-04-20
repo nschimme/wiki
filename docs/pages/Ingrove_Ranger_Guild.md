@@ -4,8 +4,8 @@ description: 'skills at the Traveller''s Hut in'
 tags:
   - Guildmasters
 ---
-**Ilyne** teaches [ranger](./general.md)
-[skills](./skill.md) at the **Traveller's Hut** in
+**Ilyne** teaches [ranger](./General.md)
+[skills](./Skill.md) at the **Traveller's Hut** in
 [Ingrove](./Anduin_Vale#Ingrove.md).
 
 `A well-tanned woman watches you with caution.`
@@ -17,12 +17,12 @@ tags:
 ## Skill list
 
 `            Sessions  Difficulty`
-[`awareness`](./awareness.md)`          9  Normal`
-[`bandage`](./bandage.md)`            8  Easy`
-[`climb`](./climb.md)`              3  Very easy`
-[`command`](./command.md)`            2  Normal`
-[`leadership`](./leadership.md)`         6  Normal`
+[`awareness`](./Awareness.md)`          9  Normal`
+[`bandage`](./Bandage.md)`            8  Easy`
+[`climb`](./Climb.md)`              3  Very easy`
+[`command`](./Command.md)`            2  Normal`
+[`leadership`](./Leadership.md)`         6  Normal`
 [`ride`](./ride.md)`               3  Very easy`
-[`swim`](./swim.md)`               4  Very easy`
-[`track`](./track.md)`              7  Normal`
-[`wilderness`](./wilderness.md)`        12  Normal`
+[`swim`](./Swim.md)`               4  Very easy`
+[`track`](./Track.md)`              7  Normal`
+[`wilderness`](./Wilderness.md)`        12  Normal`

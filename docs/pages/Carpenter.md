@@ -4,14 +4,14 @@ description: 'The carpenter is a good'
 tags:
   - Mobiles
 ---
-The **carpenter** is a [good](./alignment.md)
-[level](./level.md) 6 [mobile](./mobile.md). He can be found
+The **carpenter** is a [good](./Alignment.md)
+[level](./Level.md) 6 [mobile](./Mobile.md). He can be found
 in a cave in the [Blue Mountains](./Blue_Mountains.md), some
 southwest from the entrance of the dwarven city. He can carve a [perfect
-oak branch](./perfect_oak_branch.md) into a [carved oak
-staff](./carved_oak_staff.md). He loads with a
+oak branch](./Perfect_oak_branch.md) into a [carved oak
+staff](./Carved_oak_staff.md). He loads with a
 [ring](ring_(item) "wikilink") and a [broad-bladed
-knife](./broad-bladed_knife.md).
+knife](./Broad-bladed_knife.md).
 
 `A tall and hardened man sits here, whittling a piece of wood.`
 `>`**`examine carpenter`**

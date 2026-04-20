@@ -8,17 +8,17 @@ tags:
 Syntax : **group** \[character \[add \| remove \| transfer
 
 Getting into a group of players is one of the best ways to start the
-game. When in a group, any [experience](./experience.md) gained
-from killing a [mobile](./mobile.md) or player will be spread
+game. When in a group, any [experience](./Experience.md) gained
+from killing a [mobile](./Mobile.md) or player will be spread
 amongst its members, whether a specific member attacked or not.
 Experience is still gained for damage, which is not spread in the group.
 When the death occurs, all grouped members \*in the same room\* will
 gain their share, according to the experience levels of members. Because
 you do not fight the mobile/player single-handedly, your
-[trophy](./trophy.md) does not increase for that mob as much as it
+[trophy](./Trophy.md) does not increase for that mob as much as it
 would otherwise.
 
-Members need not [follow](./follow.md) the leader in order to be
+Members need not [follow](./Follow.md) the leader in order to be
 grouped. All groups need a leader, who should be followed by the members
 if they are to move about. To become a leader simply ask the other
 members to follow you in the order you wish your team to go in. The last
@@ -30,13 +30,13 @@ enters a room in a group.
 When entering a [room](./room.md), the first person is called the
 'tank' or 'buffer'. It is him/her who is first targeted by mobiles,
 while successive followers will be also hit. Should someone
-[flee](./flee.md) or [die](./death.md), the first person to
+[flee](./Flee.md) or [die](./Death.md), the first person to
 attack after the buffer will normally become the new one. Players who
 flee and return are then considered the last into the room and so are
 last to be targeted again.
 
 Any non-buffer may draw the attacks away from the buffer by using the
-'[rescue](./rescue.md)' command. This is an admirable ability for
+'[rescue](./Rescue.md)' command. This is an admirable ability for
 warriors to have.
 
 To display the members of a group, enter 'group' with no argument. E.g.

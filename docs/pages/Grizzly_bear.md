@@ -4,13 +4,13 @@ description: 'Grizzly bears are aggressive level 15'
 tags:
   - Mobiles
 ---
-**Grizzly bears** are aggressive [level](./level.md) 15
-[mobiles](./mobile.md), found in various locations around
+**Grizzly bears** are aggressive [level](./Level.md) 15
+[mobiles](./Mobile.md), found in various locations around
 [Arda](./Arda.md), particularly in the area north of [Grey
 Havens](./Grey_Havens.md). They are usually accompanied by a few
-[grizzly cubs](./grizzly_cub.md). Their
-[corpses](./corpse.md) can be [butchered](./butcher.md) to
-produce some [meat](./meat.md).
+[grizzly cubs](./Grizzly_cub.md). Their
+[corpses](./Corpse.md) can be [butchered](./Butcher.md) to
+produce some [meat](./Meat.md).
 
 `A huge grizzly bear is here, roaming the wild.`
 `>`**`examine bear`**

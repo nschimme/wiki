@@ -4,10 +4,10 @@ description: 'Brown foxes are passive level 2'
 tags:
   - Mobiles
 ---
-**Brown foxes** are passive [level](./level.md) 2
-[mobiles](./mobile.md) found in various locations around
-[Arda](./Arda.md). Their [corpses](./corpse.md) can be
-[butchered](./butcher.md) to produce some [meat](./meat.md).
+**Brown foxes** are passive [level](./Level.md) 2
+[mobiles](./Mobile.md) found in various locations around
+[Arda](./Arda.md). Their [corpses](./Corpse.md) can be
+[butchered](./Butcher.md) to produce some [meat](./Meat.md).
 
 `A brown fox is here, looking for some rabbits to chew up.`
 `>`**`examine fox`**

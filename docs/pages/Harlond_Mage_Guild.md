@@ -4,7 +4,7 @@ description: 'Malindon teaches mage spells'
 tags:
   - Guildmasters
 ---
-**Malindon** teaches [mage](./mage.md) [spells](./spells.md)
+**Malindon** teaches [mage](./Mage.md) [spells](./Spells.md)
 at the **Home of the Old Elven Mage** in [Harlond](./Harlond.md)
 
 `Malindon the elven mage is here reading over some old texts.`

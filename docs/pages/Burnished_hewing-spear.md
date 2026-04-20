@@ -5,9 +5,9 @@ tags:
   - Smiting weapons
 ---
 The **burnished hewing-spear** is a magical [two-handed
-weapon](./two-handed_weapon.md). It contains silver, which makes
+weapon](./Two-handed_weapon.md). It contains silver, which makes
 it effective against undead. It is worth around 62
-[gold](./gold.md) and 10 silver.
+[gold](./Gold.md) and 10 silver.
 
 `A burnished hewing-spear lies on the ground.`
 `>`**`examine spear`**

@@ -8,9 +8,9 @@ tags:
 easily into one of the available categories.
 == Light sources ==
 
-- [red ruby](./red_ruby.md)
-- [lantern](./lantern.md)
-- [hooded brass lantern](./hooded_brass_lantern.md)
+- [red ruby](./Red_ruby.md)
+- [lantern](./Lantern.md)
+- [hooded brass lantern](./Hooded_brass_lantern.md)
 
 ## Wearable Equipment
 
@@ -19,19 +19,19 @@ easily into one of the available categories.
 
 ## Usable items
 
-- [twisted rock fragment](./twisted_rock_fragment.md)
-- [small wooden box](./small_wooden_box.md)
-- [fragile parchment](./fragile_parchment.md)
-- [lock picks](./lock_picks.md)
+- [twisted rock fragment](./Twisted_rock_fragment.md)
+- [small wooden box](./Small_wooden_box.md)
+- [fragile parchment](./Fragile_parchment.md)
+- [lock picks](./Lock_picks.md)
 
 ## Potions
 
-- [brown bottle](./brown_bottle.md)
+- [brown bottle](./Brown_bottle.md)
 - [flask of orkish draught](./flask_of_orkish_draught.md)
 - [flask of miruvor](./flask_of_miruvor.md)
-- [infusion](./infusion.md)
+- [infusion](./Infusion.md)
 - [small brown bottle](./small_brown_bottle.md)
 - [small metal flask](./small_metal_flask.md)
-- [softly glowing green cup](./softly_glowing_green_cup.md)
+- [softly glowing green cup](./Softly_glowing_green_cup.md)
 
 <!--@include: ../includes/Items.md-->

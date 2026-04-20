@@ -5,7 +5,7 @@ tags:
   - Statistics
 ---
 The **dodge bonus** (DB%) is a defensive bonus. It is similar to your
-[parry bonus](./parry_bonus.md) (PB%). There are some notable
+[parry bonus](./Parry_bonus.md) (PB%). There are some notable
 differences though.
 
 While your parry bonus is divided by the number of opponents you are
@@ -14,12 +14,12 @@ against 3 enemies as you do against one. While you will only block hits
 (parry) from enemies 33% as well when facing 3 enemies.
 
 Your dodge bonus will be lowered if you carry too much weight. The
-heavier your [equipment](./equipment.md), the harder it is for you
+heavier your [equipment](./Equipment.md), the harder it is for you
 to dodge.
 
 You can boost your dodge bonus with certain items. There are
-[cloaks](./cloak.md), [belts](./belt.md), and
-[rings](./ring.md) that boost your dodge bonus significantly.
+[cloaks](./Cloak.md), [belts](./Belt.md), and
+[rings](./Ring.md) that boost your dodge bonus significantly.
 There are also some lighter clothes that provide extra dodge bonuses.
 
 You can improve your dodge bonus rather significantly by learning the

@@ -14,7 +14,7 @@ You can get anything you desire in the peaceful land, be it merrymaking
 and song, or reflective thought. All is provided in the beautiful city.
 
 Visitors should be warned that Rivendell is
-[well-hidden](./seek.md) from anyone's eyes, and anyone leaving it
+[well-hidden](./Seek.md) from anyone's eyes, and anyone leaving it
 would not be able to return easily.
 
 ## Shops

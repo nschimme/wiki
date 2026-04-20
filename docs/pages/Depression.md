@@ -5,7 +5,7 @@ tags:
   - Help files
 ---
 When [Black Númenóreans](./Black_Númenórean.md)
-[backfire](./backfire.md) a [spell](./spell.md), they suffer
+[backfire](./Backfire.md) a [spell](./Spell.md), they suffer
 from **depression** for a while. As a consequence, their ability to
 concentrate is impaired for a while.
 

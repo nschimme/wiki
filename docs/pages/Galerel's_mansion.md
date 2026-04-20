@@ -6,16 +6,16 @@ tags:
 ---
 **Galerel's mansion** is an abandoned house located east of
 [Bree](./Bree.md), notable for being the location where the [ghost
-of Galerel](./ghost_of_Galerel.md) may be encountered. The
+of Galerel](./Ghost_of_Galerel.md) may be encountered. The
 entrance can be found in a hidden ravine behind a wall of bushes
 somewhere on the plains just east of the [Midgewater
 Marsh](./Midgewater_Marsh.md).
 
-The front [door](./door.md) to the mansion is locked and the lock
-needs to be [picked](./pick.md) if one wishes to enter. There is a
+The front [door](./Door.md) to the mansion is locked and the lock
+needs to be [picked](./Pick.md) if one wishes to enter. There is a
 guestbook in the entrance hall where players may sign their name or read
 the previous entries. Also on the first floor is the kitchen, where one
-may find some smoked and cured [meat](./meat.md) in the stove.
+may find some smoked and cured [meat](./Meat.md) in the stove.
 
 There is another locked door on the second floor of the mansion, which
 requires a [key](./tinted_brass_key.md) to open. The key can be
@@ -28,7 +28,7 @@ towards the platform where the ghost of Galerel awaits.
 
 All 4 exits from the platform lead to the same location - the
 [room](./room.md) directly below the platform. Getting back up
-requires a fairly high [climb](./climb.md) skill, though you will
+requires a fairly high [climb](./Climb.md) skill, though you will
 not take a lot of damage if you fail to climb up. Galerel himself will
 not leave the platform. When he is killed, all his items will also fall
 down to the room below.

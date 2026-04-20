@@ -4,8 +4,8 @@ description: 'Small tangles of roots are passive level <10'
 tags:
   - Mobiles
 ---
-**Small tangles of roots** are passive [level](./level.md) \<10
-[mobiles](./mobile.md). They can root players, preventing them
+**Small tangles of roots** are passive [level](./Level.md) \<10
+[mobiles](./Mobile.md). They can root players, preventing them
 from leaving the room until the roots are killed.
 
 `A small, dense tangle of roots covers the ground.`

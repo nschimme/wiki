@@ -8,17 +8,17 @@ tags:
 
 All players have a limited number of **movement points**. When you reach
 0 movement points you will be too tired to move.
-[Resting](./Rest.md) or [sleeping](./sleep.md) can help you
+[Resting](./Rest.md) or [sleeping](./Sleep.md) can help you
 replenish your strength. Naturally, it is easier to move in a field than
 in the mountains. You will find it less tiring to move long distances if
-you are riding a [mount](./mount.md).
+you are riding a [mount](./Mount.md).
 
 Movement points are per default displayed in your
-[prompt](./prompt.md). As long as you are somewhat rested, nothing
+[prompt](./Prompt.md). As long as you are somewhat rested, nothing
 will be shown. As you get more and more tired, one of the following
 words is displayed (in descending order of power): Tired, Slow, Weak,
 Fainting, Exhausted. The exact number of movement points can be
-displayed with the [score](./score.md) and [info](./info.md)
+displayed with the [score](./Score.md) and [info](./Info.md)
 commands.
 
 The dynamics of movement point loss and regeneration define a player's
@@ -50,11 +50,11 @@ Is affected by
   - The [Wilderness](./Wilderness.md) skill
   - Various shoes and boots
   - Some special items (such as the [stout oaken
-    stick](./stout_oaken_stick.md))
+    stick](./Stout_oaken_stick.md))
   - The [Terrain](./Terrain.md) in combination with its
     [Race](./Race.md) modifiers
   - Special room modifiers (such as on the redhorn pass)
-  - The [weather](./weather.md) (such as snow)
+  - The [weather](./Weather.md) (such as snow)
   - [Sneaking](./Sneak.md)
 - Swimming:
   - The [Swim](./Swim.md) skill
@@ -65,8 +65,8 @@ Is affected by
 
 - The [Constitution](./Constitution.md) stat
 - The [Age](./Age.md)
-- The stance (whether you are standing, [resting](./rest.md), or
-  [sleeping](./sleep.md))
+- The stance (whether you are standing, [resting](./Rest.md), or
+  [sleeping](./Sleep.md))
 - The [Breath of Briskness](./Breath_of_Briskness.md) spell
 - Various [Cloaks](./Cloak.md) (such as Forest Green Cloak, Russet
   Cloak, etc)

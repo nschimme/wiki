@@ -5,8 +5,8 @@ tags:
   - Missile weapons
 ---
 The **embellished longbow** is the hardest-hitting [missile
-weapon](./missile_weapon.md) in the game. It is worth about 19
-[gold](./gold.md) and 10 silver, and is sold in
+weapon](./Missile_weapon.md) in the game. It is worth about 19
+[gold](./Gold.md) and 10 silver, and is sold in
 [Lothlórien](./Lothlórien.md).
 
 `A beautiful longbow, embellished with lines of silver and mithril, lies here.`

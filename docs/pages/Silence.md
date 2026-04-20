@@ -5,11 +5,11 @@ tags:
   - Mage spells
   - Spells
 ---
-**Silence** is a [level](./level.md) 17 [mage](./mage.md)
-[spell](./spell.md). It prevents the target from
-[casting](./cast.md) spells or using any form of verbal
-communication ([say](./say.md), [narrate](./narrate.md),
-[tell](./tell.md), etc). [Emotes](./Emote.md) may still be
+**Silence** is a [level](./Level.md) 17 [mage](./Mage.md)
+[spell](./Spell.md). It prevents the target from
+[casting](./Cast.md) spells or using any form of verbal
+communication ([say](./Say.md), [narrate](./Narrate.md),
+[tell](./Tell.md), etc). [Emotes](./Emote.md) may still be
 used.
 
 Syntax : cast 'silence' \&lt;victim\&gt; Type : Offensive, mental

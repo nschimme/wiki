@@ -23,7 +23,7 @@ It weighs a few ounces.
 ## Other
 
 Copper rings are usually only utilized by caster types; they are
-rumoured to give a bonus to the character's [spell](./spell.md)
-[casting](./cast.md) and ability to resist magical attacks.
+rumoured to give a bonus to the character's [spell](./Spell.md)
+[casting](./Cast.md) and ability to resist magical attacks.
 
 <!--@include: ../includes/Items.md-->

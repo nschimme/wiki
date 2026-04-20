@@ -23,7 +23,7 @@ It weighs four pounds.
 
 ## Other
 
-Obtained by [butchering](./butcher.md) [lynxes](./lynx.md).
+Obtained by [butchering](./Butcher.md) [lynxes](./Lynx.md).
 Has no use for players, but can be sold for about 9 silver.
 
 <!--@include: ../includes/Items.md-->

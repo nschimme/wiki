@@ -12,11 +12,11 @@ skills the character decided to learn.
 At any time, you can type 'change class' and see a list of titles that
 match your skills, race, alignment, history, and so on. 'Change class X'
 to choose a new class. Your choice only affects where you appear on
-'[who warr](./who.md)', '[who cleric](./who.md)'..., and
-your [whois](./whois.md).
+'[who warr](./Who.md)', '[who cleric](./Who.md)'..., and
+your [whois](./Whois.md).
 
-When you practice new [skills](./skill.md) or you gain/lose
-[levels](./level.md), your class might be automatically changed,
+When you practice new [skills](./Skill.md) or you gain/lose
+[levels](./Level.md), your class might be automatically changed,
 if the one you selected earlier doesn't fit you anymore.
 
 For example:

@@ -5,8 +5,8 @@ tags:
   - Containers
 ---
 The **water skin** is a [drink](./drink.md)
-[container](./container.md) that can be worn on a
-[belt](./belt.md). It can contain up to 4 pounds worth of liquid.
+[container](./Container.md) that can be worn on a
+[belt](./Belt.md). It can contain up to 4 pounds worth of liquid.
 It is worth around 20 [copper](./copper.md), and is sold by most
 grocers.
 

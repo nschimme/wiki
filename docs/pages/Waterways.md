@@ -6,7 +6,7 @@ tags:
 ---
 [Arda](./Arda.md) has a number of rivers, streams and other
 **bodies of water** that can be traveled upon if the proper
-[equipment](./equipment.md) or [skills](./skill.md) are
+[equipment](./Equipment.md) or [skills](./Skill.md) are
 available. Some of the waterways can be slow, others can have the water
 rushing so fast that the water drags travelers along with it. Travel on
 many of the bodies of water is safe if the traveler watches for rapids
@@ -26,17 +26,17 @@ types: shallow water, deep water, and the most interesting of all,
 places totally underwater.
 
 Of the three the easiest ones to cross is shallow water. Shallow water
-is water that any [race](./race.md) can wade across without use of
+is water that any [race](./Race.md) can wade across without use of
 equipment or a skill. Fords across deep rivers are sections where the
 water has become shallow enough to wade or in some places to
 [ride](./ride.md) across.
 
 Deep water makes up the majority of major rivers and other large bodies
-of water. While [ferries](./ferry.md) or bridges exist along some
+of water. While [ferries](./Ferry.md) or bridges exist along some
 of the major routes, less travelled routes can only be crossed by
-[swimming](./swim.md), or using a small [craft](./boat.md)
-such as a [raft](./raft.md),
-[boat](./light_boat_of_reeds.md), or [canoe](./canoe.md).
+[swimming](./Swim.md), or using a small [craft](./Boat.md)
+such as a [raft](./Raft.md),
+[boat](./Light_boat_of_reeds.md), or [canoe](./Canoe.md).
 Small craft like this can be bought and sold from shops near major
 cities or bodies of water. [Rangers](./Ranger.md) at a ranger
 guild will also offer lessons in how to swim to those interested. Rapids

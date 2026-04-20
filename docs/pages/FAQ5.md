@@ -6,7 +6,7 @@ tags:
 ---
 **Q: What is a bulletin board?**
 
-A: A bulletin [board](./board.md) is an object that can be read by
+A: A bulletin [board](./Board.md) is an object that can be read by
 players, and in most cases written on. Boards usually have a topic, e.g.
 the [Warrior](./Warrior.md) Bulletin board covers topics
 interesting to warriors, the General board covers subjects that don't
@@ -17,7 +17,7 @@ fit on any of the specialty boards, and so on.
 A: There is a board containing advice for new players in the [Halls of
 Mandos](./Halls_of_Mandos.md) where new players start, and people
 come to after they die. There are several bulletin boards in most major
-[towns](./town.md). Check your newbie map ([look](./look.md)
+[towns](./town.md). Check your newbie map ([look](./Look.md)
 map) for places such as guilds and inns for some boards.
 
 **Q: When I find one what do I do with it?**
@@ -25,7 +25,7 @@ map) for places such as guilds and inns for some boards.
 A: To look at a list of messages on the board use 'look board'. This
 will show the number for the post, its title, and name of the person
 posting. An example might be, '1969 : How to hunt food (Huntar)'. To
-read this message you would type '[read](./read.md) 1969', and the
+read this message you would type '[read](./Read.md) 1969', and the
 message would show on your screen.
 
 **Q: How do I reread a message, since it does not show on the board
@@ -39,17 +39,17 @@ messages listed, no matter if they have been marked as read or not.
 **Q: How do I write a message on the boards?**
 
 A: First of all you have to decide what is the correct board to post on.
-A message about a [thief](./thief.md)
-[practising](./practice.md) [backstab](./backstab.md) and
+A message about a [thief](./Thief.md)
+[practising](./Practice.md) [backstab](./Backstab.md) and
 looking for advice on it belongs on the Thief board. To write a message
-you type '[write](./write.md) &lt;topic&gt;'. The topic is what it is
+you type '[write](./Write.md) &lt;topic&gt;'. The topic is what it is
 about. An editor will pop up that you can type in.
 
 Type '%h' for help on how to use the editor when in it. When you finish
 your mes board.
 
 To reply to someone else's message you can type
-'[reply](./reply.md) &lt;number&gt;' where the number is the number of
+'[reply](./Reply.md) &lt;number&gt;' where the number is the number of
 the post you are replying to, e.g. 'reply 1969'. In reply the title will
 be based on the title of the previous message.
 
@@ -93,7 +93,7 @@ and so on. To read it all at once you type 'read strider all'.
 **Q: What is this News, and/or Mail thing I see mentioned when I log
 in?**
 
-A: The [news](./news.md) and [mail](./mail.md) boards are
+A: The [news](./News.md) and [mail](./Mail.md) boards are
 somewhat more complex versions of the bulletin boards mentioned above.
 
 The News board is for people to read messages from the

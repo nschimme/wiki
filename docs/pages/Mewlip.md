@@ -5,9 +5,9 @@ tags:
   - Mobiles
 ---
 **Mewlips** are minor spirits found in old fens and swamps. They are
-aggressive, [evil](./alignment.md) [level](./level.md)
-~11-12 [mobiles](./mobile.md) who are incorporeal and cannot be
-[bashed](./bash.md). They load with 1 [silver](./gold.md)
+aggressive, [evil](./Alignment.md) [level](./Level.md)
+~11-12 [mobiles](./Mobile.md) who are incorporeal and cannot be
+[bashed](./Bash.md). They load with 1 [silver](./Gold.md)
 and 3 copper.
 
 `A mewlip is here, faintly wailing at you.`

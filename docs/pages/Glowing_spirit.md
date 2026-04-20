@@ -4,10 +4,10 @@ description: 'For another mob with the same name, see spirit.'
 tags:
   - Mobiles
 ---
-*For another mob with the same name, see [spirit](./spirit.md).*
+*For another mob with the same name, see [spirit](./Spirit.md).*
 
 Glowing **spirits** are aggressive level ~15-16
-[mobiles](./mobile.md) found in [Old
+[mobiles](./Mobile.md) found in [Old
 Fornost](./Old_Fornost.md). They are permanently under the effect
 of the [Sanctuary](./Sanctuary.md) spell. They can cast [Colour
 Spray](./Colour_Spray.md).

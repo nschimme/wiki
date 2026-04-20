@@ -5,13 +5,13 @@ tags:
   - Spells
   - Cleric spells
 ---
-**Transfer** is a level 14 [cleric](./cleric.md)
-[spell](./spell.md). Like [Summon](./Summon.md) it will
+**Transfer** is a level 14 [cleric](./Cleric.md)
+[spell](./Spell.md). Like [Summon](./Summon.md) it will
 transfer a creature or player to the location of the caster but unlike
 *Summon* the transfer will include the
-[equipment](./equipment.md).
+[equipment](./Equipment.md).
 
-Wearing a [ring](./ring.md) (or collar for shape-shifting
+Wearing a [ring](./Ring.md) (or collar for shape-shifting
 [bears](./bear.md)) can protect against being transfered
 involuntarily.
 

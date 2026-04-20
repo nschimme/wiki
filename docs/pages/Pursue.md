@@ -5,7 +5,7 @@ tags:
   - Commands
   - Help files
 ---
-If you find a track using the command '[track](./track.md)'
+If you find a track using the command '[track](./Track.md)'
 &lt;target&gt;, you have the option to follow these tracks with the command
 **pursue**. 'Pursue' will cause you to follow the track in whichever
 direction it leads. This is a faster and more convenient way to follow a

@@ -4,7 +4,7 @@ description: 'Many different herbs can be found in MUME, and a'
 ---
 
 Many different **herbs** can be found in [MUME](./MUME.md), and a
-great many of them are used in various [herblores](./herblore.md).
+great many of them are used in various [herblores](./Herblore.md).
 
 Some of these can be crushed, for instance:
 

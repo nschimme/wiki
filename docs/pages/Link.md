@@ -31,8 +31,8 @@ the cowards amongst players would like to cheat and cut their link when
 things turn badly. This is how it works in [MUME](./MUME.md):
 
 1\. If your link is broken, you will automatically attempt to
-[flee](./flee.md) each time someone attempts to hit you. If you
-are not fighting, you will [rent](./rent.md) automatically after a
+[flee](./Flee.md) each time someone attempts to hit you. If you
+are not fighting, you will [rent](./Rent.md) automatically after a
 period of time. The rent cost is then several times higher than the
 normal rent. Your character will be saved automatically when your link
 breaks.

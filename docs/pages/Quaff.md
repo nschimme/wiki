@@ -11,5 +11,5 @@ are not thirsty you will not be able to drink the potion, while you will
 always be able to quaff it.
 
 On [MUME](./MUME.md), all potions are made by characters using
-[herbs](./herblore.md).
+[herbs](./Herblore.md).
  

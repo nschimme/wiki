@@ -9,28 +9,28 @@ Usage: **metamorph** &lt;animal&gt;
 
 **return** \[to return to real form
 
-Upon becoming a [hero](./hero.md) ([level](./level.md) 21+)
+Upon becoming a [hero](./Hero.md) ([level](./Level.md) 21+)
 characters gain the ability to choose to take the
 [Istar](./Istar.md) Quest, and seek immortality. The first step of
 this involves the apprentice levels known as metamorph levels. At the
 levels of shapechanger (21) and metamorph (22), the character can only
-gain [experience](./experience.md) while in the form of an animal.
+gain [experience](./Experience.md) while in the form of an animal.
 The animals which the player may become are dependent on both his level
-and his [alignment](./alignment.md). For example, a good player of
+and his [alignment](./Alignment.md). For example, a good player of
 level 22 can metamorph into an eagle.
 
 Each meta form has unique advantages and disadvantages over the others,
-and the meta form does not retain any of the [skills](./skill.md)
-of the character in his normal form, nor do [spells](./spell.md)
+and the meta form does not retain any of the [skills](./Skill.md)
+of the character in his normal form, nor do [spells](./Spell.md)
 cast upon the normal form carry over to the metamorph. Metamorphs are
-also unable to [bash](./bash.md) doors.
+also unable to [bash](./Bash.md) doors.
 
 Note, that in order for any experience or [travel
 points](./travel_points.md) gained while in metamorph form to be
 saved, you must return to your normal form. However, any
-[gold](./gold.md) or [equipment](./equipment.md) carried by
+[gold](./Gold.md) or [equipment](./Equipment.md) carried by
 the meta form will be lost upon return. Metas have no autowimpy mode,
-but can [flee](./flee.md) manually if they choose.
+but can [flee](./Flee.md) manually if they choose.
 
 [Beornings](./Beorning.md) can also metamorph into a Bear.
 

@@ -4,16 +4,16 @@ description: 'The change mood command enables you to transfer'
 tags:
   - Help files
 ---
-The [change](./change.md) **mood** command enables you to transfer
+The [change](./Change.md) **mood** command enables you to transfer
 bonus points between your [Offensive bonus](./Offensive_bonus.md)
 and [Parry bonus](./Parry_bonus.md), thus changing the way you
 want to behave in combat, mostly attacking or fighting more carefully.
 
 Possible moods are: Berserk (special - see below) Aggressive Brave
 Normal Prudent Wimpy If you feel like going berserk, you will not be
-able to [flee](./flee.md) anymore, and if you start a fight in
+able to [flee](./Flee.md) anymore, and if you start a fight in
 berserk mood, you cannot change mood while fighting. Also, your
-[wimpy](./wimpy.md) is set to zero in this mood, so remember to
+[wimpy](./Wimpy.md) is set to zero in this mood, so remember to
 reset it if you change mood later.
 
 If you change mood while fighting, it takes a little while for your

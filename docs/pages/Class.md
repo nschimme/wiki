@@ -10,10 +10,10 @@ Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*
 The **class** system of [MUME](./MUME.md) is very flexible. You do
 not have to choose a class on [character](./character.md)
 creation - instead, you can shape it later by
-[practicing](./practice.md) [skills](./skill.md) or
-[spells](./spell.md) of a specific class. Even then, you are not
+[practicing](./Practice.md) [skills](./Skill.md) or
+[spells](./Spell.md) of a specific class. Even then, you are not
 restricted to skills (or spells) of only one class, but you can practice
-additional skills (or spells) from [guilds](./guild.md) other than
+additional skills (or spells) from [guilds](./Guild.md) other than
 that of your main profession.
 
 Everybody starts out with the same class title - "Apprentice" - but they

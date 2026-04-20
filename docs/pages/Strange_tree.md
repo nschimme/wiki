@@ -4,9 +4,9 @@ description: 'The strange tree is a level 18'
 tags:
   - Ents
 ---
-The **strange tree** is a [level](./level.md) 18
+The **strange tree** is a [level](./Level.md) 18
 [Ent](./Ent.md) living in [Fangorn](./Fangorn.md) forest. He
-is willing to teach the leaf-cake [herblore](./herblore.md) to an
+is willing to teach the leaf-cake [herblore](./Herblore.md) to an
 adventurer who [brings](./Quest#Leaf-Cake.md) him something of
 interest.
 

@@ -16,21 +16,21 @@ terrain, movement, twiddlers, all (of the previous options), or none.
 Moonlight, either direct or indirect o - Darkness
 
 - movement - Display R if you are [riding](./ride.md), r if you
-  are being ridden, W if you are trying to [swim](./swim.md), S if
-  you are trying to [sneak](./sneak.md), c if you are
-  [climbing](./climb.md) safely, and C if you're climbing
+  are being ridden, W if you are trying to [swim](./Swim.md), S if
+  you are trying to [sneak](./Sneak.md), c if you are
+  [climbing](./Climb.md) safely, and C if you're climbing
   no-matter-what.
-- [terrain](./terrain.md) - Display a symbol representing the
+- [terrain](./Terrain.md) - Display a symbol representing the
   terrain you are standing on
-- [weather](./weather.md) - Display the current weather conditions
+- [weather](./Weather.md) - Display the current weather conditions
   if you are outdoors and the sky is not clear (see "help weather");
   also display - or = in case of fog
-- points - Show current [hit points](./hit_points.md),
-  [mana](./mana.md) and [movement
-  points](./movement_points.md). Note that nothing is shown if you
+- points - Show current [hit points](./Hit_points.md),
+  [mana](./Mana.md) and [movement
+  points](./Movement_points.md). Note that nothing is shown if you
   have full hit/mana/move.
 - twiddlers - Show the twiddling bar (\|/-\\-...) when busy
-  [casting](./cast.md) [spells](./spell.md) or similar.
+  [casting](./Cast.md) [spells](./Spell.md) or similar.
 
 Example: \> prompt points Your prompt will display health, mana and
 stamina. HP:Wounded Mana:Burning Move:Tired\> \<---- this is the new

@@ -4,9 +4,9 @@ description: 'Wolf cubs are passive level ~1-2'
 tags:
   - Mobiles
 ---
-**Wolf cubs** are passive [level](./level.md) ~1-2
-[mobiles](./mobile.md), found in various locations around
-[Arda](./Arda.md). They will attempt to [flee](./flee.md)
+**Wolf cubs** are passive [level](./Level.md) ~1-2
+[mobiles](./Mobile.md), found in various locations around
+[Arda](./Arda.md). They will attempt to [flee](./Flee.md)
 when low on health.
 
 `A wolf cub happily plays here.`

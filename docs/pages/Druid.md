@@ -4,11 +4,11 @@ description: 'A druid teaches cleric'
 tags:
   - Guildmasters
 ---
-A **druid** teaches [cleric](./cleric.md)
-[spells](./spell.md) in his home northwest of
-[Bree](./Bree.md). He is a [good](./alignment.md)
-[level](./level.md) 18 [mobile](./mobile.md), and he is
-permanently under the effects of the [sanctuary](./sanctuary.md)
+A **druid** teaches [cleric](./Cleric.md)
+[spells](./Spell.md) in his home northwest of
+[Bree](./Bree.md). He is a [good](./Alignment.md)
+[level](./Level.md) 18 [mobile](./Mobile.md), and he is
+permanently under the effects of the [sanctuary](./Sanctuary.md)
 spell.
 
 Room Name: Library

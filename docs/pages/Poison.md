@@ -7,7 +7,7 @@ tags:
   - Shaman spells
 ---
 NOTE: This doesn't poison weapons, for that see
-[herblores](./herblore.md).
+[herblores](./Herblore.md).
 
 Syntax : cast 'poison' \[victim \[type of poison Type : Offensive
 Accumulative: Yes Duration : Yes Casting : Long Position : Standing,

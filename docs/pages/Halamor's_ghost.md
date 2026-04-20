@@ -4,12 +4,12 @@ description: 'Halamor''s ghost is a level ~17-18 mobile found'
 tags:
   - Mobiles
 ---
-**Halamor's ghost** is a level ~17-18 [mobile](./mobile.md) found
+**Halamor's ghost** is a level ~17-18 [mobile](./Mobile.md) found
 in a ruined village east of [Bree](./Bree.md). He can
-[sneak](./sneak.md) and cast [Lightning
+[sneak](./Sneak.md) and cast [Lightning
 Bolt](./Lightning_Bolt.md). He is accompanied by [Sulien's
 ghost](./Sulien's_ghost.md), who will disappear if he is killed.
-He loads a [rapier](./rapier.md) and a [ring](./ring.md).
+He loads a [rapier](./Rapier.md) and a [ring](./Ring.md).
 
 `A tall, thin ghost paces the room, looking about malevolently.`
 `>`**`examine ghost`**

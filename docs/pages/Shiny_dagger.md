@@ -3,9 +3,9 @@ title: Shiny dagger
 description: 'The shiny dagger is a piercing weapon.'
 ---
 
-The **shiny dagger** is a [piercing weapon](./piercing_weapon.md).
+The **shiny dagger** is a [piercing weapon](./Piercing_weapon.md).
 It loads on [Malardil](./Malardil.md), and can also be bought from
-some weaponsmiths for around 1 [gold](./gold.md) and 13
+some weaponsmiths for around 1 [gold](./Gold.md) and 13
 [silver](./silver.md).
 
 `A dagger with a shiny blade lies here.`

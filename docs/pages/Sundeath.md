@@ -7,7 +7,7 @@ tags:
 [Trolls](./Troll.md) can be instantly killed by the sun. Trolls
 **sundie**:
 
-- With [link](./link.md), in sunlit areas.
+- With [link](./Link.md), in sunlit areas.
 - Without link, in sunlit areas, when affected by
   [Noquit](./Noquit.md) or [Novoid](./Novoid.md).
 
@@ -17,6 +17,6 @@ Trolls don't sundie:
   [Noquit](./Noquit.md) or [Novoid](./Novoid.md).
 
 These deaths are "permanent" and reduce the character to
-[level](./level.md) one.
+[level](./Level.md) one.
 
 See also: [Reborn](./Reborn.md)

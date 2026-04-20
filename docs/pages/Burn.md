@@ -5,9 +5,9 @@ tags:
   - Help files
   - Commands
 ---
-You can set fire to a [corpse](./corpse.md) or corpses by using
+You can set fire to a [corpse](./Corpse.md) or corpses by using
 the [command](./commands.md) "**burn**". The corpses will be
-destroyed in the process and the [equipment](./equipment.md) they
+destroyed in the process and the [equipment](./Equipment.md) they
 contain will be lost. If there are many corpses in the room and you try
 to burn them all, all will be piled together before you start the
 bonfire. It is rumoured that searching among the ashes of a funeral pyre
@@ -16,7 +16,7 @@ can yield some remains of the possessions of the burnt corpse.
 During the fire the room will be lit and warm.
 
 When you set fire, a message is seen in the adjacent rooms, like when a
-[campfire](./camp.md) is made.
+[campfire](./Camp.md) is made.
 
 Example:
 

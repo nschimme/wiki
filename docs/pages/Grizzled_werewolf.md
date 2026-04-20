@@ -4,9 +4,9 @@ description: 'Grizzled werewolves are aggressive, evil'
 tags:
   - Mobiles
 ---
-**Grizzled werewolves** are aggressive, [evil](./alignment.md)
-[level](./level.md) ~11-12 [mobiles](./mobile.md). They can
-[track](./track.md).
+**Grizzled werewolves** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) ~11-12 [mobiles](./Mobile.md). They can
+[track](./Track.md).
 
 `An iron-grey wolf stands here, grizzled from countless hunts.`
 `>`**`look wolf`**

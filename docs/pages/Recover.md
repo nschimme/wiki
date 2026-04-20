@@ -6,8 +6,8 @@ tags:
   - Commands
 ---
 While wearing a quiver, a bolt case or a pouch for slingstones, you can
-**recover** the [missiles](./ammunition.md) lying around -- those
-on the ground, the ones stuck in [corpses](./corpse.md) and the
+**recover** the [missiles](./Ammunition.md) lying around -- those
+on the ground, the ones stuck in [corpses](./Corpse.md) and the
 ones in your inventory. You will grab all the missiles you shot or
 bought, and put them back in your quiver.
 

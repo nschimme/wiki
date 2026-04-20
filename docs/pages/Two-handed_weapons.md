@@ -5,9 +5,9 @@ tags:
   - Warrior skills
   - Skills
 ---
-**Two-handed weapons** is a [warrior](./warrior.md)
-[skill](./skill.md) and [weapon](./weapon.md) class. It is
-impossible to wear a [shield](./shield.md) other than a buckler
+**Two-handed weapons** is a [warrior](./Warrior.md)
+[skill](./Skill.md) and [weapon](./Weapon.md) class. It is
+impossible to wear a [shield](./Shield.md) other than a buckler
 with a two-handed weapon. Using such force behind the weapon might well
 cause a lot of damage.
 

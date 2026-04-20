@@ -4,13 +4,13 @@ description: 'Rattlesnakes are aggressive level ~14 mobiles'
 tags:
   - Mobiles
 ---
-**Rattlesnakes** are aggressive level ~14 [mobiles](./mobile.md)
+**Rattlesnakes** are aggressive level ~14 [mobiles](./Mobile.md)
 found in various places around [Arda](./Arda.md). They have a
-venomous bite. Rattlesnake venom drains [HP](./hit_points.md) and
+venomous bite. Rattlesnake venom drains [HP](./Hit_points.md) and
 can be quite dangerous to a player if they don't have a way to [remove
-poison](./Remove_Poison.md). Their [corpses](./corpse.md)
-can be [butchered](./butcher.md) to produce a venom sac or
-[snakeskin](./long_and_scaly_snakeskin.md).
+poison](./Remove_Poison.md). Their [corpses](./Corpse.md)
+can be [butchered](./Butcher.md) to produce a venom sac or
+[snakeskin](./Long_and_scaly_snakeskin.md).
 
 `A diamond-back rattlesnake is coiled here, ready to strike.`
 `>`**`examine snake`**

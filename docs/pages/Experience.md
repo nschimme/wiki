@@ -6,7 +6,7 @@ tags:
 ---
 Whenever you kill a monster or a player, you earn experience points.
 When enough experience and [travel points](./travel_points.md) are
-earned, you'll gain a [level](./level.md). You can see how much is
+earned, you'll gain a [level](./Level.md). You can see how much is
 left until the next level when you type '[stat](./stat.md)'.
 Things you should know about experience points:
 

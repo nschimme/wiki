@@ -26,25 +26,25 @@ cousins the [Dúnedain](./Dúnedain.md).
 ## Black Númenóreans in [Mume](./MUME.md)
 
 Mume Black Númenóreans are wanderers from the far southern lands. They
-are allied with [orcs](./orc.md) and [trolls](./troll.md)
+are allied with [orcs](./Orc.md) and [trolls](./Troll.md)
 who directly or indirectly serve the will of
 [Sauron](./Sauron.md).
 
 BN's have a number of penalties:
 
 - They can't become immortal.
-- They generally have worse stats than other [men](./man.md).
-- They have no cities in which to [rent](./rent.md). However, they
-  can [camp](./camp.md) outside and often do not pay rent.
+- They generally have worse stats than other [men](./Man.md).
+- They have no cities in which to [rent](./Rent.md). However, they
+  can [camp](./Camp.md) outside and often do not pay rent.
 - They must wander in search of those
   [guildmasters](./guildmaster.md) of theirs who have made the
-  trip to Eriador. No [warrior](./warrior.md) guildmasters have
-  ever been found, so their [weapon](./weapon.md)
-  [skills](./skill.md) are limited.
+  trip to Eriador. No [warrior](./Warrior.md) guildmasters have
+  ever been found, so their [weapon](./Weapon.md)
+  [skills](./Skill.md) are limited.
 - When they die they return to a secret place and
-  [pray](./pray.md) for a new life. Where they find themselves
+  [pray](./Pray.md) for a new life. Where they find themselves
   afterwards, only the [Ainur](./Ainur.md) know.
-- They can suffer from [depression](./depression.md).
+- They can suffer from [depression](./Depression.md).
 - A BN will see free peoples by name or race only eg. \*an Elf\*. They
   can however see and group both orcs and trolls, thus proving to be
   valuable aides.

@@ -5,8 +5,8 @@ tags:
   - Mobiles
   - Guildmasters
 ---
-A **wary man** teaches [thief](./thief.md)
-[skills](./skill.md) at **The Guild of Assassins**, hidden
+A **wary man** teaches [thief](./Thief.md)
+[skills](./Skill.md) at **The Guild of Assassins**, hidden
 somewhere behind a red door in the Sewers of
 [Tharbad](./Tharbad.md).
 
@@ -18,10 +18,10 @@ somewhere behind a red door in the Sewers of
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`backstab`](./backstab.md)`                23  Hard`
-[`envenom`](./envenom.md)`                  4  Hard`
-[`hide`](./hide.md)`                    16  Normal`
-[`pick`](./pick.md)`                     8  Normal`
-[`piercing weapons`](./piercing_weapons.md)`        16  Normal`
-[`sneak`](./sneak.md)`                   23  Hard`
+[`backstab`](./Backstab.md)`                23  Hard`
+[`envenom`](./Envenom.md)`                  4  Hard`
+[`hide`](./Hide.md)`                    16  Normal`
+[`pick`](./Pick.md)`                     8  Normal`
+[`piercing weapons`](./Piercing_weapons.md)`        16  Normal`
+[`sneak`](./Sneak.md)`                   23  Hard`
  

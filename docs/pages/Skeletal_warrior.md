@@ -5,13 +5,13 @@ tags:
   - Mobiles
 ---
 **Skeletal warriors** are aggressive level ~14
-[mobiles](./mobile.md) found in old [Fornost](./Fornost.md)
+[mobiles](./Mobile.md) found in old [Fornost](./Fornost.md)
 as well as summoned by the
 [Necromancer](./Super_Mobile#Necromancer.md). They can
-[kick](./kick.md). They load a weapon, usually a
-[pike](./pike.md) or some kind of common sword, occasionally some
+[kick](./Kick.md). They load a weapon, usually a
+[pike](./Pike.md) or some kind of common sword, occasionally some
 pieces of chain mail armour, and 1-2
-[rib-bones](./rib-bone_of_a_skeleton.md).
+[rib-bones](./Rib-bone_of_a_skeleton.md).
 
 `A skeletal warrior is staring angrily at the surroundings.`
 `>`**`examine skeleton`**

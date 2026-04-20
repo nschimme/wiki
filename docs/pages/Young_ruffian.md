@@ -4,12 +4,12 @@ description: 'Young ruffians are aggressive level ~2-3'
 tags:
   - Mobiles
 ---
-**Young ruffians** are aggressive [level](./level.md) ~2-3
-[mobiles](./mobile.md). They can be found on the plateau
+**Young ruffians** are aggressive [level](./Level.md) ~2-3
+[mobiles](./Mobile.md). They can be found on the plateau
 overlooking the road to [Grey Havens](./Grey_Havens.md) on the
 eastern edge of the [Tower Hills](./Tower_Hills.md). They load 70
-[copper](./gold.md), a [cudgel](./cudgel.md) and some basic
-cloth [equipment](./equipment.md).
+[copper](./Gold.md), a [cudgel](./Cudgel.md) and some basic
+cloth [equipment](./Equipment.md).
 
 `A young ruffian is here, keeping a careful watch over the road.`
 `>`**`examine ruffian`**

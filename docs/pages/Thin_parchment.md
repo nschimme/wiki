@@ -4,10 +4,10 @@ description: 'The thin parchment can be read to learn the'
 tags:
   - Miscellaneous equipment
 ---
-The **thin parchment** can be [read](./read.md) to learn the
+The **thin parchment** can be [read](./Read.md) to learn the
 [antidote](./Herblore#Antidote.md) herblore. It loads on the chief
 of the Hillmen Village near [Rivendell](./Rivendell.md), and on
-the [assassin](./assassin.md) near the [Wight
+the [assassin](./Assassin.md) near the [Wight
 Captain](./Super_Mobile#Wight_Captain.md)'s crypt.
 
 `A thin parchment with strange symbols lies in the dust.`

@@ -5,8 +5,8 @@ tags:
   - Cleric spells
   - Spells
 ---
-**Sense life** is a level 7 [cleric](./cleric.md)
-[spell](./spell.md). It will increase awareness temporarily and
+**Sense life** is a level 7 [cleric](./Cleric.md)
+[spell](./Spell.md). It will increase awareness temporarily and
 thus makes it more likely that you discover hidden or sneaking
 opponents. This is useful for clerics who usually have low perception.
 Syntax : cast 'sense life' \[self-only Type : Detection Accumulative:

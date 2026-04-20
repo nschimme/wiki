@@ -6,8 +6,8 @@ tags:
 ---
 **Gildor the blacksmith** tends to **Gildor's Fine Weapons and Armour**
 in [Forlond](./Forlond.md). The store is open 7am to 12pm and 2pm
-to 6pm and trades in all kinds of [armour](./armour.md) and
-[weapons](./weapon.md).
+to 6pm and trades in all kinds of [armour](./Armour.md) and
+[weapons](./Weapon.md).
 
 `Gildor the blacksmith is here, busy forging a sword.`
 `>`**`examine gildor`**

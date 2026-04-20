@@ -4,8 +4,8 @@ description: 'Wild dogs are aggressive level ~12-13'
 tags:
   - Mobiles
 ---
-**Wild dogs** are aggressive [level](./level.md) ~12-13
-[mobiles](./mobile.md), found in various locations around
+**Wild dogs** are aggressive [level](./Level.md) ~12-13
+[mobiles](./Mobile.md), found in various locations around
 [Arda](./Arda.md).
 
 `A wild dog bares his yellow fangs at you.`

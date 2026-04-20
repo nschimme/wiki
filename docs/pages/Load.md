@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-If you have a [crossbow](./crossbow.md), you can
+If you have a [crossbow](./Crossbow.md), you can
 [Load](./Load.md) it with a bolt before using it in combat. This
 makes your first shot much faster, as you only need to aim and fire.
 

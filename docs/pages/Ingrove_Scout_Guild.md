@@ -4,8 +4,8 @@ description: 'Katerine teaches scout'
 tags:
   - Guildmasters
 ---
-**Katerine** teaches [scout](./thief.md)
-[skills](./skill.md) at the **Training Yard** in
+**Katerine** teaches [scout](./Thief.md)
+[skills](./Skill.md) at the **Training Yard** in
 [Ingrove](./Anduin_Vale#Ingrove.md).
 
 `A surprisingly tall Beorning woman stands here.`
@@ -18,9 +18,9 @@ tags:
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`attack`](./attack.md)`                   4  Normal`
-[`dodge`](./dodge.md)`                    6  Hard`
+[`attack`](./Attack.md)`                   4  Normal`
+[`dodge`](./Dodge.md)`                    6  Hard`
 [`missile`](./missile.md)`                 13  Normal`
-[`pick`](./pick.md)`                     9  Normal`
-[`piercing weapons`](./piercing_weapons.md)`        10  Normal`
-[`search`](./search.md)`                   3  Normal`
+[`pick`](./Pick.md)`                     9  Normal`
+[`piercing weapons`](./Piercing_weapons.md)`        10  Normal`
+[`search`](./Search.md)`                   3  Normal`

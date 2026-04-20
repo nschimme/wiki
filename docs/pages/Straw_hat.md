@@ -3,8 +3,8 @@ title: Straw hat
 description: 'The straw hat is worn on the head and gives a'
 ---
 
-The **straw hat** is worn on the [head](./head.md) and gives a
-small amount of [dodge bonus](./dodge_bonus.md). It can be bought
+The **straw hat** is worn on the [head](./Head.md) and gives a
+small amount of [dodge bonus](./Dodge_bonus.md). It can be bought
 from most tailors for around 20 [copper](./copper.md).
 
 `An ancient flat straw hat is lying here.`

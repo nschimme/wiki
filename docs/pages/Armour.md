@@ -21,7 +21,7 @@ normal, fine being the best.
 
 ### Cloth
 
-Cloth adds to db ([dodge bonus](./dodge_bonus.md)), but has no
+Cloth adds to db ([dodge bonus](./Dodge_bonus.md)), but has no
 bonus to armour. Most plain clothes are as good as they can get, but of
 note are grey tunic (higher than average db) and white robe
 (db+spellsave).

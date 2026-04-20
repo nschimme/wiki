@@ -19,7 +19,7 @@ war against evil.
 Rohir [Men](./Men.md) are especially gifted in horse related
 skills:
 
-- They start with a base 25% [skill](./skill.md) in
+- They start with a base 25% [skill](./Skill.md) in
   [ride](./ride.md) (without any pracs)
 - They are less likely to get thrown off by their mounts
 - Their mounts are less likely to refuse movement commands

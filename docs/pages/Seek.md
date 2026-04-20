@@ -14,9 +14,9 @@ to venture - as long as this doesn't endanger the safety of those who
 live within the valley.
 
 The ability to be able to seek the hidden city is based on several
-things. Of course being an [elf](./elf.md) helps, but
-[men](./man.md), [hobbits](./hobbit.md), and
-[dwarves](./dwarf.md) can as well if you are of good enough
-[alignment](./alignment.md) to do so.
+things. Of course being an [elf](./Elf.md) helps, but
+[men](./Man.md), [hobbits](./Hobbit.md), and
+[dwarves](./Dwarf.md) can as well if you are of good enough
+[alignment](./Alignment.md) to do so.
 
 See also: [Rivendell](./Rivendell.md)

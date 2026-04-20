@@ -12,5 +12,5 @@ If, on the other hand, you don't know what alternative to take, you can
 'flip coin', and see whether it lands tails or heads up.
 
 This is one way of deciding how to split
-[equipment](./equipment.md) (from [PK](./PK.md) or
+[equipment](./Equipment.md) (from [PK](./PK.md) or
 [Smobs](./Super_Mobile.md)).

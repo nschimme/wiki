@@ -4,8 +4,8 @@ description: 'Black fungi are aggressive, evil'
 tags:
   - Plants
 ---
-**Black fungi** are aggressive, [evil](./alignment.md)
-[level](./level.md) 10 [plants](./plant.md), found in
+**Black fungi** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 10 [plants](./Plant.md), found in
 various locations around [Arda](./Arda.md).
 
 `A huge black fungus is here, exuding a foul stench.`

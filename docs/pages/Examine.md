@@ -7,9 +7,9 @@ tags:
   - Commands
 ---
 **Examine** is a command that may give some extra details about an
-object or creature. Examine \&lt;[container](./container.md)\&gt; will
+object or creature. Examine \&lt;[container](./Container.md)\&gt; will
 show in detail the object's contents, as opposed to the more concise
-'[look](./look.md) in &lt;container&gt;'.
+'[look](./Look.md) in &lt;container&gt;'.
 
 Examples: \>exa pouch pouch (used) : a wooden pipe some sweet-smelling
 dried mauve petals some sweet-smelling dried mauve petals \>look in

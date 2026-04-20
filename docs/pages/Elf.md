@@ -28,7 +28,7 @@ Within MUME, Elves are more free to do as they please. They can be found
 in any part of the continent, from the Grey Havens to the [Misty
 Mountains](./Misty_Mountains.md) and beyond. Although all MUME
 races are immortal in a sense, Elves have the additional benefit of
-being immune to [disease](./disease.md). Although not as strong as
+being immune to [disease](./Disease.md). Although not as strong as
 some other races, they are quick thinkers and therefore make good magic
 users.
 
@@ -52,11 +52,11 @@ The three subraces have their own unique modifiers.
 
 ### Silvan
 
-- Base 10% [wilderness](./wilderness.md) skill
+- Base 10% [wilderness](./Wilderness.md) skill
 - Base 10% [missile](./missile.md) skill
-- Bonus for [track](./track.md) when tracking in forests
+- Bonus for [track](./Track.md) when tracking in forests
 - 10[PB](./Parry.md) when wielding a ranged weapon
-- [Movement point](./movement_points.md) cost reduction in forests
+- [Movement point](./Movement_points.md) cost reduction in forests
 - Third slowest aging of all races (2.5 times slower than common men)
 
 ### Sinda
@@ -64,7 +64,7 @@ The three subraces have their own unique modifiers.
 - Can repair most armour to flawless on their own with the use of a
   cross-pein hammer.
 - Can un-equip shields in combat
-- Base 10% [leadership](./leadership.md) skill
+- Base 10% [leadership](./Leadership.md) skill
 - Increased maximum distance when using the [Great
   Eagles](./eagle.md).
 - Second slowest aging of all races (3 times slower than common men)

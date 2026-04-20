@@ -6,9 +6,9 @@ tags:
 ---
 **Ferocious wargs** are aggressive level ~11-12 [mobs](./mob.md)
 found mostly in the eastern parts of [Arda](./Arda.md). They can
-[track](./track.md). Their [corpses](./corpse.md) can be
-[butchered](./butcher.md) to produce a [warg
-fur](./warg_fur.md).
+[track](./Track.md). Their [corpses](./Corpse.md) can be
+[butchered](./Butcher.md) to produce a [warg
+fur](./Warg_fur.md).
 
 `A ferocious warg is here, snarling angrily.`
 `> `**`look warg`**

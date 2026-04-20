@@ -8,11 +8,11 @@ tags:
 of [Middle Earth](./Middle_Earth.md), particularly on and near the
 [Old East Road](./Old_East_Road.md) and
 [Greenway](./Greenway.md). They are not hostile, though some will
-attempt to [steal](./steal.md) from you. They are often found
-[sneaking](./sneak.md) around and will [flee](./flee.md)
+attempt to [steal](./Steal.md) from you. They are often found
+[sneaking](./Sneak.md) around and will [flee](./Flee.md)
 when low on health. They load with a piercing weapon and some cloth
 and/or leather equipment, and will also loot money and valuable items
-from any [corpses](./corpse.md) they come across.
+from any [corpses](./Corpse.md) they come across.
 
 `> A brigand, looking at your nice purse, is sneaking here.`
 `> `**`look brigand`**

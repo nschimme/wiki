@@ -4,7 +4,7 @@ description: 'With every new level, practice points become'
 tags:
   - Help files
 ---
-With every new level, [practice](./practice.md) points become
+With every new level, [practice](./Practice.md) points become
 available, that can be used in [guilds](./Guild.md) to learn new
 skills.
 

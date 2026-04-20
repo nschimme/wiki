@@ -4,7 +4,7 @@ description: 'Black Hill is a small village of men located in'
 tags:
   - Locations
 ---
-**Black Hill** is a small village of [men](./man.md) located in
+**Black Hill** is a small village of [men](./Man.md) located in
 the [Tower Hills](./Tower_Hills.md), north of the road to [Grey
 Havens](./Grey_Havens.md).
 

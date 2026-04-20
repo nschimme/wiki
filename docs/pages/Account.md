@@ -12,13 +12,13 @@ or play any of your existing characters.
 You can see your account menu when logging into your account and typing
 "list" or when typing' the command "account" anytime you play. Below
 that list of your characters you will also see if one of your characters
-has unread [mails](./mail.md).
+has unread [mails](./Mail.md).
 
-You can also sort the characters by: side, [race](./race.md),
-[level](./level.md), alphabetic, or logon. Just type "account
+You can also sort the characters by: side, [race](./Race.md),
+[level](./Level.md), alphabetic, or logon. Just type "account
 &lt;field&gt;" to do so.
 
-You can change your account [password](./password.md) with the
+You can change your account [password](./Password.md) with the
 "pass" command from the account menu.
 
 You can also log your characters directly, without logging into the
@@ -30,7 +30,7 @@ In case you still have old characters before accounts were introduced to
 (example: "add Frodo").
 
 You can show information about characters in your account using "account
-[info](./info.md) &lt;character&gt;" while playing, or using "info
+[info](./Info.md) &lt;character&gt;" while playing, or using "info
 &lt;character&gt;" from the account menu.
 
 See Also: [Rules Accounts](./Rules_Accounts.md)

@@ -4,8 +4,8 @@ description: 'An aged dwarf teaches ranger'
 tags:
   - Guildmasters
 ---
-An **aged dwarf** teaches [ranger](./general.md)
-[skills](./skill.md) at the **Ranger Guild** in the [Blue
+An **aged dwarf** teaches [ranger](./General.md)
+[skills](./Skill.md) at the **Ranger Guild** in the [Blue
 Mountains](./Blue_Mountains.md).
 
 `An aged and experienced dwarf is here, eager to share his wisdom.`
@@ -18,11 +18,11 @@ Mountains](./Blue_Mountains.md).
 ## Skill list
 
 `            Sessions  Difficulty`
-[`awareness`](./awareness.md)`          8  Normal`
-[`bandage`](./bandage.md)`            6  Easy`
-[`climb`](./climb.md)`              3  Very easy`
-[`command`](./command.md)`            3  Normal`
-[`leadership`](./leadership.md)`         8  Normal`
+[`awareness`](./Awareness.md)`          8  Normal`
+[`bandage`](./Bandage.md)`            6  Easy`
+[`climb`](./Climb.md)`              3  Very easy`
+[`command`](./Command.md)`            3  Normal`
+[`leadership`](./Leadership.md)`         8  Normal`
 [`ride`](./ride.md)`               3  Very easy`
-[`track`](./track.md)`              2  Normal`
-[`wilderness`](./wilderness.md)`        16  Normal`
+[`track`](./Track.md)`              2  Normal`
+[`wilderness`](./Wilderness.md)`        16  Normal`

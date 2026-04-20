@@ -4,7 +4,7 @@ description: 'The short spear is a stabbing weapon.'
 tags:
   - Stabbing weapons
 ---
-The **short spear** is a [stabbing weapon](./stabbing_weapon.md).
+The **short spear** is a [stabbing weapon](./Stabbing_weapon.md).
 It is worth around 4 [silver](./silver.md), and is sold by most
 weaponsmiths.
 

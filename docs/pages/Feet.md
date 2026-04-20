@@ -7,28 +7,28 @@ A list of equipment worn on the **feet**.
 
 # Metal
 
-- [fine metal boots](./fine_metal_boots.md)
-- [metal boots](./metal_boots.md)
+- [fine metal boots](./Fine_metal_boots.md)
+- [metal boots](./Metal_boots.md)
 - [sturdy metal boots](./sturdy_metal_boots.md)
 
 # Leather
 
-- [fine rigid leather boots](./fine_rigid_leather_boots.md)
-- [fine soft leather boots](./fine_soft_leather_boots.md)
-- [high boots](./high_boots.md)
-- [rigid leather boots](./rigid_leather_boots.md)
-- [soft leather boots](./soft_leather_boots.md)
-- [sturdy rigid leather boots](./sturdy_rigid_leather_boots.md)
-- [sturdy soft leather boots](./sturdy_soft_leather_boots.md)
-- [heavy shoes](./heavy_shoes.md)
-- [smooth, black boots](./smooth,_black_boots.md)
-- [black padded boots](./black_padded_boots.md)
+- [fine rigid leather boots](./Fine_rigid_leather_boots.md)
+- [fine soft leather boots](./Fine_soft_leather_boots.md)
+- [high boots](./High_boots.md)
+- [rigid leather boots](./Rigid_leather_boots.md)
+- [soft leather boots](./Soft_leather_boots.md)
+- [sturdy rigid leather boots](./Sturdy_rigid_leather_boots.md)
+- [sturdy soft leather boots](./Sturdy_soft_leather_boots.md)
+- [heavy shoes](./Heavy_shoes.md)
+- [smooth, black boots](./Smooth,_black_boots.md)
+- [black padded boots](./Black_padded_boots.md)
 
 # Cloth
 
-- [rabbit fur shoes](./rabbit_fur_shoes.md)
+- [rabbit fur shoes](./Rabbit_fur_shoes.md)
 - [sandals](./sandals.md)
-- [shoes](./shoes.md)
+- [shoes](./Shoes.md)
 - [soft, sequinned slippers](./soft,_sequinned_slippers.md)
 - [snowshoes](./snowshoes.md)
 

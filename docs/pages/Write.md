@@ -7,16 +7,16 @@ tags:
 ---
 In order to **write** a note, you need a piece of blank paper (often
 available at your local grocer) and a [quill pen](./quill_pen.md).
-You need to '[hold](./hold.md)' the pen and then 'write note'. To
-read the note, you need to 'hold' the note and '[read](./read.md)
+You need to '[hold](./Hold.md)' the pen and then 'write note'. To
+read the note, you need to 'hold' the note and '[read](./Read.md)
 note'.
 
-To write a message on a bulletin [board](./boards.md), use 'write
+To write a message on a bulletin [board](./Boards.md), use 'write
 &lt;subject&gt;' in the [room](./room.md) where the board is. You may
-also want to [reply](./reply.md) to the last message you read.
+also want to [reply](./Reply.md) to the last message you read.
 
-This command will take you into your chosen [editor](./editor.md)
-(from '[change](./change.md) editor'). For the standard line
+This command will take you into your chosen [editor](./Editor.md)
+(from '[change](./Change.md) editor'). For the standard line
 editor, you may exit by entering %e on a new line.
 
 See also: [Read](./Read.md), [Boards](./Boards.md),

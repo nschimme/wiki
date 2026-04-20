@@ -5,8 +5,8 @@ tags:
   - Thief skills
   - Skills
 ---
-**Piercing weapons** is a [thief](./thief.md)
-[skill](./skill.md) and [weapon](./weapon.md) class that
+**Piercing weapons** is a [thief](./Thief.md)
+[skill](./Skill.md) and [weapon](./Weapon.md) class that
 applies to all kinds of daggers, knives and similar - if they are
 wielded in one hand only.
 

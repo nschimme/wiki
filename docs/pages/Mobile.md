@@ -6,7 +6,7 @@ description: 'PC is sometimes used as a short form of Player Character, which si
 PC is sometimes used as a short form of Player Character, which simply
 means a player.
 
-A [mobile](./mobile.md), or mob for short, is often referred to as
+A [mobile](./Mobile.md), or mob for short, is often referred to as
 a Non-Player-Character, or **NPC**. These are all monsters in the game.
 
 Some mobiles in the game will speak with you, providing information. In

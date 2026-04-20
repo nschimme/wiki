@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-If you have a [pan](./pan.md), and there is some sort of fire in
+If you have a [pan](./Pan.md), and there is some sort of fire in
 the room, you can [Cook](./Cook.md) any raw meat you may have
 found. The resulting steak will last longer and be more nourishing.
 

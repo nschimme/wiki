@@ -21,7 +21,7 @@ It weighs five pounds.
 
 ## Other
 
-Increases [offensive bonus](./offensive_bonus.md) and decreases
-[dodge bonus](./dodge_bonus.md) slightly.
+Increases [offensive bonus](./Offensive_bonus.md) and decreases
+[dodge bonus](./Dodge_bonus.md) slightly.
 
 <!--@include: ../includes/Items.md-->

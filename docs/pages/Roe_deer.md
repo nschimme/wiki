@@ -4,12 +4,12 @@ description: 'Roe deer are passive level ~1-2'
 tags:
   - Mobiles
 ---
-**Roe deer** are passive [level](./level.md) ~1-2
-[mobiles](./mobile.md) found in various locations around
+**Roe deer** are passive [level](./Level.md) ~1-2
+[mobiles](./Mobile.md) found in various locations around
 [Arda](./Arda.md), particularly in the [Blue
 Mountains](./Blue_Mountains.md) area. Their corpses can be
-butchered to produce a [fine pelt](./fine_pelt.md) and some
-[meat](./meat.md).
+butchered to produce a [fine pelt](./Fine_pelt.md) and some
+[meat](./Meat.md).
 
 `A roe deer is standing here, watching the terrain while chewing the vegetation.`
 `>`**`examine deer`**

@@ -6,15 +6,15 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Breath of Briskness** is a level 10 [cleric](./cleric.md)
-[spell](./spell.md). If cast it gives a boost to the [move
-points](./Movement_Points.md) and increases move regeneration
+**Breath of Briskness** is a level 10 [cleric](./Cleric.md)
+[spell](./Spell.md). If cast it gives a boost to the [move
+points](./Movement_points.md) and increases move regeneration
 temporarily.
 
 This spell increases [mobility](./mobility.md) significantly and
 can be a lifesaver if you need to outrun chasing enemies or provide the
 mobility to pursue fleeing enemies. Clerics should practice it close to
-maximum. Most [mages](./mage.md) use it too. The druid who lives
+maximum. Most [mages](./Mage.md) use it too. The druid who lives
 north-west of [Bree](./Bree.md) is known to be very skilled in
 this spell.
 

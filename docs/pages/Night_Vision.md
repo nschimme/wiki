@@ -5,8 +5,8 @@ tags:
   - Spells
   - Mage spells
 ---
-**Night Vision** is a [level](./level.md) 7
-[mage](./mage.md) [spell](./spell.md). It allows the caster
+**Night Vision** is a [level](./Level.md) 7
+[mage](./Mage.md) [spell](./Spell.md). It allows the caster
 to see the names of creatures in dark areas for a period of time. Syntax
 : cast 'night vision' Type : Detection Accumulative: No Duration : Yes
 Casting : Normal Position : Standing Level : Level 7 Class : Magic User

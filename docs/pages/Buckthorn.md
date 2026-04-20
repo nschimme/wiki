@@ -4,8 +4,8 @@ description: 'Buckthorns are aggressive, evil'
 tags:
   - Plants
 ---
-**Buckthorns** are aggressive, [evil](./alignment.md)
-[level](./level.md) 7 [plants](./plant.md) found in
+**Buckthorns** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 7 [plants](./Plant.md) found in
 [Fangorn](./Fangorn.md).
 
 `A mass of low-spreading shrub quivers on the ground.`

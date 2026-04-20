@@ -4,11 +4,11 @@ description: 'Hobbit smugglers are passive level 5'
 tags:
   - Mobiles
 ---
-**Hobbit smugglers** are passive [level](./level.md) 5
-[mobiles](./mobile.md), found in the [Pipeweed Smuggler's
+**Hobbit smugglers** are passive [level](./Level.md) 5
+[mobiles](./Mobile.md), found in the [Pipeweed Smuggler's
 Hideout](./Pipeweed_Smuggler's_Hideout.md) in the
-[Shire](./Shire.md). They can [sneak](./sneak.md). They load
-with a [stiletto](./stiletto.md), a [ring](./ring.md) and
+[Shire](./Shire.md). They can [sneak](./Sneak.md). They load
+with a [stiletto](./Stiletto.md), a [ring](./Ring.md) and
 some plain cloth equipment.
 
 `A suspicious-looking hobbit smuggler is here.`

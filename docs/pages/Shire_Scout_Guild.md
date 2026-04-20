@@ -4,8 +4,8 @@ description: 'A well-travelled hobbit teaches scout'
 tags:
   - Guildmasters
 ---
-A **well-travelled hobbit** teaches [scout](./thief.md)
-[skills](./skill.md) in the [Shire](./Shire.md). He can be
+A **well-travelled hobbit** teaches [scout](./Thief.md)
+[skills](./Skill.md) in the [Shire](./Shire.md). He can be
 usually be found wandering around in Hobbiton and the fields nearby.
 
 `A lean and well-travelled hobbit stands here, while resting his legs.`
@@ -18,9 +18,9 @@ usually be found wandering around in Hobbiton and the fields nearby.
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`dodge`](./dodge.md)`                    6  Hard`
-[`hide`](./hide.md)`                    12  Normal`
+[`dodge`](./Dodge.md)`                    6  Hard`
+[`hide`](./Hide.md)`                    12  Normal`
 [`missile`](./missile.md)`                  6  Normal`
-[`piercing weapons`](./piercing_weapons.md)`         4  Normal`
-[`search`](./search.md)`                   3  Normal`
-[`sneak`](./sneak.md)`                   18  Hard`
+[`piercing weapons`](./Piercing_weapons.md)`         4  Normal`
+[`search`](./Search.md)`                   3  Normal`
+[`sneak`](./Sneak.md)`                   18  Hard`

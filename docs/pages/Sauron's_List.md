@@ -5,21 +5,21 @@ description: 'Sauron''s list is a list of people acknowledged by'
 
 **Sauron's list** is a list of people acknowledged by
 [Sauron](./Sauron.md) as his followers, due to their chosen path
-of [player killing](./player_killing.md) other members of the free
+of [player killing](./Player_killing.md) other members of the free
 races ([dwarves](./dwarves.md), [elves](./elves.md),
 [humans](./human.md), [half-elves](./half-elves.md),
-[hobbits](./hobbit.md)).
+[hobbits](./Hobbit.md)).
 
 You may see the list's members by asking Sauron himself - using
-"[tell](./tell.md) sauron list".
+"[tell](./Tell.md) sauron list".
 
 A player who is on the list has Real-[Death](./Death.md), which
-means when they die they lose all [levels](./level.md) and regress
+means when they die they lose all [levels](./Level.md) and regress
 to level 1. Players on the list also get very evil
-[alignment](./alignment.md), and find themselves rather
+[alignment](./Alignment.md), and find themselves rather
 unpleasantly hunted by the guards of the Elven [towns](./town.md).
 They possibly have other towns revoke their
-[citizenship](./citizen.md) and give them the 'wanted, dead or
+[citizenship](./Citizen.md) and give them the 'wanted, dead or
 alive' status. [Tharbad](./Tharbad.md) is exempt from this.
 
 The point of having the list, is to focus the playerkilling on
@@ -39,7 +39,7 @@ someone who just stole his sword, or as vengeance for some wrong (within
 reason), like when legend groups have their own personal wars or
 quarrels, won't get listed. On the other hand, someone who is
 continually involved in killing other people and each time uses the "I'm
-[roleplaying](./roleplay.md)" excuse, will be listed since it's
+[roleplaying](./Roleplay.md)" excuse, will be listed since it's
 fairly obvious they are into it for the sake of killing.
 
 A player can be listed for as little as one kill, according to the
@@ -67,7 +67,7 @@ chance - after proving himself worthy of the Ainur's pardon. A pardoned
 pkiller who reverts to his murderous habits will be considered hopeless,
 and will stay on Sauron's list until death finally takes him.
 
-You can roleplay an evil [thief](./thief.md) if you want to, but
+You can roleplay an evil [thief](./Thief.md) if you want to, but
 you will face the list if you kill other whities. The reasons for the
 list are purely game-technical, and aren't based in roleplaying. Simply
 put, we want MUME to be a suitable mixture between a chaotic PK-mud and

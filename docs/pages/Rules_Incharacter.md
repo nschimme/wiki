@@ -10,7 +10,7 @@ the player but not to the character, should be posted. Thus
 1\. Mentioning "Level", "Exp" or some such stat-related quantities is
 wrong.
 
-2\. Posting about your [death](./death.md) is not allowed, even if
+2\. Posting about your [death](./Death.md) is not allowed, even if
 the game allows for reincarnation.
 
 3\. Mentioning things that are from the real world is not allowed. (For

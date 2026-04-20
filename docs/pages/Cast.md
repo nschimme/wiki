@@ -3,10 +3,10 @@ title: Cast
 description: 'Cast is a delayed command for issuing a magical'
 ---
 
-Cast is a [delayed](./delayed.md) command for issuing a magical
-[spell](./spell.md).
+Cast is a [delayed](./Delayed.md) command for issuing a magical
+[spell](./Spell.md).
 
-**cast \[\&lt;[effort](./effort.md)\&gt; 'spell name' \[&lt;target&gt;**
+**cast \[\&lt;[effort](./Effort.md)\&gt; 'spell name' \[&lt;target&gt;**
 
 Note that the name of the spell must be enclosed by apostrophes (').
 Also, the spell name doesn't need to be typed fully -
@@ -14,7 +14,7 @@ Also, the spell name doesn't need to be typed fully -
 'ench' sword).
 
 Since the quotes can be frustrating to type, most people set
-[aliases](./alias.md) for their commonly used spells:
+[aliases](./Alias.md) for their commonly used spells:
 
 `> alias mm cast normal '`[`magic missile`](./Magic_Missile.md)`'`
 
@@ -28,7 +28,7 @@ and some can have it as an optional parameter.
 `> cast 'strength' Elrond `
 `> cast 'colour spray' orc`
 
-If you already are in [combat](./combat.md), your opponent is
+If you already are in [combat](./Combat.md), your opponent is
 automatically set as the target for offensive spells without argument.
 
 \> cast 'lightning bolt' cavebear The lightning bolt hits the cavebear
@@ -37,20 +37,20 @@ lightning bolt hits the cavebear with full impact. the cavebear:Hurt\>
 
 ## Spell Knowledge
 
-Casting a spell uses up your [mana](./mana.md). The actual
+Casting a spell uses up your [mana](./Mana.md). The actual
 quantity used has a random component, which decreases if you
-[learn](./learn.md) the spell very well. It can be further reduced
-by wielding a [focus](./focus.md) staff.
+[learn](./Learn.md) the spell very well. It can be further reduced
+by wielding a [focus](./Focus.md) staff.
 
 Attempting a spell you don't know well, or that costs almost all your
-mana, is likely to result in a [backfire](./backfire.md). When you
+mana, is likely to result in a [backfire](./Backfire.md). When you
 start casting, you will be warned if the risk of backfire is higher than
 normal: you will receive the message "You muster all of your
 concentration..." instead of "You start to concentrate..."
 
 The level at which a spell is cast depends on the effective class level
 (mage or cleric), and the knowledge of the spell. Putting only a few
-practices on a [spell](./spell.md) can mean casting it at a lower
+practices on a [spell](./Spell.md) can mean casting it at a lower
 effective level, with lesser effects and higher mana cost. Hard to
 learn, high-level spells may require many practice sessions before you
 can even attempt to use them.
@@ -67,7 +67,7 @@ cast reliably with minimal mana and without backfire.
 ## Effort
 
 [Casting](./Cast.md) also takes an optional
-\&lt;[effort](./effort.md)\&gt; parameter, just before the name of the
+\&lt;[effort](./Effort.md)\&gt; parameter, just before the name of the
 spell. You can cast a spell more slowly but with greater effects, or
 quickly but with a higher chance of backfire. The possible efforts are:
 

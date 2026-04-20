@@ -4,8 +4,8 @@ description: 'Giant fungi are passive level &lt;10'
 tags:
   - Mobiles
 ---
-**Giant fungi** are passive [level](./level.md) \&lt;10
-[mobiles](./mobile.md).
+**Giant fungi** are passive [level](./Level.md) \&lt;10
+[mobiles](./Mobile.md).
 
 `An ancient fungus smothers the boulders.`
 `&gt;`**`examine fungus`**

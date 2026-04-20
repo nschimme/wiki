@@ -4,10 +4,10 @@ description: 'Orophin teaches ranger'
 tags:
   - Guildmasters
 ---
-**Orophin** teaches [ranger](./general.md)
-[skills](./skill.md) at [Caras
+**Orophin** teaches [ranger](./General.md)
+[skills](./Skill.md) at [Caras
 Galadhon](./Caras_Galadhon.md). He can usually be found
-[sneaking](./sneak.md) around in the western part of the city.
+[sneaking](./Sneak.md) around in the western part of the city.
 
 `Orophin, Lord of the Galadhrim, stands before you.`
 `>`**`examine Orophin`**
@@ -20,12 +20,12 @@ Galadhon](./Caras_Galadhon.md). He can usually be found
 ## Skill list
 
 `            Sessions  Difficulty`
-[`awareness`](./awareness.md)`         27  Normal`
-[`bandage`](./bandage.md)`           18  Easy`
-[`climb`](./climb.md)`             13  Very easy`
-[`command`](./command.md)`           12  Normal`
-[`leadership`](./leadership.md)`        12  Normal`
+[`awareness`](./Awareness.md)`         27  Normal`
+[`bandage`](./Bandage.md)`           18  Easy`
+[`climb`](./Climb.md)`             13  Very easy`
+[`command`](./Command.md)`           12  Normal`
+[`leadership`](./Leadership.md)`        12  Normal`
 [`ride`](./ride.md)`               6  Very easy`
-[`swim`](./swim.md)`               9  Very easy`
-[`track`](./track.md)`             14  Normal`
-[`wilderness`](./wilderness.md)`        18  Normal`
+[`swim`](./Swim.md)`               9  Very easy`
+[`track`](./Track.md)`             14  Normal`
+[`wilderness`](./Wilderness.md)`        18  Normal`

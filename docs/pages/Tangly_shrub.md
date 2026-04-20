@@ -4,8 +4,8 @@ description: 'Tangly shrubs are aggressive, evil'
 tags:
   - Plants
 ---
-**Tangly shrubs** are aggressive, [evil](./alignment.md)
-[level](./level.md) 14 [plants](./plant.md) found in
+**Tangly shrubs** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 14 [plants](./Plant.md) found in
 [Fangorn](./Fangorn.md).
 
 `A tangly shrub seems to rustle as if alert to its surroundings.`

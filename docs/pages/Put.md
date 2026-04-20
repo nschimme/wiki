@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-For **putting** objects in [containers](./container.md). Note that
+For **putting** objects in [containers](./Container.md). Note that
 the 'in', in the examples, is optional.
 
 Examples: \> put the dagger in the bag \> put all in bag (put everything

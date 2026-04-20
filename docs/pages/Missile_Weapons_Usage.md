@@ -6,13 +6,13 @@ tags:
   - Help files
   - Skills
 ---
-**Missile weapons** are one of the [weapon](./weapon.md) types on
+**Missile weapons** are one of the [weapon](./Weapon.md) types on
 [MUME](./MUME.md). Unlike most other weapon
-[skills](./skill.md), missile is a [thief](./thief.md)
+[skills](./Skill.md), missile is a [thief](./Thief.md)
 skill. To use a missile weapon (a [bow](./bow.md), a
-[crossbow](./crossbow.md) or a [sling](./sling.md)):
+[crossbow](./Crossbow.md) or a [sling](./Sling.md)):
 
-1\) Get some [missiles](./ammunition.md) of the correct type,
+1\) Get some [missiles](./Ammunition.md) of the correct type,
 arrows for a bow, bolts for a crossbow, stones for a sling;
 
 2\) Put them in a quiver, a bolt case or a pouch;
@@ -21,12 +21,12 @@ arrows for a bow, bolts for a crossbow, stones for a sling;
 
 4\) Wield a bow/crossbow/sling;
 
-5\) Ask your best [warrior](./warrior.md) friend to
+5\) Ask your best [warrior](./Warrior.md) friend to
 [buffer](./buffer.md) the opponent;
 
-6\) '[shoot](./shoot.md) nasty' until no arrows;
+6\) '[shoot](./Shoot.md) nasty' until no arrows;
 
-7\) '[recover](./recover.md)' the missiles from the corpse and
+7\) '[recover](./Recover.md)' the missiles from the corpse and
 from the ground.
 
 Advantages of a bow? You are not in the melee.
@@ -37,7 +37,7 @@ If your friend isn't around,
 
 6A) shoot it
 
-6B) [flee](./flee.md) or [escape](./escape.md), trying not
+6B) [flee](./Flee.md) or [escape](./Escape.md), trying not
 to take much damage (and repeat from 5A until it is dead, you are dead,
 you run out of arrows, etc.)
 

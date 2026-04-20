@@ -4,5 +4,5 @@ tags:
   - Skills
   - Thief
 ---
-[Thief](./Thief.md) [skills](./skill.md).
+[Thief](./Thief.md) [skills](./Skill.md).
  

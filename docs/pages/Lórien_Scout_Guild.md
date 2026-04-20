@@ -4,8 +4,8 @@ description: 'Celebrindal teaches scout'
 tags:
   - Guildmasters
 ---
-**Celebrindal** teaches [scout](./thief.md)
-[skills](./skill.md) at [Caras
+**Celebrindal** teaches [scout](./Thief.md)
+[skills](./Skill.md) at [Caras
 Galadhon](./Caras_Galadhon.md). She can be found wandering in the
 northern part of the city.
 
@@ -24,12 +24,12 @@ northern part of the city.
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`attack`](./attack.md)`                   8  Normal`
-[`dodge`](./dodge.md)`                   15  Hard`
-[`escape`](./escape.md)`                   8  Normal`
-[`hide`](./hide.md)`                     4  Normal`
+[`attack`](./Attack.md)`                   8  Normal`
+[`dodge`](./Dodge.md)`                   15  Hard`
+[`escape`](./Escape.md)`                   8  Normal`
+[`hide`](./Hide.md)`                     4  Normal`
 [`missile`](./missile.md)`                  6  Normal`
-[`pick`](./pick.md)`                     2  Normal`
-[`piercing weapons`](./piercing_weapons.md)`         8  Normal`
-[`search`](./search.md)`                   8  Normal`
-[`sneak`](./sneak.md)`                   20  Hard`
+[`pick`](./Pick.md)`                     2  Normal`
+[`piercing weapons`](./Piercing_weapons.md)`         8  Normal`
+[`search`](./Search.md)`                   8  Normal`
+[`sneak`](./Sneak.md)`                   20  Hard`

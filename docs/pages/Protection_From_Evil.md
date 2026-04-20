@@ -5,8 +5,8 @@ tags:
   - Cleric spells
   - Spells
 ---
-**Protection from Evil** is a level 4 [cleric](./cleric.md)
-[spell](./spell.md). It temporarily makes evil creatures less
+**Protection from Evil** is a level 4 [cleric](./Cleric.md)
+[spell](./Spell.md). It temporarily makes evil creatures less
 aggressive to you. Thus, it will take a little bit longer for them to
 attack you and if you are in the same [room](./room.md) with other
 players, who are not using this spell, [mobs](./mob.md) will

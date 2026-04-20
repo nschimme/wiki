@@ -18,6 +18,6 @@ feels quite heavy for its size.
 
 ## Other
 
-Casts [bless](./bless.md).
+Casts [bless](./Bless.md).
 
 <!--@include: ../includes/Items.md-->

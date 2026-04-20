@@ -6,8 +6,8 @@ tags:
   - Commands
 ---
 **Say**, **whisper** and **ask** can be used to communicate with players
-or [mobiles](./mobile.md) in the same [room](./room.md). For
-long-distance communication, use [tell](./tell.md).
+or [mobiles](./Mobile.md) in the same [room](./room.md). For
+long-distance communication, use [tell](./Tell.md).
 
 Say is heard by everyone in your room, while ask and whisper are only
 heard by the person who you are talking to.
@@ -32,9 +32,9 @@ Notes:
 <!-- -->
 
 - The outputs of 'say', 'whisper', 'ask' and
-  '[narrate](./narrate.md)' are influenced by the comprehension
-  level of the [language](./language.md) that is being used,
-  'tell' and '[emote](./emote.md)' are not.
+  '[narrate](./Narrate.md)' are influenced by the comprehension
+  level of the [language](./Language.md) that is being used,
+  'tell' and '[emote](./Emote.md)' are not.
 
 See also: [Tell](./Tell.md), [Emote](./Emote.md),
 [Narrate](./Narrate.md), [Ignore](./Ignore.md)

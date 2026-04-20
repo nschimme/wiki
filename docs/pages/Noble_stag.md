@@ -4,13 +4,13 @@ description: 'The noble stag is a passive level 10'
 tags:
   - Mobiles
 ---
-The **noble stag** is a passive [level](./level.md) 10
-[mobile](./mobile.md) who spawns in the forest northwest of
+The **noble stag** is a passive [level](./Level.md) 10
+[mobile](./Mobile.md) who spawns in the forest northwest of
 [Forlond](./Forlond.md). He will attempt to
-[flee](./flee.md) when low on health, and his
-[corpse](./corpse.md) can be [butchered](./butcher.md) to
-produce [antlers](./antlers.md), a [pelt](./fine_pelt.md)
-and some [meat](./meat.md). Acquiring these antlers is the
+[flee](./Flee.md) when low on health, and his
+[corpse](./Corpse.md) can be [butchered](./Butcher.md) to
+produce [antlers](./Antlers.md), a [pelt](./Fine_pelt.md)
+and some [meat](./Meat.md). Acquiring these antlers is the
 objective for the [quest](./Quest#The_Hunt.md) given by the elven
 trapper.
 

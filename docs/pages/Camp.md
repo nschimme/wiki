@@ -17,16 +17,16 @@ location.
 
 Campfires have both positive and negative effects:
 
-- They lower the chance of people getting [ill](./disease.md)
+- They lower the chance of people getting [ill](./Disease.md)
   while sleeping in cold places.
-- They allow you to [cook](./cook.md) food, if you are holding a
-  [pan](./pan.md).
+- They allow you to [cook](./Cook.md) food, if you are holding a
+  [pan](./Pan.md).
 - Most animals will shy away from a lit campfire.
 - Light and smoke from a campfire can be seen from far away (by typing
-  "[look](./look.md) around") and therefore reveal your position
+  "[look](./Look.md) around") and therefore reveal your position
   to everyone else in the proximity.
 
-Black Numenoreans can use the "camp [rent](./rent.md)" command in
+Black Numenoreans can use the "camp [rent](./Rent.md)" command in
 order to leave the game, as well as "camp rent retire", "camp offer",
 "camp offer retire".
 

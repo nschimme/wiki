@@ -6,9 +6,9 @@ tags:
   - Mage spells
   - Shaman spells
 ---
-**Chill Touch** is a [level](./level.md) 3 [mage](./mage.md)
-[spell](./spell.md). It deals a small amount of damage and lowers
-the target's [offensive bonus](./offensive_bonus.md) by 5. The
+**Chill Touch** is a [level](./Level.md) 3 [mage](./Mage.md)
+[spell](./Spell.md). It deals a small amount of damage and lowers
+the target's [offensive bonus](./Offensive_bonus.md) by 5. The
 spell text is 'qpurr hajqp'.
 
 Syntax : cast 'chill touch' \[victim Type : Offensive, physical

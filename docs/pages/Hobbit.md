@@ -10,8 +10,8 @@ Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*
 The origin of **hobbits** is uncertain, though it's known that they
 existed long before coming to their current main home in the
 [Shire](./Shire.md). Hobbits are a small folk, being about half
-the size of a [man](./man.md). They fear other
-[races](./race.md), treating them with superstition. However, they
+the size of a [man](./Man.md). They fear other
+[races](./Race.md), treating them with superstition. However, they
 are a very-strong willed people, who when forced to fight can do so with
 vigour. It's recorded how the Shire Hobbits managed to defend their home
 from an [Orcish](./Orc.md) attack many years ago. There are only
@@ -19,7 +19,7 @@ two known places where Hobbits are known to live, those being the
 original settlement of [Bree](./Bree.md), and the
 [Shire](./Shire.md). They are known as Halflings by the
 [Humans](./Man.md), and the Periannath by the
-[Elves](./elf.md).
+[Elves](./Elf.md).
 
 ## Hobbits in [Mume](./MUME.md)
 
@@ -27,7 +27,7 @@ Hobbits within Mume are in most respect identical to Tolkien's
 descriptions. They are, for obvious reasons, found in places other than
 the [Shire](./Shire.md) and [Bree](./Bree.md). With their
 quick reflexes and light bodies, they make ideal
-[thieves](./thief.md). This was grasped by Thorin II and his party
+[thieves](./Thief.md). This was grasped by Thorin II and his party
 when they took to finding a Hobbit to reclaim their lost home. They have
 the following modifications to other races:
 
@@ -63,7 +63,7 @@ this subrace has the following modifications:
   of Travel points.
 - For mixing [herblores](./herblores.md) they get a bonus for both
   success and possiblty to create 2 portions (allegedly equals +2
-  [kit](./herbal_kit.md) upgrades)
+  [kit](./Herbal_kit.md) upgrades)
 - [Smoking](./Smoking.md) pipe-weed will never fail and chance for
   higher mana gain is increased.
 

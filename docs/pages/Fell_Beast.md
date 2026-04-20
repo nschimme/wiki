@@ -7,7 +7,7 @@ Fell Beasts are the Darkie analog to the [Great
 Eagles](./Great_Eagle.md), which enable fast travelling over great
 distances.
 
-Calling requires a black amulet instead of a [focus](./focus.md)
+Calling requires a black amulet instead of a [focus](./Focus.md)
 item. The amulet is given by Sage for a Red Amulet which loads at
 Necromancer.
 

@@ -4,8 +4,8 @@ description: 'A crippled ranger teaches ranger'
 tags:
   - Guildmasters
 ---
-A **crippled ranger** teaches [ranger](./general.md)
-[skills](./skill.md) at the **Low Stone Cabin** in [Black
+A **crippled ranger** teaches [ranger](./General.md)
+[skills](./Skill.md) at the **Low Stone Cabin** in [Black
 Hill](./Black_Hill.md). He is looking for someone to retrieve
 [lost items](./Quest#Lost_and_Found.md) for villagers.
 
@@ -21,9 +21,9 @@ Hill](./Black_Hill.md). He is looking for someone to retrieve
 ## Skill list
 
 `            Sessions  Difficulty`
-[`bandage`](./bandage.md)`            4  Easy`
-[`climb`](./climb.md)`              4  Very easy`
+[`bandage`](./Bandage.md)`            4  Easy`
+[`climb`](./Climb.md)`              4  Very easy`
 [`ride`](./ride.md)`              10  Very easy`
-[`swim`](./swim.md)`               4  Very easy`
-[`track`](./track.md)`             15  Normal`
-[`wilderness`](./wilderness.md)`        12  Normal     `
+[`swim`](./Swim.md)`               4  Very easy`
+[`track`](./Track.md)`             15  Normal`
+[`wilderness`](./Wilderness.md)`        12  Normal     `

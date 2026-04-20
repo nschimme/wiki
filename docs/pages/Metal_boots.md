@@ -5,10 +5,10 @@ tags:
   - Metal equipment
   - Feet items
 ---
-**Metal boots** are worn on the [feet](./feet.md). They provide a
+**Metal boots** are worn on the [feet](./Feet.md). They provide a
 large amount of damage absorption and slightly decrease [dodge
-bonus](./dodge_bonus.md). They are worth around 3
-[gold](./gold.md) and 2 silver, and are sold by most armourers.
+bonus](./Dodge_bonus.md). They are worth around 3
+[gold](./Gold.md) and 2 silver, and are sold by most armourers.
 
 `>`**`examine boots`**
 `These boots are crafted out of skilfully hardened strips of a dark-coloured`

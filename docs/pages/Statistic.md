@@ -7,8 +7,8 @@ description: 'Strength redirects here. For the spell with the same name, see'
 [Strength Spell](./Strength_Spell.md).*
 
 **Statistics** are a set of numbers that describes your character.
-Statistics may depend on a character's level, [race](./race.md),
-[skills](./skill.md) practiced, age, and other factors.
+Statistics may depend on a character's level, [race](./Race.md),
+[skills](./Skill.md) practiced, age, and other factors.
 
 Most statistics depend on a character's **base abilities**:
 

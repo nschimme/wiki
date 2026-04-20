@@ -4,12 +4,12 @@ description: 'Smugglers are aggressive, evil'
 tags:
   - Mobiles
 ---
-**Smugglers** are aggressive, [evil](./alignment.md)
-[level](./level.md) ~10 [mobiles](./mobile.md), found in
+**Smugglers** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) ~10 [mobiles](./Mobile.md), found in
 various places around [Arda](./Arda.md), especially common in the
 areas near [Tharbad](./Tharbad.md). They load 15 silver, a
-[weapon](./weapon.md), usually a [shield](./shield.md) and
-some cloth [equipment](./equipment.md).
+[weapon](./Weapon.md), usually a [shield](./Shield.md) and
+some cloth [equipment](./Equipment.md).
 
 `A smuggler is here, angry at having been seen.`
 `>`**`examine smuggler`**

@@ -4,13 +4,13 @@ description: 'Brown bears are aggressive, evil'
 tags:
   - Mobiles
 ---
-**Brown bears** are aggressive, [evil](./alignment.md)
-[level](./level.md) 12 [mobs](./mob.md) found in various
+**Brown bears** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 12 [mobs](./mob.md) found in various
 places around [Arda](./Arda.md), often
-[hibernating](./sleep.md) in caves. Their
-[corpses](./corpse.md) can be [butchered](./butcher.md) to
-produce a [brown bear fur](./brown_bear_fur.md) and some
-[meat](./meat.md).
+[hibernating](./Sleep.md) in caves. Their
+[corpses](./Corpse.md) can be [butchered](./Butcher.md) to
+produce a [brown bear fur](./Brown_bear_fur.md) and some
+[meat](./Meat.md).
 
 `A big, brown, angry-looking bear is here.`
 `>`**`examine bear`**

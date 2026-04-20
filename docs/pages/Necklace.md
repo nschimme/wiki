@@ -3,7 +3,7 @@ title: Necklace
 description: 'For a list of all necklaces, see neck.'
 ---
 
-*For a list of all necklaces, see [neck](./neck.md).*
+*For a list of all necklaces, see [neck](./Neck.md).*
 
 \> **look necklace**
 
@@ -27,6 +27,6 @@ It weighs about one pound.
 ## Opinion
 
 This kind of necklace is rumoured to give some kind of protection vs
-[spells](./spells.md) of a certain class.
+[spells](./Spells.md) of a certain class.
 
 <!--@include: ../includes/Items.md-->

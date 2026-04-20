@@ -4,12 +4,12 @@ description: 'Young mountain lions are passive level 12'
 tags:
   - Mobiles
 ---
-**Young mountain lions** are passive [level](./level.md) 12
-[mobiles](./mobile.md) found mainly in the mountains around [Grey
-Havens](./Grey_Havens.md). They can [sneak](./sneak.md).
-Their [corpses](./corpse.md) can be
-[butchered](./butcher.md) to produce a [fine lion
-pelt](./fine_lion_pelt.md) and some [meat](./meat.md).
+**Young mountain lions** are passive [level](./Level.md) 12
+[mobiles](./Mobile.md) found mainly in the mountains around [Grey
+Havens](./Grey_Havens.md). They can [sneak](./Sneak.md).
+Their [corpses](./Corpse.md) can be
+[butchered](./Butcher.md) to produce a [fine lion
+pelt](./Fine_lion_pelt.md) and some [meat](./Meat.md).
 
 `A young mountain lion is sizing up his next meal from the nearby cover.`
 `>`**`examine lion`**

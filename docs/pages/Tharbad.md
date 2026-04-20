@@ -28,7 +28,7 @@ No human or beast will be admitted in the closed hours.
 (Sidenote: The gatekeeper has carelessly dropped the hint that he is
 rather low on funds. It is likely he will accept monetary gifts gladly.
 When you are stopped by the locked gate at night,
-"[call](./call.md)" and then "[bribe x gold](./bribe.md)".
+"[call](./Call.md)" and then "[bribe x gold](./bribe.md)".
 He may just be persuaded to open for your group.)
 
 Know however that these are but rumours.

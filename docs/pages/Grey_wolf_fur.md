@@ -18,6 +18,6 @@ It weighs twelve pounds.
 
 ## Other
 
-Slightly increases [offensive bonus](./offensive_bonus.md).
+Slightly increases [offensive bonus](./Offensive_bonus.md).
 
 <!--@include: ../includes/Items.md-->

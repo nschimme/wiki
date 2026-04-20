@@ -4,9 +4,9 @@ description: 'Great mottled felines are aggressive level'
 tags:
   - Mobiles
 ---
-**Great mottled felines** are aggressive [level](./level.md)
-~12-13 [mobiles](./mobile.md), found mostly in the vale of Anduin.
-They can [sneak](./sneak.md).
+**Great mottled felines** are aggressive [level](./Level.md)
+~12-13 [mobiles](./Mobile.md), found mostly in the vale of Anduin.
+They can [sneak](./Sneak.md).
 
 `A great feline is stalking here, blending into the terrain.`
 `>`**`examine feline`**

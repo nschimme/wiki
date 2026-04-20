@@ -15,7 +15,7 @@ It weighs about one pound.
 
 ## Other
 
-Provides the best [dodge bonus](./dodge_bonus.md) of items worn on
+Provides the best [dodge bonus](./Dodge_bonus.md) of items worn on
 the body.
 
 <!--@include: ../includes/Items.md-->

@@ -5,15 +5,15 @@ tags:
   - Spells
   - Cleric spells
 ---
-**Summon** is a level 8 [cleric](./cleric.md)
-[spell](./spell.md). It will transfer a creature or player to the
-location of the caster. The [equipment](./equipment.md) will
+**Summon** is a level 8 [cleric](./Cleric.md)
+[spell](./Spell.md). It will transfer a creature or player to the
+location of the caster. The [equipment](./Equipment.md) will
 remain at the original location. To transfer the equipment too, use the
 [Transfer](./Transfer.md) spell. It can be used to quickly get a
-needed [mobile](./mobile.md), like a horse or a potential charmie
+needed [mobile](./Mobile.md), like a horse or a potential charmie
 of some type. Because of the high mana cost, it is however rarely used.
 
-Wearing a [ring](./ring.md) (or collar for shape-shifting
+Wearing a [ring](./Ring.md) (or collar for shape-shifting
 [bears](./bear.md)) can protect against being summoned
 involuntarily.
 

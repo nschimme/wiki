@@ -6,9 +6,9 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Cure Critic** is a level 9 [cleric](./cleric.md)
-[spell](./spell.md). It will heal the most serious
-[wound](./wound.md) of the creature it is cast upon.
+**Cure Critic** is a level 9 [cleric](./Cleric.md)
+[spell](./Spell.md). It will heal the most serious
+[wound](./Wound.md) of the creature it is cast upon.
 
 Syntax : cast 'cure critic' \[victim Type : Healing Accumulative: N/A
 Duration : No Casting : Very long Position : Standing, fighting Level :

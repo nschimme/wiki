@@ -17,7 +17,7 @@ Now, this is important: *Only* the state decides how good the item is.
 The older an item is, the quicker its state will go down though. So - a
 (flawless, new) sword, is just as good as a (flawless, old) sword.
 
-Items that are timeworn or older cannot be [mended](./mend.md) in
+Items that are timeworn or older cannot be [mended](./Mend.md) in
 any way, and have little value.
 
 From News 2096 by Ilie.

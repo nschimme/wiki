@@ -7,12 +7,12 @@ tags:
 ---
 Syntax: **recite** &lt;scroll&gt; \[recipient
 
-This command is used to "read" a magical [scroll](./scroll.md).
+This command is used to "read" a magical [scroll](./Scroll.md).
 Target can be an object, character or nothing (which may be yourself).
 The keyword to use the scroll can be any of the keywords that the scroll
 has.
 
-NOTE: For playability, [black scrolls](./black_scroll.md) and
+NOTE: For playability, [black scrolls](./Black_scroll.md) and
 [blue scrolls](./blue_scroll.md) can be activated by using
 blackscroll/bluescroll as keywords.
 

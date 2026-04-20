@@ -5,9 +5,9 @@ tags:
   - Help files
   - Commands
 ---
-For use in inns. The command '[offer](./offer.md)' will make the
+For use in inns. The command '[offer](./Offer.md)' will make the
 innkeeper tell you the cost of storing your carried items for one (real
-life) day. '[rent](./rent.md)' will store the items and make you
+life) day. '[rent](./Rent.md)' will store the items and make you
 leave the game. The next time you enter, you'll start out in the inn
 where you left. The inn will store your items as long as you have the
 gold to pay the rent. Money will be automatically taken out of moneybags
@@ -25,7 +25,7 @@ the forsaken city of Tharbad, while good players should journey to
 places such as the fair [Rivendell](./Rivendell.md).
 
 You can also use the 'rent' command to rent your mobiles (e.g. horses)
-at stables. Move to a stable, and type 'rent \&lt;[pet](./pet.md)\&gt;'
+at stables. Move to a stable, and type 'rent \&lt;[pet](./Pet.md)\&gt;'
 in order to do this. You have to lead or ride the mobile you want to
 rent.
 

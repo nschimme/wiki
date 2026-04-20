@@ -4,7 +4,7 @@ description: 'Vestri teaches scout skills'
 tags:
   - Guildmasters
 ---
-**Vestri** teaches [scout](./scout.md) [skills](./skill.md)
+**Vestri** teaches [scout](./Scout.md) [skills](./Skill.md)
 at the **Scout Guild** in [Blue Mountains](./Blue_Mountains.md).
 
 `A dwarf trains scouts in the arts of stealth.`
@@ -16,12 +16,12 @@ at the **Scout Guild** in [Blue Mountains](./Blue_Mountains.md).
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`attack`](./attack.md)`                   3  Normal`
-[`dodge`](./dodge.md)`                    6  Hard`
-[`escape`](./escape.md)`                   4  Normal`
-[`hide`](./hide.md)`                     3  Normal`
+[`attack`](./Attack.md)`                   3  Normal`
+[`dodge`](./Dodge.md)`                    6  Hard`
+[`escape`](./Escape.md)`                   4  Normal`
+[`hide`](./Hide.md)`                     3  Normal`
 [`missile`](./missile.md)`                  3  Normal`
-[`pick`](./pick.md)`                    16  Normal`
-[`piercing weapons`](./piercing_weapons.md)`         4  Normal`
-[`search`](./search.md)`                   4  Normal`
-[`sneak`](./sneak.md)`                    3  Hard`
+[`pick`](./Pick.md)`                    16  Normal`
+[`piercing weapons`](./Piercing_weapons.md)`         4  Normal`
+[`search`](./Search.md)`                   4  Normal`
+[`sneak`](./Sneak.md)`                    3  Hard`

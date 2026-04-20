@@ -4,10 +4,10 @@ description: 'The butcher knife is a piercing weapon'
 tags:
   - Piercing weapons
 ---
-The **butcher knife** is a [piercing weapon](./piercing_weapon.md)
-that can also be used to [butcher](./butcher.md)
-[corpses](./corpse.md) when [wielded](./wield.md) or worn on
-a [belt](./belt.md). It is worth around 5
+The **butcher knife** is a [piercing weapon](./Piercing_weapon.md)
+that can also be used to [butcher](./Butcher.md)
+[corpses](./Corpse.md) when [wielded](./Wield.md) or worn on
+a [belt](./Belt.md). It is worth around 5
 [silver](./silver.md) and is sold by most weaponsmiths.
 
 `>`**`look knife`**

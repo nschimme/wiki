@@ -4,7 +4,7 @@ description: 'Imposing beech trees are level 19'
 tags:
   - Ents
 ---
-**Imposing beech trees** are [level](./level.md) 19
+**Imposing beech trees** are [level](./Level.md) 19
 [Ents](./Ent.md) found in [Fangorn](./Fangorn.md).
 
 `An imposing beech tree sways gently in the wind.`

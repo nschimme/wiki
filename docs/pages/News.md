@@ -6,8 +6,8 @@ tags:
   - Commands
 ---
 The **News** command allows you to see important information about the
-game. It can be read on special news [boards](./board.md)
-available in every [city](./city.md) but it can also be checked
+game. It can be read on special news [boards](./Board.md)
+available in every [city](./City.md) but it can also be checked
 from anywhere on [Arda](./Arda.md). For reading news away from
 boards use the following commands:
 
@@ -36,7 +36,7 @@ Example:
 
 News are archived after a RL year: these entries will not be listed in
 'news' and will be displayed last by 'news next'. See
-[board](./board.md) for more information.
+[board](./Board.md) for more information.
 
 You can also receive the latest news via the [RSS](./RSS.md) feed.
 

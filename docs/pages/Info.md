@@ -7,7 +7,7 @@ tags:
 ---
 The **info** command will give you large amounts of information about
 your character. If you want only limited information
-[score](./score.md) or [stat](./stat.md) is much better
+[score](./Score.md) or [stat](./stat.md) is much better
 since they provide less spam.
 
 The info command accepts an additional format parameter that lets you

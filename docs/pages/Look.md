@@ -21,10 +21,10 @@ Examples:
 Note that if you 'look' at a container you will not see its contents,
 but its description.
 
-Important: 'look at [corpse](./corpse.md)' will not show the
-[inventory](./inventory.md) of the corpse! To see what is inside a
-[container](./container.md) (e.g. corpse, pouch, ...) use
-'[examine](./examine.md) &lt;container&gt;' or 'look in &lt;object&gt;'.
+Important: 'look at [corpse](./Corpse.md)' will not show the
+[inventory](./Inventory.md) of the corpse! To see what is inside a
+[container](./Container.md) (e.g. corpse, pouch, ...) use
+'[examine](./Examine.md) &lt;container&gt;' or 'look in &lt;object&gt;'.
 
 "look around" will search your surrounding [rooms](./room.md) for
 light or smoke.

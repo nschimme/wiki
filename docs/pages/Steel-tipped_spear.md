@@ -24,10 +24,10 @@ It weighs three pounds.
 ## Other
 
 This is an often under used weapon, the keep-at-bay feature of the
-[stabbing weapons](./stabbing_weapon.md) group is very powerful
+[stabbing weapons](./Stabbing_weapon.md) group is very powerful
 when harnessed correctly. Although the Steel-tipped spear is difficult
-to obtain, once [enchanted](./enchant.md) it is a firm rival to
-any [slashing weapon](./slashing_weapon.md) for all
-[classes](./class.md).
+to obtain, once [enchanted](./Enchant.md) it is a firm rival to
+any [slashing weapon](./Slashing_weapon.md) for all
+[classes](./Class.md).
 
 <!--@include: ../includes/Items.md-->

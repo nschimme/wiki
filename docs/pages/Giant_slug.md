@@ -4,10 +4,10 @@ description: 'Giant slugs are aggressive, evil'
 tags:
   - Mobiles
 ---
-**Giant slugs** are aggressive, [evil](./alignment.md)
-[level](./level.md) 9 [mobiles](./mobile.md), found in
+**Giant slugs** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 9 [mobiles](./Mobile.md), found in
 various locations around [Arda](./Arda.md). They have an acid
-attack that can [damage](./state.md) equipment.
+attack that can [damage](./State.md) equipment.
 
 `A giant slug is here, oozing around.`
 `>`**`examine slug`**

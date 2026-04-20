@@ -4,11 +4,11 @@ description: 'Rafts are a common type of boat, often found near'
 tags:
   - Boats
 ---
-**Rafts** are a common type of [boat](./boat.md), often found near
-[waterways](./waterways.md). They can also be bought from
-[Captains](./Captain.md) for around 5 [silver](./gold.md).
+**Rafts** are a common type of [boat](./Boat.md), often found near
+[waterways](./Waterways.md). They can also be bought from
+[Captains](./Captain.md) for around 5 [silver](./Gold.md).
 Their heavy weight makes them somewhat cumbersome to carry around,
-meaning other boats such as [canoes](./canoe.md) are generally
+meaning other boats such as [canoes](./Canoe.md) are generally
 preferable options.
 
 `A raft has been left here.`

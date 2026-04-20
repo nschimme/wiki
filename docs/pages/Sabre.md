@@ -3,7 +3,7 @@ title: Sabre
 description: 'The sabre is a slashing weapon. It is'
 ---
 
-The **sabre** is a [slashing weapon](./slashing_weapon.md). It is
+The **sabre** is a [slashing weapon](./Slashing_weapon.md). It is
 worth around 15 [silver](./silver.md), and is sold by most
 weaponsmiths.
 

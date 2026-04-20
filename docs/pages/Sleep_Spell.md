@@ -3,13 +3,13 @@ title: Sleep Spell
 description: 'Sleep is a level 14 mage'
 ---
 
-**Sleep** is a level 14 [mage](./mage.md)
-[spell](./spell.md). If successfully [cast](./cast.md) on a
+**Sleep** is a level 14 [mage](./Mage.md)
+[spell](./Spell.md). If successfully [cast](./Cast.md) on a
 creature, it will fall asleep and be unable to awake for some time.
 Sleep is primarily used to deactivate tough
-[mobiles](./mobile.md). It can also be used on players. Use on
+[mobiles](./Mobile.md). It can also be used on players. Use on
 players is uncommon since it is such a long casting time, unless they
-[store](./store.md) it. Many characters also have a good will
+[store](./Store.md) it. Many characters also have a good will
 defence to protect them.
 
 Syntax : cast 'sleep' \&lt;person or mobile\&gt; Type : Offensive, mental

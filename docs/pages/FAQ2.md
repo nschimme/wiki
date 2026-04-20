@@ -7,14 +7,14 @@ tags:
 **Q: I have to go. How do I keep my stuff?**
 
 A: You have to find an [Inn](./Inn.md), go to the innkeeper, and
-type '[rent](./rent.md)'. This will allow you to keep your
-[equipment](./equipment.md), [food](./food.md),
-[weapon](./weapon.md), etc. - assuming you have enough rent
+type '[rent](./Rent.md)'. This will allow you to keep your
+[equipment](./Equipment.md), [food](./Food.md),
+[weapon](./Weapon.md), etc. - assuming you have enough rent
 [money](./money.md)!
 
 **Q: Suppose I just type 'quit' instead?**
 
-A: If you type '[quit](./quit.md)', all your stuff falls on the
+A: If you type '[quit](./Quit.md)', all your stuff falls on the
 ground in a big pile! You keep your money but are otherwise naked. You
 probably want to avoid this.
 
@@ -26,7 +26,7 @@ money and lose ALL your possessions.
 
 **Q: How do I find out if I have enough money to rent?**
 
-A: When you are at the innkeeper, type '[offer](./offer.md)'. He
+A: When you are at the innkeeper, type '[offer](./Offer.md)'. He
 will tell you how long you can stay, in Real-Life time. If he says 'six
 days', that is six real days, not six MUME days.
 
@@ -54,7 +54,7 @@ deleted?**
 
 A: NO. Characters are automatically deleted when they haven't been
 played for a length of time which depends on your
-[level](./level.md). A level 1 character will be deleted after a
+[level](./Level.md). A level 1 character will be deleted after a
 couple days. A level 2 character will last for five days; a level 3 for
 10, and so on. The amount of rent money you have does not affect this.
 [Legend](./Legend.md) characters (26 or more) will never delete.

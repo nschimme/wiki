@@ -4,14 +4,14 @@ description: 'Pack horses are level 6'
 tags:
   - Mobiles
 ---
-**Pack horses** are [level](./level.md) 6
+**Pack horses** are [level](./Level.md) 6
 [rideable](./ride.md) [mobs](./mob.md), found in various
 places around [Arda](./Arda.md). Pack horses are probably the most
-often used [mount](./mount.md) for the larger
-[races](./race.md) among the Free People, due to being commonly
+often used [mount](./Mount.md) for the larger
+[races](./Race.md) among the Free People, due to being commonly
 available, stronger than [mules](./mule.md) or
 [ponies](./pony.md), and more reliable than
-[horses](./horse.md).
+[horses](./Horse.md).
 
 `A sturdy pack horse is standing here.`
 `>`**`examine horse`**

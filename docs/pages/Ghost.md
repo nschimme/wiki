@@ -21,6 +21,6 @@ float softly above the ground.
 Level: 15
 
 Ghosts are hostile. They are incorporeal and cannot be
-[bashed](./bash.md).
+[bashed](./Bash.md).
 
 Loot: None.

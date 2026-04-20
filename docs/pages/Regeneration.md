@@ -5,12 +5,12 @@ tags:
   - Help files
 ---
 The rate of which your character **regenerates** [hit
-points](./hit_points.md), [mana](./mana.md) and [movement
-points](./movement_points.md) is determined by a number of
+points](./Hit_points.md), [mana](./Mana.md) and [movement
+points](./Movement_points.md) is determined by a number of
 factors. Your base [abilities](./abilities.md) are important, as
-are your [race](./race.md) and your [age](./age.md), your
+are your [race](./Race.md) and your [age](./Age.md), your
 being hungry or thirsty and your position ([standing](./stand.md),
-sitting, [sleeping](./sleep.md)...)
+sitting, [sleeping](./Sleep.md)...)
 
 
 ::: details Spoiler
@@ -21,7 +21,7 @@ The formula for mana regeneration is pretty close to:
 where
 
 - (race bonus) is 0 for human, 1 for half-elf, 2 for elf
-- (age bonus) can be found in [age](./age.md) (e.g., +3 at 3rd age
+- (age bonus) can be found in [age](./Age.md) (e.g., +3 at 3rd age
   and +6 at 4th age)
 - (EQ bonus) can be found from identify (e.g., [a golden ruby
   ring](./Other_equipment.md) is +4).

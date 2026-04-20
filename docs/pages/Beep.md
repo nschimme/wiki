@@ -6,12 +6,12 @@ tags:
   - Commands
 ---
 The **beep** command lets you catch the attention of a player even if he
-is [asleep](./sleep.md). Do not abuse this command.
+is [asleep](./Sleep.md). Do not abuse this command.
 
 Example:
 
 `> beep Gandalf`
 
-With '[change](./change.md) beep' you can set whether you want
+With '[change](./Change.md) beep' you can set whether you want
 other players to be able to beep you.
  

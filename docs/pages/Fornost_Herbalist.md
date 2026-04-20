@@ -6,7 +6,7 @@ tags:
 ---
 An **elderly herbalist** tends to the **Herb Shop** in
 [Fornost](./Fornost.md). The store is open 6am - 12pm and 1pm -
-7pm. Due to a shortage of [herbs](./herb.md) in the area, prices
+7pm. Due to a shortage of [herbs](./Herb.md) in the area, prices
 are higher here than in most other herb shops. However, the herbalist is
 also willing to pay more for any herbs you sell him.
 

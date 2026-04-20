@@ -6,7 +6,7 @@ tags:
   - Cleric spells
 ---
 **Sanctuary** (often abbreviated *sanc*) is a level 18
-[cleric](./cleric.md) [spell](./spell.md). If cast on a
+[cleric](./Cleric.md) [spell](./Spell.md). If cast on a
 player it limits the maximum hit point damage that the player can suffer
 per hit. It is primarily used to protect players when attacking very
 dangerous and hard hitting [mobs](./mob.md). The maximum hit point

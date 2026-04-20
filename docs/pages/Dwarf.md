@@ -15,11 +15,11 @@ strongholds of Dwarves are in the East.
 ## Dwarves in [MUME](./MUME.md)
 
 Although short, they contain a great strength and hence can make
-excellent [warriors](./warrior.md). They can carry a heavier load
-on their shoulders than other [races](./race.md) without
+excellent [warriors](./Warrior.md). They can carry a heavier load
+on their shoulders than other [races](./Race.md) without
 exhausting themselves. Their stoutness, however, reduces their agility,
 and for this reason they tend to make terrible
-[thieves](./thief.md). Being short, Dwarves do not find themselves
+[thieves](./Thief.md). Being short, Dwarves do not find themselves
 at ease when mounting horses.
 
 They speak their native language of [Khuzdul](./Khuzdul.md), as

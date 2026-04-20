@@ -6,8 +6,8 @@ tags:
   - Mage spells
   - Shaman spells
 ---
-**Control Weather** is a [level](./level.md) 10
-[mage](./mage.md) [spell](./spell.md). The main use of this
+**Control Weather** is a [level](./Level.md) 10
+[mage](./Mage.md) [spell](./Spell.md). The main use of this
 spell is to create lightning storms to enable [Call
 Lightning](./Call_Lightning.md).
 
@@ -16,7 +16,7 @@ Accumulative: Yes Duration : No Casting : Extremely long Position :
 Standing Level : Level 10 Class : Magic User Min. Mana : 25
 
 This spell will change the "course" of the current local
-[weather](./weather.md). &lt;effect&gt; describes the desired result,
+[weather](./Weather.md). &lt;effect&gt; describes the desired result,
 possible effects are:
 
 ` clouds more          temperature lower         fog increase`

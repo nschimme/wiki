@@ -14,8 +14,8 @@ the delay.
 
 Some cancelable delayed commands are:
 
-- [track](./track.md), [backstab](./backstab.md),
-  [kick](./kick.md), [bash](./bash.md),
-  [reveal](./reveal.md), [search](./search.md), [pick
-  lock](./pick.md), [escape](./escape.md),
-  [steal](./steal.md), [cast](./cast.md).
+- [track](./Track.md), [backstab](./Backstab.md),
+  [kick](./Kick.md), [bash](./Bash.md),
+  [reveal](./Reveal.md), [search](./Search.md), [pick
+  lock](./Pick.md), [escape](./Escape.md),
+  [steal](./Steal.md), [cast](./Cast.md).

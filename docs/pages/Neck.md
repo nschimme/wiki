@@ -12,19 +12,19 @@ neck provide the user with some protection against magic.
 
 - [bright red amulet](./bright_red_amulet.md)
 - [black amulet](./black_amulet.md)
-- [necklace](./necklace.md)
+- [necklace](./Necklace.md)
 - [old length of iron chain](./old_length_of_iron_chain.md)
-- [small crystal phial](./small_crystal_phial.md)
+- [small crystal phial](./Small_crystal_phial.md)
 - [pale blue stone](./pale_blue_stone.md)
 
 ## Ordinary
 
-- [blackened pendant](./blackened_pendant.md)
+- [blackened pendant](./Blackened_pendant.md)
 - [spiked collar](./spiked_collar.md)
-- [studded leather collar](./studded_leather_collar.md)
+- [studded leather collar](./Studded_leather_collar.md)
 - [chequered scarf](./chequered_scarf.md)
-- [plain scarf](./plain_scarf.md)
-- [red ruby](./red_ruby.md)
-- [sun-emblazoned cloakpin](./sun-emblazoned_cloakpin.md)
+- [plain scarf](./Plain_scarf.md)
+- [red ruby](./Red_ruby.md)
+- [sun-emblazoned cloakpin](./Sun-emblazoned_cloakpin.md)
 
 <!--@include: ../includes/Items.md-->

@@ -4,7 +4,7 @@ description: 'Weapons are items that can be wielded. While you can use the'
 ---
 
 **Weapons** are items that can be wielded. While you can use the
-'[wield](./wield.md)' command on other types of items, only
+'[wield](./Wield.md)' command on other types of items, only
 weapons will be shown on your equipment list as &lt;wielded&gt;. Other items
 will be shown as &lt;held&gt;. Types of weaponry in [MUME](./MUME.md)
 are: [missile](./Missile_weapon.md),

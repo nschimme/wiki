@@ -4,7 +4,7 @@ description: 'A thief teaches thief skills'
 tags:
   - Guildmasters
 ---
-A **thief** teaches [thief](./thief.md) [skills](./skill.md)
+A **thief** teaches [thief](./Thief.md) [skills](./Skill.md)
 at the **Freebooters' Society** in [Bree](./Bree.md).
 
 `A thief is waiting here to teach his art.`
@@ -16,12 +16,12 @@ at the **Freebooters' Society** in [Bree](./Bree.md).
 ## Skill list
 
 `                  Sessions  Difficulty  `
-[`attack`](./attack.md)`                   2  Normal      `
-[`dodge`](./dodge.md)`                    3  Hard        `
-[`hide`](./hide.md)`                     3  Normal      `
+[`attack`](./Attack.md)`                   2  Normal      `
+[`dodge`](./Dodge.md)`                    3  Hard        `
+[`hide`](./Hide.md)`                     3  Normal      `
 [`missile`](./missile.md)`                  3  Normal      `
-[`pick`](./pick.md)`                     1  Normal      `
-[`piercing weapons`](./piercing_weapons.md)`         6  Normal      `
-[`search`](./search.md)`                   1  Normal      `
-[`sneak`](./sneak.md)`                    3  Hard        `
-[`steal`](./steal.md)`                    3  Normal`
+[`pick`](./Pick.md)`                     1  Normal      `
+[`piercing weapons`](./Piercing_weapons.md)`         6  Normal      `
+[`search`](./Search.md)`                   1  Normal      `
+[`sneak`](./Sneak.md)`                    3  Hard        `
+[`steal`](./Steal.md)`                    3  Normal`

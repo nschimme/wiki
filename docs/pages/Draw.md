@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 Walking about a [town](./town.md) with your
-[weapon](./weapon.md) **drawn** might draw unwanted attention from
+[weapon](./Weapon.md) **drawn** might draw unwanted attention from
 the guards. Play safe, keep your weapon **sheathed**.
 
 Wearing a sheath, you can use the commands 'draw' and 'sheathe'. Both
@@ -19,7 +19,7 @@ Example: \> draw sheath (would make you draw the weapon in the sheath)
 can also draw [bows](./bow.md) you are wearing (across your back
 e.g.) with 'draw &lt;bow&gt;' and weapons in inventory with 'draw &lt;weapon&gt;'.
 
-If you're [wielding](./wield.md) a weapon when trying to draw a
+If you're [wielding](./Wield.md) a weapon when trying to draw a
 new one, the wielded one will be automatically sheathed if there is a
 free sheath, or hung on your back if applicable (for bows). If that is
 impossible, it will be put in your inventory.

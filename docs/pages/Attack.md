@@ -5,10 +5,10 @@ tags:
   - Thief skills
   - Skills
 ---
-**Attack** is a [thief](./thief.md) [skill](./skill.md) that
+**Attack** is a [thief](./Thief.md) [skill](./Skill.md) that
 allows you to hit twice in a combat round, if you wield a suitable
 ([piercing](./piercing.md)) weapon. It also speeds up your
-[fleeing](./flee.md) attempts independently of what weapon you are
+[fleeing](./Flee.md) attempts independently of what weapon you are
 wielding.
 
 Note that whilst most skills decay with disuse, the attack skill is less

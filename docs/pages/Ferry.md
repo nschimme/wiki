@@ -5,8 +5,8 @@ tags:
   - Help files
 ---
 **Ferries** are a comfortable way of crossing a [body of
-water](./waterways.md) when a bridge is not available or using
-[boats](./boat.md) is impractical. There are several ferries on
+water](./Waterways.md) when a bridge is not available or using
+[boats](./Boat.md) is impractical. There are several ferries on
 [Arda](./Arda.md); some are quite large and charge passengers for
 passage; others are hand-operated by the user and free.
 

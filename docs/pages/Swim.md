@@ -7,9 +7,9 @@ tags:
   - Help files
   - Commands
 ---
-**Swimming** is a [ranger](./general.md) [skill](./skill.md)
+**Swimming** is a [ranger](./General.md) [skill](./Skill.md)
 that allows you to enter rivers and lakes without a
-[boat](./boat.md) and survive. It is also the only way to enter
+[boat](./Boat.md) and survive. It is also the only way to enter
 underwater places.
 
 Your swimming skill will be checked each time you enter the water, when

@@ -4,9 +4,9 @@ description: 'The castle key can be used to unlock some doors'
 tags:
   - Keys
 ---
-The **castle key** can be used to unlock some [doors](./door.md)
+The **castle key** can be used to unlock some [doors](./Door.md)
 within [Malardil's castle](./Malardil's_castle.md). It loads on
-the [diminutive rogue](./diminutive_rogue.md) on the roof of the
+the [diminutive rogue](./Diminutive_rogue.md) on the roof of the
 guardpost south of the main gate, as well as
 [Malardil](./Malardil.md) himself.
 

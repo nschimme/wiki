@@ -8,10 +8,10 @@ tags:
 *For a list of commands useable in the game, see
 [commands](./commands.md).*
 
-**Command** is a [ranger](./general.md) [skill](./skill.md).
+**Command** is a [ranger](./General.md) [skill](./Skill.md).
 This skill defines your ability to impose your will on a
-[pet](./pet.md) or a [charmed](./charm.md) person or
-monster, that is, how well you are able to [order](./order.md) it
+[pet](./Pet.md) or a [charmed](./Charm.md) person or
+monster, that is, how well you are able to [order](./Order.md) it
 to do something (fight, for instance) at your command.
 
 ## See also

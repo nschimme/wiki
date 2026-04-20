@@ -7,14 +7,14 @@ tags:
 ---
 Syntax: hide &lt;effort&gt;, one of quickly/fast/normally/carefully/thoroughly
 
-**Hide** is a [thief](./thief.md) [skill](./skill.md). When
+**Hide** is a [thief](./Thief.md) [skill](./Skill.md). When
 you type hide there is a chance that you hide in the
 [room](./room.md). If hidden, nothing can be done to you until you
 are found, or you stop hiding. You stop hiding if you move; you can be
-found if someone [searches](./search.md) for you, or if you
+found if someone [searches](./Search.md) for you, or if you
 perform most actions (for example if you speak). Other people may or may
 not notice that someone is hidden, depending on a number of different
-factors (skills, [spells](./spell.md) and attributes), but won't
+factors (skills, [spells](./Spell.md) and attributes), but won't
 be able to do anything to you until you are found (area-wide attacks,
 like earthquake, are an exception).
 
@@ -44,7 +44,7 @@ Example:
 HIDE &lt;object&gt;
 
 You can try to hide an object in a room. This object will stay there
-unless [discovered](./reveal.md) by another player. Hidden objects
+unless [discovered](./Reveal.md) by another player. Hidden objects
 won't survive crashes and reboots. It is said that they can be stolen
 from time to time by evil spirits, but nobody knows for sure.
 

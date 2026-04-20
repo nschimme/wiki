@@ -35,13 +35,13 @@ and handing out [newbie kits](./newbie_kit.md).
 
 Helping with fixing typoes, trying out creating a test-zone and various
 other tasks promotes an Ainur to become a Cartographer. Getting your own
-[zone](./zone.md) to build also does this.
+[zone](./Zone.md) to build also does this.
 
-Completing a [zone](./zone.md), buildingwise with all geography
+Completing a [zone](./Zone.md), buildingwise with all geography
 and [descriptions](./room_description.md) complete can promote the
 Cartographer towards Builder.
 
-When your [zone](./zone.md) opens, the builder can be promoted to
+When your [zone](./Zone.md) opens, the builder can be promoted to
 Wright.
 
 Higher levels can be applied for, and if an opening exist a Wright can
@@ -52,7 +52,7 @@ be recruited and trained.
 The Valar levels [Mudller](./Mudller.md) and
 [Architect](./Architect.md) differ in level, but not in power.
 They are practically the same level but with different job descriptions.
-Mudllers write [mudlle](./mudlle.md)-code and Architects supervise
+Mudllers write [mudlle](./Mudlle.md)-code and Architects supervise
 builders.
 
 ## Aratar

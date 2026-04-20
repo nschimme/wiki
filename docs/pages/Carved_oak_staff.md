@@ -5,12 +5,12 @@ tags:
   - Smiting weapons
 ---
 The **carved oak staff** is a [two-handed
-weapon](./two-handed_weapon.md) that can also be held in the
+weapon](./Two-handed_weapon.md) that can also be held in the
 off-hand and used for defence. It is created from a [perfect oak
-branch](./perfect_oak_branch.md) by the
-[carpenter](./carpenter.md). When [blessed](./bless.md) and
-[enchanted](./enchant.md), it can be combined with a [blue
-crystal](./blue_crystal.md) to [focus](./focus.md) it.
+branch](./Perfect_oak_branch.md) by the
+[carpenter](./Carpenter.md). When [blessed](./Bless.md) and
+[enchanted](./Enchant.md), it can be combined with a [blue
+crystal](./Blue_crystal.md) to [focus](./Focus.md) it.
 
 `A polished oaken staff lies here.`
 `>`**`examine staff`**
@@ -29,14 +29,14 @@ crystal](./blue_crystal.md) to [focus](./focus.md) it.
 
 `Atop the staff, a bronze claw holds a large blue crystal, which glows faintly.`
 
-A focused [staff](./staff.md) functions as a light source and
+A focused [staff](./Staff.md) functions as a light source and
 decreases the chance for enemies to resist your
-[spells](./spell.md). Some [items](./item.md) can be
-[embedded](./embed.md) in the staff to empower it further. The
+[spells](./Spell.md). Some [items](./Item.md) can be
+[embedded](./Embed.md) in the staff to empower it further. The
 list of items is as follows:
 
 **`Item`**`                   `**`Effect`**`              `**`Description when embedded`**
-[`Iron bar`](./Bar_of_iron.md)`               +`[`ob`](./offensive_bonus.md)` and `[`pb`](./parry_bonus.md)`          its foot is shod with iron`
+[`Iron bar`](./Bar_of_iron.md)`               +`[`ob`](./Offensive_bonus.md)` and `[`pb`](./Parry_bonus.md)`          its foot is shod with iron`
 [`Huge silver bracer`](./Huge_silver_bracer.md)`     +ob and pb          silvery bands encircle it from top to bottom`
 [`Chunk of metal`](./Chunk_of_metal.md)`         +ob and pb          an orb of black metal surrounds its tip`
 [`Lustrous opal`](./Lustrous_opal.md)`          +attack spell power lustrous fire opal has been inlaid in it`

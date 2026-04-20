@@ -4,8 +4,8 @@ description: 'The small metal shield is a lightweight shield'
 tags:
   - Shields
 ---
-The **small metal shield** is a lightweight [shield](./shield.md)
-that gives a mediocre amount of [parry bonus](./parry_bonus.md).
+The **small metal shield** is a lightweight [shield](./Shield.md)
+that gives a mediocre amount of [parry bonus](./Parry_bonus.md).
 It is worth around 9 [silver](./silver.md) and 50 copper, and is
 sold by most weaponsmiths.
 

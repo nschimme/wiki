@@ -4,8 +4,8 @@ description: 'Huge, frothing bears are aggressive level ~14'
 tags:
   - Mobiles
 ---
-**Huge, frothing bears** are aggressive [level](./level.md) ~14
-[mobiles](./mobile.md), found mostly in the vale of Anduin.
+**Huge, frothing bears** are aggressive [level](./Level.md) ~14
+[mobiles](./Mobile.md), found mostly in the vale of Anduin.
 
 `A huge black bear, saliva frothing from its jaws, bellows a challenge.`
 `>`**`examine bear`**

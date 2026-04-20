@@ -7,13 +7,13 @@ tags:
 ![Uruk-hai](/img/Uruk-hai.jpg) **Orcs**, also known as
 **Goblins**, are foul creatures that were created by Morgoth in the
 First Age. Through his evil power, it is said he corrupted the beautiful
-[Elves](./elf.md) and transformed them into his servants of evil,
+[Elves](./Elf.md) and transformed them into his servants of evil,
 the Orcs. They delight in seeing things suffer and bear malice
-especially to Elves and [Dwarves](./dwarf.md). They are not
+especially to Elves and [Dwarves](./Dwarf.md). They are not
 intelligent and gain most of their destructive power in their large
 clans. The evil force of Mordor has drawn Orcs together to create a
 force along with His other servants which is maybe too strong for the
-Elves and [Men](./man.md) to vanquish.
+Elves and [Men](./Man.md) to vanquish.
 
 ## Orcs in [MUME](./MUME.md)
 

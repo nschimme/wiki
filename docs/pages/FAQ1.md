@@ -14,7 +14,7 @@ possible problems and their solutions.
 anything.**
 
 A: You can cut the scroll rate in half by typing
-"[compact](./compact.md)" and getting the response, "You are now
+"[compact](./Compact.md)" and getting the response, "You are now
 in compacted mode." This takes out a lot of blank lines.
 
 **Q: My screen is still scrolling by too quickly. There are a lot of
@@ -30,14 +30,14 @@ there at the moment, by coincidence - an expedition assembling, or even
 a battle going on. Find a quieter location, or just wait until things
 die down.
 
-Tip: If you can type the '[sleep](./sleep.md)' command, you won't
+Tip: If you can type the '[sleep](./Sleep.md)' command, you won't
 see what is going on around you and can read the help files.
 
 **Q: My screen is scrolling because of messages like "A narrates
 'something mysterious'", "B narrates 'something silly'" and so on.**
 
-A: If these '[narrates](./narrate.md)' and
-'[sings](./sing.md)' are just too confusing or annoying, you can
+A: If these '[narrates](./Narrate.md)' and
+'[sings](./Sing.md)' are just too confusing or annoying, you can
 stop listening to them by typing 'listen tales' (which turns narrates
 either off or on) or 'listen songs' (same thing for songs).
 
@@ -46,7 +46,7 @@ abbreviations and sometimes strange languages or even strange mixtures
 of letters!**
 
 A: In the first place, characters of different races know different
-[languages](./language.md). If you are a new
+[languages](./Language.md). If you are a new
 [Dwarf](./Dwarf.md), and an [Elf](./Elf.md) begins to
 narrate in 'Sindarin' (an elven language), you won't understand it well
 at all. It will look like this: "Thxcib g smnple if af rlf ncrqitmng jl

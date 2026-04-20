@@ -6,13 +6,13 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Create water** is a level 2 [cleric](./cleric.md)
-[spell](./spell.md). When cast on a container it will fill the
-container with clear [water](./water.md).
+**Create water** is a level 2 [cleric](./Cleric.md)
+[spell](./Spell.md). When cast on a container it will fill the
+container with clear [water](./Water.md).
 
 Water in [MUME](./MUME.md) can be found in abundance and the spell
 is of real use only for weight conscious players who prefer not to carry
-a [water skin](./water_skin.md).
+a [water skin](./Water_skin.md).
 
 Syntax : cast 'create water' \&lt;drink container\&gt;\|\&lt;character\&gt; Type :
 Miscellaneous Accumulative: N/A Duration : No Casting : Long Position :

@@ -5,11 +5,11 @@ tags:
   - Mobiles
   - Mobiles with unknown level
 ---
-*For the playable race, see [man](./man.md).*
+*For the playable race, see [man](./Man.md).*
 
-**Women** are low-level [mobiles](./mobile.md) who wander around
+**Women** are low-level [mobiles](./Mobile.md) who wander around
 [Fornost](./Fornost.md). They load with a dress, some shoes, a
-belt, a [ring](./ring.md) and a [lantern](./lantern.md).
+belt, a [ring](./Ring.md) and a [lantern](./Lantern.md).
 
 `A woman is here, looking for someone to chat with.`
 `>`**`examine woman`**

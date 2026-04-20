@@ -11,10 +11,10 @@ for keeping watch of the surrounding terrains. These are known as
 high hill.
 
 If you find one of these watchtowers, you can use the command **watch**
-to start keeping watch over the [terrain](./terrain.md) around
+to start keeping watch over the [terrain](./Terrain.md) around
 you. When in 'watch-mode', you get information about players moving
 about where you can see them.
 
-You can also use [search](./search.md) &lt;direction&gt; to scan for
+You can also use [search](./Search.md) &lt;direction&gt; to scan for
 people standing still.
  

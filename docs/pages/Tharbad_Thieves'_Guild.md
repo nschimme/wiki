@@ -4,7 +4,7 @@ description: 'A thief teaches thief skills'
 tags:
   - Guildmasters
 ---
-A **thief** teaches [thief](./thief.md) [skills](./skill.md)
+A **thief** teaches [thief](./Thief.md) [skills](./Skill.md)
 at the **Thieves' Guild** in [Tharbad](./Tharbad.md). The entrance
 is located behind a hidden brick opposite the [weapon
 shop](./Tharbad_Weaponsmith.md).
@@ -18,7 +18,7 @@ shop](./Tharbad_Weaponsmith.md).
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`attack`](./attack.md)`                  16  Normal`
-[`dodge`](./dodge.md)`                   23  Hard`
+[`attack`](./Attack.md)`                  16  Normal`
+[`dodge`](./Dodge.md)`                   23  Hard`
 [`missile`](./missile.md)`                  6  Normal`
-[`piercing weapons`](./piercing_weapons.md)`        12  Normal`
+[`piercing weapons`](./Piercing_weapons.md)`        12  Normal`

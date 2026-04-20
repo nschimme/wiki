@@ -4,8 +4,8 @@ description: 'The broadsword is a slashing weapon.'
 tags:
   - Slashing weapons
 ---
-The **broadsword** is a [slashing weapon](./slashing_weapon.md).
-It is worth around 1 [gold](./gold.md) and 5 silver, and is sold
+The **broadsword** is a [slashing weapon](./Slashing_weapon.md).
+It is worth around 1 [gold](./Gold.md) and 5 silver, and is sold
 by most weaponsmiths.
 
 `A broadsword lies here.`

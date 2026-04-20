@@ -5,14 +5,14 @@ tags:
   - Spells
   - Mage spells
 ---
-**Charm** is a [level](./level.md) 14 [mage](./mage.md)
-[spell](./spell.md). When cast upon a
-[creature](./mobile.md) it will try to gain mental control over
+**Charm** is a [level](./Level.md) 14 [mage](./Mage.md)
+[spell](./Spell.md). When cast upon a
+[creature](./Mobile.md) it will try to gain mental control over
 it. If successful the caster will be able to command the charmed
 creature (also called charmie) for some time. To command the charmie the
 charmer also needs to have some experience in the
-[command](./command.md) skill which is taught by the
-[ranger](./ranger.md) [guilds](./guilds.md).
+[command](./Command.md) skill which is taught by the
+[ranger](./Ranger.md) [guilds](./guilds.md).
 
 Example:
 
@@ -38,10 +38,10 @@ player is the first person, an aggressive charmie will automatically
 attack. This mechanic makes using aggresive charmies with other grouped
 players hard to manage. Only few charmies exist that are both powerful
 and non aggressive. Charmies are thus primarily used as
-[buffers](./buffer.md), [bashers](./bash.md), or
-[parry](./parry.md) splitters for solo hunting.
+[buffers](./buffer.md), [bashers](./Bash.md), or
+[parry](./Parry.md) splitters for solo hunting.
 
-Guards in most [cities](./city.md) will attack charmed mobiles.
+Guards in most [cities](./City.md) will attack charmed mobiles.
 
 In PK charmies do not see an enemy player under their name but not under
 the keyword like orc or \*orc\* so you either need to use k &lt;name&gt; or

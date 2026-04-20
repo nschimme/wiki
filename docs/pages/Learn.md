@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-It is possible to **learn** a [skill](./skill.md) from another
+It is possible to **learn** a [skill](./Skill.md) from another
 player if:
 
 - The student has no knowledge in the skill.
@@ -14,8 +14,8 @@ player if:
 
 You may only teach someone to a certain level of your own % knowledge in
 a given skill. The knowledge gained by learning a skill in this manner
-is governed by the same rules as [practising](./practice.md) in a
-[guild](./guild.md) and costs the same number of practice
+is governed by the same rules as [practising](./Practice.md) in a
+[guild](./Guild.md) and costs the same number of practice
 sessions.
 
 To teach a skill, type 'teach &lt;skill&gt;'

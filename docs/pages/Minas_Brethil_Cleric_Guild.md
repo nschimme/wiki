@@ -4,8 +4,8 @@ description: 'A priest teaches cleric'
 tags:
   - Guildmasters
 ---
-A **priest** teaches [cleric](./cleric.md)
-[spells](./spell.md) at the **Top of the Western Tower** in [Minas
+A **priest** teaches [cleric](./Cleric.md)
+[spells](./Spell.md) at the **Top of the Western Tower** in [Minas
 Brethil](./Minas_Brethil.md).
 
 `A haggard man dressed in tattered robes is here, willing to teach his art.`

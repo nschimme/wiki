@@ -5,9 +5,9 @@ tags:
   - Mage spells
   - Spells
 ---
-**Magic Missile** is a [level](./level.md) 1
-[mage](./mage.md) [spell](./spell.md). It has a very short
-casting time and costs little [mana](./mana.md), however it also
+**Magic Missile** is a [level](./Level.md) 1
+[mage](./Mage.md) [spell](./Spell.md). It has a very short
+casting time and costs little [mana](./Mana.md), however it also
 deals a negligible amount of damage.
 
 Syntax : cast 'magic missile' \[victim Type : Offensive spell,

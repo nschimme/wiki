@@ -5,6 +5,6 @@ tags:
   - Warrior skills
   - Skills
 ---
-**Endurance** is a [warrior](./warrior.md)
-[skill](./skill.md) that makes you hardier, giving you a higher
+**Endurance** is a [warrior](./Warrior.md)
+[skill](./Skill.md) that makes you hardier, giving you a higher
 hit point total and making you heal faster.

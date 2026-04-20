@@ -4,7 +4,7 @@ description: 'Erestor teaches mage spells'
 tags:
   - Guildmasters
 ---
-**Erestor** teaches [mage](./mage.md) [spells](./spell.md)
+**Erestor** teaches [mage](./Mage.md) [spells](./Spell.md)
 at **The Great Library** in [Rivendell](./Rivendell.md).
 
 `Erestor the High Mage of Rivendell is studying here.`

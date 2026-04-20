@@ -4,42 +4,42 @@ description: 'Concussion weapons are one of the'
 ---
 
 **[Concussion weapons](./Concussion_weapons.md)** are one of the
-[weapon](./weapon.md) types found in [MUME](./MUME.md). They
+[weapon](./Weapon.md) types found in [MUME](./MUME.md). They
 have high strength requirements and are efficient vs. opponents in metal
-[armour](./armour.md).
+[armour](./Armour.md).
 
 ## Offensive
 
 - [ornate, steel-shafted
-  warhammer](./ornate,_steel-shafted_warhammer.md)
-- [heavy morningstar](./heavy_morningstar.md)
-- [engraved warhammer](./engraved_warhammer.md)
-- [steel-shafted mattock](./steel-shafted_mattock.md)
+  warhammer](./Ornate,_steel-shafted_warhammer.md)
+- [heavy morningstar](./Heavy_morningstar.md)
+- [engraved warhammer](./Engraved_warhammer.md)
+- [steel-shafted mattock](./Steel-shafted_mattock.md)
 
 ## Defensive
 
-- [mace](./mace.md)
+- [mace](./Mace.md)
 
 ## Average
 
 - [large warhammer](./large_warhammer.md)
-- [very heavy branch](./very_heavy_branch.md)
+- [very heavy branch](./Very_heavy_branch.md)
 - [huge spiked club](./huge_spiked_club.md)
-- [cruelly-spiked mace](./cruelly-spiked_mace.md)
+- [cruelly-spiked mace](./Cruelly-spiked_mace.md)
 
 ## Poor
 
-- [cudgel](./cudgel.md)
-- [wooden club](./wooden_club.md)
+- [cudgel](./Cudgel.md)
+- [wooden club](./Wooden_club.md)
 - [gnarled wooden club](./gnarled_wooden_club.md)
 - [maul](./maul.md)
-- [warhammer](./warhammer.md)
+- [warhammer](./Warhammer.md)
 - [iron-shod mace](./iron-shod_mace.md)
-- [morningstar](./morningstar.md)
-- [spiked war club](./spiked_war_club.md)
-- [pick](./pick.md)
+- [morningstar](./Morningstar.md)
+- [spiked war club](./Spiked_war_club.md)
+- [pick](./Pick.md)
 - [mallet](./mallet.md)
-- [stone club](./stone_club.md)
+- [stone club](./Stone_club.md)
 - [hammer](./hammer.md)
 
 ## Artefacts

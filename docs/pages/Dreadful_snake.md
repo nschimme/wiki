@@ -4,8 +4,8 @@ description: 'Dreadful snakes are aggressive level ~10'
 tags:
   - Mobiles
 ---
-**Dreadful snakes** are aggressive [level](./level.md) ~10
-[mobiles](./mobile.md) found in various locations around
+**Dreadful snakes** are aggressive [level](./Level.md) ~10
+[mobiles](./Mobile.md) found in various locations around
 [Arda](./Arda.md), notably in the [Grey
 Havens](./Grey_Havens.md) area.
 

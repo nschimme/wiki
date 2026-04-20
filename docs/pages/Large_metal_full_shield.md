@@ -4,9 +4,9 @@ description: 'The large metal full shield is a shield. It'
 tags:
   - Shields
 ---
-The **large metal full shield** is a [shield](./shield.md). It
-grants a mediocre amount of [parry bonus](./parry_bonus.md). It is
-worth around 1 [gold](./gold.md) and 15 silver, and is sold by
+The **large metal full shield** is a [shield](./Shield.md). It
+grants a mediocre amount of [parry bonus](./Parry_bonus.md). It is
+worth around 1 [gold](./Gold.md) and 15 silver, and is sold by
 most armourers.
 
 `A large metal full shield is on the ground.`

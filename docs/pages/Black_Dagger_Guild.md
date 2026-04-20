@@ -4,7 +4,7 @@ description: 'A thief teaches thief skills'
 tags:
   - Guildmasters
 ---
-A **thief** teaches [thief](./thief.md) [skills](./skill.md)
+A **thief** teaches [thief](./Thief.md) [skills](./Skill.md)
 at the **Black Dagger Guild** in [Old Fornost](./Old_Fornost.md).
 
 `A thief is waiting here to teach his art.`
@@ -16,11 +16,11 @@ at the **Black Dagger Guild** in [Old Fornost](./Old_Fornost.md).
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`attack`](./attack.md)`                  11  Normal`
-[`dodge`](./dodge.md)`                    5  Hard`
-[`hide`](./hide.md)`                    11  Normal`
+[`attack`](./Attack.md)`                  11  Normal`
+[`dodge`](./Dodge.md)`                    5  Hard`
+[`hide`](./Hide.md)`                    11  Normal`
 [`missile`](./missile.md)`                 11  Normal`
-[`pick`](./pick.md)`                     1  Normal`
-[`piercing weapons`](./piercing_weapons.md)`        12  Normal`
-[`search`](./search.md)`                  16  Normal`
-[`steal`](./steal.md)`                    3  Normal`
+[`pick`](./Pick.md)`                     1  Normal`
+[`piercing weapons`](./Piercing_weapons.md)`        12  Normal`
+[`search`](./Search.md)`                  16  Normal`
+[`steal`](./Steal.md)`                    3  Normal`

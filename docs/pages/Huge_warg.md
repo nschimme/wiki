@@ -6,9 +6,9 @@ tags:
 ---
 **Huge wargs** are aggressive level ~13-14 [mobs](./mob.md) found
 mostly in the eastern parts of [Arda](./Arda.md). They can
-[track](./track.md), and their [corpses](./corpse.md) can be
-[butchered](./butcher.md) to produce a [warg
-fur](./warg_fur.md).
+[track](./Track.md), and their [corpses](./Corpse.md) can be
+[butchered](./Butcher.md) to produce a [warg
+fur](./Warg_fur.md).
 
 `A huge warg is here, moving in for the kill.`
 `>`**`look warg`**

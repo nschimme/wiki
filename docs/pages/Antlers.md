@@ -6,8 +6,8 @@ tags:
 ---
 **Antlers** are the item required to complete the elven trapper's
 [quest](./Quest#The_Hunt.md). They can be obtained by
-[butchering](./butcher.md) the [noble
-stag](./noble_stag.md).
+[butchering](./Butcher.md) the [noble
+stag](./Noble_stag.md).
 
 `> `**`look antlers`**` `
 `These enormous palmate antlers have not been taken from an ordinary beast. The`

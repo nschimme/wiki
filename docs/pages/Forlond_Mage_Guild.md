@@ -4,8 +4,8 @@ description: 'A grey haired elf teaches mage'
 tags:
   - Guildmasters
 ---
-A **grey haired elf** teaches [mage](./mage.md)
-[spells](./spell.md) at the **Guild of the Arcane** in
+A **grey haired elf** teaches [mage](./Mage.md)
+[spells](./Spell.md) at the **Guild of the Arcane** in
 [Forlond](./Forlond.md).
 
 `A grey haired elf is standing here, ready to share his knowledge.`

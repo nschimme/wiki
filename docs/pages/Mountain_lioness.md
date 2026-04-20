@@ -4,11 +4,11 @@ description: 'Mountain lionesses are aggressive level 13'
 tags:
   - Mobiles
 ---
-**Mountain lionesses** are aggressive [level](./level.md) 13
+**Mountain lionesses** are aggressive [level](./Level.md) 13
 [mobs](./mob.md) found mainly in the mountains around [Grey
-Havens](./Grey_Havens.md). They can [sneak](./sneak.md).
+Havens](./Grey_Havens.md). They can [sneak](./Sneak.md).
 Their corpses can be butchered to produce a [fine lion
-pelt](./fine_lion_pelt.md) and some [meat](./meat.md).
+pelt](./Fine_lion_pelt.md) and some [meat](./Meat.md).
 
 `A mountain lioness pads quietly through the terrain.`
 `>`**`examine lion`**

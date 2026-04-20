@@ -4,8 +4,8 @@ description: 'An accomplished hunter teaches scout'
 tags:
   - Guildmasters
 ---
-An **accomplished hunter** teaches [scout](./thief.md)
-[skills](./skill.md) at the **Hunter's Cabin** just southeast of
+An **accomplished hunter** teaches [scout](./Thief.md)
+[skills](./Skill.md) at the **Hunter's Cabin** just southeast of
 [Black Hill](./Black_Hill.md). He will reward players who
 [help](./Quest#Snake_Hunt.md) him deal with the overpopulation of
 [slithering snakes](./slithering_snake.md) in the area.
@@ -21,10 +21,10 @@ An **accomplished hunter** teaches [scout](./thief.md)
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`attack`](./attack.md)`                0/ 8  Normal`
-[`dodge`](./dodge.md)`                 0/ 8  Hard`
+[`attack`](./Attack.md)`                0/ 8  Normal`
+[`dodge`](./Dodge.md)`                 0/ 8  Hard`
 [`missile`](./missile.md)`               0/ 8  Normal`
-[`pick`](./pick.md)`                  0/ 4  Normal`
-[`piercing weapons`](./piercing_weapons.md)`      0/ 8  Normal`
-[`search`](./search.md)`                0/ 3  Normal`
-[`sneak`](./sneak.md)`                 0/10  Hard`
+[`pick`](./Pick.md)`                  0/ 4  Normal`
+[`piercing weapons`](./Piercing_weapons.md)`      0/ 8  Normal`
+[`search`](./Search.md)`                0/ 3  Normal`
+[`sneak`](./Sneak.md)`                 0/10  Hard`

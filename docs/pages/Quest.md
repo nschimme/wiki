@@ -3,10 +3,10 @@ title: Quest
 description: 'Several mobiles on MUME offer'
 ---
 
-Several [mobiles](./mobile.md) on [MUME](./MUME.md) offer
+Several [mobiles](./Mobile.md) on [MUME](./MUME.md) offer
 **quests** of varying levels to be solved. This can range from killing a
 certain monster, delivering a rare item to repairing something. As a
-reward, sometimes a [herblore](./herblore.md) will be offered, a
+reward, sometimes a [herblore](./Herblore.md) will be offered, a
 rare item or a (temporary) skill boost.
 
 These quests are usually offered, although in some cases you will need
@@ -22,7 +22,7 @@ attempting to find it yourself?
 
 - Quest: Prove to the elven trapper you are a worthy hunter by selling
   furs and pelts from animals you've killed and butchered. Listen to him
-  talk about old times, and about a [noble stag](./noble_stag.md)
+  talk about old times, and about a [noble stag](./Noble_stag.md)
   he recently sighted to the northwest, then nod in agreement when he
   asks you to kill the noble stag and give him its
   [antlers](./a_pair_of_antlers.md). If the trapper does not start
@@ -47,7 +47,7 @@ quest.
 - Quest: Find the [lonely giant](./lonely_giant.md) and comfort
   the poor fellow. He'll then offer to teach you how to make bannocks of
   golden brown, but to do this, he needs you to bring him some
-  [herbs](./herb.md). You have about 1.5 MUME days to complete the
+  [herbs](./Herb.md). You have about 1.5 MUME days to complete the
   quest (36 minutes), or else you must start over. Just like Nordri
   quest, if you forget which items you still need to bring, you can
   simply ask giant items.
@@ -65,7 +65,7 @@ network and is usually in need of aid for delivering letters.
   number of letters you will have to deliver varies by level - around 5
   for level 1 to more than 15 for high legend. The higher your level is,
   the farther away you will have to travel to meet the mobs.
-- Reward: Walking [herblore](./herblore.md), 200 exp per your
+- Reward: Walking [herblore](./Herblore.md), 200 exp per your
   level for each mail.
 
 ### Nordri the Shopkeeper
@@ -143,7 +143,7 @@ awry. Perhaps you could help the smith out?
 - Quest: Ask Harle about entwives and he will begin to follow you. Take
   him to [Tom Bombadil](./Tom_Bombadil.md), and then to
   [Treebeard](./Treebeard.md) in [Fangorn](./Fangorn.md). He
-  has bad [moves](./movement_points.md), so it is best if you are
+  has bad [moves](./Movement_points.md), so it is best if you are
   able to cast [Breath of Briskness](./Breath_of_Briskness.md) or
   bring along someone who can.
 - Reward: +1 [constitution](./constitution.md) for 1 real life
@@ -155,12 +155,12 @@ The chief of an elven village near the [Grey
 Havens](./Grey_Havens.md) has lost a barrel of exquisite wine.
 
 - Location: Elven village just east of the Tower Hills.
-- Quest: Visit the [elven chief](./elven_chief.md) and ask him
+- Quest: Visit the [elven chief](./Elven_chief.md) and ask him
   about wine. He will mention a barrel that has gone missing. Ask him
   about the barrel, and he will tell you that it was stolen. The
   thieves' secret lair is located West of the village, despite the
   quest's description saying North East. Retrieve the [small oaken
-  barrel](./a_small_oaken_barrel.md) and return it to the chief.
+  barrel](./A_small_oaken_barrel.md) and return it to the chief.
   - Note: The chief only speaks [Sindarin](./Sindarin.md), but can
     understand you if you talk to him in another language.
 - Reward: [an exquisite wine glass](./an_exquisite_wine_glass.md)
@@ -182,7 +182,7 @@ those that help them.
 
 - Location: Fangorn
 - Quest: One of the [imposing beech
-  trees](./imposing_beech_tree.md) in Fangorn has an axe stuck in
+  trees](./Imposing_beech_tree.md) in Fangorn has an axe stuck in
   his back. He is located in the northwestern part of the forest, quite
   near [Leaflock](./Leaflock.md). Wait for him to turn around,
   then 'remove axe tree'.
@@ -198,12 +198,12 @@ the shade of [Fangorn](./Fangorn.md), where strangers are seldom
 welcome, to find some long-lost herblore?
 
 - Location: Fangorn
-- Quest: Get the [traveller's diary](./a_traveller's_diary.md)
+- Quest: Get the [traveller's diary](./A_traveller's_diary.md)
   from the corpse of an adventurer next to the ruined barn south of
-  Fangorn. Find the [strange, sad-looking tree](./strange_tree.md)
+  Fangorn. Find the [strange, sad-looking tree](./Strange_tree.md)
   in Fangorn. Talk about orcs until he wakes up, and give him the diary
   when he asks for it.
-- Reward: Leaf-cake [herblore](./herblore.md)
+- Reward: Leaf-cake [herblore](./Herblore.md)
 
 ### Beechbone's bowl
 
@@ -220,7 +220,7 @@ to him. Perhaps you can help him out?
   clearing southwest of where Beechbone is. Enter his ruined home and
   use the tree branch to lift up one of the large jars ('lever jar'). Go
   down, reveal the bowl, and return it to Beechbone.
-- Reward: [a rough wooden horn](./a_rough_wooden_horn.md)
+- Reward: [a rough wooden horn](./A_rough_wooden_horn.md)
 
 ### Berel and Jeraton
 
@@ -231,7 +231,7 @@ to him. Perhaps you can help him out?
   on hard times, and ask you to speak to [Jeraton](./Jeraton.md),
   who is located in a nearby room. Jeraton will tell you that he needs a
   new axe. Bring him a [woodsman's axe](./a_woodsman's_axe.md).
-- Reward: a [stout oaken stick](./stout_oaken_stick.md)
+- Reward: a [stout oaken stick](./Stout_oaken_stick.md)
 
 ### Tethel
 
@@ -250,9 +250,9 @@ to him. Perhaps you can help him out?
 ### The Elven Weaver
 
 - Location: South of [Harlond](./Harlond.md).
-- Quest: The [ancient weaver](./ancient_weaver.md) will mention
+- Quest: The [ancient weaver](./Ancient_weaver.md) will mention
   that she is running out of dye. Agree to help her. The [dwarven
-  dye-maker](./dwarven_dye-maker.md) she tells you about can be
+  dye-maker](./Dwarven_dye-maker.md) she tells you about can be
   found in the dwarven mine in the foothills north of Harlond. Ask him
   about dye, and he will tell you he needs help retrieving a particular
   type of [moss](./Dark-green_moss.md). [Sturdy
@@ -265,12 +265,12 @@ to him. Perhaps you can help him out?
   might not catch on the stump on the first try). Cross the bridge by
   going west, and you will find the moss to the northwest. Bring the
   moss to the dye-maker, wait for him to give you the
-  [dye](./sealed_jug_of_dye.md), and then return to the weaver.
+  [dye](./Sealed_jug_of_dye.md), and then return to the weaver.
 - Rewards:
-  - Bringing the moss to the dye-maker: 1 [gold](./gold.md), 2000
+  - Bringing the moss to the dye-maker: 1 [gold](./Gold.md), 2000
     exp
-  - Bringing the dye to the weaver: 2 [gold](./gold.md), [shiny
-    dagger](./shiny_dagger.md), 1000 exp
+  - Bringing the dye to the weaver: 2 [gold](./Gold.md), [shiny
+    dagger](./Shiny_dagger.md), 1000 exp
 
 ### BM Spiders
 
@@ -282,9 +282,9 @@ impress a woman he loves.
 
 - Quest: When you enter the shop, the herbalist will mention something
   about a ring or a belt. Ask him about the item, and he will explain.
-  He will only accept a magical [ring](./ring.md) or a [gleaming
+  He will only accept a magical [ring](./Ring.md) or a [gleaming
   belt](./gleaming_belt.md).
-- Reward: upgraded [herbal kit](./herbal_kit.md)
+- Reward: upgraded [herbal kit](./Herbal_kit.md)
 
 ### Snake Hunt
 
@@ -293,15 +293,15 @@ The [accomplished hunter](./Tower_Hills_Scout_Guild.md) in the
 overpopulation of [slithering snakes](./slithering_snake.md).
 
 - Quest: Agree to help him, and bring him three slithering snake
-  [corpses](./corpse.md). The corpses can be turned in one at a
+  [corpses](./Corpse.md). The corpses can be turned in one at a
   time.
-- Reward: 200xp per corpse, [snakeskin belt](./snakeskin_belt.md)
+- Reward: 200xp per corpse, [snakeskin belt](./Snakeskin_belt.md)
 
 ### Three Flowers
 
 The [herbalist](./Tower_Hills_Herbalist.md) in [Black
 Hill](./Black_Hill.md) needs some rare medicinal
-[herbs](./herb.md) to create a cure for some villagers who have
+[herbs](./Herb.md) to create a cure for some villagers who have
 fallen ill.
 
 - Required level: 3
@@ -309,7 +309,7 @@ fallen ill.
   instructions on where to find [ragwort](./ragwort.md),
   [hawkweed](./hawkweed.md) and [wood
   anemone](./wood_anemone.md), and retrieve the herbs.
-- Reward: [herbal kit](./herbal_kit.md),
+- Reward: [herbal kit](./Herbal_kit.md),
   [athelas](Herb#Athelas_(Kingsfoil) "wikilink") leaves, ??? xp.
 
 ### Lost and Found
@@ -319,32 +319,32 @@ Hill](./Black_Hill.md) needs someone to retrieve items that
 villagers have lost.
 
 - Required level: 3
-- Quest: Agree to retrieve a [moneybag](./ratty_moneybag.md) for
-  Old Lum. Train some [climbing](./climb.md)
-  [skill](./skill.md) if you don't have any. Follow the trail
+- Quest: Agree to retrieve a [moneybag](./Ratty_moneybag.md) for
+  Old Lum. Train some [climbing](./Climb.md)
+  [skill](./Skill.md) if you don't have any. Follow the trail
   southwest from the village, until you can turn south into the Barren
   Hills. Head south until you find a climbable exit. Climb up (you will
   be notified you have reached the right room) and
-  "[reveal](./reveal.md) moneybag". Return the moneybag to the
+  "[reveal](./Reveal.md) moneybag". Return the moneybag to the
   ranger.
 
 Next you will be asked to retrieve Clem's [wedding
-ring](./marred_wedding_ring.md). Having a few points in
-[swimming](./swim.md) might be useful here. Go three rooms west
+ring](./Marred_wedding_ring.md). Having a few points in
+[swimming](./Swim.md) might be useful here. Go three rooms west
 from where you turned off the road before, head north, and follow the
 valley into the cave. Enter the water in the southwestern part of the
 cave, go west into the room with the [giant
-fungus](./giant_fungus.md), "reveal ring" and return to the
+fungus](./Giant_fungus.md), "reveal ring" and return to the
 ranger.
 
-- Reward: [moneybag](./moneybag.md), [plain
-  scarf](./plain_scarf.md), 1 [gold](./gold.md), 1000 xp
+- Reward: [moneybag](./Moneybag.md), [plain
+  scarf](./Plain_scarf.md), 1 [gold](./Gold.md), 1000 xp
 
 ### Rat Infestation
 
 The [accomplished hunter](./Tower_Hills_Scout_Guild.md) in the
 [Tower Hills](./Tower_Hills.md) is looking for someone to
-exterminate [giant rats](./giant_rat.md).
+exterminate [giant rats](./Giant_rat.md).
 
 - Required level: 4
 - Quest: Agree when he the hunter asks you to kill some rats in a nearby
@@ -353,46 +353,46 @@ exterminate [giant rats](./giant_rat.md).
   house](./Tower_Hills_Ranger_Guild.md). Go into the basement and
   head east. You'll see a message about a rat scurrying behind a wall.
   [Search](./Search.md) north and south to discover hidden
-  [exits](./exit.md) to where the rats are. Kill them, and bring
-  their [corpses](./corpse.md) back to the hunter. 3 corpses are
+  [exits](./Exit.md) to where the rats are. Kill them, and bring
+  their [corpses](./Corpse.md) back to the hunter. 3 corpses are
   needed to complete the quest, though they don't need to be turned in
   all at once.
-- Reward: [fine soft leather boots](./fine_soft_leather_boots.md),
+- Reward: [fine soft leather boots](./Fine_soft_leather_boots.md),
   500xp
 
 ### Equipping Leonard
 
 [Leonard](./Leonard.md) from [Black Hill](./Black_Hill.md)
-needs help procuring some [equipment](./equipment.md).
+needs help procuring some [equipment](./Equipment.md).
 
 - Required level: 4
-- Quest: He will ask for a [lantern](./lantern.md), a [woollen
-  traveller's cloak](./woollen_traveller's_cloak.md), a [hunting
-  knife](./hunting_knife.md) and a
-  [whetstone](./whetstone.md). Agree to help him. All
-  [items](./item.md) may be found nearby or bought from
-  [shops](./shop.md).
+- Quest: He will ask for a [lantern](./Lantern.md), a [woollen
+  traveller's cloak](./Woollen_traveller's_cloak.md), a [hunting
+  knife](./Hunting_knife.md) and a
+  [whetstone](./Whetstone.md). Agree to help him. All
+  [items](./Item.md) may be found nearby or bought from
+  [shops](./Shop.md).
 - Reward: [Leonard's notes](./Leonard's_notes.md), 1000xp
 
 ### Bandit's Note
 
 The [accomplished hunter](./Tower_Hills_Scout_Guild.md) in the
 [Tower Hills](./Tower_Hills.md) wants someone to retrieve a note
-from a [bandit](./bandit.md) lookout.
+from a [bandit](./Bandit.md) lookout.
 
 - Required level: 5
 - Quest: The plateau with the bandit lookouts is just north of the road
   to [Grey Havens](./Grey_Havens.md), on the eastern edge of the
   Tower Hills. It can be accessed from the northern side, along the path
   leading to the [White Tower](./White_Tower.md). The
-  [bandit](./bandit.md) carrying the
-  [note](./crumpled,_mud-smeared_piece_of_paper.md) wanders around
+  [bandit](./Bandit.md) carrying the
+  [note](./Crumpled,_mud-smeared_piece_of_paper.md) wanders around
   all the [rooms](./room.md) on the plateau - watch out for the
-  [dreadful snake](./dreadful_snake.md) in the northeastern room
-  if you're low [level](./level.md). Kill him and bring the note
+  [dreadful snake](./Dreadful_snake.md) in the northeastern room
+  if you're low [level](./Level.md). Kill him and bring the note
   back to the hunter.
-- Reward: 1 [gold](./gold.md), [pot helm](./pot_helm.md),
-  [longspear](./longspear.md), 1000xp
+- Reward: 1 [gold](./Gold.md), [pot helm](./Pot_helm.md),
+  [longspear](./Longspear.md), 1000xp
 
 ## Hero
 

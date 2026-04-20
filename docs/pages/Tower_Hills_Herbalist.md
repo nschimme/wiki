@@ -7,7 +7,7 @@ tags:
 An **elderly herbalist** tends to the **Herbal Store** in [Black
 Hill](./Black_Hill.md). The store is open 4am - 12pm and 1pm -
 12am. The herbalist needs [help](./Quest#Tower_Hills_Herbalist.md)
-retrieving some rare medicinal [herbs](./herb.md).
+retrieving some rare medicinal [herbs](./Herb.md).
 
 `An elderly herbalist is here, surrounded by a cloud of spice.`
 `>`**`examine herbalist`**

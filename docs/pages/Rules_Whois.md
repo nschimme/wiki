@@ -5,12 +5,12 @@ description: 'Your whois must NOT emulate any game output, or in any other way a
 
 Your whois must NOT emulate any game output, or in any other way act as
 something that may affect gameplay. (For example, a
-[whois](./whois.md) which says "*\*an Orc\* begins strange
+[whois](./Whois.md) which says "*\*an Orc\* begins strange
 incantations...*" would be illegal, as would be a whois which tricks a
-[client](./client.md) into doing something, redraws the screen or
+[client](./Client.md) into doing something, redraws the screen or
 changes the terminal settings.)
 
-Your [whois](./whois.md) is NOT a form of communication and should
+Your [whois](./Whois.md) is NOT a form of communication and should
 therefore not be used to pass information on should you get slept,
 silenced, killed, etc.
 

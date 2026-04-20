@@ -8,12 +8,12 @@ The **Tower Hills** are located between [Grey
 Havens](./Grey_Havens.md) and [Aldereon](./Aldereon.md)'s
 village. The village of [Black Hill](./Black_Hill.md) can be found
 in the area. As a relatively safe region with several low
-[level](./level.md) quests, Tower Hills is a recommended
-destination for new players to [pray](./pray.md) to. New
+[level](./Level.md) quests, Tower Hills is a recommended
+destination for new players to [pray](./Pray.md) to. New
 [characters](./character.md) praying to Tower Hills will be
-granted [citizenship](./citizen.md) for a location fitting their
-[race](./race.md) ([Grey Havens](./Grey_Havens.md) for
-[elves](./elf.md), [Fornost](./Fornost.md) for
+granted [citizenship](./Citizen.md) for a location fitting their
+[race](./Race.md) ([Grey Havens](./Grey_Havens.md) for
+[elves](./Elf.md), [Fornost](./Fornost.md) for
 [humans](./human.md), etc).
 
 _________________

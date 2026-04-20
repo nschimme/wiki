@@ -4,11 +4,11 @@ description: 'Assassins are aggressive level ~15-16 mobiles,'
 tags:
   - Mobiles
 ---
-**Assassins** are aggressive level ~15-16 [mobiles](./mobile.md),
+**Assassins** are aggressive level ~15-16 [mobiles](./Mobile.md),
 found in various place around [Arda](./Arda.md), especially common
 in [Tharbad](./Tharbad.md). They can sneak. They load 1 gold, a
-[moneybag](./moneybag.md), a [piercing
-weapon](./piercing_weapon.md) and a mixture of cloth/leather
+[moneybag](./Moneybag.md), a [piercing
+weapon](./Piercing_weapon.md) and a mixture of cloth/leather
 equipment.
 
 `An assassin is here looking for fresh blood and shining coins.`

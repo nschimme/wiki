@@ -6,9 +6,9 @@ tags:
   - Commands
 ---
 The **whois** command gives you some information about a player. You can
-see his [race](./race.md), his [class](./class.md) and
-[level](./level.md) (unless he is
-[incognito](./incognito.md)), his self-supplied description,
+see his [race](./Race.md), his [class](./Class.md) and
+[level](./Level.md) (unless he is
+[incognito](./Incognito.md)), his self-supplied description,
 roughly from which part of the (real) world he is playing and about how
 long he was last seen on MUME.
 
@@ -28,4 +28,4 @@ What you can write there is subject to certain rules: see [Rules
 Whois](./Rules_Whois.md).
 
 See also: [Description](./Description.md), [Who](./Who.md),
-[Incognito](./Incognito.md), [Rl Areas](./Rl_Areas.md)
+[Incognito](./Incognito.md), [Rl Areas](./RL_Areas.md)

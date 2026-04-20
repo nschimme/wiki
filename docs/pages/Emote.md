@@ -31,7 +31,7 @@ form of the command. For example:
 &lt;to the room&gt;` Bilbo looks at Gandalf's staff.`
 &lt;to Gandalf&gt;` Bilbo looks at your staff.`
 
-There is a collection of canned emotes, [social](./socials.md)
+There is a collection of canned emotes, [social](./Socials.md)
 commands, if you don't want to type your own. Abuse of emote to show
 misleading information (such as 'emote slashes your head and shatters
 it!') can lead to punishment.

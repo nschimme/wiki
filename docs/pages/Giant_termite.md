@@ -4,10 +4,10 @@ description: 'Giant termites are aggressive level 11'
 tags:
   - Mobiles
 ---
-**Giant termites** are aggressive [level](./level.md) 11
-[mobiles](./mobile.md) found in various locations around
+**Giant termites** are aggressive [level](./Level.md) 11
+[mobiles](./Mobile.md) found in various locations around
 [Arda](./Arda.md), often within hollowed-out trees and accompanied
-by [small termites](./small_termite.md).
+by [small termites](./Small_termite.md).
 
 `A giant termite is here, crushing skulls and bones.`
 `>`**`examine termite`**

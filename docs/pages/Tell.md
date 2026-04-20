@@ -10,7 +10,7 @@ regardless of where they're located. [Sleeping](./Sleep.md)
 players cannot hear tells.
 
 'tell group' lets you send a message to all the players (but not
-mobiles) in your [group](./group.md). Note the messages are all
+mobiles) in your [group](./Group.md). Note the messages are all
 sent after a delay equal to the time that would take sending individual
 messages.
 

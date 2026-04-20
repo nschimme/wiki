@@ -25,7 +25,7 @@ not relent on chasing a possible prey, which might be you.
 Level: ~14-15
 
 Great werewolves are hostile and will attempt to
-[track](./track.md) you if you [flee](./flee.md) from
+[track](./Track.md) you if you [flee](./Flee.md) from
 combat.
 
 Loot: None.

@@ -16,7 +16,7 @@ who are not interested.
 
 The dark side cannot hear whitie shouts, and vice versa.
 
-NOTE: Since the '[pray](./pray.md)' command got implemented as a
+NOTE: Since the '[pray](./Pray.md)' command got implemented as a
 way of communicating with the gods, it would be advised that you only
 use the shout command as a last resort. If the problem is extremely
 serious, and you do not get any response when praying, then you may use

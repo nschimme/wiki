@@ -5,10 +5,10 @@ tags:
   - Help files
   - Commands
 ---
-After wear and tear, your [equipment](./equipment.md) will
+After wear and tear, your [equipment](./Equipment.md) will
 probably begin to become less effective. For instance, your prize
-enchanted [longsword](./longsword.md) becomes dented. To restore
-it to its former glory, simply go to a [shop](./shop.md) that
+enchanted [longsword](./Longsword.md) becomes dented. To restore
+it to its former glory, simply go to a [shop](./Shop.md) that
 would sell such an object (e.g. a weaponsmith for a sword) and the
 shopkeeper will **mend** it for a small charge. The shopkeepers can also
 [resize](./resize.md) your over/undersized equipment to fit you.
@@ -29,8 +29,8 @@ Mending works like this:
 `- You automatically get the item when you enter the shop, or if you`
 `  are in the shop, when it is done.`
 `- If you don't trust your link - STAY IN THE ROOM.`
-`- If you `[`rent`](./rent.md)` and come back, you will not get back the item.`
-`- If you are `[`sneaking`](./sneak.md)`, `[`hidden`](./hide.md)`, or `[`shrouded`](./shroud.md)`, or if there is some other`
+`- If you `[`rent`](./Rent.md)` and come back, you will not get back the item.`
+`- If you are `[`sneaking`](./Sneak.md)`, `[`hidden`](./Hide.md)`, or `[`shrouded`](./Shroud.md)`, or if there is some other`
 `  reason he cannot see you, you will not get back the item.`
 `- If the game crashes or reboots, you will lose your item.`
 

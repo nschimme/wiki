@@ -6,21 +6,21 @@ tags:
   - Commands
 ---
 The "**protect**" [command](./commands.md) is used to select a
-number of people (players or [mobiles](./mobile.md)) that you will
+number of people (players or [mobiles](./Mobile.md)) that you will
 try to protect from attacks.
 
-When someone tries to [hit](./hit.md) one of those in your
+When someone tries to [hit](./Hit.md) one of those in your
 "protected-list", you get an attempt to intercept the blow. The chance
-to succeed depends on how high you know the [rescue](./rescue.md)
-[skill](./skill.md).
+to succeed depends on how high you know the [rescue](./Rescue.md)
+[skill](./Skill.md).
 
 If you have more than one person on your list, or if you already are
-[fighting](./combat.md), your chance to succeed is lowered. If the
-person to be protected knows the [escape](./escape.md) skill, the
+[fighting](./Combat.md), your chance to succeed is lowered. If the
+person to be protected knows the [escape](./Escape.md) skill, the
 chance of success improves.
 
-Only physical attacks (hit, [bash](./bash.md) and
-[kick](./kick.md)) are affected by this command.
+Only physical attacks (hit, [bash](./Bash.md) and
+[kick](./Kick.md)) are affected by this command.
 
 Example: protect lists who you will try to protect protect frodo toggles
 wether you will try to protect Frodo or not protect myself clears the

@@ -4,13 +4,13 @@ description: 'Missile weapons are one of the'
 ---
 
 **[Missile weapons](./Missile.md)** are one of the
-[weapon](./weapon.md) types found in [MUME](./MUME.md). Many
+[weapon](./Weapon.md) types found in [MUME](./MUME.md). Many
 missile weapons inflict considerable amounts of damage, while requiring
 little [strength](./strength.md) to wield. Thus these weapons are
-mostly used by [thieves](./thief.md), but are viable for other
-light classes, such as [clerics](./cleric.md). While powerful,
+mostly used by [thieves](./Thief.md), but are viable for other
+light classes, such as [clerics](./Cleric.md). While powerful,
 using them is more complicated than other weapon types, as they require
-their users to have appropriate [missiles](./ammunition.md) on
+their users to have appropriate [missiles](./Ammunition.md) on
 hand.
 
 ## Longbows
@@ -19,10 +19,10 @@ These bows take longer to fire, but inflict more damage. This makes them
 ideal for attacking a target that is engaged with another character, as
 you cannot be interrupted, but you get more damage out of each arrow.
 
-- [embellished longbow](./embellished_longbow.md) - A very
+- [embellished longbow](./Embellished_longbow.md) - A very
   powerful longbow.
-- [yew longbow](./yew_longbow.md) - A powerful longbow.
-- [longbow](./longbow.md) - A weak longbow.
+- [yew longbow](./Yew_longbow.md) - A powerful longbow.
+- [longbow](./Longbow.md) - A weak longbow.
 
 ## Shortbows
 
@@ -31,11 +31,11 @@ crossbows. This makes them ideal for attacking a target that is engaged
 with you, as you will be able to fire more arrows without being
 interrupted. They are also used frequently to disrupt other player's
 
-- [black horn shortbow](./black_horn_shortbow.md) - a very fast
+- [black horn shortbow](./Black_horn_shortbow.md) - a very fast
   shooting bow.
-- [orkish shortbow](./orkish_shortbow.md) - a fast shooting bow.
-- [elven shortbow](./elven_shortbow.md) - a fast shooting bow.
-- [shortbow](./shortbow.md) - a fast shooting, weak bow.
+- [orkish shortbow](./Orkish_shortbow.md) - a fast shooting bow.
+- [elven shortbow](./Elven_shortbow.md) - a fast shooting bow.
+- [shortbow](./Shortbow.md) - a fast shooting, weak bow.
 
 ## Crossbows
 
@@ -45,8 +45,8 @@ being loaded before being shot. You can load a crossbow, and as long as
 you do not remove it it will remain loaded. A loaded crossbow shot
 cannot be interrupted, and fires very quickly.
 
-- [crossbow](./crossbow.md) - a powerful crossbow.
-- [light crossbow](./light_crossbow.md) - a less powerful
+- [crossbow](./Crossbow.md) - a powerful crossbow.
+- [light crossbow](./Light_crossbow.md) - a less powerful
   crossbow.
 
 ## Sling
@@ -56,6 +56,6 @@ poor accuracy, but their speed is fast. They see little use, but they
 have one benefit; you can find more sling stones just by searching for
 them in proper areas.
 
-- [sling](./sling.md) - the only sling weapon
+- [sling](./Sling.md) - the only sling weapon
 
 <!--@include: ../includes/Items.md-->

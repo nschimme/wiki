@@ -20,9 +20,9 @@ House** tavern in [Harlond](./Harlond.md).
 - [steamed crabs](./steamed_crabs.md)
 - [roast duck](./roast_duck.md)
 - [grilled swordfish](./grilled_swordfish.md)
-- [beer bottles](./beer_bottle.md) full of
+- [beer bottles](./Beer_bottle.md) full of
   [beer](./Food_%26_Drink#Alcohol.md)
-- [ceramic cups](./ceramic_cup.md) full of
+- [ceramic cups](./Ceramic_cup.md) full of
   [tea](./Food_%26_Drink#Drink.md)
 - [wine glasses](./wine_glass.md) full of wine
  

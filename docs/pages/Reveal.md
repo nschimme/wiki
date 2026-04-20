@@ -9,13 +9,13 @@ Syntax: **reveal** &lt;object&gt;, reveal &lt;character&gt;, reveal all or revea
 &lt;effort&gt;
 
 Reveal &lt;object&gt; allows you to find an object you've
-[hidden](./hide.md) in a [room](./room.md). You must know
+[hidden](./Hide.md) in a [room](./room.md). You must know
 what to look for in order to get it back, but you can dig up someone
 else's treasure if you wish.
 
-Reveal &lt;character&gt; shows to your [group](./group.md) members the
+Reveal &lt;character&gt; shows to your [group](./Group.md) members the
 location of a hidden character you discovered (with
-'[search](./search.md)' or because the hidden character spoke when
+'[search](./Search.md)' or because the hidden character spoke when
 you could hear him). Characters not in your group might realize the
 presence of the hidden character as well.
 

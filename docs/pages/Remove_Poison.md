@@ -6,14 +6,14 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Remove poison** is a level 9 [cleric](./cleric.md)
-[spell](./spell.md). It removes the effect of any
-[poison](./poison.md) from the creature it is cast upon. A person
-can be poisoned by [envenomed](./envenom.md)
-[weapons](./weapon.md), contaminated food or water, or poisonous
+**Remove poison** is a level 9 [cleric](./Cleric.md)
+[spell](./Spell.md). It removes the effect of any
+[poison](./Poison.md) from the creature it is cast upon. A person
+can be poisoned by [envenomed](./Envenom.md)
+[weapons](./Weapon.md), contaminated food or water, or poisonous
 animals such as some snakes and spiders. As some poisons can have very
 dangerous effects such as draining mana or even causing
-[death](./death.md), this spell should be practiced by all
+[death](./Death.md), this spell should be practiced by all
 [casters](./caster.md).
 
 Syntax : cast 'remove poison' \&lt;victim \| food \| drink\&gt; Type : Healing

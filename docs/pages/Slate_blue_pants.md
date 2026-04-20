@@ -6,9 +6,9 @@ tags:
   - Legs items
 ---
 **Slate blue pants** are piece of cloth equipment worn on the
-[legs](./legs.md). They load in the [Halls of
+[legs](./Legs.md). They load in the [Halls of
 Mandos](./Halls_of_Mandos.md). They can't be sold, and will decay
-very fast if [dropped](./drop.md) on the ground.
+very fast if [dropped](./Drop.md) on the ground.
 
 `A pair of slate pants are on the ground.`
 `>`**`examine pants`**

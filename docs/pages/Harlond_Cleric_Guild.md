@@ -4,8 +4,8 @@ description: 'Filatior teaches cleric'
 tags:
   - Guildmasters
 ---
-**Filatior** teaches [cleric](./cleric.md)
-[spells](./spells.md) at the **Small Temple** in
+**Filatior** teaches [cleric](./Cleric.md)
+[spells](./Spells.md) at the **Small Temple** in
 [Harlond](./Harlond.md).
 
 `Filatior the elven acolyte is here performing sacred ceremonies.`

@@ -7,7 +7,7 @@ tags:
 ---
 **Spectres** are aggressive level ? [mobs](./mob.md). They are
 summoned by [Nagrorh](./Nagrorh.md), and will
-[follow](./follow.md) and [assist](./assist.md) him while
+[follow](./Follow.md) and [assist](./Assist.md) him while
 he's alive.
 
 `A frightful spectre comes to you, extending his unnatural arms.`

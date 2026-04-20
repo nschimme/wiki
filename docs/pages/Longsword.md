@@ -4,8 +4,8 @@ description: 'The longsword is a slashing weapon. It'
 tags:
   - Slashing weapons
 ---
-The **longsword** is a [slashing weapon](./slashing_weapon.md). It
-is worth around 1 [gold](./gold.md), and is sold by most
+The **longsword** is a [slashing weapon](./Slashing_weapon.md). It
+is worth around 1 [gold](./Gold.md), and is sold by most
 weaponsmiths.
 
 `A longsword is on the ground.`

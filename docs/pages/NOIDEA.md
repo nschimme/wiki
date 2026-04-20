@@ -15,12 +15,12 @@ implementors) and ruled to never appear as long as they draw breath:
 <!-- -->
 
 - [Orcs](./Orc.md) with teleport capability or any
-  [spell](./spell.md) that they had prior to introduction of
-  [shaman](./shaman.md) class
+  [spell](./Spell.md) that they had prior to introduction of
+  [shaman](./Shaman.md) class
 
 <!-- -->
 
-- [Trolls](./Troll.md) having [mounts](./mount.md)
+- [Trolls](./Troll.md) having [mounts](./Mount.md)
 
 <!-- -->
 
@@ -28,26 +28,26 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- Trolls not accidentally [fleeing](./flee.md) into sunlight
+- Trolls not accidentally [fleeing](./Flee.md) into sunlight
 
 <!-- -->
 
-- Trolls being able to [hide](./hide.md),
-  [sneak](./sneak.md), or [cast](./cast.md) spells
+- Trolls being able to [hide](./Hide.md),
+  [sneak](./Sneak.md), or [cast](./Cast.md) spells
 
 <!-- -->
 
-- Trolls with [shops](./shop.md) (that can do anything but
+- Trolls with [shops](./Shop.md) (that can do anything but
   mending)
 
 <!-- -->
 
-- BNs with a [city](./city.md)
+- BNs with a [city](./City.md)
 
 <!-- -->
 
-- BNs with a [warrior](./warrior.md)
-  [guildmaster](./guild.md)
+- BNs with a [warrior](./Warrior.md)
+  [guildmaster](./Guild.md)
 
 <!-- -->
 
@@ -55,8 +55,8 @@ implementors) and ruled to never appear as long as they draw breath:
 
 ## Classes
 
-- Additional [class](./class.md)-dependent
-  [skills](./skill.md). The move is away from unique abilities for
+- Additional [class](./Class.md)-dependent
+  [skills](./Skill.md). The move is away from unique abilities for
   classes and
 
 `  towards racial-modifiers of abilities/skills.`
@@ -71,7 +71,7 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- A spell for transferring hps to [mana](./mana.md)
+- A spell for transferring hps to [mana](./Mana.md)
 
 <!-- -->
 
@@ -84,11 +84,11 @@ implementors) and ruled to never appear as long as they draw breath:
 ## Equipment
 
 - Being able to buy heals or healing spells from
-  clerical-[mobiles](./mobile.md)
+  clerical-[mobiles](./Mobile.md)
 
 <!-- -->
 
-- Banks and places to store excess [equipment](./equipment.md)
+- Banks and places to store excess [equipment](./Equipment.md)
 
 <!-- -->
 
@@ -96,7 +96,7 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- Critical hits negated by [armour](./armour.md)
+- Critical hits negated by [armour](./Armour.md)
 
 <!-- -->
 
@@ -117,7 +117,7 @@ implementors) and ruled to never appear as long as they draw breath:
 <!-- -->
 
 - Any game effect which relies on NOQUIT or NOVOID flag. They exist
-  solely for [linkdrop](./link.md)/[rent](./rent.md)
+  solely for [linkdrop](./Link.md)/[rent](./Rent.md)
 
 <!-- -->
 

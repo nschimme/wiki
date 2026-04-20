@@ -19,5 +19,5 @@ It weighs one stone.
 
 ## Other
 
-Unlike most furs, this one is not [wearable](./wear.md). It can be
+Unlike most furs, this one is not [wearable](./Wear.md). It can be
 sold for about 3 silver.

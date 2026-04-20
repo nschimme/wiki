@@ -4,8 +4,8 @@ description: 'The Illusionist teaches mage'
 tags:
   - Guildmasters
 ---
-The **Illusionist** teaches [mage](./mage.md)
-[spells](./spell.md) at **The Illusionist's Laboratory** in
+The **Illusionist** teaches [mage](./Mage.md)
+[spells](./Spell.md) at **The Illusionist's Laboratory** in
 [Tharbad](./Tharbad.md).
 
 `A middle-aged woman, the illusionist looks defiantly at you.`

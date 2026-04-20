@@ -4,13 +4,13 @@ description: 'For the playable class, see thief.'
 tags:
   - Mobiles
 ---
-*For the playable class, see [thief](./thief.md).*
+*For the playable class, see [thief](./Thief.md).*
 
-**Thieves** are passive level ~13 [mobiles](./mobile.md), found in
+**Thieves** are passive level ~13 [mobiles](./Mobile.md), found in
 various places across [Arda](./Arda.md). They will attempt to
-[steal](./steal.md) [gold](./gold.md) from players, and
-[flee](./flee.md) when low on health. They load 3 silver 50
-copper, a [dagger](./dagger.md), and some common cloth or leather
+[steal](./Steal.md) [gold](./Gold.md) from players, and
+[flee](./Flee.md) when low on health. They load 3 silver 50
+copper, a [dagger](./Dagger.md), and some common cloth or leather
 equipment.
 
 `A thief is here looking for some stranger to rob.`

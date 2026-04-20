@@ -8,17 +8,17 @@ Being a long and robust stick, a **staff** can be used both to strike
 down one's enemies and to parry their blows.
 
 In [MUME](./MUME.md), you can use a staff by itself, as a
-[two-handed weapon](./two-handed_weapons.md). It does not cause as
+[two-handed weapon](./Two-handed_weapons.md). It does not cause as
 much damage as a two-handed sword or a halberd, but it provides a much
-better [defence](./parry_bonus.md). Wielded together with another
+better [defence](./Parry_bonus.md). Wielded together with another
 weapon, the staff is used only to deflect blows: in this case, it works
-exactly like a [shield](./shield.md).
+exactly like a [shield](./Shield.md).
 
-Like some weapons, MUME staves can be [enchanted](./enchant.md) by
+Like some weapons, MUME staves can be [enchanted](./Enchant.md) by
 magic users. Unlike other weapons, a staff remains bound to the person
 who enchanted it, and cannot be used by anyone else.
 
-Staves can also be upgraded, by [embedding](./embed.md) several
+Staves can also be upgraded, by [embedding](./Embed.md) several
 items in them. If the staff is reinforced with bands of metal, its
 defensive properties are boosted. If, on the other side, rare gems are
 embedded in an enchanted staff, the staff will enhance its owner's

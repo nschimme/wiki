@@ -19,7 +19,7 @@ It weighs half a pound.
 ## Effect
 
 This is an [antidote](./antidote.md). It cures any
-[poisons](./poison.md) you are currently affected by, as well as
+[poisons](./Poison.md) you are currently affected by, as well as
 making you immune to poisons for a short while (~1 MUME day).
 
 <!--@include: ../includes/Items.md-->

@@ -4,9 +4,9 @@ description: 'The small wooden target shield is a small'
 ---
 
 The **small wooden target shield** is a small
-[shield](./shield.md) that can worn while wielding a [two-handed
-weapon](./two-handed_weapon.md), providing a small amount of
-[parry bonus](./parry_bonus.md). It can be bought at most
+[shield](./Shield.md) that can worn while wielding a [two-handed
+weapon](./Two-handed_weapon.md), providing a small amount of
+[parry bonus](./Parry_bonus.md). It can be bought at most
 armourers for around 5 [silver](./silver.md).
 
 `A small wooden target shield is on the ground.`

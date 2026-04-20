@@ -6,7 +6,7 @@ tags:
 ---
 # Overview
 
-**Lockpicks** improve your ability to [pick](./pick.md) a lock. In
+**Lockpicks** improve your ability to [pick](./Pick.md) a lock. In
 game, lockpicks appear as **a set of lock picks** or alternatively **a
 strange set of lockpicks** if they contain any improvement (see below).
 
@@ -71,7 +71,7 @@ Black Many-Tailed Whip) or Morgul Blade's sheath.
 
 ## Dwarven Locksmith
 
-This upgrade is only available to [dwarves](./dwarf.md). You must
+This upgrade is only available to [dwarves](./Dwarf.md). You must
 bring a piece of mithril to the lockpick selling Dwarf in [Blue
 Mountains](./Blue_Mountains.md).
 
@@ -82,7 +82,7 @@ key (Muranog cabinet) or fine chain piece. White chain doesn't fit!
 
 ## Kraksh the Orcish Scout Guildmaster
 
-This upgrade is only available to [orcs](./orc.md).
+This upgrade is only available to [orcs](./Orc.md).
 
 **Price:** a precious jewel (corberyl+ works, opal- doesn't, didn't
 tested topaz).

@@ -14,7 +14,7 @@ winter nor evil will make the great trees of Lorien wither. It is a
 place of ancient magic, long forgotten lore and great craftsmanship.
 Lórien remains from a world that is now long forgotten and that has
 passed away ages ago. Yet, it may not be easy to find the path through
-the protecting forest, if you are not of [elvenkind](./elf.md)
+the protecting forest, if you are not of [elvenkind](./Elf.md)
 yourself.
 
 ## Caras Galadhon
@@ -56,7 +56,7 @@ Caras Galadhon \# \| knock to enter \#_______/
 Elves and half-elves can start here and also enter Lothlórien without
 citizenship. Other races need to be lead in by elves. Regardless of race
 and citizenship, you cannot enter without at least neutral
-[alignment](./alignment.md).
+[alignment](./Alignment.md).
 
 If you have no right to enter Lorien or your alignment is too low you
 will see a message 'The trees confuse you' when trying to enter the

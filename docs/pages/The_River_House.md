@@ -10,9 +10,9 @@ from 1pm to 2am.
 
 ## Menu
 
-- [pastries](./pastry.md)
-- [bottles](./bottle.md) full of
+- [pastries](./Pastry.md)
+- [bottles](./Bottle.md) full of
   [ale](./Food_%26_Drink#Alcohol.md)
-- [fine bottles](./fine_bottle.md) full of wine
-- [ceramic cups](./ceramic_cup.md) full of
+- [fine bottles](./Fine_bottle.md) full of wine
+- [ceramic cups](./Ceramic_cup.md) full of
   [tea](./Food_%26_Drink#Drink.md)

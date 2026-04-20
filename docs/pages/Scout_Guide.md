@@ -10,7 +10,7 @@ Please edit, update, and improve!
 ### Scouts in Mume
 
 Scouts in mume are distinct from other classes in their ability to
-[sneak](./sneak.md) and [backstab](./backstab.md). Sneaking
+[sneak](./Sneak.md) and [backstab](./Backstab.md). Sneaking
 makes you practically invisible to other players and mobs, as long as
 you enter their room and not the other way around. In order for sneak
 (and all skills that require you to sneak) to work you need to have
@@ -32,9 +32,9 @@ that order, and you need above 101% in order to have a working scout.
 bad stats, but they also get a severe malus to sneak, which makes them
 an overall bad choice.
 
-There is no reason statwise to play a [half-elf](./half-elf.md)
-scout, so that leaves us with the choice of [man](./man.md),
-[elf](./elf.md) or [hobbit](./hobbit.md). Elves it seems,
+There is no reason statwise to play a [half-elf](./Half-Elf.md)
+scout, so that leaves us with the choice of [man](./Man.md),
+[elf](./Elf.md) or [hobbit](./Hobbit.md). Elves it seems,
 make the best scouts, since they get high bonuses to DEX and PER.
 However elves get a malus in str, con and wil and lower [move point
 regen](./Movement_points.md). Elves get a free citizenship in
@@ -48,7 +48,7 @@ the rohirrim, pack horse, docile horse).
 
 Men get no bonus or malus to stats. This leaves you with low scout
 percentages and less room to get none scout skills, such as
-[bash](./bash.md) or high [endurance](./endurance.md), but
+[bash](./Bash.md) or high [endurance](./Endurance.md), but
 gives you a higher stregnth that allows you to carry more.
 
 ### Stats
@@ -58,7 +58,7 @@ skill. This percentage is augumented or worsened by your other skills,
 depending on their class. This means that if you practice sneak for
 instance, and get 106%, then you put 10 pracs in endurance your sneak
 will become lower. This also affects other aspects of your character,
-such as OB/HP/DB/PB. Raising any [warrior](./warrior.md) skill
+such as OB/HP/DB/PB. Raising any [warrior](./Warrior.md) skill
 will increase hp and ob, and also raise all other warrior skills.
 Raising any scout skill will increase db, lower hp and ob and also give
 you higher scout skills. Ranger pracs do not affect any stats or other
@@ -123,7 +123,7 @@ points for level 10 or so. After that pray to [Grey
 Havens](./Grey_Havens.md). At level 1-15 you level by shooting,
 and after that by backstabbing.
 
-Both [shoot](./shoot.md) and backstab are delayed commands that
+Both [shoot](./Shoot.md) and backstab are delayed commands that
 are interrupted if you get hit while trying. In order to shoot something
 you need a [bow](./bow.md) (longbow is better for xp), a quiver
 with arrows and preferably the missile skill. Shooting from sneak also

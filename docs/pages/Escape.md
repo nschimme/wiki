@@ -5,8 +5,8 @@ tags:
   - Thief skills
   - Skills
 ---
-**Escape** is a [thief](./thief.md) [skill](./skill.md) that
-allows you to exit a fight without [fleeing](./flee.md) if you are
+**Escape** is a [thief](./Thief.md) [skill](./Skill.md) that
+allows you to exit a fight without [fleeing](./Flee.md) if you are
 the [buffer](./buffer.md). Escape offers the following advantages
 and disadvantages:
 
@@ -23,11 +23,11 @@ and disadvantages:
 
 The chance of successfully escaping depends on your dexterity, on the
 number of your opponents, on the difference between your and your
-opponent's level and on how well you [practiced](./practice.md)
-this skill. Escaping automatically sets your [mood](./mood.md) to
+opponent's level and on how well you [practiced](./Practice.md)
+this skill. Escaping automatically sets your [mood](./Mood.md) to
 wimpy.
 
-If nobody is attacking you, you should [disengage](./disengage.md)
+If nobody is attacking you, you should [disengage](./Disengage.md)
 instead of escaping.
 
 Examples:
@@ -36,5 +36,5 @@ Examples:
 ` > escape north`
 
 Knowledge of the escape skill also makes it easier for others to
-[rescue](./rescue.md) and [protect](./protect.md) you.
+[rescue](./Rescue.md) and [protect](./Protect.md) you.
  

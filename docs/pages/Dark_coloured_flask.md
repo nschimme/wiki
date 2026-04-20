@@ -22,6 +22,6 @@ It weighs a few ounces.
 
 ## Other
 
-Contains [oil](./oil.md) by default. Sold by most grocers.
+Contains [oil](./Oil.md) by default. Sold by most grocers.
 
 <!--@include: ../includes/Items.md-->

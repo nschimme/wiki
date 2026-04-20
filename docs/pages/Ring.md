@@ -18,22 +18,22 @@ power-rings.
 - [golden opal ring](./golden_opal_ring.md) - scout
 - [ruby ring](./ruby_ring.md) - ob
 - [iron ring](./iron_ring.md) - db
-- [copper ring](./copper_ring.md)
+- [copper ring](./Copper_ring.md)
 - [banded ring](./banded_ring.md)
-- [icy ring](./icy_ring.md) - eff. vs fire
-- [strange golden ring](./strange_golden_ring.md)
+- [icy ring](./Icy_ring.md) - eff. vs fire
+- [strange golden ring](./Strange_golden_ring.md)
 - [wooden ring](./wooden_ring.md) - teleport
 - [small tin ring](./small_tin_ring.md)
-- [golden quartzite ring](./golden_quartzite_ring.md) - bless
+- [golden quartzite ring](./Golden_quartzite_ring.md) - bless
 
 ## Treasure
 
 - [diamond ring](./diamond_ring.md)
 - [engagement ring](./engagement_ring.md)
-- [gold ring](./gold_ring.md)
+- [gold ring](./Gold_ring.md)
 - [ring](ring_(item) "wikilink")
-- [ring of silver](./ring_of_silver.md)
+- [ring of silver](./Ring_of_silver.md)
 - [silver ring](./silver_ring.md)
-- [silver wedding ring](./silver_wedding_ring.md)
+- [silver wedding ring](./Silver_wedding_ring.md)
 
 <!--@include: ../includes/Items.md-->

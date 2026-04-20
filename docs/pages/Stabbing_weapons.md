@@ -5,13 +5,13 @@ tags:
   - Warrior skills
   - Skills
 ---
-The **stabbing weapons** [skill](./skill.md) is a
-[warrior](./warrior.md) skill and [weapon](./weapon.md)
+The **stabbing weapons** [skill](./Skill.md) is a
+[warrior](./Warrior.md) skill and [weapon](./Weapon.md)
 class that applies to all spears and polearms, if they are wielded in
 one hand only. These weapons are particularly effective against
 [riding](./ride.md) enemies.
 
-If you are wielding a [stabbing weapon](./stabbing_weapon.md), you
+If you are wielding a [stabbing weapon](./Stabbing_weapon.md), you
 are ready to fight, and an enemy tries to attack you with a shorter
 weapon, you will automatically try to hit the enemy before being hit. If
 this attempt succeeds, you have a chance of keeping the enemy at bay -

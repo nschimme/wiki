@@ -4,12 +4,12 @@ description: 'Black bears are aggressive, evil'
 tags:
   - Mobiles
 ---
-**Black bears** are aggressive, [evil](./alignment.md)
-[level](./level.md) 13 [mobiles](./mobile.md) found in
+**Black bears** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 13 [mobiles](./Mobile.md) found in
 various places around [Arda](./Arda.md), often
-[hibernating](./sleep.md) in caves. Their
-[corpses](./corpse.md) can be [butchered](./butcher.md) to
-produce some [meat](./meat.md).
+[hibernating](./Sleep.md) in caves. Their
+[corpses](./Corpse.md) can be [butchered](./Butcher.md) to
+produce some [meat](./Meat.md).
 
 `A bear is here, covered with coarse black fur.`
 `>`**`examine bear`**

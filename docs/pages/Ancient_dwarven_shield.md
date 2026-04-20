@@ -22,10 +22,10 @@ It fits you well.
 
 ## Other
 
-Equal highest [parry bonus](./parry_bonus.md) (35) shield along
+Equal highest [parry bonus](./Parry_bonus.md) (35) shield along
 with the [tower shield](./tower_shield.md), an ancient dwarven
 shield is only really a serious choice for a
-[warrior](./warrior.md) - preferably one with max
+[warrior](./Warrior.md) - preferably one with max
 [strength](./strength.md) and some means of bonus strength (either
 [spell](./Strength_spell.md) or [ring](./jewelled_ring.md)).
 Although it is almost no different to a tower shield, the ancient

@@ -8,12 +8,12 @@ tags:
 The **chief of smugglers** is an aggressive level ?
 [mob](./mob.md). He can be found in a hidden cave in the hills
 south of [Bree](./Bree.md). He loads 1 gold, a
-[falchion](./falchion.md), a [fine, rigid leather
-breastplate](./fine,_rigid_leather_breastplate.md) and some common
-cloth equipment, as well as a [key](./key.md) that can open a
+[falchion](./Falchion.md), a [fine, rigid leather
+breastplate](./Fine,_rigid_leather_breastplate.md) and some common
+cloth equipment, as well as a [key](./Key.md) that can open a
 secret door in his [room](./room.md), that leads to another room
 containing some coins and a [large metal full
-shield](./large_metal_full_shield.md).
+shield](./Large_metal_full_shield.md).
 
 `The chief of smugglers is here, planning his next move.`
 `>`**`examine smuggler`**

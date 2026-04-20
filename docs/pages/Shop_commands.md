@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-Use these **commands** in [shops](./shop.md). 'Buy' can also be
+Use these **commands** in [shops](./Shop.md). 'Buy' can also be
 used in [stables](./stable.md)/pet-shops.
 
 **Buy** syntax:

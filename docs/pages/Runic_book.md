@@ -26,7 +26,7 @@ It weighs four pounds.
 
 ## Other
 
-Teaches the Seeing [herblore](./herblore.md). Loads on the
-[witch](./witch.md) near [Fornost](./Fornost.md).
+Teaches the Seeing [herblore](./Herblore.md). Loads on the
+[witch](./Witch.md) near [Fornost](./Fornost.md).
 
 <!--@include: ../includes/Items.md-->

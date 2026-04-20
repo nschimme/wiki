@@ -6,7 +6,7 @@ tags:
 ---
 In J. R. R. Tolkien's fictional prehistory of the
 [world](./Arda.md), the **Black Númenóreans** were
-[men](./men.md) of Númenórean descent that dwelt on the coasts of
+[men](./Men.md) of Númenórean descent that dwelt on the coasts of
 [Middle-earth](./Middle-earth.md) below the River Anduin from the
 late Second Age onwards. The Black Númenóreans were originally among the
 survivors from a human kingdom that had yet been, Númenor, which was
@@ -43,7 +43,7 @@ BN's have a number of penalties:
 - They cannot become immortal.
 - They generally have worse stats than other men.
 - They have no cities in which to rent. However, they can
-  [camp](./camp.md) outside and often do not pay rent.
+  [camp](./Camp.md) outside and often do not pay rent.
 - They must wander in search of those guildmasters of theirs who have
   made the trip to Eriador. No warrior guildmasters have ever been
   found, so their weapon skills are limited.

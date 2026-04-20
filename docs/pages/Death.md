@@ -5,22 +5,22 @@ tags:
   - Help files
 ---
 **Dying** on [MUME](./MUME.md) (except in the case of
-[trolls](./troll.md) turned to stone by the sun) does not mean the
+[trolls](./Troll.md) turned to stone by the sun) does not mean the
 loss of all gains of the character. You can lose no more than the
-[experience](./experience.md) for the last
-[level](./level.md) in case of a mobdeath (in this case, your
-[age](./age.md) also gets reset to your starting age). In case of
+[experience](./Experience.md) for the last
+[level](./Level.md) in case of a mobdeath (in this case, your
+[age](./Age.md) also gets reset to your starting age). In case of
 a pkill death, you lose less experience, but you also lose some
 warpoints, if you have any. In some other cases (such as deaths in
-[death traps](./death_trap.md)) you lose some [travel
+[death traps](./Death_trap.md)) you lose some [travel
 points](./travel_points.md) instead.
 
 If you did not die to a deathtrap, you may stand a chance at recovering
-your [equipment](./equipment.md) from your
-[corpse](./corpse.md). However, whatever killed you may kill you
+your [equipment](./Equipment.md) from your
+[corpse](./Corpse.md). However, whatever killed you may kill you
 again if you are not cautious, and other players may also take your
 items from the corpse. If you are below level 6 and of a good
-[race](./race.md), you are entitled to a new [newbie
+[race](./Race.md), you are entitled to a new [newbie
 kit](./newbie_kit.md) every time you die.
 
 The kind of death a character suffers (mobdeath, pk, other) now depends
@@ -47,7 +47,7 @@ More precisely:
 <!-- -->
 
 - Otherwise, it's considered
-  DT/[bloodlack](./wound.md)/falling/[drowning](./drowning.md)/whatever.
+  DT/[bloodlack](./Wound.md)/falling/[drowning](./Drowning.md)/whatever.
 
 In case of pk-death, the number of war points transferred depends both
 on the friends and enemies in the room, and (somewhat less) on those

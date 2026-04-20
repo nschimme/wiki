@@ -5,9 +5,9 @@ tags:
   - Mage spells
   - Spells
 ---
-**Colour Spray** is a [level](./level.md) 11
-[mage](./mage.md) [spell](./spell.md). It deals bonus damage
-to the undead and [orcs](./orc.md).
+**Colour Spray** is a [level](./Level.md) 11
+[mage](./Mage.md) [spell](./Spell.md). It deals bonus damage
+to the undead and [orcs](./Orc.md).
 
 Syntax : cast 'colour spray' \[victim Type : Offensive, physical
 Accumulative: N/A Duration : No Casting : Long Position : Standing,

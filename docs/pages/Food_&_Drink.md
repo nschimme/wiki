@@ -4,68 +4,68 @@ description: 'Food and drink is an important aspect of MUME,'
 ---
 
 **Food and drink** is an important aspect of [MUME](./MUME.md),
-for example you must [drink](./drink.md) and [eat](./eat.md)
-regularly otherwise your [movement](./Movement_Points.md) and hit
+for example you must [drink](./drink.md) and [eat](./Eat.md)
+regularly otherwise your [movement](./Movement_points.md) and hit
 points will not regenerate. Some animals can be
-[butchered](./butcher.md) for meat, this meat can then be
-[cooked](./cook.md) over fire using the appropriate equipment.
+[butchered](./Butcher.md) for meat, this meat can then be
+[cooked](./Cook.md) over fire using the appropriate equipment.
 
 ## Food
 
 ### Magic
 
-- [magic mushroom](./magic_mushroom.md)
+- [magic mushroom](./Magic_mushroom.md)
 
 ### Bread
 
-- [delicious bannock](./delicious_bannock.md)
+- [delicious bannock](./Delicious_bannock.md)
 - [large biscuit](./large_biscuit.md)
-- [lembas wafer](./lembas_wafer.md)
-- [loaf of bread](./loaf_of_bread.md)
-- [musty loaf of bread](./musty_loaf_of_bread.md)
-- [seed-cake](./seed-cake.md)
-- [small biscuit of cram](./small_biscuit_of_cram.md)
+- [lembas wafer](./Lembas_wafer.md)
+- [loaf of bread](./Loaf_of_bread.md)
+- [musty loaf of bread](./Musty_loaf_of_bread.md)
+- [seed-cake](./Seed-cake.md)
+- [small biscuit of cram](./Small_biscuit_of_cram.md)
 
 ### Fruit
 
-- [large yellow apple](./large_yellow_apple.md)
-- [apple](./apple.md)
-- [juicy plum](./juicy_plum.md)
+- [large yellow apple](./Large_yellow_apple.md)
+- [apple](./Apple.md)
+- [juicy plum](./Juicy_plum.md)
 
 ### Vegetables
 
-- [large pumpkin](./large_pumpkin.md)
-- [onion](./onion.md)
-- [turnip](./turnip.md)
+- [large pumpkin](./Large_pumpkin.md)
+- [onion](./Onion.md)
+- [turnip](./Turnip.md)
 
 ### Meat
 
 - [Meat](./Meat.md)
 - [sausage flavoured with savoury
-  herbs](./sausage_flavoured_with_savoury_herbs.md)
+  herbs](./Sausage_flavoured_with_savoury_herbs.md)
 
 ### Other
 
-- [bowl of gruel](./bowl_of_gruel.md)
-- [bowl of salad](./bowl_of_salad.md)
-- [egg](./egg.md)
-- [piece of cheese](./piece_of_cheese.md)
-- [pork-pie](./pork-pie.md)
+- [bowl of gruel](./Bowl_of_gruel.md)
+- [bowl of salad](./Bowl_of_salad.md)
+- [egg](./Egg.md)
+- [piece of cheese](./Piece_of_cheese.md)
+- [pork-pie](./Pork-pie.md)
 
 ## Drink
 
-- [water](./water.md) - clear liquid
-- [milk](./milk.md) - white liquid
+- [water](./Water.md) - clear liquid
+- [milk](./Milk.md) - white liquid
 - tea - brown liquid
 
 ### Alcohol
 
 Drinking **alcohol** temporarily lowers your intelligence by two and
 your wisdom by three and increases your maximum [hit
-points](./hit_points.md) by up to 10 (depending on how much you
+points](./Hit_points.md) by up to 10 (depending on how much you
 drink), decaying over time. If you drink enough, you will also become
-intoxicated, causing your [says](./say.md) and
-[narrates](./narrate.md) to be garbled. Some alcohols are stronger
+intoxicated, causing your [says](./Say.md) and
+[narrates](./Narrate.md) to be garbled. Some alcohols are stronger
 than others and will get you drunk faster.
 
 - ale - brown liquid

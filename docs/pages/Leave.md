@@ -7,7 +7,7 @@ tags:
 ---
 If you feel claustrophobic, typing **leave** will make you use the
 nearest obvious exit to the outside. Typing leave while on a
-[ferry](./ferry.md) or inside a [coach](./coach.md) will
+[ferry](./Ferry.md) or inside a [coach](./Coach.md) will
 allow you to exit it and go about your business.
 
 See also: [Enter](./Enter.md)

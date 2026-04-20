@@ -5,12 +5,12 @@ tags:
   - Quest items
 ---
 **Dark-green moss** is used by the [dwarven
-dye-maker](./dwarven_dye-maker.md) to create the
-[dye](./sealed_jug_of_dye.md) required for the [elven
-weaver](./ancient_weaver.md)'s
+dye-maker](./Dwarven_dye-maker.md) to create the
+[dye](./Sealed_jug_of_dye.md) required for the [elven
+weaver](./Ancient_weaver.md)'s
 [quest](./Quest#The_Elven_Weaver.md). It grows on an isolated
 ridge on the bank of the Nan Duin that can only be reached by
-[rope](./rope.md) bridge.
+[rope](./Rope.md) bridge.
 
 `A small patch of dark-green moss grows in the deepest shade.`
 `>`**`examine moss`**

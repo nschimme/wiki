@@ -5,7 +5,7 @@ tags:
   - Playable races
 ---
 ![Bear_roar](/img/Bear_roar.jpg) **Beornings**, also known as
-**Bears**, are a race of [men](./man.md) who are capable of
+**Bears**, are a race of [men](./Man.md) who are capable of
 transforming into huge, powerful bears. The most notable and well-known
 Beorning in Tolkien is [Beorn](./Beorn.md) who appears for his
 most notable role in *[The Hobbit](./The_Hobbit.md)*. Beornings
@@ -15,27 +15,27 @@ live in the [Anduin Vale](./Anduin_Vale.md), at the foot of the
 ## Beornings in MUME
 
 In [MUME](./MUME.md), Beornings are very similar to other white
-side [races](./race.md) of men, except for their ability to
+side [races](./Race.md) of men, except for their ability to
 *metamorph* into bears.
 
 At higher levels, Beornings will preferably fight in their bear form,
 unarmed, and with little need for equipment.
 
-Beornings have a bonus on the [wilderness](./wilderness.md) skill
+Beornings have a bonus on the [wilderness](./Wilderness.md) skill
 (+25% without any pracs) and they are the only race which can [start the
-game](./pray.md) in the Andiun Vale.
+game](./Pray.md) in the Andiun Vale.
 
 ### Metamorph
 
 In order to change to bear form, use the
-"[metamorph](./metamorph.md)" command (no arguments). The outcome
+"[metamorph](./Metamorph.md)" command (no arguments). The outcome
 is not guaranteed: the chance of a successful change depends on several
 factors, among which
 
-- [level](./level.md)
+- [level](./Level.md)
 - distance from the Carrock
-- current [mana](./mana.md)
-- [time](./time.md) of day / darkness
+- current [mana](./Mana.md)
+- [time](./Time.md) of day / darkness
 - moon phase
 
 Under ideal conditions (high level, max mana, night or darkness, full
@@ -58,9 +58,9 @@ While in bear form, Beornings have increased strength and other
 
 This makes the maximum strength a near rival for that of
 [Trolls](./Troll.md). Also, like trolls, bears do not have
-[mana](./mana.md), and are incapable of using weapons or spells.
+[mana](./Mana.md), and are incapable of using weapons or spells.
 Many skills have no effect on the character in bear form. They use their
-paws and claws to fight, and their bulk to [bash](./bash.md).
+paws and claws to fight, and their bulk to [bash](./Bash.md).
 
 Bears have a special [forage](https://mume.org/help/forage) command
 which will provide food and water from the current room.

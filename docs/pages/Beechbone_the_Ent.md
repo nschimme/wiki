@@ -4,11 +4,11 @@ description: 'level 28 Ent living in'
 tags:
   - Ents
 ---
-**Beechbone** is a [good](./alignment.md)
-[level](./level.md) 28 [Ent](./Ent.md) living in
+**Beechbone** is a [good](./Alignment.md)
+[level](./Level.md) 28 [Ent](./Ent.md) living in
 [Fangorn](./Fangorn.md) forest. He might ask you for help in
 [retrieving](./Quest#Beechbone_the_Ent.md) a
-[bowl](./large_clay_bowl.md) from his ruined home.
+[bowl](./Large_clay_bowl.md) from his ruined home.
 
 `A tall figure, like that of a fine-looking beech tree, is slumped sadly here.`
 `> `**`look at beechbone`**

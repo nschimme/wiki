@@ -4,7 +4,7 @@ description: 'A chunk of salt can be used when cooking to'
 tags:
   - Uncategorized items
 ---
-A chunk of salt can be used when [cooking](./cooking.md) to
+A chunk of salt can be used when [cooking](./Cooking.md) to
 preserve the food better. Salt can be found at various places about
 Middle Earth. It can be used a finite number of times and then will be
 consumed.

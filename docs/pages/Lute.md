@@ -25,6 +25,6 @@ It weighs a couple of pounds.
 
 ## Other
 
-Loads on [Big John](./Big_John.md). If you [hold](./hold.md)
-it, you can [use](./use.md) it to play a melody. Can be sold for
+Loads on [Big John](./Big_John.md). If you [hold](./Hold.md)
+it, you can [use](./Use.md) it to play a melody. Can be sold for
 about 15 silver.

@@ -18,8 +18,8 @@ It weighs a couple of pounds.
 
 ## Other
 
-It's said to boost your [defence](./dodge_bonus.md) somewhat and
-help your [movement points](./movement_points.md) regenerate.
+It's said to boost your [defence](./Dodge_bonus.md) somewhat and
+help your [movement points](./Movement_points.md) regenerate.
 Compared to [a forest green cloak](./a_forest_green_cloak.md) it
 gives slightly more defence and less movement.
 

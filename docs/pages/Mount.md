@@ -17,8 +17,8 @@ with them.
 
 ## Ride
 
-The [ride](./ride.md) skill is a [ranger](./general.md)
-[skill](./skill.md) that allows one to efficiently ride certain
+The [ride](./ride.md) skill is a [ranger](./General.md)
+[skill](./Skill.md) that allows one to efficiently ride certain
 rideable [mobiles](./mobiles.md), like horses.
 
 Riding will lower the amount of [movement
@@ -59,7 +59,7 @@ may also make it impossible to ride and there are many other exceptions.
 In [MMapper](./Mmapper.md) non rideable rooms are indicated by a
 small red cross at the top right corner.
 
-Horses cannot [climb](./climb.md) or [swim](./swim.md).
+Horses cannot [climb](./Climb.md) or [swim](./Swim.md).
 However, if you give your mount a boat, it will follow you into surface
 water rooms. For example: 'give canoe mule'. It will never follow
 underwater.
@@ -71,7 +71,7 @@ mount. Typing 'lead' while [riding](./ride.md) will automatically
 make you dismount and lead your mount.
 
 Use '[dismount](./dismount.md)' if you want the mount not to
-[follow](./follow.md) you. NOTE: Unlike lead, this command can be
+[follow](./Follow.md) you. NOTE: Unlike lead, this command can be
 used in combat.
 
 If you are not riding and you type 'lead' without any parameters, you
@@ -83,7 +83,7 @@ It is also possible to lead mounts that you previously haven't ridden if
 you specify which one you want to lead (like 'lead horse'). This won't
 work if someone else in the room is leading or riding the mount already.
 
-If you are [leading](./lead.md) a [mount](./mount.md), the
+If you are [leading](./lead.md) a [mount](./Mount.md), the
 **abandon** command will make it stop following you. The mount will
 remember its previous [rider](./ride.md), so you can resume
 leading it by typing "lead". If you abandon your mount but remain in the
@@ -108,7 +108,7 @@ Saddles can be bought at grocers and traveller shops.
 `> unsaddle mule (removes the saddle from the mule)`
 
 Saddles have the added benefit that your mount cannot be
-[summoned](./summon.md) (as do saddle cloths).
+[summoned](./Summon.md) (as do saddle cloths).
 
 There are other uses to the unsaddle command (see below).
 
@@ -199,10 +199,10 @@ is in your immediate vicinity (5 rooms distance).
 
 ## Miscellaneous Info
 
-- Since you cannot [flee](./flee.md) into a no-ride room when
+- Since you cannot [flee](./Flee.md) into a no-ride room when
   mounted, riding vs dismounting can be used to influence flee
   directions.
-- You cannot [sneak](./sneak.md) while riding. It does not
+- You cannot [sneak](./Sneak.md) while riding. It does not
   influence movement cost if still enabled, so its safe to leave on to
   automatically reenable when dismounting.
 - [Dwarves](./Dwarves.md) with [axe](./Cleaving_weapon.md)

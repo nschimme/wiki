@@ -53,7 +53,7 @@ buying a first set of armour.
 
 ### The Ghost of Galerel
 
-*See [ghost of Galerel](./ghost_of_Galerel.md) and [Galerel's
+*See [ghost of Galerel](./Ghost_of_Galerel.md) and [Galerel's
 mansion](./Galerel's_mansion.md)*.
 
 ### The Old Wight

@@ -8,16 +8,16 @@ tags:
 In order to progress in [MUME](./MUME.md), you will need to
 **practice** skills. When you begin the game you will be given a number
 of 'practice sessions,' which may be used in any
-[guild](./guild.md). As you gain [levels](./level.md), you
+[guild](./Guild.md). As you gain [levels](./Level.md), you
 are also awarded more sessions.
 
 The results of practicing a skill will depend on your
-[class](./class.md). One session is always required to practice in
+[class](./Class.md). One session is always required to practice in
 any guild, however, the practices needed to further your knowledge of
 skills is slower when you practice skills not tied to your class. For
-example, if a [thief](./thief.md) with the same stats as a
-[warrior](./warrior.md) practices the skill
-'[parry](./parry.md)' once he will spend 1 practice but gain
+example, if a [thief](./Thief.md) with the same stats as a
+[warrior](./Warrior.md) practices the skill
+'[parry](./Parry.md)' once he will spend 1 practice but gain
 around the half the knowledge the warrior would - to gain the same %
 knowledge as the warrior, the thief must spend 2 practice sessions.
 
@@ -30,13 +30,13 @@ Some skills are easier or harder to learn than others in the same group
 (the % increase will be quicker or slower). The gain in knowledge in a
 skill per practice session is also related to your stats - note that
 only unmodified (natural) stats are considered for practicing purposes.
-That is, the stats unaffected by [age](./age.md),
-[spells](./spell.md) and [equipment](./equipment.md).
+That is, the stats unaffected by [age](./Age.md),
+[spells](./Spell.md) and [equipment](./Equipment.md).
 
-When you learn a skill outside your [class](./class.md), this
+When you learn a skill outside your [class](./Class.md), this
 skill will be less efficient than for a character of that class. For
-example, a level 20 [mage](./mage.md) using
-[backstab](./backstab.md) will be as proficient as a level 13
+example, a level 20 [mage](./Mage.md) using
+[backstab](./Backstab.md) will be as proficient as a level 13
 thief. Here is the correspondence table for effective levels used for
 skills: 1 -\> 100%, 2 -\> 83%, 3 -\> 67%, 4 -\> 50%
 
@@ -54,11 +54,11 @@ resets will be granted, so please do not ask for one.
 
 To help prevent your skills decaying, use the command train all. Train
 all will refresh any skill that has not been recently used. For more
-information see "[train](./train.md)."
+information see "[train](./Train.md)."
 
 Since skills can decay, practice resets will NOT be given under any
 circumstances. However, retired people can get a practice reset after 30
-days. "[retire](./retire.md)" will provide complete details.
+days. "[retire](./Retire.md)" will provide complete details.
 
 Examples:
 

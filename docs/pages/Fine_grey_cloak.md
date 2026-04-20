@@ -18,7 +18,7 @@ It weighs four pounds.
 
 ## Other
 
-This cloak gives the equal best [dodge bonus](./dodge_bonus.md) of
+This cloak gives the equal best [dodge bonus](./Dodge_bonus.md) of
 any cloak in the game (+10db) and is therefore a prime piece of
 equipment for characters seeking a little more defense.
 

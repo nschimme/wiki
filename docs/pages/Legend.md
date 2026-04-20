@@ -4,7 +4,7 @@ description: 'Characters of level 26 and above are called'
 tags:
   - Help files
 ---
-Characters of [level](./level.md) 26 and above are called
+Characters of [level](./Level.md) 26 and above are called
 'legends'. Advancement as a legend is ten times slower than as a
 non-legend.
 

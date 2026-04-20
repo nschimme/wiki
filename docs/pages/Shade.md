@@ -5,8 +5,8 @@ tags:
   - Mobiles
 ---
 **Shades** are aggressive level ? [mobs](./mob.md). They are
-incorporeal, and cannot be [bashed](./bash.md). They can also
-[sneak](./sneak.md).
+incorporeal, and cannot be [bashed](./Bash.md). They can also
+[sneak](./Sneak.md).
 
 `A shade is here, shrouded in an inky blackness.`
 `>`**`examine shade`**

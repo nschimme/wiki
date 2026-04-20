@@ -5,23 +5,23 @@ tags:
   - Spells
   - Mage spells
 ---
-**Enchant** is a [level](./level.md) 12 [mage](./mage.md)
-[spell](./spell.md). It improves the [weapon](./weapon.md)
-it is [cast](./cast.md) upon:
+**Enchant** is a [level](./Level.md) 12 [mage](./Mage.md)
+[spell](./Spell.md). It improves the [weapon](./Weapon.md)
+it is [cast](./Cast.md) upon:
 
 If the caster is level 12-17 it gives the weapon
-+5%[ob](./offensive_bonus.md), +1 damage.
++5%[ob](./Offensive_bonus.md), +1 damage.
 
 If the caster is level 18-19 it gives the weapon +10%ob, +1 damage.
 
 If the caster is level 20+ it gives the weapon +10%ob , +2 damage.
 
-(Note: levels are for a mage, for another [class](./class.md) it
+(Note: levels are for a mage, for another [class](./Class.md) it
 will be different)
 
 This is a very difficult to master spell, requiring a high level, quite
-a few [practices](./practice.md), and a ton of
-[mana](./mana.md). Enchanters are loved and respected when they
+a few [practices](./Practice.md), and a ton of
+[mana](./Mana.md). Enchanters are loved and respected when they
 can be found. Generally people look for "max" enchants, so those who
 choose to take this generally wait until they can reach the highest of
 the three enchanting levels.

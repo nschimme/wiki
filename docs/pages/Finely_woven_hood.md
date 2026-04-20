@@ -6,9 +6,9 @@ tags:
   - Head items
 ---
 The **finely woven hood** is a piece of cloth
-[equipment](./equipment.md) worn on the [head](./head.md).
-It grants higher [dodge bonus](./dodge_bonus.md) than other cloth
-[items](./item.md). It can be given by
+[equipment](./Equipment.md) worn on the [head](./Head.md).
+It grants higher [dodge bonus](./Dodge_bonus.md) than other cloth
+[items](./Item.md). It can be given by
 [Galadriel](./Galadriel.md) as a reward for defeating the
 [Witch-King of Angmar](./Witch-King_of_Angmar.md).
 

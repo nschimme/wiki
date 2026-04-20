@@ -4,7 +4,7 @@ description: 'The mace is a concussion weapon. It'
 tags:
   - Concussion weapons
 ---
-The **mace** is a [concussion weapon](./concussion_weapon.md). It
+The **mace** is a [concussion weapon](./Concussion_weapon.md). It
 is worth around 15 [silver](./silver.md), and is sold by most
 weaponsmiths.
 

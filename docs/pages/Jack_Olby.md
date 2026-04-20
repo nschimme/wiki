@@ -6,7 +6,7 @@ tags:
 ---
 **Jack Olby** guards the entrance to the [Guards' Training
 Room](./Bree_Warrior_Guild.md) in [Bree](./Bree.md). Access
-to the guild for 2 hours costs 1 [silver](./gold.md).
+to the guild for 2 hours costs 1 [silver](./Gold.md).
 
 `Jack stands on guard here, collecting money.`
 `>`**`examine Jack`**

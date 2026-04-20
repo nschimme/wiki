@@ -31,13 +31,13 @@ combined into the chief, Bree. Most products can be bought here, and
 there are some guilds where simple skills can be learned.
 
 The gates of Bree are closed at night, in order to stop intruders. There
-is a [coach](./coach.md) to [Tharbad](./Tharbad.md) which is
+is a [coach](./Coach.md) to [Tharbad](./Tharbad.md) which is
 caught near the southwestern end of Bree.
 
 The gatekeepers will open the gates at 7am and close them at 8pm. Should
 a citizen wish to leave the town, they may simply ask the gatekeeper to
 open it for him. If a citizen should wish to enter Bree at night, he
-merely needs to '[call](./call.md)'.
+merely needs to '[call](./Call.md)'.
 
 ## Shops
 

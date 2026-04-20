@@ -24,7 +24,7 @@ It weighs about one pound.
 
 ## Other
 
-Obtained by [butchering](./butcher.md)
-[rattlesnakes](./rattlesnake.md).
+Obtained by [butchering](./Butcher.md)
+[rattlesnakes](./Rattlesnake.md).
 
 <!--@include: ../includes/Items.md-->

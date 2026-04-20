@@ -6,9 +6,9 @@ tags:
   - Legs items
 ---
 **Chain mail leggings** are a piece of chain mail equipment worn on the
-[legs](./legs.md). They provide a considerable amount of damage
-absorption, and slightly decrease [dodge bonus](./dodge_bonus.md).
-They are worth about 1 [gold](./gold.md) and 6 silver, and are
+[legs](./Legs.md). They provide a considerable amount of damage
+absorption, and slightly decrease [dodge bonus](./Dodge_bonus.md).
+They are worth about 1 [gold](./Gold.md) and 6 silver, and are
 sold by most armourers.
 
 `A pair of chain mail leggings are lying here.`

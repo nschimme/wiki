@@ -10,7 +10,7 @@ Usage: **trophy** \[string
 With this command you can see your trophy list, which contains the
 number of times you have killed each kind of monster and player. The
 more knowledge you have of a specific kind of creature, the fewer
-[experience](./experience.md) points you will get.
+[experience](./Experience.md) points you will get.
 
 You may get on trophy also PCs you personally didn't
 [kill](./kill.md). This can happen if a character of an enemy race

@@ -6,7 +6,7 @@ tags:
   - Skills
   - Commands
 ---
-**Pick** is a [thief](./thief.md) [skill](./skill.md) that
+**Pick** is a [thief](./Thief.md) [skill](./Skill.md) that
 allows you to pick locks. Not all locks can be picked.
 
 It is wise to make sure the lock is locked first. If you attempt to pick

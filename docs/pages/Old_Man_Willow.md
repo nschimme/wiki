@@ -11,6 +11,6 @@ Forest](./Old_Forest.md) and is known to sing walking creatures to
 sleep so that he can then kill them.
 
 Willow is very powerful, but drops the [Blue
-Crystal](./Blue_Crystal.md) that is sought by
+Crystal](./Blue_crystal.md) that is sought by
 [Heroes](./Hero.md).
  

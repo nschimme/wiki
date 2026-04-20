@@ -4,8 +4,8 @@ description: 'The scimitar is a slashing weapon. It'
 tags:
   - Slashing weapons
 ---
-The **scimitar** is a [slashing weapon](./slashing_weapon.md). It
-is worth around 1 [gold](./gold.md), and is sold by most
+The **scimitar** is a [slashing weapon](./Slashing_weapon.md). It
+is worth around 1 [gold](./Gold.md), and is sold by most
 weaponsmiths.
 
 `A scimitar has been left here.`

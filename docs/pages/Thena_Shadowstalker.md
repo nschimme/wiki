@@ -9,11 +9,11 @@ tags:
 Blacksoul](./Morthan_Blacksoul.md)'s accomplices. While not
 initially aggressive, if you attack her or her allies, she will remember
 it and attack the next time she sees you. She loads 8 silver, a
-[shortsword](./shortsword.md), a [full metal
-shield](./full_metal_shield.md), an [embroidered
-blouse](./embroidered_blouse.md), a [ragged, blackened
-cloak](./ragged,_blackened_cloak.md) and a [soft leather riding
-skirt](./soft_leather_riding_skirt.md).
+[shortsword](./Shortsword.md), a [full metal
+shield](./Full_metal_shield.md), an [embroidered
+blouse](./Embroidered_blouse.md), a [ragged, blackened
+cloak](./Ragged,_blackened_cloak.md) and a [soft leather riding
+skirt](./Soft_leather_riding_skirt.md).
 
 `A female robber glares challengingly at you.`
 `>`**`examine thena`**

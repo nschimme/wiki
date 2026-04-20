@@ -20,6 +20,6 @@ It weighs five pounds.
 
 ## Other
 
-Increases [dodge bonus](./dodge_bonus.md).
+Increases [dodge bonus](./Dodge_bonus.md).
 
 <!--@include: ../includes/Items.md-->

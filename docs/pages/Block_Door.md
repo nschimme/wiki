@@ -5,17 +5,17 @@ tags:
   - Spells
   - Mage spells
 ---
-**Block Door** is a level 9 [mage](./mage.md)
-[spell](./spell.md). If cast on a closed [door](./door.md)
+**Block Door** is a level 9 [mage](./Mage.md)
+[spell](./Spell.md). If cast on a closed [door](./Door.md)
 it will block the door from being opened for some time. The only way to
 remove the block before it expires is with the [Break
-Door](./Break_Door.md) spell, by trying to [bash](./bash.md)
-(unlikely to succeed), or with special rare [items](./item.md).
-The spell does not work on natural closable [exits](./exit.md),
+Door](./Break_Door.md) spell, by trying to [bash](./Bash.md)
+(unlikely to succeed), or with special rare [items](./Item.md).
+The spell does not work on natural closable [exits](./Exit.md),
 like branches.
 
 The spell is nearly exclusively used as part of [player
-killing](./player_killing.md) to lock one or several opponents in
+killing](./Player_killing.md) to lock one or several opponents in
 a closed area.
 
 Syntax : cast 'block door' \&lt;door name\&gt; Type : Miscellaneous

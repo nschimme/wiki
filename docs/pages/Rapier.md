@@ -4,7 +4,7 @@ description: 'The rapier is a piercing weapon. It is'
 tags:
   - Piercing weapons
 ---
-The **rapier** is a [piercing weapon](./piercing_weapon.md). It is
+The **rapier** is a [piercing weapon](./Piercing_weapon.md). It is
 worth around 15 [silver](./silver.md), and is sold by most
 weaponsmiths.
 

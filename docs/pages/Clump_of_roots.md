@@ -4,8 +4,8 @@ description: 'Roots are passive level 12'
 tags:
   - Plants
 ---
-**Roots** are passive [level](./level.md) 12
-[plants](./plant.md). They can trap players, causing them to be
+**Roots** are passive [level](./Level.md) 12
+[plants](./Plant.md). They can trap players, causing them to be
 pulled back instantly when they attempt to leave the
 [room](./room.md).
 

@@ -6,8 +6,8 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Strength** is a [level](./level.md) 7
-[cleric](./cleric.md) [spell](./spell.md), giving the target
+**Strength** is a [level](./Level.md) 7
+[cleric](./Cleric.md) [spell](./Spell.md), giving the target
 1-3 extra [strength](./strength.md) for a period of time. The
 amount of bonus strength gained depends on the caster's proficiency with
 the spell. Syntax : cast 'strength' \[recipient Type : Miscellaneous

@@ -4,12 +4,12 @@ description: 'The gilded round shield is a lightweight shield that grants a'
 ---
 
 The **gilded round shield** is a lightweight shield that grants a
-considerable amount of [parry bonus](./parry_bonus.md) for its
+considerable amount of [parry bonus](./Parry_bonus.md) for its
 weight, making it a desirable option for
 lower-[strength](./strength.md) characters. It is similar to the
-[shield of Arthedain](./shield_of_Arthedain.md), giving slightly
+[shield of Arthedain](./Shield_of_Arthedain.md), giving slightly
 better parry while also weighing slightly more. It loads on the [ghost
-of Galerel](./ghost_of_Galerel.md).
+of Galerel](./Ghost_of_Galerel.md).
 
 `A round shield, with shining gilt, is on the ground.`
 `>`**`examine shield`**

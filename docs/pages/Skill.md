@@ -5,7 +5,7 @@ description: 'To succeed on Arda, it is crucial to possess skills.'
 
 To succeed on [Arda](./Arda.md), it is crucial to possess skills.
 Your character needs to know how to fight, [ride](./ride.md),
-[swim](./swim.md), [track](./track.md) et cetera. Some
+[swim](./Swim.md), [track](./Track.md) et cetera. Some
 things are very hard to learn, whilst other talents are easily
 developed. When reading a [help](./Help:Contents.md) file, check
 out the "See Also" section at the bottom.
@@ -71,10 +71,10 @@ Offensive
 
 Weapon Skills
 
-- [Cleaving Weapons](./Cleaving_Weapons.md)
-- [Concussion Weapons](./Concussion_Weapons.md)
-- [Slashing Weapons](./Slashing_Weapons.md)
-- [Stabbing Weapons](./Stabbing_Weapons.md)
+- [Cleaving Weapons](./Cleaving_weapons.md)
+- [Concussion Weapons](./Concussion_weapons.md)
+- [Slashing Weapons](./Slashing_weapons.md)
+- [Stabbing Weapons](./Stabbing_weapons.md)
 - [Two Handed Weapons](./Two_Handed_Weapons.md)
 - [Unarmed (Troll)](./Unarmed.md)
 

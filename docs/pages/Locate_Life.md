@@ -5,8 +5,8 @@ tags:
   - Mage spells
   - Spells
 ---
-**Locate Life** is a [level](./level.md) 11
-[mage](./mage.md) [spell](./spell.md). It will tell you
+**Locate Life** is a [level](./Level.md) 11
+[mage](./Mage.md) [spell](./Spell.md). It will tell you
 where instances of this creature can be found, within a radius that
 depends on your strength in this spell. It will also provide magical
 information about these locations that can be used in other spells.

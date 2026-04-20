@@ -4,5 +4,5 @@ tags:
   - Skills
   - Warrior
 ---
-[Warrior](./Warrior.md) [skills](./skill.md).
+[Warrior](./Warrior.md) [skills](./Skill.md).
  

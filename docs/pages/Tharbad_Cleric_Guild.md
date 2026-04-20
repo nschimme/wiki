@@ -4,8 +4,8 @@ description: 'A priest teaches cleric'
 tags:
   - Guildmasters
 ---
-A **priest** teaches [cleric](./cleric.md)
-[spells](./spell.md) **Up in the Tower** in the northwestern
+A **priest** teaches [cleric](./Cleric.md)
+[spells](./Spell.md) **Up in the Tower** in the northwestern
 corner of [Tharbad](./Tharbad.md).
 
 `A haggard man dressed in tattered robes is here, willing to teach his art.`

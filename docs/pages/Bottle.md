@@ -5,7 +5,7 @@ tags:
   - Containers
 ---
 The **bottle** is a [drink](./Food_%26_Drink#Drink.md)
-[container](./container.md). It can contain a bit over 2 pounds
+[container](./Container.md). It can contain a bit over 2 pounds
 worth of liquid. It is worth around 10 [copper](./copper.md).
 Bottles are sold in many taverns and general stores, most often
 containing ale.

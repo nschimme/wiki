@@ -18,11 +18,11 @@ tavern, so one would be wise to keep a close eye on their money.
 ## Menu
 
 - [roast partridge](./roast_partridge.md)
-- [pastries](./pastry.md)
+- [pastries](./Pastry.md)
 - [stew](./stew.md)
 - [large barrels](./large_barrel.md) full of
-  [water](./water.md)
+  [water](./Water.md)
 - [stout barrels](./stout_barrel.md) full of
   [beer](./beer.md)
-- [beer bottles](./beer_bottle.md) full of [beer](./beer.md)
-- [cups](./cup.md) full of [water](./water.md)
+- [beer bottles](./Beer_bottle.md) full of [beer](./beer.md)
+- [cups](./cup.md) full of [water](./Water.md)

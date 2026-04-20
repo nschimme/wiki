@@ -4,59 +4,59 @@ description: 'A list of shields found in MUME. Shields provide'
 ---
 
 A list of **shields** found in [MUME](./MUME.md). Shields provide
-[parry](./parry.md) bonus.
+[parry](./Parry.md) bonus.
 
 ## Light Weight
 
 Light weight shields tend to give less [parry
-bonus](./parry_bonus.md) to its equivalent heavy shield, however
+bonus](./Parry_bonus.md) to its equivalent heavy shield, however
 they will not weigh you down as much as the heavy ones would.
 
 - [smelly piece of worm hide](./smelly_piece_of_worm_hide.md)
-- [bejewelled shield](./bejewelled_shield.md)
-- [gilded round shield](./gilded_round_shield.md)
-- [shield of Arthedain](./shield_of_Arthedain.md)
-- [shield of Cardolan](./shield_of_Cardolan.md)
+- [bejewelled shield](./Bejewelled_shield.md)
+- [gilded round shield](./Gilded_round_shield.md)
+- [shield of Arthedain](./Shield_of_Arthedain.md)
+- [shield of Cardolan](./Shield_of_Cardolan.md)
 
 ## High Parry
 
-High [parry bonus](./parry_bonus.md) shields tend to weigh more,
+High [parry bonus](./Parry_bonus.md) shields tend to weigh more,
 and thus affect you in more ways than just raising your [parry
-bonus](./parry_bonus.md) (i.e more weight carried, lower [dodge
-bonus](./dodge_bonus.md)).
+bonus](./Parry_bonus.md) (i.e more weight carried, lower [dodge
+bonus](./Dodge_bonus.md)).
 
-- [ancient dwarven shield](./ancient_dwarven_shield.md)
+- [ancient dwarven shield](./Ancient_dwarven_shield.md)
 - [defiled dwarven shield](./defiled_dwarven_shield.md)
 - [large tower shield](./large_tower_shield.md)
-- [large metal wall shield](./large_metal_wall_shield.md)
-- [sun-emblazoned shield](./sun-emblazoned_shield.md)
-- [metal wall shield](./metal_wall_shield.md)
+- [large metal wall shield](./Large_metal_wall_shield.md)
+- [sun-emblazoned shield](./Sun-emblazoned_shield.md)
+- [metal wall shield](./Metal_wall_shield.md)
 - [large wooden wall shield](./large_wooden_wall_shield.md)
-- [wooden wall shield](./wooden_wall_shield.md)
+- [wooden wall shield](./Wooden_wall_shield.md)
 
 ## Average
 
 - [dark shield](./dark_shield.md)
-- [large metal full shield](./large_metal_full_shield.md)
-- [full metal shield](./full_metal_shield.md)
-- [large wooden full shield](./large_wooden_full_shield.md)
+- [large metal full shield](./Large_metal_full_shield.md)
+- [full metal shield](./Full_metal_shield.md)
+- [large wooden full shield](./Large_wooden_full_shield.md)
 - [shield of Isengard](./shield_of_Isengard.md)
-- [black metal shield](./black_metal_shield.md)
-- [full wooden shield](./full_wooden_shield.md)
-- [large metal shield](./large_metal_shield.md)
+- [black metal shield](./Black_metal_shield.md)
+- [full wooden shield](./Full_wooden_shield.md)
+- [large metal shield](./Large_metal_shield.md)
 - [spiked shield](./spiked_shield.md)
-- [metal shield](./metal_shield.md)
-- [large wooden shield](./large_wooden_shield.md)
-- [small metal shield](./small_metal_shield.md)
-- [wooden shield](./wooden_shield.md)
-- [small wooden shield](./small_wooden_shield.md)
-- [wooden target shield](./wooden_target_shield.md)
+- [metal shield](./Metal_shield.md)
+- [large wooden shield](./Large_wooden_shield.md)
+- [small metal shield](./Small_metal_shield.md)
+- [wooden shield](./Wooden_shield.md)
+- [small wooden shield](./Small_wooden_shield.md)
+- [wooden target shield](./Wooden_target_shield.md)
 
 ## Buckler
 
-- [metal buckler](./metal_buckler.md)
+- [metal buckler](./Metal_buckler.md)
 - [small metal target shield](./small_metal_target_shield.md)
-- [small wooden target shield](./small_wooden_target_shield.md)
+- [small wooden target shield](./Small_wooden_target_shield.md)
 
 ## Artifact
 

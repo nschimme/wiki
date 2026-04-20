@@ -7,10 +7,10 @@ tags:
 ---
 The **ignore** command blocks the output of up to 20 other players. If
 you ignore a player, you will not be able to see
-[narrates](./narrate.md), songs, shouts, yells, tells,
-[beeps](./beep.md) or [prays](./pray.md) from that player or
-any [mobiles](./mobile.md) that player has
-[charmed](./charm.md) (or pets bought).
+[narrates](./Narrate.md), songs, shouts, yells, tells,
+[beeps](./Beep.md) or [prays](./Pray.md) from that player or
+any [mobiles](./Mobile.md) that player has
+[charmed](./Charm.md) (or pets bought).
 
 Syntax:
 

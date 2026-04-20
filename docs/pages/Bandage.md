@@ -6,9 +6,9 @@ tags:
   - Skills
   - Commands
 ---
-**Bandage** is a [ranger](./general.md) [skill](./skill.md)
+**Bandage** is a [ranger](./General.md) [skill](./Skill.md)
 that allows one to give first aid to someone suffering from different
-types of [wounds](./wound.md).
+types of [wounds](./Wound.md).
 
 Note that one can't really heal a person with this skill, it can only
 prevent further blood loss from the wounds, assist the wounds in

@@ -7,4 +7,4 @@ tags:
 An [elven herbalist](./elven_herbalist.md) tend to the
 **Herbalist** shop in [Rivendell](./Rivendell.md). The shop is
 open from 8am to 12pm and 1pm to 9pm. Due to the remote location, prices
-for [herbs](./herb.md) are high.
+for [herbs](./Herb.md) are high.

@@ -21,9 +21,9 @@ It weighs one stone and six pounds.
 ## Opinions
 
 A very useful all-round shield commonly used by
-[warriors](./warrior.md), [scouts](./scout.md) and combos
+[warriors](./Warrior.md), [scouts](./Scout.md) and combos
 alike. Few shields give more protection, and only one other can match it
 at the same or even similar weight. They are also rumoured to enhance
-the user's ability to resist [spells](./spell.md).
+the user's ability to resist [spells](./Spell.md).
 
 <!--@include: ../includes/Items.md-->

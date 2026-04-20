@@ -4,11 +4,11 @@ description: 'Dales-ponies are level ~7'
 tags:
   - Mobiles
 ---
-**Dales-ponies** are [level](./level.md) ~7
-[rideable](./ride.md) [mobiles](./mobile.md). They make the
-best [mounts](./mount.md) for [dwarves](./dwarf.md) and
-[hobbits](./hobbit.md). They can be bought from the pet
-[shop](./shop.md) just outside Dwaling in the
+**Dales-ponies** are [level](./Level.md) ~7
+[rideable](./ride.md) [mobiles](./Mobile.md). They make the
+best [mounts](./Mount.md) for [dwarves](./Dwarf.md) and
+[hobbits](./Hobbit.md). They can be bought from the pet
+[shop](./Shop.md) just outside Dwaling in the
 [Shire](./Shire.md).
 
 `A strong and agile dales-pony is standing here.`

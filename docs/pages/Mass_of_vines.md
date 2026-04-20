@@ -4,8 +4,8 @@ description: 'Masses of vines are aggressive, evil'
 tags:
   - Mobiles
 ---
-**Masses of vines** are aggressive, [evil](./alignment.md)
-[level](./level.md) 11 [mobiles](./mobile.md), found in
+**Masses of vines** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) 11 [mobiles](./Mobile.md), found in
 various locations around [Arda](./Arda.md), mostly in forests.
 
 `A mass of wriggling vines drops on you from the trees.`

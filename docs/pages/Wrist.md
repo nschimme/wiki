@@ -11,7 +11,7 @@ A list of items worn on the **wrist**.
 
 ## Mundane
 
-- [wolfskin wristband](./wolfskin_wristband.md)
+- [wolfskin wristband](./Wolfskin_wristband.md)
 
 
 <!--@include: ../includes/Items.md-->

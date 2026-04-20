@@ -9,19 +9,19 @@ tags:
 ---
 Usage: climb \[&lt;direction&gt;\|on\|off\|safe\|always
 
-**Climb** is a [ranger](./general.md) [skill](./skill.md).
+**Climb** is a [ranger](./General.md) [skill](./Skill.md).
 The "climb" command switches on and off your ability to climb. When
 "climb" is turned off, you will not enter any areas which you need to be
-climbing to access by moving, [fleeing](./flee.md) or
-[following](./follow.md) someone. It is possible, however, to
-[teleport](./teleport.md) to such an area.
+climbing to access by moving, [fleeing](./Flee.md) or
+[following](./Follow.md) someone. It is possible, however, to
+[teleport](./Teleport.md) to such an area.
 
 You can choose to "climb always" (shown as "C" in your
-[prompt](./prompt.md)): when faced with a climb exit, you will
+[prompt](./Prompt.md)): when faced with a climb exit, you will
 always attempt it, regardless of its difficulty or the potential damage.
 As an alternative, you can "climb safe" (shown as "c" in your prompt)
 and climb only when the climb is easy, when falling wouldn't hurt you
-much, or when (due to the presence of a tied [rope](./rope.md))
+much, or when (due to the presence of a tied [rope](./Rope.md))
 you are safe from falling.
 
 Examples:

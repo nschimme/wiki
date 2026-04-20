@@ -9,7 +9,7 @@ Mountains](./Misty_Mountains.md). Hardened by cold from their home
 in the freezing caves of northern Misty's, the Zaugurz have come to wage
 war and claim loot for the tribes expanding territory. The Zaugurz
 hoards stops for nothing and wages war upon every living creature. Not
-long ago the Uruk-Zaugurz and the [Uruk-Tarkhnarb](./orc.md)
+long ago the Uruk-Zaugurz and the [Uruk-Tarkhnarb](./Orc.md)
 tribes were allies, but after a sneak attack on Goblin Gate one night,
 resulting in chaos, mayhem and rivers and blood, the alliance crumbled,
 most likely forever. When the Tarkhnarbs finally regained control over
@@ -17,8 +17,8 @@ their caves, the Great Goblins ten best breeding females had all been
 captured, not to mention the hoards of treasures now collecting dust up
 north instead. After this incident the Tarkhnarb and all their allies
 are sworn enemies of the Uruk-Zaugurz and vice versa. Since the Zaugurz
-have rejected all allies no [wargs](./warg.md) can be used as
-[mounts](./mount.md), a treat other Orcs can enjoy, whilst the
+have rejected all allies no [wargs](./Warg.md) can be used as
+[mounts](./Mount.md), a treat other Orcs can enjoy, whilst the
 Zaugurz soldier is forced to run on his feet.
 
 After the treacherous ambush on Goblin Gate the Zaugurz built a small
@@ -31,14 +31,14 @@ enemies.
 
 The Zaugurz Outpost does not only offer poor protection, there are also
 no stores, only a blacksmith sent from up north to mend basic kind of
-[weapons](./weapon.md) and [armour](./armour.md) for the
-cause. On the positive side the [rent](./rent.md) cost for the
+[weapons](./Weapon.md) and [armour](./Armour.md) for the
+cause. On the positive side the [rent](./Rent.md) cost for the
 Zaugurz is close to free. Furthermore there are only two paths of
 profession available for the Zaugurz orc, the insidious and agile way of
-the [scout](./thief.md) and the pure brute force of the
+the [scout](./Thief.md) and the pure brute force of the
 [Warrior](./Warrior.md). There is also a possibility to train
 ranger skills in the Zaugurz caves, but there is no possibility to
-master [magic](./magic.md) as Zaugurz. No Master of Black Magic
+master [magic](./Magic.md) as Zaugurz. No Master of Black Magic
 seems willing to teach the Zaugurz tribe magic, rendering the usage of
 [Mana](./Mana.md) obsolete, thus Zaugurz have no Mana points.
 

@@ -4,10 +4,10 @@ description: 'Giant rats are aggressive level 2'
 tags:
   - Mobiles
 ---
-**Giant rats** are aggressive [level](./level.md) 2
-[mobiles](./mobile.md) found in various locations around Arda,
+**Giant rats** are aggressive [level](./Level.md) 2
+[mobiles](./Mobile.md) found in various locations around Arda,
 commonly in cellars or abandoned buildings. 3
-[corpses](./corpse.md) of giant rats are needed to complete the
+[corpses](./Corpse.md) of giant rats are needed to complete the
 [rat infestation](./Quest#Rat_Infestation.md) quest in [Tower
 Hills](./Tower_Hills.md).
 

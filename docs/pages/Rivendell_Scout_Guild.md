@@ -4,8 +4,8 @@ description: 'An elven hunter teaches scout'
 tags:
   - Guildmasters
 ---
-An **elven hunter** teaches [scout](./thief.md)
-[skills](./skill.md) at the **Hunter's Guild** in
+An **elven hunter** teaches [scout](./Thief.md)
+[skills](./Skill.md) at the **Hunter's Guild** in
 [Rivendell](./Rivendell.md).
 
 `An elven hunter is here, ready to teach.`
@@ -18,11 +18,11 @@ An **elven hunter** teaches [scout](./thief.md)
 ## Skill list
 
 `                  Sessions  Difficulty`
-[`attack`](./attack.md)`                   3  Normal`
-[`dodge`](./dodge.md)`                    6  Hard`
-[`hide`](./hide.md)`                     9  Normal`
+[`attack`](./Attack.md)`                   3  Normal`
+[`dodge`](./Dodge.md)`                    6  Hard`
+[`hide`](./Hide.md)`                     9  Normal`
 [`missile`](./missile.md)`                 14  Normal`
-[`pick`](./pick.md)`                     9  Normal`
-[`piercing weapons`](./piercing_weapons.md)`         8  Normal`
-[`search`](./search.md)`                   2  Normal`
-[`sneak`](./sneak.md)`                    8  Hard`
+[`pick`](./Pick.md)`                     9  Normal`
+[`piercing weapons`](./Piercing_weapons.md)`         8  Normal`
+[`search`](./Search.md)`                   2  Normal`
+[`sneak`](./Sneak.md)`                    8  Hard`

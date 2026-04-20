@@ -6,12 +6,12 @@ tags:
   - Ranger skills
   - Commands
 ---
-**Track** is a [ranger](./general.md) skill that enables you to
+**Track** is a [ranger](./General.md) skill that enables you to
 follow the tracks of people and animals and to determine their location
 at a distance.
 
 To use this skill, use either the track command or the
-[where](./where.md) command.
+[where](./Where.md) command.
 
 The command 'track', issued by itself, will examine the tracks in your
 location and (after a delay) tell you who and what has passed by. A
@@ -43,10 +43,10 @@ find well-covered tracks, but you will also track faster. Be aware that
 there is a limit to how fast you can actually track somebody though.
 Examples: \> track \> track warg \> where robber
 
-Certain [mobiles](./mobile.md) are also capable of tracking
+Certain [mobiles](./Mobile.md) are also capable of tracking
 (including, but not limited to, most wolves and
-[wargs](./warg.md)), and will attempt to track you down if you've
-[fled](./flee.md) from combat with them. Some mobiles will only
+[wargs](./Warg.md)), and will attempt to track you down if you've
+[fled](./Flee.md) from combat with them. Some mobiles will only
 track in a very limited area near their spawn location, while others may
 follow you for larger distances.
   

@@ -7,19 +7,19 @@ tags:
 ---
 Usage: sneak \[on\|off
 
-**Sneak** is a [thief](./thief.md) [skill](./skill.md) used
+**Sneak** is a [thief](./Thief.md) [skill](./Skill.md) used
 for moving in and out of [rooms](./room.md) without anyone
 knowing. The sneak command will toggle on and off your ability to sneak.
 
 The chances of a succesful sneak depend on the terrain and the number of
 people you are trying to hide from. You must be on foot: sneaking on
 [horseback](./ride.md) is impossible. It is impossible to sneak
-successfully when you are [fleeing](./flee.md) a room.
-[Hobbits](./Hobbit.md) (and [Elves](./elf.md) to a lesser
-extent) sneak well, [Dwarves](./dwarf.md) not so well, and
+successfully when you are [fleeing](./Flee.md) a room.
+[Hobbits](./Hobbit.md) (and [Elves](./Elf.md) to a lesser
+extent) sneak well, [Dwarves](./Dwarf.md) not so well, and
 [Trolls](./Troll.md) are totally inept at sneaking.
 
-After sneaking successfully, you are [hidden](./hide.md) from the
+After sneaking successfully, you are [hidden](./Hide.md) from the
 people in the room, but if they look for you they will find you
 instantly.
 

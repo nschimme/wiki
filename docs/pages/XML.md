@@ -5,7 +5,7 @@ tags:
   - Help files
 ---
 Type change XML to get the following information between \&lt; \&gt;. This is
-mostly used for those that use a [mapper](./mapper.md)
+mostly used for those that use a [mapper](./Mapper.md)
 
 \&lt;prompt\&gt;...\&lt;/prompt\&gt; : MUME prompt \&lt;room\&gt;...\&lt;/room\&gt; : Room
 region \&lt;name\&gt;...\&lt;/name\&gt; : Room name

@@ -4,8 +4,8 @@ description: 'Anarwen teaches cleric'
 tags:
   - Guildmasters
 ---
-**Anarwen** teaches [cleric](./cleric.md)
-[spells](./spell.md) at the **Woodland Shrine** in
+**Anarwen** teaches [cleric](./Cleric.md)
+[spells](./Spell.md) at the **Woodland Shrine** in
 [Lothlórien](./Lothlórien.md), just northwest of Caras Galadhon.
 The guild is open from 8am to 6pm.
 

@@ -10,13 +10,13 @@ The **train** command has three different purposes.
 You can use it to refresh one or more skills, in order not to forget
 them:
 
-`>train `[`fireball`](./fireball.md)
+`>train `[`fireball`](./Fireball.md)
 `>train all`
 
 Or you can use it to stop exercising in a given skill, so that you will
 eventually forget it:
 
-`>train off `[`dodge`](./dodge.md)
+`>train off `[`dodge`](./Dodge.md)
 
 This is quite useful to decay certain constantly used skills, like
 dodge.
@@ -47,10 +47,10 @@ change is slow (it should take about one RL month to see some effects)
 and it is impossible to improve or worsen your stats too far from their
 starting point. The order in which you improve or neglect your stats is
 irrelevant. You cannot train stats beyond the limits of your
-[race](./race.md).
+[race](./Race.md).
 
 The 'train status' command shows your current choices.
 
-NOTE: Unlike [rerolls](./reroll.md), training does not affect your
-[practice](./practice.md) percentages. The percentage to which you
+NOTE: Unlike [rerolls](./Reroll.md), training does not affect your
+[practice](./Practice.md) percentages. The percentage to which you
 can practice a skill is only based on your reference abilities.

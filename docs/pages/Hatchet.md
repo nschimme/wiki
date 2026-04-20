@@ -4,7 +4,7 @@ description: 'The hatchet is a cleaving weapon. It'
 tags:
   - Cleaving weapons
 ---
-The **hatchet** is a [cleaving weapon](./cleaving_weapon.md). It
+The **hatchet** is a [cleaving weapon](./Cleaving_weapon.md). It
 is worth around 4 [silver](./silver.md) and is sold by most
 weaponsmiths.
 

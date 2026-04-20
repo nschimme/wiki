@@ -5,9 +5,9 @@ tags:
   - Help files
   - Commands
 ---
-To **remove** [equipment](./equipment.md) you are
-[wearing](./wear.md), [wielding](./wield.md) or
-[holding](./hold.md).
+To **remove** [equipment](./Equipment.md) you are
+[wearing](./Wear.md), [wielding](./Wield.md) or
+[holding](./Hold.md).
 
 Example:
 
@@ -16,7 +16,7 @@ Example:
 See also: [Wear](./Wear.md)
 
 Remove is also used to delete a message from a bulletin
-[board](./board.md). Unless you are one of the
+[board](./Board.md). Unless you are one of the
 [Ainur](./Ainur.md), you can only remove messages written by
 yourself.
 

@@ -16,7 +16,7 @@ Forest](./Old_Forest.md); a place very few dare to enter.
 
 The Shire was first inhabited in 1601 by a few adventurous Hobbits from
 Bree, and since then has become the main home of Hobbits. There are no
-other [races](./race.md) living in the Shire, but occasionally one
+other [races](./Race.md) living in the Shire, but occasionally one
 might see a [Dwarf](./Dwarf.md), or two, and sadly many
 [Elves](./Elf.md) passing through the South Farthing on their way
 West, never to return.

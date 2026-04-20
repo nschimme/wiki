@@ -21,8 +21,8 @@ It weighs a couple of pounds.
 ## Other
 
 A very standard cloak for all characters, regardless of
-[class](./class.md) or [race](./race.md). It gives the
-wearer +5 [dodge bonus](./dodge_bonus.md) and is said to increase
+[class](./Class.md) or [race](./Race.md). It gives the
+wearer +5 [dodge bonus](./Dodge_bonus.md) and is said to increase
 movement regeneration.
 
 <!--@include: ../includes/Items.md-->

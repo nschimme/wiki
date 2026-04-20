@@ -21,19 +21,19 @@ Example:
 `write Happy birthday @bilbo @frodo`
 
 How it goes on depends on your editor. If you use the lineeditor, read
-[editor](./editor.md).
+[editor](./Editor.md).
 
 ------------------------------------------------------------------------
 
 Other commands:
 
-[`look`](./look.md)` mail - lists mail addressed to you`
-[`tail`](./tail.md)` - lists the 20 last mails to you`
+[`look`](./Look.md)` mail - lists mail addressed to you`
+[`tail`](./Tail.md)` - lists the 20 last mails to you`
 `tail `&lt;number&gt;` - lists the `&lt;number&gt;` last mails to you`
-[`read`](./read.md)` `&lt;number&gt;` - reads a specific mail`
+[`read`](./Read.md)` `&lt;number&gt;` - reads a specific mail`
 `look sent mail - lists mail you have sent`
 `read sent `&lt;number&gt;` - reads a mail you have sent`
-[`reply`](./reply.md)` `&lt;number&gt;` - reply to a mail`
+[`reply`](./Reply.md)` `&lt;number&gt;` - reply to a mail`
 **`forward`**` `&lt;number&gt;` @dain - forward a mail to Dáin`
 `forward sent `&lt;number&gt;` @dain - forward a previously sent mail to Dįin`
 `forward sent `&lt;number&gt;` --retroactive-cc @dain - cc Dain on an existing mail`

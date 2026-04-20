@@ -4,8 +4,8 @@ description: 'Thick tangles of vines are aggressive, evil'
 tags:
   - Plants
 ---
-**Thick tangles of vines** are aggressive, [evil](./alignment.md)
-[level](./level.md) ~13-14 [plants](./plant.md), found in
+**Thick tangles of vines** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) ~13-14 [plants](./Plant.md), found in
 various locations around [Arda](./Arda.md), usually in forests.
 
 `Some thick writhing vines whip all around you.`

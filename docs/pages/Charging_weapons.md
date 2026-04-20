@@ -6,10 +6,10 @@ tags:
   - Skills
   - Commands
 ---
-**Charge** is a [warrior](./warrior.md) [skill](./skill.md)
-and [weapon](./weapon.md) class. To charge successfully, you need
+**Charge** is a [warrior](./Warrior.md) [skill](./Skill.md)
+and [weapon](./Weapon.md) class. To charge successfully, you need
 good [riding](./ride.md) skill, a horse and a lance. Charging only
-works outdoors on flat [terrain](./terrain.md), and a successful
+works outdoors on flat [terrain](./Terrain.md), and a successful
 charge will inflict major damage on the victim; it will do more damage
 if you charge for a longer distance. You can not charge once you are
 already engaged in combat.

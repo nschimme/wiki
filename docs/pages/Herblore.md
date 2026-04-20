@@ -6,7 +6,7 @@ tags:
 ---
 A **herblore** is a recipe that will provide you with a potion or other
 item to help you in your travels. They can be learnt by helping certain
-[mobiles](./mobile.md) or by reading an ancient scroll or book. To
+[mobiles](./Mobile.md) or by reading an ancient scroll or book. To
 make them, you must have the [items](./Herb.md) specified in the
 herblore instructions, a herbal kit and you must have acquired the lore.
 
@@ -20,17 +20,17 @@ herbalists and by some other skilled people.
 # Poisons
 
 In order to poison an opponent you need the poison vial and the
-[envenom](./envenom.md) skill.
+[envenom](./Envenom.md) skill.
 
 ## Arachnia
 
 ### Effects
 
-The poison saps one's energy, reducing [mana](./mana.md) and
-[movement points](./movement_points.md). As the poison progresses,
+The poison saps one's energy, reducing [mana](./Mana.md) and
+[movement points](./Movement_points.md). As the poison progresses,
 it first forces the afflicted creature to sit down and
-[rest](./rest.md) periodically, then fall
-[asleep](./sleep.md), and finally to fall into a deep slumber as
+[rest](./Rest.md) periodically, then fall
+[asleep](./Sleep.md), and finally to fall into a deep slumber as
 if affected by the [Sleep](./Sleep_Spell.md) spell.
 
 ### Recipe
@@ -110,9 +110,9 @@ poison your opponents.
 
 ### Effects
 
-Drains [mana](./mana.md) very quickly. Can be somewhat hard to
+Drains [mana](./Mana.md) very quickly. Can be somewhat hard to
 deal with, as even if you have [Remove Poison](./Remove_Poison.md)
-your mana may get drained too low to be able to [cast](./cast.md)
+your mana may get drained too low to be able to [cast](./Cast.md)
 it.
 
 ### Recipe

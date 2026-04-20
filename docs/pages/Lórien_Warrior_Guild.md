@@ -4,8 +4,8 @@ description: 'Haldir teaches warrior'
 tags:
   - Guildmasters
 ---
-**Haldir** teaches [warrior](./warrior.md)
-[skills](./skill.md) at the **Peleryn of the Guards** in [Caras
+**Haldir** teaches [warrior](./Warrior.md)
+[skills](./Skill.md) at the **Peleryn of the Guards** in [Caras
 Galadhon](./Caras_Galadhon.md).
 
 `Haldir the Elf is here.`
@@ -18,14 +18,14 @@ Galadhon](./Caras_Galadhon.md).
 ## Skill list
 
 `                    Sessions  Difficulty`
-[`bash`](./bash.md)`                      31  Hard`
+[`bash`](./Bash.md)`                      31  Hard`
 [`charge`](./charge.md)`                     6  Normal`
-[`cleaving weapons`](./cleaving_weapons.md)`           8  Normal`
-[`concussion weapons`](./concussion_weapons.md)`        17  Normal`
-[`endurance`](./endurance.md)`                 45  Very hard`
-[`kick`](./kick.md)`                      17  Normal`
-[`parry`](./parry.md)`                     29  Normal`
-[`rescue`](./rescue.md)`                    12  Easy`
-[`slashing weapons`](./slashing_weapons.md)`          29  Normal`
-[`stabbing weapons`](./stabbing_weapons.md)`          29  Normal`
-[`two-handed weapons`](./two-handed_weapons.md)`         9  Normal`
+[`cleaving weapons`](./Cleaving_weapons.md)`           8  Normal`
+[`concussion weapons`](./Concussion_weapons.md)`        17  Normal`
+[`endurance`](./Endurance.md)`                 45  Very hard`
+[`kick`](./Kick.md)`                      17  Normal`
+[`parry`](./Parry.md)`                     29  Normal`
+[`rescue`](./Rescue.md)`                    12  Easy`
+[`slashing weapons`](./Slashing_weapons.md)`          29  Normal`
+[`stabbing weapons`](./Stabbing_weapons.md)`          29  Normal`
+[`two-handed weapons`](./Two-handed_weapons.md)`         9  Normal`

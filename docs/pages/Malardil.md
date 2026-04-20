@@ -5,16 +5,16 @@ tags:
   - Mobiles
   - Mobiles with unknown level
 ---
-**Malardil** is an aggressive [level](./level.md) ?
-[mobile](./mobile.md) found in [Malardil's
-castle](./Malardil's_castle.md). He can [track](./track.md)
-and [cast](./cast.md) [Lightning Bolt](./Lightning_Bolt.md).
-He loads with 1 [gold](./gold.md), a [shiny
-dagger](./shiny_dagger.md), a [shield of
-Cardolan](./shield_of_Cardolan.md), a [belt
-pouch](./belt_pouch.md), the [castle key](./castle_key.md),
-a [cloak](./cloak.md), [belt](./belt.md),
-[lantern](./lantern.md), [ring](./ring.md) and some basic
+**Malardil** is an aggressive [level](./Level.md) ?
+[mobile](./Mobile.md) found in [Malardil's
+castle](./Malardil's_castle.md). He can [track](./Track.md)
+and [cast](./Cast.md) [Lightning Bolt](./Lightning_Bolt.md).
+He loads with 1 [gold](./Gold.md), a [shiny
+dagger](./Shiny_dagger.md), a [shield of
+Cardolan](./Shield_of_Cardolan.md), a [belt
+pouch](./Belt_pouch.md), the [castle key](./Castle_key.md),
+a [cloak](./Cloak.md), [belt](./Belt.md),
+[lantern](./Lantern.md), [ring](./Ring.md) and some basic
 leather equipment.
 
 `A tall, lean man follows your every move with his eyes.`

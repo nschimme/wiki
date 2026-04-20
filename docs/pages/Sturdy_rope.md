@@ -4,8 +4,8 @@ description: 'The sturdy rope is a rope that can be used to'
 tags:
   - Uncategorized items
 ---
-The **sturdy rope** is a [rope](./rope.md) that can be used to
-facilitate [climbing](./climb.md). It can be bought from most
+The **sturdy rope** is a [rope](./Rope.md) that can be used to
+facilitate [climbing](./Climb.md). It can be bought from most
 grocers for around 1 [silver](./silver.md).
 
 `A coil of rope is lying here./A sturdy rope has been tied here and descends below.`

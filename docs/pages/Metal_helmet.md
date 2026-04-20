@@ -3,11 +3,11 @@ title: Metal helmet
 description: 'The metal helmet is worn on the head. It provides'
 ---
 
-The **metal helmet** is worn on the [head](./head.md). It provides
+The **metal helmet** is worn on the [head](./Head.md). It provides
 a large amount of damage absorption, and slightly decrease [dodge
-bonus](./dodge_bonus.md) and [offensive
-bonus](./offensive_bonus.md). It is worth around 2
-[gold](./gold.md) and 5 silver, and is sold by most armourers.
+bonus](./Dodge_bonus.md) and [offensive
+bonus](./Offensive_bonus.md). It is worth around 2
+[gold](./Gold.md) and 5 silver, and is sold by most armourers.
 
 `>`**`look helmet`**
 `This piece of armour has been smithed in a round shape to protect the head. It`

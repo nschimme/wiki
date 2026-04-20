@@ -4,7 +4,7 @@ description: 'The Dunlendings (Dn."Daen Lintis") are a rugged race of common'
 ---
 
 The **Dunlendings** (Dn."Daen Lintis") are a rugged race of common
-[men](./men.md) who largely migrated out of the White Mountains in
+[men](./Men.md) who largely migrated out of the White Mountains in
 the Second Age. Dunlendings often have a medium or stocky build, sparse
 brown hair and tanned or ruddy complexions averaging 5'10" for men and
 5'6 for women.

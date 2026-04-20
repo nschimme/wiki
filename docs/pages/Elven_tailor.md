@@ -4,7 +4,7 @@ description: 'Elven tailors tend the tailor''s shops in'
 tags:
   - Shopkeepers
 ---
-**Elven tailors** tend the tailor's [shops](./shop.md) in
+**Elven tailors** tend the tailor's [shops](./Shop.md) in
 [Harlond](./Harlond_Tailor.md) and
 [Forlond](./Forlond_Tailor.md).
 

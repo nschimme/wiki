@@ -6,8 +6,8 @@ tags:
   - Mage spells
   - Spells
 ---
-**Teleport** is a [level](./level.md) 8 [mage](./mage.md)
-[spell](./spell.md) that allows the caster to instantly transport
+**Teleport** is a [level](./Level.md) 8 [mage](./Mage.md)
+[spell](./Spell.md) that allows the caster to instantly transport
 themselves to a target [room](./room.md). To use teleport you need
 to aquire magical keys for rooms. The keys are obtained by either using
 the [Locate Life](./Locate_Life.md) spell or the

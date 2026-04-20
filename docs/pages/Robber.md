@@ -6,9 +6,9 @@ tags:
 ---
 **Robbers** are aggressive level ~12-13 [mobs](./mob.md) found in
 various locations around [Arda](./Arda.md). They can
-[sneak](./sneak.md) and may attempt to
-[backstab](./backstab.md). They load a
-[dagger](./dagger.md), a shield, and some common cloth or leather
+[sneak](./Sneak.md) and may attempt to
+[backstab](./Backstab.md). They load a
+[dagger](./Dagger.md), a shield, and some common cloth or leather
 equipment.
 
 `A mean-looking robber is here, demanding money from you.`

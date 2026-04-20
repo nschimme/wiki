@@ -4,10 +4,10 @@ description: 'Sulien''s ghost is a level ~7-8 mobile found in'
 tags:
   - Mobiles
 ---
-**Sulien's ghost** is a level ~7-8 [mobile](./mobile.md) found in
+**Sulien's ghost** is a level ~7-8 [mobile](./Mobile.md) found in
 a ruined village east of [Bree](./Bree.md). She follows [Halamor's
 ghost](./Halamor's_ghost.md) around, and will disappear if he is
-killed. She loads a [ring](./ring.md).
+killed. She loads a [ring](./Ring.md).
 
 `The ghostly form of a young woman stands here in despair.`
 `>`**`examine woman`**

@@ -16,8 +16,8 @@ It weighs half a pound.
 
 ## Opinions
 
-This potion is said to boost [mana](./mana.md) regen and also
+This potion is said to boost [mana](./Mana.md) regen and also
 raise maximum mana for a shorter period. It loads near Lorien, it is the
-reward after a mini [quest](./quest.md) is done.
+reward after a mini [quest](./Quest.md) is done.
 
 <!--@include: ../includes/Items.md-->

@@ -32,7 +32,7 @@ you're playing.
 
 Labels can be a maximum of 16 characters and may only contain letters.
 Some words cannot be used as labels; e.g., words that the
-[look](./look.md) command treats specially ("at", "around",
+[look](./Look.md) command treats specially ("at", "around",
 "north", "east", ...) and some prepositions like "in", "from", and
 "with".
  

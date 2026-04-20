@@ -3,8 +3,8 @@ title: Rules Titles
 description: 'Heroes and legends on MUME can'
 ---
 
-[Heroes](./Hero.md) and [legends](./legend.md) on MUME can
-choose their own [title](./title.md). While they have great
+[Heroes](./Hero.md) and [legends](./Legend.md) on MUME can
+choose their own [title](./Title.md). While they have great
 freedom in choosing it, a basic rule must be obeyed: a legend's title
 must not provide false information. Examples of forbidden titles:
 

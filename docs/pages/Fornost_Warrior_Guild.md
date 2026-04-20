@@ -4,8 +4,8 @@ description: 'Huor of Dor-lómin teaches warrior'
 tags:
   - Guildmasters
 ---
-**Huor of Dor-lómin** teaches [warrior](./warrior.md)
-[skills](./skill.md) at the **Guild of Warriors** in
+**Huor of Dor-lómin** teaches [warrior](./Warrior.md)
+[skills](./Skill.md) at the **Guild of Warriors** in
 [Fornost](./Fornost.md).
 
 `Huor of Dor-lómin is standing here, ready to teach his arts.`
@@ -18,14 +18,14 @@ tags:
 ## Skill list
 
 `                   Sessions  Difficulty  `
-[`bash`](./bash.md)`                    43   Hard       `
+[`bash`](./Bash.md)`                    43   Hard       `
 [`charge`](./charge.md)`                  29   Normal     `
-[`cleaving weapons`](./cleaving_weapons.md)`        29   Normal     `
-[`concussion weapons`](./concussion_weapons.md)`      29   Normal     `
-[`endurance`](./endurance.md)`               58   Very hard   `
-[`kick`](./kick.md)`                    29   Normal      `
-[`parry`](./parry.md)`                   29   Normal     `
-[`rescue`](./rescue.md)`                  21   Easy        `
-[`slashing weapons`](./slashing_weapons.md)`        29   Normal      `
-[`stabbing weapons`](./stabbing_weapons.md)`        29   Normal      `
-[`two-handed weapons`](./two-handed_weapons.md)`      29   Normal      `
+[`cleaving weapons`](./Cleaving_weapons.md)`        29   Normal     `
+[`concussion weapons`](./Concussion_weapons.md)`      29   Normal     `
+[`endurance`](./Endurance.md)`               58   Very hard   `
+[`kick`](./Kick.md)`                    29   Normal      `
+[`parry`](./Parry.md)`                   29   Normal     `
+[`rescue`](./Rescue.md)`                  21   Easy        `
+[`slashing weapons`](./Slashing_weapons.md)`        29   Normal      `
+[`stabbing weapons`](./Stabbing_weapons.md)`        29   Normal      `
+[`two-handed weapons`](./Two-handed_weapons.md)`      29   Normal      `

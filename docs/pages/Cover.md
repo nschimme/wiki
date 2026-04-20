@@ -9,7 +9,7 @@ tags:
 source from escaping.
 
 'cover' doesn't act as a toggle: to **uncover** a
-[lantern](./lantern.md) after it has been covered, you have to
+[lantern](./Lantern.md) after it has been covered, you have to
 type 'uncover'. "**dim**" is a synonym for 'cover'.
 
 At the moment, both 'cover' and 'uncover' require an argument - the name

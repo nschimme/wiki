@@ -4,9 +4,9 @@ description: 'The metal wall shield is a rather heavy shield'
 tags:
   - Shields
 ---
-The **metal wall shield** is a rather heavy [shield](./shield.md)
-that grants mediocre [parry bonus](./parry_bonus.md). It can be
-bought from most armourers for about 9 [gold](./gold.md).
+The **metal wall shield** is a rather heavy [shield](./Shield.md)
+that grants mediocre [parry bonus](./Parry_bonus.md). It can be
+bought from most armourers for about 9 [gold](./Gold.md).
 
 `A metal wall shield rests on the ground.`
 `>`**`examine shield`**

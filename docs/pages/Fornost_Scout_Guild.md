@@ -4,8 +4,8 @@ description: 'A veteran Dúnadan scout teaches scout'
 tags:
   - Guildmasters
 ---
-A **veteran Dúnadan scout** teaches [scout](./thief.md)
-[skills](./skill.md) at the **Scout Training Room** in
+A **veteran Dúnadan scout** teaches [scout](./Thief.md)
+[skills](./Skill.md) at the **Scout Training Room** in
 [Fornost](./Fornost.md).
 
 `A Dúnadan stands here, dressed in the garb of a woodsman.`
@@ -17,8 +17,8 @@ A **veteran Dúnadan scout** teaches [scout](./thief.md)
 ## Skill list
 
 `         Sessions  Difficulty  `
-[`dodge`](./dodge.md)`          14  Hard`
-[`hide`](./hide.md)`            6  Normal`
+[`dodge`](./Dodge.md)`          14  Hard`
+[`hide`](./Hide.md)`            6  Normal`
 [`missile`](./missile.md)`         9  Normal`
-[`pick`](./pick.md)`            1  Normal`
-[`sneak`](./sneak.md)`          14  Hard`
+[`pick`](./Pick.md)`            1  Normal`
+[`sneak`](./Sneak.md)`          14  Hard`

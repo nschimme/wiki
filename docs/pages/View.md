@@ -5,9 +5,9 @@ tags:
   - Help files
   - Commands
 ---
-The **view** command can be used instead of '[read](./read.md)' to
-send the output of [boards](./board.md), [mails](./mail.md),
-books, and [maps](./map.md) to your current
+The **view** command can be used instead of '[read](./Read.md)' to
+send the output of [boards](./Board.md), [mails](./Mail.md),
+books, and [maps](./Map.md) to your current
 [pager](./pager.md).
 
 View also has a few special uses:

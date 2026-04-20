@@ -4,13 +4,13 @@ description: 'Dark wraiths are aggressive, evil'
 tags:
   - Mobiles
 ---
-**Dark wraiths** are aggressive, [evil](./alignment.md)
-[level](./level.md) ~13-14 [mobs](./mob.md) found in various
+**Dark wraiths** are aggressive, [evil](./Alignment.md)
+[level](./Level.md) ~13-14 [mobs](./mob.md) found in various
 locations around [Arda](./Arda.md). They are incorporeal and
-cannot be [bashed](./bash.md). The can cast [Lightning
+cannot be [bashed](./Bash.md). The can cast [Lightning
 Bolt](./Lightning_Bolt.md). Most of them load with a common
-[weapon](./weapon.md), and will also pick up
-[items](./item.md) from the ground.
+[weapon](./Weapon.md), and will also pick up
+[items](./Item.md) from the ground.
 
 `A dark intangible shadow turns to face you.`
 `>`**`look wraith`**

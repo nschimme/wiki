@@ -5,7 +5,7 @@ tags:
   - Containers
 ---
 The **pint** is a [drink](./Food_%26_Drink#Drink.md)
-[container](./container.md). It can contain a bit over 2 pounds
+[container](./Container.md). It can contain a bit over 2 pounds
 worth of liquid. It is worth around 15 [copper](./copper.md).
 Pints are sold in many taverns, most often containing ale.
 

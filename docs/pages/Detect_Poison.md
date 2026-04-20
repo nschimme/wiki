@@ -6,8 +6,8 @@ tags:
   - Cleric spells
   - Shaman spells
 ---
-**Detect Poison** is a level 2 [cleric](./cleric.md)
-[spell](./spell.md). It will tell you whether an item or a pond is
+**Detect Poison** is a level 2 [cleric](./Cleric.md)
+[spell](./Spell.md). It will tell you whether an item or a pond is
 poisonous. Rather useless.
 
 Syntax : cast 'detect poison' (victim \| food \| drink) Type : Detection

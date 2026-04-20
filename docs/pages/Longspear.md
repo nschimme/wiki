@@ -4,10 +4,10 @@ description: 'The longspear is a stabbing weapon. It'
 tags:
   - Stabbing weapons
 ---
-The **longspear** is a [stabbing weapon](./stabbing_weapon.md). It
+The **longspear** is a [stabbing weapon](./Stabbing_weapon.md). It
 is a reward from the [Bandit's Note](./Quest#Bandit.27s_Note.md)
 quest and can also be bought from most weaponsmiths for around 8
-[silver](./gold.md).
+[silver](./Gold.md).
 
 `A spear, nearly two yards long, is lying on the ground.`
 `>`**`examine spear`**

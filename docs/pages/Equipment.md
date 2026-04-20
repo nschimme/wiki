@@ -4,9 +4,9 @@ description: 'Without any arguments, the equipment command'
 ---
 
 Without any arguments, the **equipment** [command](./commands.md)
-simply tells you what [items](./item.md) you are
-[wearing](./wear.md), [wielding](./wield.md) and
-[holding](./hold.md).
+simply tells you what [items](./Item.md) you are
+[wearing](./Wear.md), [wielding](./Wield.md) and
+[holding](./Hold.md).
 
 You can also use 'equipment &lt;format&gt;' to get your equipment in a certain
 order. See [Equipment Format](./Equipment_Format.md).
