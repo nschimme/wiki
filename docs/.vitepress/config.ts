@@ -1,33 +1,29 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  markdown: {
-    config(md) {
-      // Prepend the site base to absolute image paths so they resolve correctly
-      // when VitePress is deployed at a subpath (e.g. /wiki/). Also renders
-      // images as plain HTML so Vue's template compiler never tries to import
-      // them as ES modules — which fails for images referenced in pages but
-      // not present in public/img/ (common in a wiki migration).
-      const siteBase = (process.env.VITEPRESS_BASE ?? '/').replace(/\/$/, '')
-      const defaultRule = md.renderer.rules.image
-      md.renderer.rules.image = (tokens, idx, options, env, self) => {
-        const token = tokens[idx]
-        const src = token.attrGet('src') ?? ''
-        if (src.startsWith('/')) {
-          const alt = token.content.replace(/"/g, '&quot;')
-          return `<img src="${siteBase}${src}" alt="${alt}" loading="lazy">`
-        }
-        if (defaultRule) return defaultRule(tokens, idx, options, env, self)
-        return self.renderToken(tokens, idx, options)
-      }
-    },
-  },
-
-  // Keep Vue from re-importing image src attributes as ES modules.
-  vue: {
-    template: {
-      transformAssetUrls: false,
-    },
+  vite: {
+    plugins: [
+      {
+        // The proper Vite way: intercept /img/... imports and return a module
+        // whose default export is the base-aware URL via import.meta.env.BASE_URL.
+        // This handles both missing images (no build failure) and any base path
+        // (/, /wiki/, etc.) without needing env vars in the markdown config.
+        name: 'public-image-shim',
+        enforce: 'pre',
+        resolveId(id: string) {
+          if (/\.(png|jpe?g|gif|svg|webp|ico|avif)(\?.*)?$/.test(id)) {
+            return `\0img:${id}`
+          }
+        },
+        load(id: string) {
+          if (id.startsWith('\0img:')) {
+            const imgPath = id.slice(5) // keep leading /
+            const base = (process.env.VITEPRESS_BASE ?? '/').replace(/\/$/, '')
+            return `export default ${JSON.stringify(base + imgPath)}`
+          }
+        },
+      },
+    ],
   },
 
   title: 'MUME Wiki',
