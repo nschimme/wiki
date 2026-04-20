@@ -1,6 +1,24 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  markdown: {
+    config(md) {
+      // Render absolute-path images as plain HTML <img> so VitePress doesn't try
+      // to resolve /img/*.jpg as ES module imports (fails for missing public assets).
+      const defaultRule = md.renderer.rules.image
+      md.renderer.rules.image = (tokens, idx, options, env, self) => {
+        const token = tokens[idx]
+        const src = token.attrGet('src') ?? ''
+        if (src.startsWith('/')) {
+          const alt = token.content.replace(/"/g, '&quot;')
+          return `<img src="${src}" alt="${alt}" loading="lazy">`
+        }
+        if (defaultRule) return defaultRule(tokens, idx, options, env, self)
+        return self.renderToken(tokens, idx, options)
+      }
+    },
+  },
+
   title: 'MUME Wiki',
   description: 'A community wiki and guide to surviving in Multi-Users in Middle-earth.',
   base: process.env.VITEPRESS_BASE ?? '/',
