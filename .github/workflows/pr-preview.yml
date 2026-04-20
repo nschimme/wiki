@@ -1,18 +1,24 @@
 name: PR Preview
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened]
 
+# pull_request_target runs in the base repo context (has write access).
+# We check out the PR head to build it, which is acceptable for a public
+# markdown wiki where the build step only runs VitePress on markdown files.
 permissions:
-  contents: read
+  contents: write
+  pull-requests: write
 
 jobs:
-  build:
+  preview:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout PR
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -26,11 +32,55 @@ jobs:
       - name: Build preview
         run: npm run docs:build
         env:
-          VITEPRESS_BASE: /
+          # Upstream: /pr-{n}/   Fork: /{repo}/pr-{n}/
+          VITEPRESS_BASE: ${{ github.repository == 'MUME/wiki' && format('/pr-{0}/', github.event.number) || format('/{0}/pr-{1}/', github.event.repository.name, github.event.number) }}
 
-      - name: Upload preview artifact
-        uses: actions/upload-artifact@v4
+      - name: Deploy preview to gh-pages
+        env:
+          PR: ${{ github.event.number }}
+          REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        run: |
+          if git clone --branch gh-pages --depth 1 "$REPO_URL" /tmp/gh-pages 2>/dev/null; then
+            echo "Cloned existing gh-pages"
+          else
+            mkdir /tmp/gh-pages && cd /tmp/gh-pages
+            git init && git remote add origin "$REPO_URL"
+            git checkout -b gh-pages
+            cd -
+          fi
+
+          rm -rf /tmp/gh-pages/pr-$PR
+          cp -r docs/.vitepress/dist /tmp/gh-pages/pr-$PR
+
+          cd /tmp/gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pr-$PR
+          git commit -m "Deploy PR #$PR preview" || echo "Nothing to commit"
+          git push origin gh-pages
+
+      - name: Comment preview URL
+        uses: actions/github-script@v7
         with:
-          name: pr-preview-${{ github.event.number }}
-          path: docs/.vitepress/dist
-          retention-days: 7
+          script: |
+            const pr = context.payload.number
+            const owner = context.repo.owner
+            const repo = context.repo.repo
+            const isUpstream = owner === 'MUME' && repo === 'wiki'
+            const base = isUpstream
+              ? 'https://wiki.mume.org'
+              : `https://${owner}.github.io/${repo}`
+            const url = `${base}/pr-${pr}/`
+            const body = `### Preview deployed\n\n**URL:** ${url}\n\n*(Preview may be overwritten when \`main\` is updated.)*`
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner, repo, issue_number: pr,
+            })
+            const existing = comments.find(c =>
+              c.user.login === 'github-actions[bot]' && c.body.includes('Preview deployed')
+            )
+            if (existing) {
+              await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body })
+            } else {
+              await github.rest.issues.createComment({ owner, repo, issue_number: pr, body })
+            }
