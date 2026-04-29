@@ -4,8 +4,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "prebuild": "node scripts/gather-pages.js",
+    "docs:dev": "npm run prebuild && vitepress dev docs",
+    "docs:build": "npm run prebuild && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "migrate": "node scripts/fix-pages.js"
   },

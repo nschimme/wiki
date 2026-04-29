@@ -140,7 +140,7 @@ Also, different types of mounts have different strengths, hit points,
 moves, and regen. The following lists shows types of mounts for each
 size in ascending order of these qualitites:
 
-- For large [races](./races.md) ([Elves](./Elves.md) and
+- For large [races](../races.md) ([Elves](./Elves.md) and
   [Men](./Men.md)):
   - [Docile horse](./Horse.md): Not sold in shops but wanders
     certain areas of the map. Even when led, wanders off when not in

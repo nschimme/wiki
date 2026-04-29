@@ -29,12 +29,7 @@ jobs:
       - name: Build
         run: npm run docs:build
         env:
-          # Upstream deploys at / (custom domain); forks deploy at /{repo}/ on GitHub Pages
-          VITEPRESS_BASE: ${{ github.repository == 'MUME/wiki' && '/' || format('/{0}/', github.event.repository.name) }}
-
-      - name: Add CNAME for upstream
-        if: github.repository == 'MUME/wiki'
-        run: echo "wiki.mume.org" > docs/.vitepress/dist/CNAME
+          VITEPRESS_BASE: /${{ github.event.repository.name }}/
 
       - name: Deploy to gh-pages branch
         run: |
