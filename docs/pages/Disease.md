@@ -27,7 +27,7 @@ Another way to be cured from many sicknesses and diseases is to drink an
 [antidote](./antidote.md), which can be found or produced by those
 who know the [herblores](./Herblore.md).
 
-Some [races](./races.md) are more resistant towards some diseases.
+Some [races](../races.md) are more resistant towards some diseases.
 [Elves](./Elf.md), for example, never get Flu,
 [orcs](./Orc.md) are very resistant to many diseases, and
 [trolls](./Troll.md) have a thick stony dead skin which protects

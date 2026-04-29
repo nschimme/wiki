@@ -23,7 +23,7 @@ If you specify "alphabetically" (or some abbreviation longer than "al"),
 the players will be listed alphabetically. By default they are listed by
 how long they have been logged in (longest last).
 
-Members of enemy [races](./races.md) (for example
+Members of enemy [races](../races.md) (for example
 [Elves](./Elves.md) and [Trolls](./Troll.md)) are unable to
 see each other with this command. Members of races who cooperate from
 time to time ([Dwarves](./Dwarves.md) and

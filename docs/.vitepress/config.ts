@@ -1,13 +1,18 @@
 import { defineConfig } from 'vitepress'
+import fs from 'fs'
+import path from 'path'
+
+let pagesMeta = { terms: {}, paths: [] }
+try {
+  pagesMeta = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'pages-meta.json'), 'utf-8'))
+} catch (e) {}
+const sortedTerms = Object.keys(pagesMeta.terms || {}).sort((a, b) => b.length - a.length)
+const validPaths = new Set(pagesMeta.paths || [])
 
 export default defineConfig({
   vite: {
     plugins: [
       {
-        // The proper Vite way: intercept /img/... imports and return a module
-        // whose default export is the base-aware URL via import.meta.env.BASE_URL.
-        // This handles both missing images (no build failure) and any base path
-        // (/, /wiki/, etc.) without needing env vars in the markdown config.
         name: 'public-image-shim',
         enforce: 'pre',
         resolveId(id: string) {
@@ -91,10 +96,161 @@ export default defineConfig({
     },
   },
 
-  sitemap: {
-    hostname: 'https://wiki.mume.org',
+  markdown: {
+    config(md) {
+      // 1. Core auto-linking for text
+      md.core.ruler.after('inline', 'auto-link', (state) => {
+        const currentUrl = state.env.relativePath
+          ? '/' + state.env.relativePath.replace(/\.md$/, '').replace(/\\/g, '/')
+          : '';
+        const usedTerms = new Set();
+
+        // Pre-scan for existing links to avoid double-linking
+        for (const token of state.tokens) {
+          if (token.type !== 'inline') continue;
+          for (const child of token.children || []) {
+            if (child.type === 'link_open') {
+              const href = child.attrs?.find(a => a[0] === 'href')?.[1];
+              if (href && !href.startsWith('http') && !href.startsWith('#')) {
+                let absoluteHref;
+                if (href.startsWith('/')) {
+                  absoluteHref = href.replace(/\.md$/, '');
+                } else {
+                  const dir = path.dirname(state.env.relativePath || '');
+                  absoluteHref = '/' + path.join(dir, href).replace(/\.md$/, '').replace(/\\/g, '/');
+                  if (absoluteHref === '/.') absoluteHref = '/';
+                }
+                for (const [term, url] of Object.entries(pagesMeta.terms || {})) {
+                  if (url === absoluteHref || url === absoluteHref.replace('/pages/', '/')) {
+                    usedTerms.add(term);
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        for (const token of state.tokens) {
+          if (token.type !== 'inline') continue;
+
+          let children = token.children;
+          for (let i = 0; i < children.length; i++) {
+            const child = children[i];
+            if (child.type !== 'text') continue;
+
+            let isInLink = false;
+            for (let j = i - 1; j >= 0; j--) {
+              if (children[j].type === 'link_open') { isInLink = true; break; }
+              if (children[j].type === 'link_close') break;
+            }
+            if (isInLink) continue;
+
+            const text = child.content;
+            let bestMatch = null;
+            let bestIndex = -1;
+
+            for (const term of sortedTerms) {
+              if (usedTerms.has(term)) continue;
+              const targetUrl = pagesMeta.terms[term];
+              if (targetUrl === currentUrl || targetUrl === currentUrl.replace('/pages/', '/')) continue;
+
+              const index = text.toLowerCase().indexOf(term);
+              if (index !== -1) {
+                const before = index > 0 ? text[index - 1] : ' ';
+                const after = index + term.length < text.length ? text[index + term.length] : ' ';
+                if (/\w/.test(before) || /\w/.test(after)) continue;
+
+                if (bestMatch === null || term.length > bestMatch.length) {
+                  bestMatch = term;
+                  bestIndex = index;
+                }
+              }
+            }
+
+            if (bestMatch) {
+              usedTerms.add(bestMatch);
+              const targetUrl = pagesMeta.terms[bestMatch];
+              const beforeText = text.slice(0, bestIndex);
+              const matchText = text.slice(bestIndex, bestIndex + bestMatch.length);
+              const afterText = text.slice(bestIndex + bestMatch.length);
+              const newTokens = [];
+              if (beforeText) {
+                const t = new state.Token('text', '', 0);
+                t.content = beforeText;
+                t.level = child.level;
+                newTokens.push(t);
+              }
+              const linkOpen = new state.Token('link_open', 'a', 1);
+              linkOpen.attrs = [['href', targetUrl]];
+              newTokens.push(linkOpen);
+              const tMatch = new state.Token('text', '', 0);
+              tMatch.content = matchText;
+              tMatch.level = child.level + 1;
+              newTokens.push(tMatch);
+              newTokens.push(new state.Token('link_close', 'a', -1));
+              if (afterText) {
+                const tAfter = new state.Token('text', '', 0);
+                tAfter.content = afterText;
+                tAfter.level = child.level;
+                newTokens.push(tAfter);
+              }
+              children.splice(i, 1, ...newTokens);
+              i += newTokens.length - 1;
+            }
+          }
+        }
+      });
+
+      // 2. Scrub dead links from existing markdown links
+      md.core.ruler.after('auto-link', 'scrub-dead', (state) => {
+        const filePath = state.env.path;
+        if (!filePath) return;
+        const fileDir = path.dirname(filePath);
+
+        for (const token of state.tokens) {
+          if (token.type !== 'inline') continue;
+          let children = token.children;
+          // Iterate backwards to safely remove tokens
+          for (let i = children.length - 1; i >= 0; i--) {
+            if (children[i].type === 'link_open') {
+              const hrefAttr = children[i].attrs?.find(a => a[0] === 'href');
+              if (hrefAttr) {
+                const href = hrefAttr[1];
+                if (href.startsWith('http') || href.startsWith('#') || href.startsWith('mailto:')) continue;
+
+                const targetPathOnly = href.split('#')[0];
+                if (!targetPathOnly) continue;
+
+                // Resolve absolute path from site root
+                let absoluteFromRoot;
+                if (targetPathOnly.startsWith('/')) {
+                  absoluteFromRoot = targetPathOnly.replace(/\.md$/, '');
+                } else {
+                  // Resolve relative to current file
+                  const relToDocs = path.relative(path.resolve('docs'), path.resolve(fileDir, targetPathOnly));
+                  absoluteFromRoot = '/' + relToDocs.replace(/\.md$/, '').replace(/\\/g, '/');
+                  if (absoluteFromRoot === '/.') absoluteFromRoot = '/';
+                }
+
+                if (!validPaths.has(absoluteFromRoot) && !validPaths.has(absoluteFromRoot.replace('/pages/', '/'))) {
+                  // Dead link! Convert to text.
+                  // Find link_close
+                  let closeIdx = -1;
+                  for (let j = i + 1; j < children.length; j++) {
+                    if (children[j].type === 'link_close') { closeIdx = j; break; }
+                  }
+                  if (closeIdx !== -1) {
+                    children.splice(closeIdx, 1);
+                    children.splice(i, 1);
+                  }
+                }
+              }
+            }
+          }
+        }
+      });
+    }
   },
 
-  // Suppress deadlink warnings for the many cross-page wikilinks
-  ignoreDeadLinks: true,
+  ignoreDeadLinks: false,
 })
