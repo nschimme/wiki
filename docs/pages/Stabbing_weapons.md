@@ -1,9 +1,11 @@
 ---
+
 title: Stabbing weapons
 description: 'The stabbing weapons skill is a'
 tags:
   - Warrior skills
   - Skills
+aliases: ["Stabbing"]
 ---
 The **stabbing weapons** [skill](./Skill.md) is a
 [warrior](./Warrior.md) skill and [weapon](./Weapon.md)

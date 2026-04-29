@@ -1,9 +1,11 @@
 ---
+
 title: FAQ
 description: 'Command FAQ allows you to read the FAQ board'
 tags:
   - Help files
   - Commands
+aliases: ["FAQS"]
 ---
 Command **FAQ** allows you to read the FAQ [board](./Board.md)
 where the most frequently asked questions are answered. For the syntax

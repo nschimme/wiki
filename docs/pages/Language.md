@@ -1,8 +1,10 @@
 ---
+
 title: Language
 description: 'You can select which language you want to use when talking with other'
 tags:
   - Help files
+aliases: ["Adûnaic", "Arcanes", "Dunnish", "Entish", "Khuzdul", "Morbeth", "Orkish", "Rohirric", "Westron"]
 ---
 You can select which language you want to use when talking with other
 people. Use change language &lt;language&gt; to change to another one. Without

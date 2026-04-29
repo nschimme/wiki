@@ -11,8 +11,6 @@ consume [mana](./Mana.md).
 
 # Spell List
 
-{ \| valign="top" style="width:33%; text-align:left;"\|
-
 ## [Cleric](./Cleric.md)
 
 Pain
@@ -67,8 +65,6 @@ Displacement
 - [Summon](./Summon.md)
 - [Transfer](./Transfer.md)
 - [Word of Recall](./Word_of_Recall.md)
-
-\| valign="top" style="width:33%; text-align:left;"\|
 
 ## [Mage](./Mage.md)
 
@@ -126,8 +122,6 @@ Teleportation
 - [Scry](./Scry.md)
 - [Watch Room](./Watch_Room.md)
 
-\| valign="top" style="width:33%; text-align:left;"\|
-
 ## [Shaman](./Shaman.md)
 
 Paralysis
@@ -143,10 +137,6 @@ Necromancy
 
 - [Create Focus](./Create_Focus.md)
 
-\|}
-
 ## See also:
 
 - [Skills](./Skill.md)
-
-__NOEDITSECTION__ __NOTOC__

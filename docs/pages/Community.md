@@ -10,7 +10,7 @@ building MUME, or - as part of the wider player community - have
 creatively written, accumulated information, created fan art, made
 videos, or built websites and tools.
 
-__TOC__
+
 
 ## Community sites
 

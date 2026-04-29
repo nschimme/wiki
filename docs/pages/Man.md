@@ -1,8 +1,10 @@
 ---
+
 title: Man
 description: 'the most varied of the races. While one may be kind and gentle, another'
 tags:
   - Playable races
+aliases: ["Men"]
 ---
 ![Aragorn](/img/Aragorn.jpg) As with our own world, **man** is
 the most varied of the races. While one may be kind and gentle, another

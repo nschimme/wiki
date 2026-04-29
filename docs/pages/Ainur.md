@@ -8,7 +8,9 @@ The **Ainur** are the immortals of [MUME](./MUME.md). They do not
 take part of playing the game, but shape the world and keeps it running.
 
 The Ainur are divided into groups, each of them divided into several
-smaller groups. { \| **Ainu Levels**
+smaller groups.
+
+**Ainu Levels**
 
 - The Implementors
 - The Aratar
@@ -24,8 +26,6 @@ smaller groups. { \| **Ainu Levels**
   - Builders (Mb)
   - Cartographers (Mc)
   - Boardreaders (M)
-
-\|}
 
 ## Maiar
 

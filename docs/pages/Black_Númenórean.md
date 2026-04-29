@@ -1,6 +1,8 @@
 ---
+
 title: Black Númenórean
 description: 'the first Black Númenóreans is in the latter half of the Second Age.'
+aliases: ["Black Númenorean", "Black numenorian", "Bn"]
 ---
 
 ![The_Mouth_of_Sauron](/img/The_Mouth_of_Sauron.jpg) The origin of
