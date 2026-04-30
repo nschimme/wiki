@@ -25,6 +25,15 @@
         >
           Create this page on GitHub
         </a>
+        <a
+          v-else
+          :href="`https://github.com/${editRepo}/new/${editBranch}/docs/pages`"
+          target="_blank"
+          rel="noopener"
+          class="action-btn secondary"
+        >
+          Create a new page on GitHub
+        </a>
 
         <a href="/" class="action-btn ghost">Return to Home</a>
       </div>
@@ -47,13 +56,11 @@ const { site } = useData()
 const pageName = ref('')
 const rawSlug = ref('')
 
-// @ts-ignore
 const editRepo = __EDIT_REPO__
-// @ts-ignore
 const editBranch = __EDIT_BRANCH__
 
 const createUrl = computed(() => {
-  if (!rawSlug.value) return `https://github.com/${editRepo}/new/${editBranch}/docs/pages`
+  if (!rawSlug.value) return null
   const filename = rawSlug.value.replace(/\s+/g, '_') + '.md'
   const stub = [
     '---',

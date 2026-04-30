@@ -12,6 +12,9 @@ const validPaths = new Set(pagesMeta.paths || [])
 const editRepo = process.env.EDIT_REPO || 'MUME/wiki'
 const editBranch = process.env.EDIT_BRANCH || 'main'
 
+export const githubUrl = `https://github.com/${editRepo}`
+export const editUrlPattern = `${githubUrl}/edit/${editBranch}/docs/:path`
+
 export default defineConfig({
   vite: {
     define: {
@@ -84,12 +87,12 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: `https://github.com/${editRepo}/edit/${editBranch}/docs/:path`,
+      pattern: editUrlPattern,
       text: 'Edit this page on GitHub',
     },
 
     socialLinks: [
-      { icon: 'github', link: `https://github.com/${editRepo}` },
+      { icon: 'github', link: githubUrl },
     ],
 
     footer: {
