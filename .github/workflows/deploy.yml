@@ -3,11 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
-  pull_request_review:
-    types: [submitted]
-  workflow_run:
-    workflows: ["PR Preview"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -107,6 +102,8 @@ jobs:
                 continue;
               }
 
+              // Since artifacts are named with the PR number, we want to find the one associated with the current head SHA
+              // However, artifact API doesn't filter by SHA easily. We'll take the most recent one.
               const latestArtifact = artifacts.artifacts[0];
               const download = await github.rest.actions.downloadArtifact({
                 owner: context.repo.owner,
@@ -127,23 +124,40 @@ jobs:
 
               // Add to main robots.txt to prevent indexing
               const rootRobots = path.join(distDir, 'robots.txt');
-              const disallowRule = `Disallow: /pr-${pr.number}/\n`;
+              const disallowRule = `Disallow: /pr-${pr.number}/`;
               if (fs.existsSync(rootRobots)) {
-                fs.appendFileSync(rootRobots, disallowRule);
+                const content = fs.readFileSync(rootRobots, 'utf8');
+                if (!content.includes(disallowRule)) {
+                  fs.appendFileSync(rootRobots, `\n${disallowRule}`);
+                }
               } else {
                 fs.writeFileSync(rootRobots, `User-agent: *\n${disallowRule}`);
               }
 
-              // Create GitHub Deployment for the PR
+              // Create or reuse GitHub Deployment for the PR
               try {
-                const { data: deployment } = await github.rest.repos.createDeployment({
+                const { data: existingDeployments } = await github.rest.repos.listDeployments({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
                   ref: pr.sha,
                   environment: `pr-${pr.number}`,
-                  required_contexts: [],
-                  auto_merge: false,
+                  per_page: 1,
                 });
+
+                let deployment;
+                if (existingDeployments.length > 0) {
+                  deployment = existingDeployments[0];
+                } else {
+                  const { data: created } = await github.rest.repos.createDeployment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    ref: pr.sha,
+                    environment: `pr-${pr.number}`,
+                    required_contexts: [],
+                    auto_merge: false,
+                  });
+                  deployment = created;
+                }
 
                 const owner = context.repo.owner;
                 const repo = context.repo.repo;
