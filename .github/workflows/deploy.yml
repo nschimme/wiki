@@ -53,7 +53,7 @@ jobs:
           EDIT_REPO: ${{ github.repository }}
           EDIT_BRANCH: ${{ github.ref_name }}
 
-      - name: Collect approved PRs
+      - name: Collect PRs to deploy
         uses: actions/github-script@v7
         with:
           script: |
@@ -64,34 +64,17 @@ jobs:
               per_page: 100,
             });
 
-            const approvedPRs = [];
+            const prsToDeploy = [];
             for (const pr of pullRequests) {
-              if (pr.draft) continue;
-
-              const { data: reviews } = await github.rest.pulls.listReviews({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: pr.number,
+              prsToDeploy.push({
+                number: pr.number,
+                sha: pr.head.sha,
               });
-
-              const lastReviews = {};
-              for (const review of reviews) {
-                lastReviews[review.user.login] = review.state;
-              }
-              const states = Object.values(lastReviews);
-              const isApproved = states.includes('APPROVED') && !states.includes('CHANGES_REQUESTED');
-
-              if (isApproved) {
-                approvedPRs.push({
-                  number: pr.number,
-                  sha: pr.head.sha,
-                });
-              }
             }
 
             const fs = require('fs');
-            fs.writeFileSync('approved-prs.json', JSON.stringify(approvedPRs));
-            console.log(`Approved PRs: ${approvedPRs.map(p => p.number).join(', ') || 'none'}`);
+            fs.writeFileSync('prs-to-deploy.json', JSON.stringify(prsToDeploy));
+            console.log(`PRs to deploy: ${prsToDeploy.map(p => p.number).join(', ') || 'none'}`);
 
       - name: Download PR artifacts
         uses: actions/github-script@v7
@@ -102,10 +85,10 @@ jobs:
           script: |
             const fs = require('fs');
             const path = require('path');
-            const approvedPRs = JSON.parse(fs.readFileSync('approved-prs.json', 'utf8'));
+            const prsToDeploy = JSON.parse(fs.readFileSync('prs-to-deploy.json', 'utf8'));
             const distDir = path.join('docs', '.vitepress', 'dist');
 
-            for (const pr of approvedPRs) {
+            for (const pr of prsToDeploy) {
               console.log(`Processing PR #${pr.number}...`);
 
               // Find all successful runs of the "PR Preview" workflow for this PR's head SHA
