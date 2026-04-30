@@ -313,7 +313,7 @@ hidden players, but they are harder to find.
 
 `search normal, flush fast, reveal normal`
 
-Now go out and see everything in Middle Earth that MUME has to offer!
+Now go out and see everything in Middle-earth that MUME has to offer!
 
 Link back to the wiki guides:
 

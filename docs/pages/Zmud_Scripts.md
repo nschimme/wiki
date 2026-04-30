@@ -68,5 +68,5 @@ receive your share of experience.} { stat \#WAIT 1200 \#IF (@XP \<
 @XPOLD) {XPNEW = @XP} \#MATH xpcount @XPOLD-@XPNEW \#IF (xpcount \< 0)
 {xpcount = 0} \#ADD xptrip @xpcount XPOLD = @xp xp } "" {case} \#TRIGGER
 {Needed: (%n) xp, (%n) tp.} { \#VAR xp \$1 \#VAR tp \$2 } \#TRIGGER
-{Welcome to the land of Middle Earth. May your visit here be...
+{Welcome to the land of Middle-earth. May your visit here be...
 interesting.} { stat \#WAIT 1000 xpcount = 0 xptrip = 0 xp } \#CLASS 0

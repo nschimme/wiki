@@ -13,4 +13,4 @@ At the end of the Third Age, the continent of Aman finally departs from
 Arda, leaving the mortal realm of Middle-earth which would eventually
 evolve into Europe, Asia, Africa and Australia.
 
-See also: [Map of Middle Earth](./Location.md)
+See also: [Map of Middle-earth](./Location.md)

@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Brigands** are level ~12-13 mobiles found all over the western parts
-of [Middle Earth](./Middle_Earth.md), particularly on and near the
+of Middle-earth, particularly on and near the
 [Old East Road](./Old_East_Road.md) and
 [Greenway](./Greenway.md). They are not hostile, though some will
 attempt to [steal](./Steal.md) from you. They are often found

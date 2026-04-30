@@ -108,7 +108,7 @@ course, since he did not know C at that time, he failed. But he was
 stubborn and finally managed to make it choke. He then proceeded on his
 first Herculean Work: adding a new functionality to this basic engine,
 the no-echo on password entrance - that took him one month but MUME I,
-Multi Users in Middle Earth, was born.
+Multi Users in Middle-earth, was born.
 
 Seeing that Eru did manage to do something of the code, Claude
 Indermitte (CryHavoc), Pier Donini (Manwë) and a few others that didn't
@@ -117,7 +117,7 @@ consistent geographical world), then joined him on the project. We all
 learned C on the back of this poor mud engine...
 
 The main goal was clear since the beginning: we wanted a simulation of
-Tolkien's Middle Earth, just before the War of The Ring and only that.
+Tolkien's Middle-earth, just before the War of The Ring and only that.
 This meant that we could import no areas from other muds and that we
 should have a consistent mapping for our zones. We then proceeded to
 build from Bree (which was at first very Midgaard-like) towards the Old

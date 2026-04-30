@@ -5,7 +5,7 @@ tags:
   - Playable races
 ---
 The **Eriadoran** people are the common people of Northwest [Middle
-Earth](./Middle_Earth.md). Their distant ancestors are the
+Earth](./Location). Their distant ancestors are the
 [Dunlendings](./Dunlendings.md) who settled Eriador in the First
 Age. A portion of their people migrated across the Ered Luin and are
 counted among the Edain. In Eriador they settled countless villages, but

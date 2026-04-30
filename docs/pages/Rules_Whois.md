@@ -17,6 +17,6 @@ silenced, killed, etc.
 All whoises are subject to veto by some of the higher gods. If one of
 these asks you to change your whois, for whatever reason, you should
 comply or risk bansite or temporary suspension of your character. All
-whoises must be in English or any of the languages used in Middle Earth.
+whoises must be in English or any of the languages used in Middle-earth.
 
 See also: [Rules Titles](./Rules_Titles.md)

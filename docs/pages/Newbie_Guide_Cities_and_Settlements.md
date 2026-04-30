@@ -1079,7 +1079,7 @@ OTHER SERVICES: clock, fireplace
 E of Warrens and Last Bridge, far W of Ingrove
 
 The fabled hidden Last Homely House of Elrond is the newest major elven
-settlement in Middle Earth. Entry to this city is very tricky. You have
+settlement in Middle-earth. Entry to this city is very tricky. You have
 to be in some special rooms outside of town and type seek rivendell to
 find the secret path to enter. Seeking is slower at night or if darkness
 is up around Rivendell, it's faster during the day. There are no city

@@ -6,7 +6,7 @@ description: 'MUME is a free multiplayer roleplaying game based upon J.R.R. Tolk
 # What is MUME?
 
 MUME is a free multiplayer roleplaying game based upon J.R.R. Tolkien's
-Middle Earth that has been continuously enhanced since fall '91.
+Middle-earth that has been continuously enhanced since fall '91.
 
 In MUME players can explore and live in this meticulously crafted world
 during its late Third Age, and possibly join the epic War between the

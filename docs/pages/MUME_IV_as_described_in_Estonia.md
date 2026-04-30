@@ -56,7 +56,7 @@ thoughts.
 The main difference with a MUD is that you create the story yourself.
 Not a writer you’ve never met, but you, the player, experience and guide
 the story. To make things more concrete, I’ll introduce you to one
-specific MUD—**MUME (Multi-User Middle Earth)**—whose world is based on
+specific MUD—**MUME (Multi-User Middle-earth)**—whose world is based on
 the fictional realm created by **J.R.R. Tolkien**. (I recommend reading
 such works as *The Hobbit*, *The Lord of the Rings*, etc.)
 

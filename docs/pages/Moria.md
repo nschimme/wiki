@@ -53,7 +53,7 @@ are gone.
 Huge and grand, forbidding and mysterious, shrouded by its very nature
 and with the passage of time, this ancient underground Dwarf-city
 remains one of the noblest creations in
-[Middle-earth](./Middle-earth.md). Many who seek to walk its paths
+Middle-earth. Many who seek to walk its paths
 and exploit its untold riches feel the power of its plight and legacy,
 and must endure visions and terrors beyond comprehension. Moria is both
 beauty and death incarnate.

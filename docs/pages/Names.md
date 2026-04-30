@@ -11,7 +11,7 @@ players choose names for their characters which fit reasonably with the
 [race](./Race.md) and subrace of the character they are playing,
 as well as with the environment of [J.R.R.
 Tolkien](./J.R.R._Tolkien.md)'s
-[Middle-earth](./Middle-earth.md).
+Middle-earth.
 
 Players who choose inappropriate names may be asked to select another.
 Examples of some inappropriate names are:
