@@ -59,26 +59,12 @@ Technical data and lists for quick lookups:
 - [**Super Mobiles**](./pages/Super_Mobile.md) — Information on legendary enemies.
 - [**Guildmasters**](./pages/Category:Guildmasters.md) — Where to find your trainers.
 
-## Clients & Tools
-
-- [**MMapper for Windows**](./pages/Guide_to_installing_MMapper_on_Windows.md) — Playable client and mapping tool.
-- [**PowTTY Local Editing**](./pages/Guide_to_local_editing_with_PowTTY.md) — Edit game text locally.
-- [**Mudlet**](https://www.mudlet.org/) — Modern customizable client.
-- [**Mudlet Scripts**](./pages/Mudlet_Scripts.md) — Automating and enhancing your UI.
-
 ## Advanced Strategy
 
 - [**Moria Strategies**](./pages/MoriaStrategies.md) — Surviving the Mines of Moria.
 - [**PK Guide**](./pages/Rules_PK.md) — Player vs. Player combat rules.
 - [**Leveling Guide**](./pages/Level.md) — Experience and leveling information.
-
-## External Resources
-
-- [**Nazgum's Character Generator**](https://mume.nazgum.com/)
-- [**MUME Podcast**](https://www.youtube.com/@Radagastthe1st)
-- [**Orc Shaman Guide (Google Docs)**](https://docs.google.com/document/d/1NV_Nnk8xZsaydjwmKCTVNWlZ4qRJdBFitzdn4-pH89U/edit#)
-- [**How to Roar**](http://mume.digitar.ee/) — Tips for Bears and Beornings.
-- [**Elvenrunes**](https://www.elvenrunes.com/) — Logs, forums, and community.
+- [**Orc Shaman Guide (Ext)**](https://docs.google.com/document/d/1NV_Nnk8xZsaydjwmKCTVNWlZ4qRJdBFitzdn4-pH89U/edit#) — Detailed external shaman guide.
 
 ## Browse All
 

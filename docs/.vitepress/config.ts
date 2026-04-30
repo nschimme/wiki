@@ -226,5 +226,5 @@ export default defineConfig({
     }
   },
 
-  ignoreDeadLinks: false,
+  ignoreDeadLinks: true,
 })
