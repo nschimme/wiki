@@ -5,47 +5,47 @@ layout: home
 hero:
   name: MUME Wiki
   text: Multi-Users in Middle-earth
-  tagline: Community guide to surviving in Tolkien's world since 1991
+  tagline: The definitive guide to the oldest Tolkien-based MUD (est. 1991).
   image:
     src: /img/Main_Gandalf.png
     alt: Gandalf
   actions:
     - theme: brand
-      text: Browse by Tag
-      link: /tags
+      text: Get Started
+      link: /guides
     - theme: alt
       text: Play MUME
       link: https://mume.org/
 
 features:
   - icon: ⚔️
-    title: Classes & Races
-    details: Master Warrior, Mage, Cleric, Thief, and Ranger — or choose from eight playable races including Elf, Dwarf, Hobbit, Orc, and Troll.
+    title: Classes & Roles
+    details: MUME uses a unique practice-based system. Choose your race to define your potential, then spend practices to define your role.
     link: /classes
-    linkText: View Classes
+    linkText: Build Your Character
   - icon: 📜
-    title: Guides
-    details: Newbie tutorials, strategy guides, and tips from experienced players covering everything from character creation to advanced combat.
+    title: Newbie Guides
+    details: Follow our 19-step tutorial series to go from a fresh arrival in Bree to a seasoned adventurer in Middle-earth.
     link: /guides
-    linkText: View Guides
+    linkText: Start Learning
   - icon: 🗡️
-    title: Equipment
-    details: Comprehensive item lists organized by slot, material, and type. Find the best gear for your build.
+    title: Equipment & Items
+    details: Discover the best gear for your build, from Orc-slaying blades to protective Elven mail.
     link: /equipment
-    linkText: View Equipment
+    linkText: Browse Equipment
   - icon: 🗺️
-    title: Lore & Locations
-    details: Explore the geography of Middle-earth as rendered in MUME — cities, dungeons, wilderness areas, and the factions that inhabit them.
+    title: Lore & Map
+    details: Explore a 1:1 recreation of Eriador. Learn the history of the Third Age and master the art of wilderness travel.
     link: /lore
-    linkText: View Lore
+    linkText: Explore the World
   - icon: 💬
-    title: Community
-    details: Mappers, clients, scripts, and community resources for MUME players.
+    title: Community Tools
+    details: Essential mappers, scripts, and external resources developed by the MUME community over three decades.
     link: /community
-    linkText: View Community
+    linkText: Join the Community
   - icon: 🏷️
-    title: Full Tag Index
-    details: Every wiki page organized alphabetically by category — the fastest way to find any topic.
+    title: Full Index
+    details: Looking for something specific? Our comprehensive tag index covers every herb, quest, and guildmaster.
     link: /tags
     linkText: Browse Tags
 aliases: ["Basics"]

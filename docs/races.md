@@ -5,28 +5,43 @@ description: The eight playable races in MUME — Elf, Dwarf, Hobbit, Man, Beorn
 
 # Playable Races
 
-MUME offers eight playable races split between the Free Peoples and the forces of Sauron.
+Your choice of race is the most important decision you make. It determines your starting location, your [Statistics](./pages/Statistic.md) caps, and which factions will view you as a friend or foe.
 
 ## Free Peoples (White Side)
 
-| Race | Strengths |
+These races generally start in Eriador (Bree, Blue Mountains, or the Shire) and are allied against the Shadow.
+
+| Race | Notable Attributes |
 |------|-----------|
-| [Elf](./pages/Elf.md) | High mana regen, disease immunity, snow movement, slow aging |
-| [Dwarf](./pages/Dwarf.md) | High constitution, resistance to magic, expert smithing |
-| [Hobbit](./pages/Hobbit.md) | Small size, high dexterity, stealth bonuses |
-| [Man](./pages/Man.md) | Balanced stats, most class options, fastest levelling |
-| [Beorning](./pages/Beorning.md) | Can transform into a bear, strong unarmed combat |
+| [Elf](./pages/Elf.md) | High mana, snow movement, immune to disease. |
+| [Dwarf](./pages/Dwarf.md) | High constitution, magic resistance, expert smithing. |
+| [Hobbit](./pages/Hobbit.md) | Small size, high dexterity, stealth and evasion bonuses. |
+| [Man](./pages/Man.md) | The most versatile race; fastest levelling and most class options. |
+| [Beorning](./pages/Beorning.md) | Unique shapeshifters who can transform into bears. |
 
-## Dark Side
+## Forces of the Shadow (Dark Side)
 
-| Race | Strengths |
+These races start in the service of Sauron and are at war with the Free Peoples.
+
+| Race | Notable Attributes |
 |------|-----------|
-| [Orc](./pages/Orc.md) | Night vision, strong combat, aggressive bonuses in darkness |
-| [Troll](./pages/Troll.md) | Immense strength, unarmed combat, cave regeneration |
-| [Black Númenórean](./pages/Black_Númenórean.md) | Cunning, magic, camping ability — high skill ceiling |
+| [Orc](./pages/Orc.md) | Night vision, strong offensive bonuses in darkness. |
+| [Troll](./pages/Troll.md) | Immense strength and health; massive unarmed damage. |
+| [Black Númenórean](./pages/Black_Númenórean.md) | Cunning and magical; high skill ceiling with camping abilities. |
 
-## Subraces
+## Essential Race Guides
 
-Most races have three subraces with additional modifiers. See each race page for details.
+Some races have unique mechanics that require specialized knowledge:
 
-[Elven names](./pages/Elven_names.md) · [Dwarvish names](./pages/Dwarvish_names.md) · [Orcish names](./pages/Orcish_names.md)
+- [Troll Guide](./pages/Troll_guide.md) — How to survive as a Troll and master the "Smash" playstyle.
+- [Zaugurz Orc Guide](./pages/Zaugurz_orc_guide.md) — Comprehensive guide to playing an Orc of the Zaugurz tribe.
+- [Subraces](./pages/Race.md) — Detailed breakdown of the three sub-varieties for each race.
+
+## Racial Flavor
+
+- [Elven names](./pages/Elven_names.md) · [Dwarvish names](./pages/Dwarvish_names.md) · [Orcish names](./pages/Orcish_names.md)
+- [Language](./pages/Language.md) — How communication works between the different peoples.
+
+<hr />
+
+<ClassRace />

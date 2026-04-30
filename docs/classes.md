@@ -1,32 +1,45 @@
 ---
-title: Classes
+title: Classes & Character Roles
 description: The class system in MUME — Warrior, Mage, Cleric, Thief, and Ranger.
 ---
 
-# Classes
+# Classes & Character Roles
 
-The [class system](./pages/Class.md) in MUME is flexible. You do not choose a class at character creation — instead you shape it by practicing skills or spells from guilds.
+In MUME, "Class" is not a rigid choice made at birth. While your [Race](./races.md) determines your physical potential (stats), your **Class** is determined by where you spend your [Practices](./pages/Practice.md).
 
-## Playable Classes
+<div class="tip custom-block" style="padding: 1em; border: 1px solid #e1d5b3; background: #fdfaf3; margin-bottom: 20px;">
+  <strong>The MUME Identity:</strong> Race defines your <em>ceiling</em> (maximum stats), while practices define your <em>role</em>. You can be a Mage-like Hobbit or a Warrior-like Elf, though some combinations are more natural than others.
+</div>
 
-| Class | Speciality |
-|-------|------------|
-| [Warrior](./pages/Warrior.md) | Strongest in hand-to-hand combat, mastery of all weapons |
-| [Mage](./pages/Mage.md) | Volatile offensive magic, powerful but fragile |
-| [Cleric](./pages/Cleric.md) | Healing and support spells, decent combat ability |
-| [Thief](./pages/Thief.md) | Stealth, backstab, and skulduggery |
-| [Ranger](./pages/Ranger.md) | Wilderness survival, tracking, and ranged combat |
+## The Five Archetypes
 
-## Skills & Spells
+These are the primary "guilds" where you can train. Most players "multi-class" by mixing skills from several guilds.
 
-- [Skills](./pages/Skill.md) — All trainable skills
-- [Spells](./pages/Spell.md) — All castable spells
-- [Mage Spells](./tags.md#M) · [Cleric Spells](./tags.md#C) · [Shaman Spells](./tags.md#S)
-- [Statistics](./pages/Statistic.md) — How stats affect your character
-- [Practice](./pages/Practice.md) — How to train skills and spells
+| Class | Primary Focus | Key Skills/Spells |
+|-------|---------------|-------------------|
+| [Warrior](./pages/Warrior.md) | Combat & Durability | Parry, Bash, Rescue, Weapon Skills |
+| [Mage](./pages/Mage.md) | Offensive Magic | Fireball, Lightning Bolt, Sleep |
+| [Cleric](./pages/Cleric.md) | Healing & Support | Cure Critic, Sanctuary, Bless |
+| [Thief](./pages/Thief.md) | Stealth & Burst | Backstab, Sneak, Hide, Pick Lock |
+| [Ranger](./pages/Ranger.md) | Tracking & Survival | Track, Search, Archery, Wilderness |
 
-## Races
+## Character Development
 
-Choose from eight playable races, each with unique stats and abilities:
+Building a successful character requires understanding the underlying mechanics.
 
-[Beorning](./pages/Beorning.md) · [Black Númenórean](./pages/Black_Númenórean.md) · [Dwarf](./pages/Dwarf.md) · [Elf](./pages/Elf.md) · [Hobbit](./pages/Hobbit.md) · [Man](./pages/Man.md) · [Orc](./pages/Orc.md) · [Troll](./pages/Troll.md)
+- [Guide to Advanced Statistics](./pages/Guide_to_advanced_character_statistics.md) — How strength, dexterity, and weight affect your performance.
+- [Practicing](./pages/Practice.md) — How to spend your limited practice points effectively.
+- [Spell List](./pages/Spell_list.md) — Full list of magical abilities and their requirements.
+- [Skill List](./pages/Skill.md) — Full list of physical and utility skills.
+
+## Specialized Role Guides
+
+If you're looking for a specific playstyle, these community-written guides are essential:
+
+- [Shaman Guide](./pages/Shaman_Guide.md) — The unique magic and combat role of the Orcish Shaman.
+- [Versatile Caster Guide](./pages/Alweon's_Versatile_Caster_Newbie_Guide.md) — A comprehensive look at building a magic-user that can survive.
+- [Staff, Gem and Focus Guide](./pages/Staff,_Gem_and_Focus_guide.md) — Essential reading for any aspiring spellcaster.
+
+<hr />
+
+<ClassRace />
