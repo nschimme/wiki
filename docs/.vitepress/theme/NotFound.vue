@@ -56,8 +56,8 @@ const { site } = useData()
 const pageName = ref('')
 const rawSlug = ref('')
 
-const editRepo = __EDIT_REPO__
-const editBranch = __EDIT_BRANCH__
+const editRepo = typeof __EDIT_REPO__ !== 'undefined' ? __EDIT_REPO__ : 'MUME/wiki'
+const editBranch = typeof __EDIT_BRANCH__ !== 'undefined' ? __EDIT_BRANCH__ : 'main'
 
 const createUrl = computed(() => {
   if (!rawSlug.value) return null
