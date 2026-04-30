@@ -9,8 +9,15 @@ try {
 const sortedTerms = Object.keys(pagesMeta.terms || {}).sort((a, b) => b.length - a.length)
 const validPaths = new Set(pagesMeta.paths || [])
 
+const editRepo = process.env.EDIT_REPO || 'MUME/wiki'
+const editBranch = process.env.EDIT_BRANCH || 'main'
+
 export default defineConfig({
   vite: {
+    define: {
+      __EDIT_REPO__: JSON.stringify(editRepo),
+      __EDIT_BRANCH__: JSON.stringify(editBranch),
+    },
     plugins: [
       {
         name: 'public-image-shim',
@@ -77,12 +84,12 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/MUME/wiki/edit/main/docs/:path',
+      pattern: `https://github.com/${editRepo}/edit/${editBranch}/docs/:path`,
       text: 'Edit this page on GitHub',
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/MUME/wiki' },
+      { icon: 'github', link: `https://github.com/${editRepo}` },
     ],
 
     footer: {

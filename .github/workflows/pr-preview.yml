@@ -34,6 +34,8 @@ jobs:
         env:
           # Upstream: /pr-{n}/   Fork: /{repo}/pr-{n}/
           VITEPRESS_BASE: ${{ github.repository == 'MUME/wiki' && format('/pr-{0}/', github.event.number) || format('/{0}/pr-{1}/', github.event.repository.name, github.event.number) }}
+          EDIT_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          EDIT_BRANCH: ${{ github.event.pull_request.head.ref }}
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4

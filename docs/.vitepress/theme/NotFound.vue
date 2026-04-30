@@ -31,7 +31,7 @@
 
       <p class="not-found-hint">
         MUME Wiki is a community project. If you know about this topic,
-        <a :href="createUrl || 'https://github.com/MUME/wiki'" target="_blank" rel="noopener">
+        <a :href="createUrl || `https://github.com/${editRepo}`" target="_blank" rel="noopener">
           contribute a page
         </a>!
       </p>
@@ -47,8 +47,13 @@ const { site } = useData()
 const pageName = ref('')
 const rawSlug = ref('')
 
+// @ts-ignore
+const editRepo = __EDIT_REPO__
+// @ts-ignore
+const editBranch = __EDIT_BRANCH__
+
 const createUrl = computed(() => {
-  if (!rawSlug.value) return 'https://github.com/MUME/wiki/new/main/docs/pages'
+  if (!rawSlug.value) return `https://github.com/${editRepo}/new/${editBranch}/docs/pages`
   const filename = rawSlug.value.replace(/\s+/g, '_') + '.md'
   const stub = [
     '---',
@@ -62,7 +67,7 @@ const createUrl = computed(() => {
     '',
     '<!-- Add content here -->',
   ].join('\n')
-  return `https://github.com/MUME/wiki/new/main/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
+  return `https://github.com/${editRepo}/new/${editBranch}/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
 })
 
 function openSearch() {

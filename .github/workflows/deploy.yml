@@ -41,6 +41,8 @@ jobs:
         run: npm run docs:build
         env:
           VITEPRESS_BASE: ${{ (github.repository == 'MUME/wiki' || contains(github.event.repository.custom_domain, 'wiki.mume.org')) && '/' || format('/{0}/', github.event.repository.name) }}
+          EDIT_REPO: ${{ github.repository }}
+          EDIT_BRANCH: ${{ github.ref_name }}
 
       - name: Collect approved PRs
         uses: actions/github-script@v7
