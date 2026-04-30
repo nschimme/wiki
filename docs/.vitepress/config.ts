@@ -60,11 +60,11 @@ export default defineConfig({
     siteTitle: 'MUME Wiki',
 
     nav: [
+      { text: 'Guides', link: '/guides' },
+      { text: 'Equipment', link: '/equipment' },
       { text: 'Classes', link: '/classes' },
       { text: 'Races', link: '/races' },
-      { text: 'Guides', link: '/guides' },
       { text: 'Lore', link: '/lore' },
-      { text: 'Equipment', link: '/equipment' },
       { text: 'Community', link: '/community' },
       { text: 'Tags', link: '/tags' },
       {
