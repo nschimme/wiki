@@ -96,9 +96,7 @@ The top-level section pages (`docs/classes.md`, `docs/guides.md`, etc.) are hand
 
 ## PR previews
 
-Open a pull request — GitHub Actions will build your changes and either:
-- Post a live preview URL at `https://wiki.mume.org/pr-{number}/` (for PRs from the main repo)
-- Post a downloadable artifact link (for forks)
+Open a pull request — GitHub Actions will build your changes. Once a maintainer approves your PR, a live preview will be automatically deployed and accessible via the "View deployment" button in the GitHub PR interface.
 
 ## AI agent notes
 

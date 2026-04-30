@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  repository_dispatch:
+    types: [pr_update]
 
 permissions:
   contents: read
@@ -11,6 +13,7 @@ permissions:
   id-token: write
   pull-requests: read
   deployments: write
+  actions: read
 
 jobs:
   deploy:
@@ -37,7 +40,7 @@ jobs:
       - name: Build
         run: npm run docs:build
         env:
-          VITEPRESS_BASE: ${{ github.repository == 'MUME/wiki' && '/' || format('/{0}/', github.event.repository.name) }}
+          VITEPRESS_BASE: ${{ (github.repository == 'MUME/wiki' || contains(github.event.repository.custom_domain, 'wiki.mume.org')) && '/' || format('/{0}/', github.event.repository.name) }}
 
       - name: Collect approved PRs
         uses: actions/github-script@v7
@@ -47,10 +50,13 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               state: 'open',
+              per_page: 100,
             });
 
             const approvedPRs = [];
             for (const pr of pullRequests) {
+              if (pr.draft) continue;
+
               const { data: reviews } = await github.rest.pulls.listReviews({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -90,25 +96,47 @@ jobs:
             for (const pr of approvedPRs) {
               console.log(`Processing PR #${pr.number}...`);
 
-              // Find the latest successful artifact for this PR
-              const { data: artifacts } = await github.rest.actions.listArtifactsForRepo({
+              // Find all successful runs of the "PR Preview" workflow for this PR's head SHA
+              const { data: runs } = await github.rest.actions.listWorkflowRuns({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                name: `pr-${pr.number}`,
+                workflow_id: 'pr-preview.yml',
+                head_sha: pr.sha,
+                status: 'success',
+                per_page: 1,
               });
 
-              if (artifacts.artifacts.length === 0) {
-                console.log(`No artifact found for PR #${pr.number}`);
-                continue;
+              let artifactId;
+              if (runs.workflow_runs.length > 0) {
+                const runId = runs.workflow_runs[0].id;
+                const { data: runArtifacts } = await github.rest.actions.listWorkflowRunArtifacts({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  run_id: runId,
+                });
+                const prArtifact = runArtifacts.artifacts.find(a => a.name === `pr-${pr.number}`);
+                if (prArtifact) artifactId = prArtifact.id;
               }
 
-              // Since artifacts are named with the PR number, we want to find the one associated with the current head SHA
-              // However, artifact API doesn't filter by SHA easily. We'll take the most recent one.
-              const latestArtifact = artifacts.artifacts[0];
+              if (!artifactId) {
+                // Fallback: Find the latest successful artifact for this PR name
+                const { data: artifacts } = await github.rest.actions.listArtifactsForRepo({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  name: `pr-${pr.number}`,
+                });
+
+                if (artifacts.artifacts.length === 0) {
+                  console.log(`No artifact found for PR #${pr.number}`);
+                  continue;
+                }
+                artifactId = artifacts.artifacts[0].id;
+              }
+
               const download = await github.rest.actions.downloadArtifact({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                artifact_id: latestArtifact.id,
+                artifact_id: artifactId,
                 archive_format: 'zip',
               });
 
