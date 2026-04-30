@@ -1,4 +1,5 @@
 ---
+
 layout: home
 
 hero:
@@ -47,4 +48,5 @@ features:
     details: Every wiki page organized alphabetically by category — the fastest way to find any topic.
     link: /tags
     linkText: Browse Tags
+aliases: ["Basics"]
 ---

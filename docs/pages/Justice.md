@@ -1,8 +1,10 @@
 ---
+
 title: Justice
 description: 'Command ''justice'' allows you to read the justice'
 tags:
   - Help files
+aliases: ["Complain"]
 ---
 Command **'justice**' allows you to read the justice
 [board](./Board.md) where punishments of cheaters are documented.

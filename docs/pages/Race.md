@@ -15,8 +15,7 @@ not a separate race but shapechanged Beorning Men.
 Three are the evil races (a.k.a. "darkies"); they are Tarkhnarb Orcs,
 Trolls, and Black Númenóreans.
 
-The last race is the Zaugurz Orcs, forming a side of its own. { \|
-valign="top" style="width:50%; text-align:left;"\|
+The last race is the Zaugurz Orcs, forming a side of its own.
 
 ## The Free People
 
@@ -38,8 +37,6 @@ valign="top" style="width:50%; text-align:left;"\|
 
 - [Hobbits](./Hobbit.md)
 
-\| valign="top" style="width:50%; text-align:left;"\|
-
 ## Slaves of Sauron
 
 - [Black Númenóreans](./Black_Númenórean.md)
@@ -53,8 +50,6 @@ valign="top" style="width:50%; text-align:left;"\|
 <!-- -->
 
 - [Trolls](./Troll.md)
-
-\|}
 
 ## See also
 

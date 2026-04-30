@@ -1,6 +1,8 @@
 ---
+
 title: Glamdring
 description: 'This broad shiny blade was crafted by the Elves of Gondolin in the'
+aliases: ["Beater"]
 ---
 
 This broad shiny blade was crafted by the Elves of Gondolin in the

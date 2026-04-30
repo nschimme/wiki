@@ -1,8 +1,10 @@
 ---
+
 title: Blue Mountains
 description: '(S."Ered Luin") Running from the Ice Bay of Forochel in the north to'
 tags:
   - Locations
+aliases: ["Bm"]
 ---
 ## Blue Mountains
 

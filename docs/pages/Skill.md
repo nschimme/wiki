@@ -12,8 +12,6 @@ out the "See Also" section at the bottom.
 
 # Skill List
 
-{ \| valign="top" style="width:33%; text-align:left;"\|
-
 ## [Ranger](./General.md)
 
 Survival
@@ -33,8 +31,6 @@ Leadership
 
 - [Command](./Command.md)
 - [Leadership](./Leadership.md)
-
-\| valign="top" style="width:33%; text-align:left;"\|
 
 ## [Thief](./Thief.md)
 
@@ -59,8 +55,6 @@ Finesse
 - [Search](./Search.md)
 - [Steal](./Steal.md)
 
-\| valign="top" style="width:33%; text-align:left;"\|
-
 ## [Warrior](./Warrior.md)
 
 Offensive
@@ -84,10 +78,6 @@ Defensive
 - [Parry](./Parry.md)
 - [Rescue](./Rescue.md)
 
-\|}
-
 ## See also:
 
 - [Spells](./Spell.md)
-
-__NOEDITSECTION__ __NOTOC__

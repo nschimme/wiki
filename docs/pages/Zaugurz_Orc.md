@@ -1,8 +1,10 @@
 ---
+
 title: Zaugurz Orc
 description: 'The Uruk-Zaugurz is a tribe on the rise from far north in the [Misty'
 tags:
   - Playable races
+aliases: ["Uruk-Zaugurz"]
 ---
 The **Uruk-Zaugurz** is a tribe on the rise from far north in the [Misty
 Mountains](./Misty_Mountains.md). Hardened by cold from their home

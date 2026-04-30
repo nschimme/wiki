@@ -1,8 +1,10 @@
 ---
+
 title: Parry bonus
 description: 'The parry bonus (PB%) is a defensive bonus. It is similar to your'
 tags:
   - Statistics
+aliases: ["Parrying bonus", "Pb"]
 ---
 The **parry bonus** (PB%) is a defensive bonus. It is similar to your
 [dodge bonus](./Dodge_bonus.md) (DB%). There are some notable

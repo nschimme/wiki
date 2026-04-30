@@ -1,6 +1,8 @@
 ---
+
 title: Super Mobile
 description: 'Some mobiles are stronger than others and upon their defeat, a greater'
+aliases: ["Beorn", "Smob", "Balrog"]
 ---
 
 Some mobiles are stronger than others and upon their defeat, a greater

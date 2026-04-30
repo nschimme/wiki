@@ -1,8 +1,10 @@
 ---
+
 title: Gold
 description: 'Copper redirects here. For the magical ring made from the metal, see'
 tags:
   - Help files
+aliases: ["Copper"]
 ---
 *Copper redirects here. For the magical ring made from the metal, see
 [copper ring](./Copper_ring.md).*

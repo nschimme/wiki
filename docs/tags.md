@@ -5,6 +5,7 @@ layout: page
 ---
 
 <script setup>
+import { withBase } from 'vitepress'
 import { data as tagsData } from './tags.data.ts'
 
 const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
@@ -37,7 +38,7 @@ function hasLetter(letter) {
         <div class="tag-name">{{ tag }}</div>
         <ul class="tag-pages">
           <li v-for="page in tagsData[tag]" :key="page.url">
-            <a :href="page.url">{{ page.title }}</a>
+            <a :href="withBase(page.url)">{{ page.title }}</a>
           </li>
         </ul>
       </template>

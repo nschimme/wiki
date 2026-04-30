@@ -1,8 +1,10 @@
 ---
+
 title: Bill Ferny
 description: 'Bill Ferny is a man of poor reputation living in'
 tags:
   - Mobiles
+aliases: ["Ferny"]
 ---
 **Bill Ferny** is a man of poor reputation living in
 [Bree](./Bree.md)-land. Although he was once a law-abiding

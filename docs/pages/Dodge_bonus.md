@@ -1,8 +1,10 @@
 ---
+
 title: Dodge bonus
 description: 'The dodge bonus (DB%) is a defensive bonus. It is similar to your'
 tags:
   - Statistics
+aliases: ["Db", "Dodging bonus"]
 ---
 The **dodge bonus** (DB%) is a defensive bonus. It is similar to your
 [parry bonus](./Parry_bonus.md) (PB%). There are some notable
