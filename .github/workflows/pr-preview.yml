@@ -33,7 +33,7 @@ jobs:
         run: npm run docs:build
         env:
           # Upstream: /pr-{n}/   Fork: /{repo}/pr-{n}/
-          VITEPRESS_BASE: ${{ github.repository == 'MUME/wiki' && format('/pr-{0}/', github.event.number) || format('/{0}/pr-{1}/', github.event.repository.name, github.event.number) }}
+          VITEPRESS_BASE: ${{ format('/{0}/pr-{1}/', github.event.repository.name, github.event.number) }}
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
