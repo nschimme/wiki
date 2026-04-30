@@ -4,8 +4,6 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-  repository_dispatch:
-    types: [pr_update]
 
 permissions:
   contents: read
@@ -37,10 +35,21 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Determine Base URL
+        id: base_url
+        run: |
+          if [ -f docs/public/CNAME ]; then
+            echo "base=/" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
+            echo "base=/" >> $GITHUB_OUTPUT
+          else
+            echo "base=/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
+          fi
+
       - name: Build
         run: npm run docs:build
         env:
-          VITEPRESS_BASE: ${{ (github.repository == 'MUME/wiki' || contains(github.event.repository.custom_domain, 'wiki.mume.org')) && '/' || format('/{0}/', github.event.repository.name) }}
+          VITEPRESS_BASE: ${{ steps.base_url.outputs.base }}
           EDIT_REPO: ${{ github.repository }}
           EDIT_BRANCH: ${{ github.ref_name }}
 
@@ -88,6 +97,7 @@ jobs:
         uses: actions/github-script@v7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_URL_PATH: ${{ steps.base_url.outputs.base }}
         with:
           script: |
             const fs = require('fs');
@@ -147,9 +157,12 @@ jobs:
                 fs.mkdirSync(prDir, { recursive: true });
               }
 
-              fs.writeFileSync(`/tmp/pr-${pr.number}.zip`, Buffer.from(download.data));
+              // The artifact itself is a zip file (download.data is a zip of a zip)
+              // We need to unzip the artifact to get the pr-N.zip, then unzip pr-N.zip to prDir
+              fs.writeFileSync(`/tmp/artifact-${pr.number}.zip`, Buffer.from(download.data));
 
               const execSync = require('child_process').execSync;
+              execSync(`unzip -o /tmp/artifact-${pr.number}.zip -d /tmp`);
               execSync(`unzip -o /tmp/pr-${pr.number}.zip -d ${prDir}`);
 
               // Add to main robots.txt to prevent indexing
@@ -191,7 +204,14 @@ jobs:
 
                 const owner = context.repo.owner;
                 const repo = context.repo.repo;
-                let base = `https://${owner}.github.io/${repo}`;
+                let baseUrlPath = process.env.BASE_URL_PATH;
+
+                // Normalization for owner.github.io repos without CNAME
+                if (repo === `${owner}.github.io` && (baseUrlPath === `/${repo}/` || !baseUrlPath)) {
+                  baseUrlPath = '/';
+                }
+
+                let base = `https://${owner}.github.io`;
 
                 const cnamePath = path.join('docs', 'public', 'CNAME');
                 if (fs.existsSync(cnamePath)) {
@@ -199,6 +219,11 @@ jobs:
                   if (domain) {
                     base = `https://${domain}`;
                   }
+                } else {
+                  // If no CNAME, we are on github.io/{repo}/
+                  // Ensure baseUrlPath has leading slash and trailing slash for consistency before joining
+                  const normalizedPath = baseUrlPath.startsWith('/') ? baseUrlPath : `/${baseUrlPath}`;
+                  base = `${base}${normalizedPath}`.replace(/\/$/, '');
                 }
 
                 const url = `${base}/pr-${pr.number}/`;
