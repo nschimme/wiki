@@ -12,15 +12,15 @@ MUME features a vast array of equipment. Use this hub to find specific items or 
 Most players are looking for these "Identified Gear" tables:
 
 - [**Weapon List**](./pages/Weapon.md) — Stats for swords, axes, bows, and more.
-- [**Armour List**](./pages/Armour.md) — Detailed protection values for all slots.
-- [**Jewelry & Tools**](./pages/Other_equipment.md) — Rings, amulets, lights, and containers.
+- [**Armour List**](./pages/Armour.md#identified-gear) — Detailed protection values for all slots.
+- [**Jewelry & Tools**](./pages/Other_equipment.md#identified-gear) — Rings, amulets, lights, and containers.
 
 ## Mechanics & Stats
 
 Understanding how your gear works:
 
-- [**Armour Mechanics**](./pages/Armour.md) — How Absorb and Max work.
-- [**Weapon Mechanics**](./pages/Weapon.md) — Strength requirements and effectiveness.
+- [**Armour Mechanics**](./pages/Armour.md#armour-types) — How Absorb and Max work.
+- [**Weapon Mechanics**](./pages/Weapon.md#identified-gear) — Strength requirements and effectiveness.
 - [**Condition**](./pages/Whet.md) — Keeping your weapons sharp and gear repaired.
 - [**Enchanting**](./pages/Enchant.md) — Improving your equipment via magic.
 
@@ -36,10 +36,10 @@ Understanding how your gear works:
 | [**Legs**](./pages/Legs.md) | Trousers, greaves |
 | [**Feet**](./pages/Feet.md) | Boots, sandals |
 | [**Shield**](./pages/Shield.md) | All shields |
-| [**Back**](./pages/Back.md) | Cloaks, capes |
-| [**Waist**](./pages/Waist.md) | Belts, girdles |
+| [**Back**](./pages/Category:Cloaks.md) | Cloaks, capes |
+| [**Waist**](./pages/Category:Belts.md) | Belts, girdles |
 | [**Wrist**](./pages/Wrist.md) | Wristbands, bracers |
-| [**Finger**](./pages/Finger.md) | Rings |
+| [**Finger**](./pages/Category:Rings.md) | Rings |
 | [**Light**](./pages/Light.md) | Torches, lanterns |
 
 ## Browse by Material
@@ -55,17 +55,18 @@ Understanding how your gear works:
 |------|---------|
 | [**Cleaving**](./pages/Cleaving_weapons.md) | Axes, hatchets |
 | [**Slashing**](./pages/Slashing_weapons.md) | Swords, blades |
-| [**Piercing**](./pages/Piercing_weapon.md) | Daggers, shortswords |
-| [**Stabbing**](./pages/Stabbing_weapon.md) | Spears, pikes |
-| [**Smiting**](./pages/Two-handed_weapon.md) | Two-handed weapons |
-| [**Concussion**](./pages/Concussion_weapon.md) | Maces, warhammers |
-| [**Ranged**](./pages/Missile_weapon.md) | Bows, arrows, crossbows |
+| [**Piercing**](./pages/Piercing_weapons.md) | Daggers, shortswords |
+| [**Stabbing**](./pages/Stabbing_weapons.md) | Spears, pikes |
+| [**Smiting**](./pages/Category:Smiting_weapons.md) | Two-handed weapons |
+| [**Concussion**](./pages/Concussion_weapons.md) | Maces, warhammers |
+| [**Whipping**](./pages/Weapon.md#other-melee-weapons) | Whips, scourges |
+| [**Ranged**](./pages/Ranged_weapons.md) | Bows, arrows, crossbows |
 
 ## Special Equipment
 
 - [**Quest Items**](./pages/Quest_items.md)
 - [**Legend Equipment**](./pages/Legend_Home_Equipment.md)
-- [**Containers**](./pages/Containers.md) ([Guide](./pages/Newbie_Guide_to_Suits_of_Armour_and_Shields.md))
+- [**Containers**](./pages/Containers.md)
 - [**Plants & Herbs**](./pages/Herb.md)
 - [**Food & Drink**](./pages/Food_&_Drink.md)
 

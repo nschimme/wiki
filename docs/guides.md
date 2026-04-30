@@ -14,15 +14,15 @@ description: Player guides and tutorials for MUME — from newbie basics to adva
 
 If you are new to MUME, we recommend following these guides in order:
 
-1. [**Newbie Guide**](./pages/Newbie_Guide.md) — The absolute starting point.
-2. [**Character Creation**](./pages/Character_creation.md) & [**Choosing Stats**](./pages/Newbie_Guide_to_Choosing_your_Base_Abilities_or_Stats.md)
+1. [**Newbie Guide**](./pages/Category:Newbie_Help.md) — The absolute starting point.
+2. [**Character Creation**](./pages/Newbie_Guide_to_Choosing_your_Base_Abilities_or_Stats.md) & [**Choosing Stats**](./pages/Newbie_Guide_to_Choosing_your_Base_Abilities_or_Stats.md)
 3. [**Accessing Information**](./pages/Newbie_Guide_Accessing_Game_Information.md) — How to use `help`, `info`, and more.
 4. [**Movement & Exploring**](./pages/Newbie_Guide_Doors,_Exits,_and_Exploring.md) — Navigating Middle-earth.
 5. [**Light & Vision**](./pages/Newbie_Guide_Light_Sources_and_Seeing.md) — Staying out of the dark.
 6. [**Cities & Settlements**](./pages/Newbie_Guide_Cities_and_Settlements.md) — Finding safety and services.
 7. [**NPCs & Mobs**](./pages/Newbie_Guide_NPCs_and_Mobs.md) — Interacting with the world.
 8. [**Guilds & Practicing**](./pages/Newbie_Guide_Guilds_and_Practicing.md) — Training your character.
-9. [**Combat Basics**](./pages/Combat.md) ([Armour](./pages/Newbie_Guide_to_Suits_of_Armour_and_Shields.md) & [Equipment](./pages/Equipment_guide.md))
+9. [**Combat Basics**](./pages/Combat.md) ([Armour](./pages/Newbie_Guide_to_Suits_of_Armour_and_Shields.md) & [Equipment](./equipment.md))
 10. [**Magic & Spells**](./pages/Newbie_Guide_Casting_and_Spells.md) — For aspiring casters.
 11. [**Missile Weapons**](./pages/Newbie_Guide_to_Missile_Weapons.md) — Archery and ranged combat.
 12. [**Making Gold**](./pages/Newbie_Guide_Making_Gold.md) — Funding your adventures.
@@ -59,12 +59,26 @@ Technical data and lists for quick lookups:
 - [**Super Mobiles**](./pages/Super_Mobile.md) — Information on legendary enemies.
 - [**Guildmasters**](./pages/Category:Guildmasters.md) — Where to find your trainers.
 
+## Clients & Tools
+
+- [**MMapper for Windows**](./pages/Guide_to_installing_MMapper_on_Windows.md) — Playable client and mapping tool.
+- [**PowTTY Local Editing**](./pages/Guide_to_local_editing_with_PowTTY.md) — Edit game text locally.
+- [**Mudlet**](https://www.mudlet.org/) — Modern customizable client.
+- [**Mudlet Scripts**](./pages/Mudlet_Scripts.md) — Automating and enhancing your UI.
+
 ## Advanced Strategy
 
 - [**Moria Strategies**](./pages/MoriaStrategies.md) — Surviving the Mines of Moria.
-- [**PK Guide**](./pages/PK.md) — Player vs. Player combat.
-- [**Levelling Guide**](./pages/Levelling.md) — Efficient experience gaining.
-- [**Mudlet Scripts**](./pages/Mudlet_Scripts.md) — Automating and enhancing your UI.
+- [**PK Guide**](./pages/Rules_PK.md) — Player vs. Player combat rules.
+- [**Leveling Guide**](./pages/Level.md) — Experience and leveling information.
+
+## External Resources
+
+- [**Nazgum's Character Generator**](https://mume.nazgum.com/)
+- [**MUME Podcast**](https://www.youtube.com/@Radagastthe1st)
+- [**Orc Shaman Guide (Google Docs)**](https://docs.google.com/document/d/1NV_Nnk8xZsaydjwmKCTVNWlZ4qRJdBFitzdn4-pH89U/edit#)
+- [**How to Roar**](http://mume.digitar.ee/) — Tips for Bears and Beornings.
+- [**Elvenrunes**](https://www.elvenrunes.com/) — Logs, forums, and community.
 
 ## Browse All
 

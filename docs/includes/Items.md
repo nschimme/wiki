@@ -1,7 +1,5 @@
-## Items
-
-**Armour:** [Head](../pages/Head.md) · [Neck](../pages/Neck.md) · [Body](../pages/Body.md) · [Arms](../pages/Arms.md) · [Hands](../pages/Hands.md) · [Legs](../pages/Legs.md) · [Feet](../pages/Feet.md) · [Shield](../pages/Shield.md) · [Back](../pages/Back.md) · [Waist](../pages/Waist.md) · [Wrist](../pages/Wrist.md) · [Finger](../pages/Finger.md) · [Light](../pages/Light.md)
-
-**Weapons:** [Cleaving](../pages/Cleaving_weapons.md) · [Piercing](../pages/Piercing_weapons.md) · [Slashing](../pages/Slashing_weapons.md) · [Smiting](../pages/Smiting_weapons.md) · [Whipping](../pages/Whipping_weapons.md) · [Ranged](../pages/Ranged_weapons.md)
-
-**Other:** [Containers](../pages/Containers.md) · [Food](../pages/Food.md) · [Keys](../pages/Keys.md) · [Plants](../pages/Plants.md) · [Quest items](../pages/Quest_items.md)
+| Items | |
+| :--- | :--- |
+| **Armour** | [Head](../pages/Head.md) · [Neck](../pages/Neck.md) · [Body](../pages/Body.md) · [Arms](../pages/Arms.md) · [Hands](../pages/Hands.md) · [Legs](../pages/Legs.md) · [Feet](../pages/Feet.md) · [Shields](../pages/Shield.md) · [Cloaks](../pages/Category:Cloaks.md) · [Belts](../pages/Category:Belts.md) |
+| **Weapons** | [Charging](../pages/Charging_weapons.md) · [Cleaving](../pages/Cleaving_weapons.md) · [Concussion](../pages/Concussion_weapons.md) · [Piercing](../pages/Piercing_weapons.md) · [Slashing](../pages/Slashing_weapons.md) · [Smiting](../pages/Category:Smiting_weapons.md) · [Stabbing](../pages/Stabbing_weapons.md) · [Missile](../pages/Missile_weapon.md) · [Ammunition](../pages/Category:Ammunition.md) · [Staffs](../pages/Staff,_Gem_and_Focus_guide.md) |
+| **Other** | [Containers](../pages/Containers.md) · [Rings](../pages/Category:Rings.md) · [Wrist](../pages/Wrist.md) · [Food & Drink](../pages/Food_&_Drink.md) · [Scrolls](../pages/Scroll.md) · [Boats](../pages/Category:Boats.md) · [Miscellaneous](../pages/Category:Miscellaneous_equipment.md) |

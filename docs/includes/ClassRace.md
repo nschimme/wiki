@@ -1,5 +1,4 @@
-## Classes & Races
-
-| Classes | Races |
-|---------|-------|
-| [Cleric](../pages/Cleric.md) · [Mage](../pages/Mage.md) · [Ranger](../pages/Ranger.md) · [Thief](../pages/Thief.md) · [Warrior](../pages/Warrior.md) | [Beorning](../pages/Beorning.md) · [Black Númenórean](../pages/Black_Númenórean.md) · [Dwarf](../pages/Dwarf.md) · [Elf](../pages/Elf.md) · [Hobbit](../pages/Hobbit.md) · [Man](../pages/Man.md) · [Orc](../pages/Orc.md) · [Troll](../pages/Troll.md) |
+| Classes & Races | |
+| :--- | :--- |
+| **Classes** | [Cleric](../pages/Cleric.md) · [Mage](../pages/Mage.md) · [Thief](../pages/Thief.md) · [Warrior](../pages/Warrior.md) – [Shaman](../pages/Shaman.md) |
+| **Races** | [Man](../pages/Man.md) · [Elf](../pages/Elf.md) · [Half-Elf](../pages/Half-Elf.md) · [Dwarf](../pages/Dwarf.md) · [Hobbit](../pages/Hobbit.md) – [Beorning](../pages/Beorning.md)<br>[Black Númenórean](../pages/Black_Númenórean.md) · [Troll](../pages/Troll.md) · [Tarkhnarb Orc](../pages/Orc.md) – [Zaugurz Orc](../pages/Zaugurz_Orc.md) |

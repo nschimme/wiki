@@ -223,54 +223,6 @@ export default defineConfig({
         }
       });
 
-      // 2. Scrub dead links from existing markdown links
-      md.core.ruler.after('auto-link', 'scrub-dead', (state) => {
-        const filePath = state.env.path;
-        if (!filePath) return;
-        const fileDir = path.dirname(filePath);
-
-        for (const token of state.tokens) {
-          if (token.type !== 'inline') continue;
-          let children = token.children;
-          // Iterate backwards to safely remove tokens
-          for (let i = children.length - 1; i >= 0; i--) {
-            if (children[i].type === 'link_open') {
-              const hrefAttr = children[i].attrs?.find(a => a[0] === 'href');
-              if (hrefAttr) {
-                const href = hrefAttr[1];
-                if (href.startsWith('http') || href.startsWith('#') || href.startsWith('mailto:')) continue;
-
-                const targetPathOnly = href.split('#')[0];
-                if (!targetPathOnly) continue;
-
-                // Resolve absolute path from site root
-                let absoluteFromRoot;
-                if (targetPathOnly.startsWith('/')) {
-                  absoluteFromRoot = targetPathOnly.replace(/\.md$/, '');
-                } else {
-                  // Resolve relative to current file
-                  const relToDocs = path.relative(path.resolve('docs'), path.resolve(fileDir, targetPathOnly));
-                  absoluteFromRoot = '/' + relToDocs.replace(/\.md$/, '').replace(/\\/g, '/');
-                  if (absoluteFromRoot === '/.') absoluteFromRoot = '/';
-                }
-
-                if (!validPaths.has(absoluteFromRoot) && !validPaths.has(absoluteFromRoot.replace('/pages/', '/'))) {
-                  // Dead link! Convert to text.
-                  // Find link_close
-                  let closeIdx = -1;
-                  for (let j = i + 1; j < children.length; j++) {
-                    if (children[j].type === 'link_close') { closeIdx = j; break; }
-                  }
-                  if (closeIdx !== -1) {
-                    children.splice(closeIdx, 1);
-                    children.splice(i, 1);
-                  }
-                }
-              }
-            }
-          }
-        }
-      });
     }
   },
 
