@@ -29,17 +29,32 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Determine Base URL Prefix
+        id: base_url
+        run: |
+          if [ -f docs/public/CNAME ]; then
+            echo "prefix=/" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
+            echo "prefix=/" >> $GITHUB_OUTPUT
+          else
+            echo "prefix=/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
+          fi
+
       - name: Build preview
         run: npm run docs:build
         env:
-          # Upstream: /pr-{n}/   Fork: /{repo}/pr-{n}/
-          VITEPRESS_BASE: ${{ github.repository == 'MUME/wiki' && format('/pr-{0}/', github.event.number) || format('/{0}/pr-{1}/', github.event.repository.name, github.event.number) }}
+          VITEPRESS_BASE: ${{ steps.base_url.outputs.prefix }}pr-${{ github.event.number }}/
+
+      - name: Package build
+        run: |
+          cd docs/.vitepress/dist
+          zip -r ../../../pr-${{ github.event.number }}.zip .
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: pr-${{ github.event.number }}
-          path: docs/.vitepress/dist
+          path: pr-${{ github.event.number }}.zip
           retention-days: 30
 
       - name: Comment build status
