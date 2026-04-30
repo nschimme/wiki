@@ -5,7 +5,7 @@ tags:
   - Locations
 ---
 The Greenway is what remains of the old North-South road that originally
-connected [Arnor](./Arnor.md) and [Gondor](./Gondor.md). It
+connected Arnor and Gondor. It
 runs between [Tharbad](./Tharbad.md) and
 [Fornost](./Fornost.md), crossing the [Old East
 Road](./Old_East_Road.md) just west of [Bree](./Bree.md). It

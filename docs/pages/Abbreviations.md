@@ -47,7 +47,7 @@ of character ps : player stealer/stealing psteal : to steal from another
 player lb : lightning bolt lev : level loc : locate lvl : level M : Maia
 Mb : Maia (Builder) Mc : Maia (Cartographer) Ms : Maia (Shaper) Mw :
 Maia (Wright) MU : Manwe Unit (an indefinite amount of time that elapses
-until things get fixed around here) MUME : Multi-User in Middle-Earth
+until things get fixed around here) MUME : Multi-User in Middle-earth
 meta : metamorph mob : mobile mp, mps : movement point(s) pb : parrying
 bonus pc : player character pelf(s) : elf/elves per : perception pk :
 player killer/killing pkill : to kill another player powerranger :

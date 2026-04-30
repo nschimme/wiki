@@ -16,7 +16,7 @@ Men are one of the youngest races to have awakened on
 having left their birthplace of Hildórien and traveled westward
 following the sun. In the ages since their awakening, men have built
 fortresses to guard against evil ranging from the northern wastes to the
-gates of [Mordor](./Mordor.md) as well as populated areas as far
+gates of Mordor as well as populated areas as far
 as the [Lonely Mountain](./Lonely_Mountain.md).
 
 Men are divided into a number of subraces, the most notable of those

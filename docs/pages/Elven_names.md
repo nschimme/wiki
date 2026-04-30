@@ -12,7 +12,7 @@ also: '[The Lhamas](./wikipedia:en:The_Lhamas.md)' -
 dictionary, in [book
 five](./wikipedia:en:The_Lost_Road_and_Other_Writings.md) of the
 *[The History of
-Middle-Earth](./wikipedia:en:The_History_of_Middle-earth.md)*
+Middle-earth](./wikipedia:en:The_History_of_Middle-earth.md)*
 series, Part V, Section 2.)
 
 Though it is preferred that you attempt to translate your name into
