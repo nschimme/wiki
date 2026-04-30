@@ -25,13 +25,22 @@
         >
           Create this page on GitHub
         </a>
+        <a
+          v-else
+          :href="`https://github.com/${editRepo}/new/${editBranch}/docs/pages`"
+          target="_blank"
+          rel="noopener"
+          class="action-btn secondary"
+        >
+          Create a new page on GitHub
+        </a>
 
         <a href="/" class="action-btn ghost">Return to Home</a>
       </div>
 
       <p class="not-found-hint">
         MUME Wiki is a community project. If you know about this topic,
-        <a :href="createUrl || 'https://github.com/MUME/wiki'" target="_blank" rel="noopener">
+        <a :href="createUrl || `https://github.com/${editRepo}`" target="_blank" rel="noopener">
           contribute a page
         </a>!
       </p>
@@ -47,8 +56,11 @@ const { site } = useData()
 const pageName = ref('')
 const rawSlug = ref('')
 
+const editRepo = typeof __EDIT_REPO__ !== 'undefined' ? __EDIT_REPO__ : 'MUME/wiki'
+const editBranch = typeof __EDIT_BRANCH__ !== 'undefined' ? __EDIT_BRANCH__ : 'main'
+
 const createUrl = computed(() => {
-  if (!rawSlug.value) return 'https://github.com/MUME/wiki/new/main/docs/pages'
+  if (!rawSlug.value) return null
   const filename = rawSlug.value.replace(/\s+/g, '_') + '.md'
   const stub = [
     '---',
@@ -62,7 +74,7 @@ const createUrl = computed(() => {
     '',
     '<!-- Add content here -->',
   ].join('\n')
-  return `https://github.com/MUME/wiki/new/main/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
+  return `https://github.com/${editRepo}/new/${editBranch}/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
 })
 
 function openSearch() {
