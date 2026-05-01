@@ -1,6 +1,5 @@
 {
   "terms": {
-    "page not found": "/404",
     "classes": "/classes",
     "community": "/pages/Community",
     "equipment": "/pages/Equipment",
@@ -1339,7 +1338,6 @@
     "room": "/pages/room"
   },
   "paths": [
-    "/404",
     "/classes",
     "/community",
     "/equipment",

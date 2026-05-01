@@ -127,6 +127,13 @@ onMounted(() => {
   pageName.value = rawSlug.value
     ? rawSlug.value.charAt(0).toUpperCase() + rawSlug.value.slice(1)
     : ''
+
+  // Automatically trigger search if a page name was found
+  if (pageName.value) {
+    setTimeout(() => {
+      openSearch()
+    }, 500)
+  }
 })
 </script>
 
