@@ -116,7 +116,8 @@ onMounted(() => {
   let slug = ''
   for (let i = segments.length - 1; i >= 0; i--) {
     const s = segments[i].replace(/\.html$/, '')
-    if (s && s !== '404' && s !== 'wiki') {
+    // Ignore common infrastructure segments
+    if (s && s !== '404' && s !== 'wiki' && !/^pr-\d+$/.test(s)) {
       slug = s
       break
     }
