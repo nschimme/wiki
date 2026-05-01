@@ -79,41 +79,57 @@ const createUrl = computed(() => {
 
 import { nextTick } from 'vue'
 
-function openSearch(initialValue = '', retries = 10) {
+const SEARCH_SELECTORS = [
+  '.VPNavBarSearch button',
+  '.DocSearch-Button',
+  '.search-root button',
+  '.VPNavBarSearchButton',
+  '#localsearch-button'
+]
+
+const SEARCH_INPUT_SELECTOR = '#localsearch-input, .VPLocalSearchBox input[type="search"]'
+
+/**
+ * Robustly trigger search and pre-fill the input
+ */
+function openSearch(initialValue = '', attempts = 50) {
   if (!inBrowser) return
 
-  const selectors = [
-    '.VPNavBarSearch button',
-    '.DocSearch-Button',
-    '.search-root button',
-    '.VPNavBarSearchButton',
-    '#localsearch-button'
-  ]
-  let btn: HTMLElement | null = null
-  for (const selector of selectors) {
-    btn = document.querySelector<HTMLElement>(selector)
-    if (btn) break
-  }
-
-  if (btn) {
-    btn.click()
-    const fillInput = (attempts = 15) => {
-      const input = document.querySelector<HTMLInputElement>('#localsearch-input, .VPLocalSearchBox input[type="search"]')
-      const valueToFill = initialValue || pageName.value
-      if (input && valueToFill) {
-        input.value = valueToFill
-        input.dispatchEvent(new Event('input', { bubbles: true }))
-        input.focus()
-      } else if (attempts > 0) {
-        // Shorter interval for smoother filling
-        setTimeout(() => fillInput(attempts - 1), 50)
+  const findAndClick = () => {
+    for (const selector of SEARCH_SELECTORS) {
+      const btn = document.querySelector<HTMLElement>(selector)
+      if (btn) {
+        btn.click()
+        return true
       }
     }
+    return false
+  }
+
+  const fillInput = (fillAttempts = 30) => {
+    const input = document.querySelector<HTMLInputElement>(SEARCH_INPUT_SELECTOR)
+    const valueToFill = initialValue || pageName.value
+    if (input && valueToFill) {
+      input.value = valueToFill
+      input.dispatchEvent(new Event('input', { bubbles: true }))
+      input.focus()
+      return true
+    }
+    if (fillAttempts > 0) {
+      setTimeout(() => fillInput(fillAttempts - 1), 100)
+    }
+    return false
+  }
+
+  if (findAndClick()) {
     fillInput()
-  } else if (retries > 0) {
-    setTimeout(() => openSearch(initialValue, retries - 1), 100)
+  } else if (attempts > 0) {
+    // Retry finding the search button (hydration can take time)
+    setTimeout(() => openSearch(initialValue, attempts - 1), 200)
   } else {
+    // Last resort: keyboard shortcut
     window.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', ctrlKey: true }))
+    fillInput()
   }
 }
 
@@ -130,8 +146,8 @@ onMounted(() => {
 
   if (pageName.value) {
     nextTick(() => {
-      // Small initial wait to allow theme elements to populate
-      setTimeout(() => openSearch(pageName.value), 100)
+      // Start the search trigger process with a bit of initial delay for hydration
+      setTimeout(() => openSearch(pageName.value), 300)
     })
   }
 })
