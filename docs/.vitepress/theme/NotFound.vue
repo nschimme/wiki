@@ -12,7 +12,7 @@
       </p>
 
       <div class="not-found-actions">
-        <button class="action-btn primary" @click="openSearch">
+        <button class="action-btn primary" @click="openSearch()">
           Search for "{{ pageName || 'this topic' }}"
         </button>
 
@@ -35,7 +35,10 @@
           Create page via Pull Request
         </a>
 
-        <a href="/" class="action-btn ghost">Return to Home</a>
+        <div class="not-found-nav">
+          <button @click="goBack" class="action-btn ghost">Go Back</button>
+          <a href="/" class="action-btn ghost">Return to Home</a>
+        </div>
       </div>
 
       <p class="not-found-hint">
@@ -77,85 +80,38 @@ const createUrl = computed(() => {
   return `https://github.com/${editRepo}/new/${editBranch}/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
 })
 
-import { nextTick } from 'vue'
+function goBack() {
+  if (inBrowser) window.history.back()
+}
 
-const SEARCH_SELECTORS = [
-  '.VPNavBarSearch button',
-  '.DocSearch-Button',
-  '.search-root button',
-  '.VPNavBarSearchButton',
-  '#localsearch-button'
-]
-
-const SEARCH_INPUT_SELECTOR = '#localsearch-input, .VPLocalSearchBox input[type="search"]'
-
-/**
- * Robustly trigger search and pre-fill the input
- */
-function openSearch(initialValue = '') {
+function openSearch() {
   if (!inBrowser) return
-
-  const valueToFill = initialValue || pageName.value
-  if (!valueToFill) return
-
-  const findAndClick = () => {
-    for (const selector of SEARCH_SELECTORS) {
-      const btn = document.querySelector<HTMLElement>(selector)
-      if (btn) {
-        btn.click()
-        return true
-      }
-    }
-    return false
-  }
-
-  const fillInput = (input: HTMLInputElement) => {
-    input.value = valueToFill
-    input.dispatchEvent(new Event('input', { bubbles: true }))
-    input.focus()
-  }
-
-  // 1. Try immediate find
-  if (findAndClick()) {
-    const input = document.querySelector<HTMLInputElement>(SEARCH_INPUT_SELECTOR)
-    if (input) {
-      fillInput(input)
+  // Try to find the search button and trigger it
+  const selectors = ['.VPNavBarSearch button', '.DocSearch-Button', '.search-root button']
+  for (const s of selectors) {
+    const btn = document.querySelector<HTMLElement>(s)
+    if (btn) {
+      btn.click()
+      // Pre-fill the input if it's already there or appears quickly
+      setTimeout(() => {
+        const input = document.querySelector<HTMLInputElement>('#localsearch-input, .VPLocalSearchBox input[type="search"]')
+        if (input && pageName.value) {
+          input.value = pageName.value
+          input.dispatchEvent(new Event('input', { bubbles: true }))
+          input.focus()
+        }
+      }, 100)
       return
     }
   }
-
-  // 2. Setup observer for both the search button and the search input
-  const observer = new MutationObserver(() => {
-    const input = document.querySelector<HTMLInputElement>(SEARCH_INPUT_SELECTOR)
-    if (input) {
-      fillInput(input)
-      observer.disconnect()
-      return
-    }
-
-    if (findAndClick()) {
-      // Button found and clicked, now waiting for input
-    }
-  })
-
-  observer.observe(document.body, { childList: true, subtree: true })
-
-  // 3. Fallback: Keyboard shortcut if button not found after a delay
-  setTimeout(() => {
-    const input = document.querySelector<HTMLInputElement>(SEARCH_INPUT_SELECTOR)
-    if (!input) {
-      window.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', ctrlKey: true }))
-    }
-  }, 1000)
-
-  // 4. Cleanup observer after timeout to prevent memory leaks
-  setTimeout(() => observer.disconnect(), 5000)
+  // Fallback to keyboard shortcut
+  window.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', ctrlKey: true }))
 }
 
 onMounted(() => {
   if (!inBrowser) return
 
-  // More robust slug extraction: get the last non-empty segment that isn't '404'
+  // Get last meaningful segment from URL path
   const segments = window.location.pathname.split('/').filter(Boolean)
   let slug = ''
   for (let i = segments.length - 1; i >= 0; i--) {
@@ -170,13 +126,6 @@ onMounted(() => {
   pageName.value = rawSlug.value
     ? rawSlug.value.charAt(0).toUpperCase() + rawSlug.value.slice(1)
     : ''
-
-  if (pageName.value) {
-    nextTick(() => {
-      // Start the search trigger process with a bit of initial delay for hydration
-      setTimeout(() => openSearch(pageName.value), 400)
-    })
-  }
 })
 </script>
 
@@ -226,6 +175,15 @@ onMounted(() => {
   gap: 0.75rem;
   align-items: center;
   margin-bottom: 2rem;
+}
+
+.not-found-nav {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.not-found-nav .action-btn {
+  min-width: 116px;
 }
 
 .action-btn {
