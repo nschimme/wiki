@@ -422,7 +422,7 @@ Caras Galadhon \# \| knock to enter \#_______/
 
 ## **Ancient Maps**
 
-The historical maps of middle earth from Libraries and help files in the
+The historical maps of Middle-earth from Libraries and help files in the
 game.
 
 ## **Map of Arda before the Change of the World**

@@ -123,6 +123,16 @@ a:hover {
   border-bottom: 2px solid var(--mume-gold);
 }
 
+/* Fix for navigation bar getting cut off on medium screens */
+@media (max-width: 1100px) {
+  .VPNavBarMenu {
+    display: none !important;
+  }
+  .VPNavBarHamburger {
+    display: flex !important;
+  }
+}
+
 .VPNavBar .title {
   font-family: Georgia, serif;
   color: var(--mume-gold) !important;
@@ -143,7 +153,7 @@ a:hover {
 /* ---------- Content ---------- */
 
 .vp-doc {
-  max-width: 860px;
+  max-width: 1280px;
 }
 
 .vp-doc table {
@@ -230,6 +240,15 @@ a:hover {
   background: var(--mume-bg-card) !important;
   border: 1px solid var(--mume-border) !important;
   transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.VPFeature:hover {
+  border-color: var(--mume-gold) !important;
+  box-shadow: 0 0 12px rgba(201, 168, 76, 0.15);
+}
+
+.VPFeature a {
+  text-decoration: none !important;
 }
 
 .VPFeature:hover {

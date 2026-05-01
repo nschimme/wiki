@@ -19,10 +19,10 @@ for ceremony, and for high matters of lore and song".
 
 "The Grey-elven was in origin akin to Quenya; for it was the language of
 those Eldar who, coming to the shores of
-[Middle-Earth](./Middle-Earth.md), had not passed over the Sea but
+[Middle-earth](./Location), had not passed over the Sea but
 had lingered on the coasts in the country of Beleriand." Eventually,
 "their tongue had become far estranged from the speech of the Eldar from
-beyond the Sea." In general, the Elves in Middle-Earth "had adopted
+beyond the Sea." In general, the Elves in Middle-earth "had adopted
 Sindarin for daily use; and hence it was the tongue for all those Elves
 and Elf-Lords".
 

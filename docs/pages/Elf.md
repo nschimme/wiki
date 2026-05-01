@@ -1,25 +1,25 @@
 ---
 title: Elf
-description: 'Middle-Earth, created by Eru Ilúvatar. They'
+description: 'Middle-earth, created by Eru Ilúvatar. They'
 tags:
   - Playable races
 ---
 ![Legolas](/img/Legolas.jpg) **Elves** are the first people of
-[Middle-Earth](./Middle-Earth.md), created by Eru Ilúvatar. They
+[Middle-earth](./Location), created by Eru Ilúvatar. They
 are beautiful and strong, and immortal. Lúthien alone was the only Elf
 to have chosen to die from grief and to have left the world, back in the
 first terrible days of Arda. There are now but four enclaves of Elves
-left in Middle-Earth: the kingdom of Thranduil in Northern Mirkwood; the
+left in Middle-earth: the kingdom of Thranduil in Northern Mirkwood; the
 Last Homely House of Elrond in [Rivendell](./Rivendell.md);
 [Lothlórien](./Lothlórien.md), ruled by Lady Galadriel - the most
-powerful Elf remaining in Middle-Earth; and the [Grey
+powerful Elf remaining in Middle-earth; and the [Grey
 Havens](./Grey_Havens.md) of Círdan to the West of the
 [Shire](./Shire.md).
 
 Elves usually appear to be both carefree and merry, yet sad and
 thoughtful. They enjoy song and poetry, their songs lightening the heart
 of many in grief. As the third age progresses, many Elves have now left
-Middle-Earth, returning to their true home in Valinor, no longer
+Middle-earth, returning to their true home in Valinor, no longer
 concerned with the troubles of their former home.
 
 ## Elves in [Mume](./MUME.md)

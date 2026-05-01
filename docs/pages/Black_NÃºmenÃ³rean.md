@@ -7,7 +7,7 @@ tags:
 In J. R. R. Tolkien's fictional prehistory of the
 [world](./Arda.md), the **Black Númenóreans** were
 [men](./Men.md) of Númenórean descent that dwelt on the coasts of
-[Middle-earth](./Middle-earth.md) below the River Anduin from the
+Middle-earth below the River Anduin from the
 late Second Age onwards. The Black Númenóreans were originally among the
 survivors from a human kingdom that had yet been, Númenor, which was
 destroyed by Eru in the late Second Age.

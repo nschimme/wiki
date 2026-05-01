@@ -13,7 +13,7 @@ and a number indicating how well you speak each language. To get a list
 of all the languages, and to see how well you know each of them, type
 CHANGE LANGUAGE.
 
-Several languages are spoken in the realm of Middle Earth:
+Several languages are spoken in the realm of Middle-earth:
 
 - Westron is the most common language, that of [men](./Man.md).
 

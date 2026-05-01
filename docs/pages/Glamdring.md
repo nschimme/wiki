@@ -6,8 +6,7 @@ aliases: ["Beater"]
 ---
 
 This broad shiny blade was crafted by the Elves of Gondolin in the
-[First Age](./First_Age.md) of [Middle
-Earth](./Middle_Earth.md) for their king, the Noldor King Turgon.
+[First Age](./First_Age.md) of [Middle-earth](./Location) for their king, the Noldor King Turgon.
 It's special purpose was to slay orcs, and that it did well. The name
 Glamdring is [Sindarin](./Sindarin.md) for *Foe-hammer*, but the
 orcs who fear it call it [Beater](./Beater.md).

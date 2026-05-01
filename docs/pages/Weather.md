@@ -6,7 +6,7 @@ tags:
 ---
 Syntax: weather {local\|global\|fog}
 
-"weather global" produces a complex weathermap of Middle-Earth. This map
+"weather global" produces a complex weathermap of Middle-earth. This map
 gives you the weather type in the whole world using the following signs:
 
 <div>
@@ -20,7 +20,7 @@ gives you the weather type in the whole world using the following signs:
 </div>
 
 The letters you can see when the weather is nice represent the cities of
-Middle-Earth. See [Map](./Map.md) to learn about those.
+Middle-earth. See [Map](./Map.md) to learn about those.
 
 Weather may have several influences in the game (increasing/reducing
 move costs or vision, dehydration, favouring illnesses, and so on...).

@@ -7,7 +7,7 @@ MUME's management strongly encourages in-game role-play, though we do
 not require it. Therefore, in order to preserve the necessary atmosphere
 for those who wish to role-play, we ask that players choose names for
 their characters which fit reasonably with the type of character they
-are playing and the environment of J.R.R. Tolkien's Middle-Earth.
+are playing and the environment of J.R.R. Tolkien's Middle-earth.
 
 Players who choose inappropriate names may be asked to select another.
 (See also HELP NAMECHANGES.)
@@ -20,7 +20,7 @@ manner.
 
 - Names that contain profanity or derogatory comments.
 - Names that contain advertising or brand names.
-- Names that contain references to any non-Middle-Earth fictional world.
+- Names that contain references to any non-Middle-earth fictional world.
 - Names designed to take advantage of game mechanics.
 
 ### Inappropriate names examples:

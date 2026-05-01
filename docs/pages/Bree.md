@@ -9,7 +9,7 @@ Combe and the chief village, **Bree**.
 
 It is the home of both [Hobbits](./Hobbit.md) and
 [Humans](./Human.md), who share the community and live peacefully
-together, the only place in [Middle-Earth](./Middle-Earth.md)
+together, the only place in [Middle-earth](./Location)
 where such an arrangement exists.
 
 It was in Bree that the first Hobbits came to the Western part of the

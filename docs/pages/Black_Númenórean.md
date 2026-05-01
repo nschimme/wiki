@@ -10,13 +10,13 @@ the first **Black Númenóreans** is in the latter half of the Second Age.
 Lovers of power over lesser men, these Númenóreans became corrupted by
 [Sauron](./Sauron.md), coming to hate all good peoples.
 
-They settled in [Middle Earth](./Middle_Earth.md) mainly in Umbar
+They settled in Middle-earth mainly in Umbar
 and surrounding coastal regions. After Sauron's downfall at the
 beginning of the [Third Age](./Third_Age.md), the bloodlines of
 these Númenórean descendants mixed with other peoples, especially the
 [Haradrim](./Haradrim.md) over which they had dominion. During the
 first millenia of the age, they proved strong enemies of the Dúnedain of
-[Gondor](./Gondor.md), but were permanently scattered when Umbar
+Gondor, but were permanently scattered when Umbar
 was taken in TA 933, and when the subsequent siege was broken in TA
 1050.
 

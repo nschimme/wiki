@@ -15,8 +15,7 @@ Encyclopedias
 - [LoTR Project](http://lotrproject.com/) with great interactive maps
   and timelines
 - [Arda Maps](http://arda-maps.org/)
-- [History of Middle
-  Earth](https://www.youtube.com/c/HistoryOfMiddleEarth/playlists) and
+- [History of Middle-earth](https://www.youtube.com/c/HistoryOfMiddleEarth/playlists) and
   [Men of the West](https://www.youtube.com/c/MenoftheWest/playlists) on
   Youtube
 

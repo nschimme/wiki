@@ -508,8 +508,7 @@ of experience.={#print;#if (((timer-@xpcnt_timer)/1000) \> 5)
 {#(@xpcnt_timer=timer);#var @xpcnt_calculate=1;xp}} \#ac \>+xp1
 XPCOUNTER: \$1 \$2 \$3 \$4 \$5.={#if (@xpcnt_calculate==1)
 {#(@xpcnt_calculate=0);xpcalc \$1 \$2 \$3 \$4};ratecalc \$5;xpprint}
-\#ac \>-xp0 ^Welcome to the land of Middle
-Earth.={#print;xpreset;tpreset;xp;#var @xpcnt_calculate=1} \#ac \>-xp3
+\#ac \>-xp0 ^Welcome to the land of Middle-earth.={#print;xpreset;tpreset;xp;#var @xpcnt_calculate=1} \#ac \>-xp3
 ^Reconnecting.={#print;xpreset;tpreset;xp;#var @xpcnt_calculate=1}
 
 ### NoSneak Red Prompt, by Jahara

@@ -52,7 +52,7 @@ can be found here too; important for some races.
 
 This section is about reading information related to the entire game.
 For all players on all sides of the war. Some of this information is
-done on a global scale. It gives access for all of Arda in Middle Earth.
+done on a global scale. It gives access for all of Arda in Middle-earth.
 
 Help Files: You can access the helpfiles in game or by using the link
 above. There are dozens and dozens of help files to assist you with many
