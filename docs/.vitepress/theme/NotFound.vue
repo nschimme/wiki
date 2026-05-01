@@ -92,8 +92,11 @@ const SEARCH_INPUT_SELECTOR = '#localsearch-input, .VPLocalSearchBox input[type=
 /**
  * Robustly trigger search and pre-fill the input
  */
-function openSearch(initialValue = '', attempts = 50) {
+function openSearch(initialValue = '') {
   if (!inBrowser) return
+
+  const valueToFill = initialValue || pageName.value
+  if (!valueToFill) return
 
   const findAndClick = () => {
     for (const selector of SEARCH_SELECTORS) {
@@ -106,39 +109,63 @@ function openSearch(initialValue = '', attempts = 50) {
     return false
   }
 
-  const fillInput = (fillAttempts = 30) => {
-    const input = document.querySelector<HTMLInputElement>(SEARCH_INPUT_SELECTOR)
-    const valueToFill = initialValue || pageName.value
-    if (input && valueToFill) {
-      input.value = valueToFill
-      input.dispatchEvent(new Event('input', { bubbles: true }))
-      input.focus()
-      return true
-    }
-    if (fillAttempts > 0) {
-      setTimeout(() => fillInput(fillAttempts - 1), 100)
-    }
-    return false
+  const fillInput = (input: HTMLInputElement) => {
+    input.value = valueToFill
+    input.dispatchEvent(new Event('input', { bubbles: true }))
+    input.focus()
   }
 
+  // 1. Try immediate find
   if (findAndClick()) {
-    fillInput()
-  } else if (attempts > 0) {
-    // Retry finding the search button (hydration can take time)
-    setTimeout(() => openSearch(initialValue, attempts - 1), 200)
-  } else {
-    // Last resort: keyboard shortcut
-    window.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', ctrlKey: true }))
-    fillInput()
+    const input = document.querySelector<HTMLInputElement>(SEARCH_INPUT_SELECTOR)
+    if (input) {
+      fillInput(input)
+      return
+    }
   }
+
+  // 2. Setup observer for both the search button and the search input
+  const observer = new MutationObserver(() => {
+    const input = document.querySelector<HTMLInputElement>(SEARCH_INPUT_SELECTOR)
+    if (input) {
+      fillInput(input)
+      observer.disconnect()
+      return
+    }
+
+    if (findAndClick()) {
+      // Button found and clicked, now waiting for input
+    }
+  })
+
+  observer.observe(document.body, { childList: true, subtree: true })
+
+  // 3. Fallback: Keyboard shortcut if button not found after a delay
+  setTimeout(() => {
+    const input = document.querySelector<HTMLInputElement>(SEARCH_INPUT_SELECTOR)
+    if (!input) {
+      window.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', ctrlKey: true }))
+    }
+  }, 1000)
+
+  // 4. Cleanup observer after timeout to prevent memory leaks
+  setTimeout(() => observer.disconnect(), 5000)
 }
 
 onMounted(() => {
   if (!inBrowser) return
-  const path = window.location.pathname
-  const base = (site.value.base ?? '/').replace(/\/$/, '')
-  const stripped = base ? path.replace(base, '') : path
-  const slug = stripped.split('/').filter(Boolean).pop()?.replace(/\.html$/, '') ?? ''
+
+  // More robust slug extraction: get the last non-empty segment that isn't '404'
+  const segments = window.location.pathname.split('/').filter(Boolean)
+  let slug = ''
+  for (let i = segments.length - 1; i >= 0; i--) {
+    const s = segments[i].replace(/\.html$/, '')
+    if (s && s !== '404' && s !== 'wiki') {
+      slug = s
+      break
+    }
+  }
+
   rawSlug.value = decodeURIComponent(slug).replace(/[_-]/g, ' ')
   pageName.value = rawSlug.value
     ? rawSlug.value.charAt(0).toUpperCase() + rawSlug.value.slice(1)
@@ -147,7 +174,7 @@ onMounted(() => {
   if (pageName.value) {
     nextTick(() => {
       // Start the search trigger process with a bit of initial delay for hydration
-      setTimeout(() => openSearch(pageName.value), 300)
+      setTimeout(() => openSearch(pageName.value), 400)
     })
   }
 })
