@@ -21,6 +21,9 @@ export default defineConfig({
       __EDIT_REPO__: JSON.stringify(editRepo),
       __EDIT_BRANCH__: JSON.stringify(editBranch),
     },
+    build: {
+      chunkSizeWarningLimit: 2000
+    },
     plugins: [
       {
         name: 'public-image-shim',

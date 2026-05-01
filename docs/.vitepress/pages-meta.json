@@ -1338,6 +1338,7 @@
     "room": "/pages/room"
   },
   "paths": [
+    "/404",
     "/classes",
     "/community",
     "/equipment",

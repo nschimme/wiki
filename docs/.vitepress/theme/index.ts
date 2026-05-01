@@ -4,9 +4,10 @@ import ImageMap from './components/ImageMap.vue'
 import './style.css'
 
 export default {
-  ...DefaultTheme,
-  NotFound,
+  extends: DefaultTheme,
+  NotFound: NotFound,
   enhanceApp({ app }) {
     app.component('ImageMap', ImageMap)
+    app.component('NotFound', NotFound)
   }
 }

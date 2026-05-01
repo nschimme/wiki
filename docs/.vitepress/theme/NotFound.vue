@@ -23,7 +23,7 @@
           rel="noopener"
           class="action-btn secondary"
         >
-          Create this page on GitHub
+          Create page via Pull Request
         </a>
         <a
           v-else
@@ -32,7 +32,7 @@
           rel="noopener"
           class="action-btn secondary"
         >
-          Create a new page on GitHub
+          Create page via Pull Request
         </a>
 
         <a href="/" class="action-btn ghost">Return to Home</a>
@@ -91,7 +91,7 @@ function openSearch() {
         input.dispatchEvent(new Event('input', { bubbles: true }))
         input.focus()
       }
-    }, 80)
+    }, 200)
   }
 }
 
@@ -106,6 +106,11 @@ onMounted(() => {
   pageName.value = rawSlug.value
     ? rawSlug.value.charAt(0).toUpperCase() + rawSlug.value.slice(1)
     : ''
+
+  if (pageName.value) {
+    // Small delay to ensure the DOM is ready and search component is initialized
+    setTimeout(openSearch, 200)
+  }
 })
 </script>
 

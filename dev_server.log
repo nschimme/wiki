@@ -1,0 +1,13 @@
+
+> mume-wiki@1.0.0 docs:dev
+> npm run prebuild && vitepress dev docs
+
+
+> mume-wiki@1.0.0 prebuild
+> node scripts/gather-pages.js
+
+
+  vitepress v1.6.4
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
