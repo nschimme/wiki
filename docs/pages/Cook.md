@@ -9,7 +9,7 @@ If you have a [pan](./Pan.md), and there is some sort of fire in
 the room, you can [Cook](./Cook.md) any raw meat you may have
 found. The resulting steak will last longer and be more nourishing.
 
-If you also have some [salt](./a_chunk_of_salt.md) in your
+If you also have some salt in your
 inventory, the meat will be preserved for an even longer lapse of time.
 
 Example:

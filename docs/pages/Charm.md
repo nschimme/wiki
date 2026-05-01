@@ -12,7 +12,7 @@ it. If successful the caster will be able to command the charmed
 creature (also called charmie) for some time. To command the charmie the
 charmer also needs to have some experience in the
 [command](./Command.md) skill which is taught by the
-[ranger](./Ranger.md) [guilds](./guilds.md).
+[ranger](./Ranger.md) guilds.
 
 Example:
 
@@ -38,10 +38,10 @@ player is the first person, an aggressive charmie will automatically
 attack. This mechanic makes using aggresive charmies with other grouped
 players hard to manage. Only few charmies exist that are both powerful
 and non aggressive. Charmies are thus primarily used as
-[buffers](./buffer.md), [bashers](./Bash.md), or
+buffers, [bashers](./Bash.md), or
 [parry](./Parry.md) splitters for solo hunting.
 
-Guards in most [cities](./City.md) will attack charmed mobiles.
+Guards in most cities will attack charmed mobiles.
 
 In PK charmies do not see an enemy player under their name but not under
 the keyword like orc or \*orc\* so you either need to use k &lt;name&gt; or

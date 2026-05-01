@@ -25,7 +25,7 @@ Galadhon](./Caras_Galadhon.md). He can usually be found
 [`climb`](./Climb.md)`             13  Very easy`
 [`command`](./Command.md)`           12  Normal`
 [`leadership`](./Leadership.md)`        12  Normal`
-[`ride`](./ride.md)`               6  Very easy`
+[`ride`](/pages/Ride.md)`               6  Very easy`
 [`swim`](./Swim.md)`               9  Very easy`
 [`track`](./Track.md)`             14  Normal`
 [`wilderness`](./Wilderness.md)`        18  Normal`

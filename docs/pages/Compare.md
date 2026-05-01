@@ -23,5 +23,5 @@ Comparing objects in a shop:
 ` > compare 2122 sword`
 ` > compare sword 233`
 
-See also: [Consider](./Consider.md), [Show](./Show.md)
+See also: [Consider](./Consider.md), Show
  

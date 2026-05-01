@@ -61,10 +61,10 @@ this subrace has the following modifications:
   points](./travel_points.md) amount.
 - When a Fallohid Hobbit follows someone, they still get the full amount
   of Travel points.
-- For mixing [herblores](./herblores.md) they get a bonus for both
+- For mixing herblores they get a bonus for both
   success and possiblty to create 2 portions (allegedly equals +2
   [kit](./Herbal_kit.md) upgrades)
-- [Smoking](./Smoking.md) pipe-weed will never fail and chance for
+- Smoking pipe-weed will never fail and chance for
   higher mana gain is increased.
 
 #### Harfoot

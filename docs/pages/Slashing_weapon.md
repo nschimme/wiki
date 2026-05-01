@@ -17,9 +17,9 @@ usually have moderate strength requirements.
 - [scimitar](./Scimitar.md)
 - [broad scimitar](./Broad_scimitar.md)
 - [steel claymore](./Steel_claymore.md)
-- [Dúnadan blade](./Dúnadan_blade.md)
-- [fell blade](./fell_blade.md)
-- [wightblade](./wightblade.md)
+- Dúnadan blade
+- fell blade
+- wightblade
 
 ## Defensive
 

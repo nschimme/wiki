@@ -169,14 +169,14 @@ At this point, you have a **decision** to make.
 ***Do you want to be more like a warrior, and hence swap slashing for a
 more powerful weapon class with your trained-up strength?***
 
-- If so, follow on to the [War Shaman Guide](./#War_Shaman.md).
+- If so, follow on to the War Shaman Guide.
   You’ll be practicing bash and the shield spell, leaning into trading
   hits directly and harming targets that you’ve bashed.
 
 ***Alternatively, do you want to lean more into your magical
 abilities?***
 
-- See the [Pure Shaman Section](./#Pure_Shaman.md). You’ll pick up
+- See the Pure Shaman Section. You’ll pick up
   blindness, raise dead and command, shield, and a few other utility
   spells from this point, using your summoned mobile to tie down foes
   for your magical attacks.
@@ -192,12 +192,12 @@ have something useful:
 - [Thrakghash of the Mordor
   Flame](./Thrakghash_of_the_Mordor_Flame.md) located in West NOC.
   This BN teaches all of the mage spells that orcs have access to.
-- [Brolg](./Brolg.md) located in his tower south of Rivendell.
+- Brolg located in his tower south of Rivendell.
   Brolg most notably teaches max breath of briskness and black breath.
-- [East Priest](./East_Priest.md) located in a temple east of the
+- East Priest located in a temple east of the
   Last Bridge. EPriest has the bulk of the cleric offerings, teaching
   max blind, harm, raise dead, cures, and remove poison.
-- [Numenorean Sage](./Numenorean_Sage.md) located in the Old Orc
+- Numenorean Sage located in the Old Orc
   Caves. Sage teaches utility skills like strength, cure blindness, and
   break door. The command skill for orcs is also maxed in OOC, from
   Gumak, the gatekeeper.

@@ -3,14 +3,14 @@ title: Rules Trolls
 description: 'Some special rules apply to trolls:'
 ---
 
-Some special rules apply to [trolls](./trolls.md):
+Some special rules apply to trolls:
 
 - Trolls are not allowed to make a career of killing other
-  [darkies](./darkies.md) (including trolls) in or near
+  darkies (including trolls) in or near
   [Warrens](./Warrens.md), due to abuse of how easy it is to do
   so.
 
-To clarify this, the [Zaugurz](./Zaugurz.md) Orcs do not count as
+To clarify this, the Zaugurz Orcs do not count as
 darkies in this context. They have declared war on the Tarkhnarb and
 their allies, so it is allowed - even encouraged - for trolls to kill
 them (at any time and location).

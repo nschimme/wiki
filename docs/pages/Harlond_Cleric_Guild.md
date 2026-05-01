@@ -5,8 +5,8 @@ tags:
   - Guildmasters
 ---
 **Filatior** teaches [cleric](./Cleric.md)
-[spells](./Spells.md) at the **Small Temple** in
-[Harlond](./Harlond.md).
+spells at the **Small Temple** in
+Harlond.
 
 `Filatior the elven acolyte is here performing sacred ceremonies.`
 `>`**`examine Filatior`**
@@ -26,4 +26,4 @@ tags:
 [`Detect Evil`](./Detect_Evil.md)`            5  Easy`
 [`Detect Poison`](./Detect_Poison.md)`          3  Easy`
 [`Sense Life`](./Sense_Life.md)`             2  Normal`
-[`Strength`](./strength_Spell.md)`               3  Hard`
+`Strength``               3  Hard`

@@ -20,11 +20,11 @@ A: You've only got two hands. Commonly, you will wield your
 [shield](./Shield.md) on the other arm, unless you are using a
 [two-handed sword](./Two-handed_weapon.md). If you need to hold a
 pan, for example, you have to '[remove](./Remove.md)' the sword or
-shield first (or [sheathe](./sheathe.md) it).
+shield first (or sheathe it).
 
 **Q: How do I use a lantern or torch?**
 
-"[Hold](./Hold.md) [torch](./torch.md)" or "hold
+"[Hold](./Hold.md) torch" or "hold
 [lantern](./Lantern.md)" will work, but then you can't use that
 hand for your weapon or shield. A lantern can be worn on your
 [belt](./Belt.md), if you have one, with 'wear lantern belt'. This
@@ -38,15 +38,15 @@ A: Type "[pour](./Pour.md) [water](./Water.md)
 [skin](./Water_skin.md)", "pour well skin", "pour fountain skin",
 etc. In MUME command structure, words like 'in', 'from', etc. are
 usually omitted. So, you drink from the skin by typing
-"[drink](./drink.md) skin".
+"[drink](/pages/Drink.md) skin".
 
 **Q: How do I see what I have?**
 
-A: Type '[equipment](./Equipment.md)' (or 'eq') to see what you
+A: Type '[equipment](/equipment.md)' (or 'eq') to see what you
 are wearing and wielding. Type '[inventory](./Inventory.md)' (or
 'i') to see what you are carrying around with you. If you have too many
 things, you won't be able to pick up stuff, but you can put things in
-[sacks](./containers.md), backpacks, pouches, etc.
+[sacks](/pages/Containers.md), backpacks, pouches, etc.
 
 You look in your sack by typing '[examine](./Examine.md) sack'.
 You get a biscuit out of your sack by typing '[get](./Get.md)
@@ -76,5 +76,5 @@ sell your item. Notice also that some merchants cannot see
 [shrouded](./Shroud.md) or [sneaking](./Sneak.md) people and
 may decide that you are not there unless you show yourself. If the only
 thing wrong with the item is that it is the wrong size for you, you can
-type '[resize](./resize.md) &lt;item&gt;' and get it back immediately,
+type 'resize &lt;item&gt;' and get it back immediately,
 without wait.

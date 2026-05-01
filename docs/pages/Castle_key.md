@@ -5,7 +5,7 @@ tags:
   - Keys
 ---
 The **castle key** can be used to unlock some [doors](./Door.md)
-within [Malardil's castle](./Malardil's_castle.md). It loads on
+within Malardil's castle. It loads on
 the [diminutive rogue](./Diminutive_rogue.md) on the roof of the
 guardpost south of the main gate, as well as
 [Malardil](./Malardil.md) himself.

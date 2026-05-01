@@ -6,7 +6,7 @@ tags:
 ---
 The **noble stag** is a passive [level](./Level.md) 10
 [mobile](./Mobile.md) who spawns in the forest northwest of
-[Forlond](./Forlond.md). He will attempt to
+Forlond. He will attempt to
 [flee](./Flee.md) when low on health, and his
 [corpse](./Corpse.md) can be [butchered](./Butcher.md) to
 produce [antlers](./Antlers.md), a [pelt](./Fine_pelt.md)

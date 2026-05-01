@@ -14,7 +14,7 @@ can be poisoned by [envenomed](./Envenom.md)
 animals such as some snakes and spiders. As some poisons can have very
 dangerous effects such as draining mana or even causing
 [death](./Death.md), this spell should be practiced by all
-[casters](./caster.md).
+casters.
 
 Syntax : cast 'remove poison' \&lt;victim \| food \| drink\&gt; Type : Healing
 Accumulative: N/A Duration : No Casting : Very long Position : Standing

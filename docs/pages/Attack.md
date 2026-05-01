@@ -7,7 +7,7 @@ tags:
 ---
 **Attack** is a [thief](./Thief.md) [skill](./Skill.md) that
 allows you to hit twice in a combat round, if you wield a suitable
-([piercing](./piercing.md)) weapon. It also speeds up your
+(piercing) weapon. It also speeds up your
 [fleeing](./Flee.md) attempts independently of what weapon you are
 wielding.
 

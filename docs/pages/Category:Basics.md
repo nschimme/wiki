@@ -20,7 +20,7 @@ being looked at if one is available.
 object, person, creature, or room. It sometimes provides more detailed
 information than LOOK, for example when used on a person or a container.
 
-[Equipment](./Equipment.md) (abbreviated EQ) - shows a list of the
+[Equipment](/equipment.md) (abbreviated EQ) - shows a list of the
 items which you are wearing or holding. This will include your clothing
 and anything which you are holding in your hands, as well as things
 being worn on your belt.
@@ -38,13 +38,13 @@ weapon; that hand must be free (not holding anything). You can also wear
 some things on your belt. 'wear lantern belt' will put a lantern on your
 belt and light it.
 
-[Exits](./Exits.md) - This command shows all the exits out of the
+Exits - This command shows all the exits out of the
 current room you are in, except for hidden exits. In general usage, even
 outdoor areas are called rooms; not only the rooms inside a house.
 
-[North](./North.md), [East](./East.md),
-[South](./South.md), [West](./West.md), [Up](./Up.md),
-[Down](./Down.md) - You can move between rooms with several
+North, East,
+South, West, Up,
+Down - You can move between rooms with several
 commands. For example if you type 'EXITS' and it lists an exit to the
 east, then you can type 'EAST' to go in that direction. Some exits might
 need the climb skill to climb up a tree, or that you have a boat to go
@@ -68,7 +68,7 @@ rest or sleep and thereby regain your health (hits) after a battle,
 movement points (after moving) , or mana (used to cast spells) at a
 faster rate than you would if you were standing.
 
-[Wake](./Wake.md), [Stand](./Stand.md) - If you sleep, rest
+Wake, Stand - If you sleep, rest
 or fall down you will need to wake and/or stand before performing
 certain actions such as walking or fighting.
 
@@ -96,7 +96,7 @@ mana and movement points. It is not accessible while in combat, but the
 prompt will show you some approximations such as '\* HP:Fine' when you
 have been damaged lightly.
 
-[Stat](./Stat.md) - This command shows things like OB (offensive
+[Stat](/pages/Statistic.md) - This command shows things like OB (offensive
 bonus), DB (dodge bonus), PB (parry bonus) and is available during
 combat. It also show things like how much you need to gain a level, and
 if you are affected by spells, poisons, wounds, or diseases.
@@ -125,7 +125,7 @@ This means you will automatically try to flee after you go below 20
 hits. Not every attempt at fleeing is successful, so you might want to
 FLEE manually.
 
-[Kill](./Kill.md) - This command causes you to attack a creature
+Kill - This command causes you to attack a creature
 or person. Read '[Justice](./Justice.md)' before killing a citizen
 of a city, and '[Rules PK](./Rules_PK.md)' before attacking
 another player.
@@ -138,8 +138,8 @@ with your enemy and flee the first time. Beware, some creatures such as
 wolves might decide to track you down for a distance before returning
 home if they haven't caught you.
 
-See also: [Newbie](./Newbie.md), [FAQ1](./FAQ1.md),
+See also: [Newbie](/guides.md), [FAQ1](./FAQ1.md),
 [FAQ2](./FAQ2.md), [FAQ3](./FAQ3.md),
 [FAQ4](./FAQ4.md), [FAQ5](./FAQ5.md),
-[Advanced](./Advanced.md), [Features](./Features.md),
-[Rules](./Rules.md)
+[Advanced](./Advanced.md), Features,
+[Rules](/guides.md)

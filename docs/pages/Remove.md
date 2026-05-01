@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-To **remove** [equipment](./Equipment.md) you are
+To **remove** [equipment](/equipment.md) you are
 [wearing](./Wear.md), [wielding](./Wield.md) or
 [holding](./Hold.md).
 

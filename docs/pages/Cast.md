@@ -10,7 +10,7 @@ Cast is a [delayed](./Delayed.md) command for issuing a magical
 
 Note that the name of the spell must be enclosed by apostrophes (').
 Also, the spell name doesn't need to be typed fully -
-[abbreviations](./abbreviation.md) are also accepted (e.g. cast
+abbreviations are also accepted (e.g. cast
 'ench' sword).
 
 Since the quotes can be frustrating to type, most people set

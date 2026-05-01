@@ -8,7 +8,7 @@ tags:
 **Dodge** is a [thief](./Thief.md) [skill](./Skill.md).
 Similar to [parry](./Parry.md), this skill will increase your
 basic [dodge bonus](./Dodge_bonus.md). This is heavily affected by
-[dexterity](./dexterity.md) and the amount you are carrying.
+dexterity and the amount you are carrying.
 
 The number of foes doesn't affect your dodging bonus (DB)
 

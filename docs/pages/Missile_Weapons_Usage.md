@@ -9,7 +9,7 @@ tags:
 **Missile weapons** are one of the [weapon](./Weapon.md) types on
 [MUME](./MUME.md). Unlike most other weapon
 [skills](./Skill.md), missile is a [thief](./Thief.md)
-skill. To use a missile weapon (a [bow](./bow.md), a
+skill. To use a missile weapon (a bow, a
 [crossbow](./Crossbow.md) or a [sling](./Sling.md)):
 
 1\) Get some [missiles](./Ammunition.md) of the correct type,
@@ -22,7 +22,7 @@ arrows for a bow, bolts for a crossbow, stones for a sling;
 4\) Wield a bow/crossbow/sling;
 
 5\) Ask your best [warrior](./Warrior.md) friend to
-[buffer](./buffer.md) the opponent;
+buffer the opponent;
 
 6\) '[shoot](./Shoot.md) nasty' until no arrows;
 
@@ -52,8 +52,8 @@ See Also: [Archery](./Archery.md), [Recover](./Recover.md),
 
 ## See also
 
-- [Charge](./Charge.md), [Cleaving](./Cleaving.md),
-  [Concussion](./Concussion.md), [Piercing](./Piercing.md),
-  [Slashing](./Slashing.md), [Stabbing](./Stabbing.md),
-  [Two-handed](./Two-handed.md)
+- Charge, Cleaving,
+  Concussion, Piercing,
+  Slashing, Stabbing,
+  Two-handed
  

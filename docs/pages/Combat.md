@@ -7,7 +7,7 @@ tags:
 For your character to successfully survive **combat** with the fierce
 [creatures](./Mobile.md) of [Arda](./Arda.md), it is
 important that you as a player feel confident with the use of the
-different [commands](./commands.md) used to fight. When reading a
+different commands used to fight. When reading a
 help file, check out the "See Also" section at the bottom.
 
 - "[HIT](./Hit.md)" - How to attack somebody, or something.
@@ -22,7 +22,7 @@ help file, check out the "See Also" section at the bottom.
   trouble.
 - "[WEAPONS](./Weapon.md)" - A brief overview of different weapon
   classes.
-- "[HPS](./HPS.md)" - How much injury can your character survive?
+- "HPS" - How much injury can your character survive?
 - "[MOOD](./Mood.md)" - You can control how aggressively you wish
   to fight.
 - "[PROTECT](./Protect.md)" - If someone in your group needs a

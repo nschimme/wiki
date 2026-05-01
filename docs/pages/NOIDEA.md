@@ -42,7 +42,7 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- BNs with a [city](./City.md)
+- BNs with a city
 
 <!-- -->
 
@@ -88,7 +88,7 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- Banks and places to store excess [equipment](./Equipment.md)
+- Banks and places to store excess [equipment](/equipment.md)
 
 <!-- -->
 
@@ -112,7 +112,7 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- Safe areas where newbies can learn [commands](./commands.md)
+- Safe areas where newbies can learn commands
 
 <!-- -->
 

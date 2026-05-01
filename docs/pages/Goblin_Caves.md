@@ -34,7 +34,7 @@ Mountains](./Misty_Mountains.md).
 
 ## Zaugurz Orc Caves
 
-The [Zaugurz](./Zaugurz.md) have their base in the [Misty
+The Zaugurz have their base in the [Misty
 Mountains](./Misty_Mountains.md).
 
 <!--@include: ../includes/Place.md-->

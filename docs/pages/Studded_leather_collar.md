@@ -7,7 +7,7 @@ tags:
 The **studded leather collar** can be worn around the neck. They load on
 the [bulldogs](./Bulldog.md) in [Malardil's
 Castle](./Malardil's_Castle.md), and can also be bought from some
-tailors for around 1 [silver](./silver.md).
+tailors for around 1 silver.
 
 `A leather collar, with heavy metal studs has been dropped here.`
 `>`**`examine collar`**

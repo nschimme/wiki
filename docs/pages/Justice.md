@@ -10,7 +10,7 @@ Command **'justice**' allows you to read the justice
 [board](./Board.md) where punishments of cheaters are documented.
 For the syntax of command 'justice', see 'help news'.
 
-Following is a description of how [city](./City.md) **justice**
+Following is a description of how city **justice**
 works in cities of [Arda](./Arda.md).
 
 ## Crimes
@@ -27,7 +27,7 @@ An action can be a crime only in a town or its immediate environs:
 
 <!-- -->
 
-- Using [magic](./Magic.md) if you are not a citizen of the town.
+- Using [magic](/pages/Combat_Magic.md) if you are not a citizen of the town.
   (This is not a crime in some towns.)
 
 <!-- -->

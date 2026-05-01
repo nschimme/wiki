@@ -4,10 +4,10 @@ description: 'Horses are rideable level 5'
 tags:
   - Mobiles
 ---
-**Horses** are [rideable](./ride.md) [level](./Level.md) 5
+**Horses** are [rideable](/pages/Ride.md) [level](./Level.md) 5
 [mobiles](./Mobile.md) found in various places around
 [Arda](./Arda.md). Unlike most [mounts](./Mount.md), horses
-will wander around when not being [led](./lead.md) or ridden, and
+will wander around when not being led or ridden, and
 may also decide to sit down and [rest](./Rest.md) when they're
 [tired](./Movement_points.md). As such, players would usually be
 better off choosing a more reliable mount such as a [pack

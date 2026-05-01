@@ -23,8 +23,8 @@ MUME Orcs are very strong, but other than that suffer considerably. Orcs
 make powerful warriors, but have difficulties with other classes.
 
 There are two playable tribes of Orcs in MUME; the
-[Uruk-Tarkhnarb](./Uruk-Tarkhnarb.md) and the
-[Uruk-Zaugurz](./Uruk-Zaugurz.md). The Tarkhnarb Orcs are subjects
+Uruk-Tarkhnarb and the
+Uruk-Zaugurz. The Tarkhnarb Orcs are subjects
 of Sauron, allies of the [Black
 Númenoreans](./Black_Númenorean.md) and the powerful
 [Trolls](./Troll.md) in the battle against the Free People. The
@@ -42,20 +42,20 @@ Orcs in MUME are treated differently from the other races:
 In addition to the playable orc tribes, there are many non-playable
 tribes in MUME:
 
-- [Uruk-Burzruth](./Burzruth_Orc.md) who live in the eastern half
+- Uruk-Burzruth who live in the eastern half
   of the [Mines of Moria](./Moria.md)
-- [Uruk-Durbûk](./Durbûk_Orc.md) who reside in the mountains of
+- Uruk-Durbûk who reside in the mountains of
   [Emyn-nu-Fuin](./Mirkwood.md)
-- [Uruk-Durghash](./Durghash_Orc.md) who have taken over the
+- Uruk-Durghash who have taken over the
   western half of the [Mines of Moria](./Moria.md)
-- [Uruk-Moragog](./Moragog_Orc.md) who live in the upper levels of
+- Uruk-Moragog who live in the upper levels of
   eastern [Moria](./Moria.md)
-- [Uruk-Morgundul](./Morgundul_Orc.md) that reside in Red Horn
+- Uruk-Morgundul that reside in Red Horn
   Pass, [Vales of Anduin](./Anduin_Vale.md), and [Dol
   Guldur](./Dol_Guldur.md)
-- [Uruk-Ohurk](./Ohurk_Orc.md) who have set up camp around the
+- Uruk-Ohurk who have set up camp around the
   Ford of the River Bruinen
-- [Uruk-Urughash](./Urughash_Orc.md) who live in the Misty
+- Uruk-Urughash who live in the Misty
   Mountains bordering [Dunland](./Dunland.md)
 
 <!--@include: ../includes/ClassRace.md-->

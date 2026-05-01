@@ -6,7 +6,7 @@ description: 'The shiny dagger is a piercing weapon.'
 The **shiny dagger** is a [piercing weapon](./Piercing_weapon.md).
 It loads on [Malardil](./Malardil.md), and can also be bought from
 some weaponsmiths for around 1 [gold](./Gold.md) and 13
-[silver](./silver.md).
+silver.
 
 `A dagger with a shiny blade lies here.`
 `>`**`examine shiny`**

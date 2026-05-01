@@ -15,7 +15,7 @@ are inhabited by all kinds of malignant undead.
 
 - [bandit](./Bandit.md)
 - [mean brigand](./Mean_brigand.md)
-- [thief](thief_(mobile) "wikilink")
+- thief "wikilink")
 - [dark wraith](./Dark_wraith.md)
 - [spirit-soldier](./Spirit-soldier.md)
 - [spirit](./Spirit.md)

@@ -8,7 +8,7 @@ An **accomplished hunter** teaches [scout](./Thief.md)
 [skills](./Skill.md) at the **Hunter's Cabin** just southeast of
 [Black Hill](./Black_Hill.md). He will reward players who
 [help](./Quest#Snake_Hunt.md) him deal with the overpopulation of
-[slithering snakes](./slithering_snake.md) in the area.
+slithering snakes in the area.
 
 `An accomplished hunter stands here, ready to teach you his craft.`
 `> `**`examine hunter`**
@@ -23,7 +23,7 @@ An **accomplished hunter** teaches [scout](./Thief.md)
 `                  Sessions  Difficulty`
 [`attack`](./Attack.md)`                0/ 8  Normal`
 [`dodge`](./Dodge.md)`                 0/ 8  Hard`
-[`missile`](./missile.md)`               0/ 8  Normal`
+`missile``               0/ 8  Normal`
 [`pick`](./Pick.md)`                  0/ 4  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`      0/ 8  Normal`
 [`search`](./Search.md)`                0/ 3  Normal`

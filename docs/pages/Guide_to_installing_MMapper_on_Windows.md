@@ -62,7 +62,7 @@ connect to your own computer (or there is also a basic built-in client).
 As you already know, MUME runs at mume.org on port 4242. The mapper runs
 on your own computer at the same port and because of this you need to
 direct your client to localhost on port 4242 (not in secure mode).
-[thumb](./image:Mmapper2_4jmc.png.md)
+thumb
 
 <figure>
 ![Mmapper2_4.png](/img/Mmapper2_4.png)

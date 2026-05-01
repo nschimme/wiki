@@ -42,5 +42,5 @@ Examples:
 See also: [Rules Spam](./Rules_Spam.md),
 [Narrate](./Narrate.md), [Say](./Say.md),
 [Sing](./Sing.md), [Tell](./Tell.md),
-[Whisper](./Whisper.md), [Pray](./Pray.md) and
+Whisper, [Pray](./Pray.md) and
 [Listen](./Listen.md).

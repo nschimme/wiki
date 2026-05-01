@@ -6,7 +6,7 @@ tags:
   - Mobiles with unknown level
 ---
 **Nagrorh** is a necromancer that lives near
-[Greenholm](./Greenholm.md). He's an aggressive level ?
+Greenholm. He's an aggressive level ?
 [mob](./mob.md). He can cast [Sanctuary](./Sanctuary.md) and
 [Lightning Bolt](./Lightning_Bolt.md) as well as a spell that
 summons [spectres](./Spectre.md) to defend him. He

@@ -11,4 +11,4 @@ Duration : No Casting : Long Position : Standing, fighting Level : Level
 
 Example: \> cast 'magic blast'
 
-[Black Númenorean](./Black_Númenorean.md) spell only.
+Black Númenorean spell only.

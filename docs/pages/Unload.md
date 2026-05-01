@@ -24,4 +24,4 @@ Some examples:
 `You recover a bolt from a crossbow.`
 
 See also: [Shoot](./Shoot.md), [Archery](./Archery.md),
-[Recover](./Recover.md), [Missile](./Missile.md)
+[Recover](./Recover.md), Missile

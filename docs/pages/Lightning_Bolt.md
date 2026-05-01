@@ -20,7 +20,7 @@ cast 'lightning bolt' dragon This spell can be learned from:
 
 The power of the lightning bolt is rumoured to be especially harmful to
 [Black Númenóreans](./Black_Númenórean.md) due to their spurning
-of the [Valar](./Valar.md).
+of the Valar.
 
 ## See also:
 

@@ -4,10 +4,10 @@ description: 'To succeed on Arda, it is crucial to possess skills.'
 ---
 
 To succeed on [Arda](./Arda.md), it is crucial to possess skills.
-Your character needs to know how to fight, [ride](./ride.md),
+Your character needs to know how to fight, [ride](/pages/Ride.md),
 [swim](./Swim.md), [track](./Track.md) et cetera. Some
 things are very hard to learn, whilst other talents are easily
-developed. When reading a [help](./Help:Contents.md) file, check
+developed. When reading a help file, check
 out the "See Also" section at the bottom.
 
 # Skill List
@@ -38,8 +38,8 @@ Damage
 
 - [Attack](./Attack.md)
 - [Backstab](./Backstab.md)
-- [Missile](./Missile.md)
-- [Piercing](./Piercing.md)
+- Missile
+- Piercing
 
 Subtlety
 
@@ -60,7 +60,7 @@ Finesse
 Offensive
 
 - [Bash](./Bash.md)
-- [Charge](./Charge.md)
+- Charge
 - [Kick](./Kick.md)
 
 Weapon Skills
@@ -69,7 +69,7 @@ Weapon Skills
 - [Concussion Weapons](./Concussion_weapons.md)
 - [Slashing Weapons](./Slashing_weapons.md)
 - [Stabbing Weapons](./Stabbing_weapons.md)
-- [Two Handed Weapons](./Two_Handed_Weapons.md)
+- Two Handed Weapons
 - [Unarmed (Troll)](./Unarmed.md)
 
 Defensive

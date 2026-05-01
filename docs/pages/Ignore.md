@@ -22,7 +22,7 @@ Syntax:
 NOTE: Players you ignore cannot tell that you are ignoring them.
 
 The existence of this command cannot be used as an argument for
-violations of [rules](./rules.md) regulating communication and
+violations of [rules](/guides.md) regulating communication and
 spam. It is merely an aid for people who wish to ignore up to 20 other
 characters.
 

@@ -17,8 +17,8 @@ It weighs half a pound.
 
 ## Opinions
 
-The same healing effect of a [blue scroll](./A_blue_scroll.md) but
-with a [strength spell](./Strength_Spell.md) included. Definitely
+The same healing effect of a blue scroll but
+with a strength spell included. Definitely
 the most difficult type of healing scroll to attain.
 
 <!--@include: ../includes/Items.md-->

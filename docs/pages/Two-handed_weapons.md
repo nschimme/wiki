@@ -16,7 +16,7 @@ levels.
 
 ## See also
 
-- [Charge](./Charge.md), [Cleaving](./Cleaving.md),
-  [Concussion](./Concussion.md), [Missile](./Missile.md),
-  [Piercing](./Piercing.md), [Slashing](./Slashing.md),
-  [Stabbing](./Stabbing.md)
+- Charge, Cleaving,
+  Concussion, Missile,
+  Piercing, Slashing,
+  Stabbing

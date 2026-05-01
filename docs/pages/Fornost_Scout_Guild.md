@@ -19,6 +19,6 @@ A **veteran Dúnadan scout** teaches [scout](./Thief.md)
 `         Sessions  Difficulty  `
 [`dodge`](./Dodge.md)`          14  Hard`
 [`hide`](./Hide.md)`            6  Normal`
-[`missile`](./missile.md)`         9  Normal`
+`missile``         9  Normal`
 [`pick`](./Pick.md)`            1  Normal`
 [`sneak`](./Sneak.md)`          14  Hard`

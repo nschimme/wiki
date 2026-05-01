@@ -10,13 +10,13 @@ reproducible bug.
 Reimbursements are never given for the following things:
 
 - Lagdeaths, both due to the net and due to MUME.
-- Loss of [equipment](./Equipment.md) or
+- Loss of [equipment](/equipment.md) or
   [experience](./Experience.md) due to a crash.
 - Reconnecting in a deadly place after losing [link](./Link.md).
 - Following another player in a deadly situation.
-- Death due to [pkilling](./PK.md) (unless the killer was
+- Death due to [pkilling](/pages/Rules_PK.md) (unless the killer was
   violating pkilling rules).
-- Loss of [artifacts](./artifact.md), for any reason.
+- Loss of artifacts, for any reason.
 - Loss of equipment to [rent](./Rent.md) confiscation for whatever
   reason.
 

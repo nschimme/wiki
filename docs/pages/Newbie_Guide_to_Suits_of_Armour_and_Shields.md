@@ -737,5 +737,5 @@ damage is ignored.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

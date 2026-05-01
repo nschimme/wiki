@@ -5,7 +5,7 @@ tags:
   - Metal equipment
   - Head items
 ---
-The **pot helm** is a piece of metal [equipment](./Equipment.md)
+The **pot helm** is a piece of metal [equipment](/equipment.md)
 worn on the [head](./Head.md). It is a reward from the [Bandit's
 Note](./Quest#Bandit.27s_Note.md) quest and can also be bought
 from most armourers for around 1 [gold](./Gold.md) 6 silver.

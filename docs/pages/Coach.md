@@ -5,7 +5,7 @@ tags:
   - Help files
 ---
 **Coaches** are a safe, comfortable means of transportation between
-[towns](./town.md) and waystations on [Arda](./Arda.md).
+towns and waystations on [Arda](./Arda.md).
 
 Those wishing to travel by coach, may obtain a coach ticket sold in
 groceries, bazaars, travellers' shops, as well as some
@@ -43,4 +43,4 @@ son Pete, which connect [Fornost](./Fornost.md) to
 [Tharbad](./Tharbad.md), stopping in [Bree](./Bree.md) and
 at some intermediate points. More coaches might be added in the future.
 
-See also: [Buy](./Buy.md), [Ferry](./Ferry.md)
+See also: Buy, [Ferry](./Ferry.md)

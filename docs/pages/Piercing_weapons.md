@@ -12,9 +12,9 @@ wielded in one hand only.
 
 ## See also
 
-- [Charge](./Charge.md), [Cleaving](./Cleaving.md),
-  [Concussion](./Concussion.md), [Missile](./Missile.md),
-  [Stabbing](./Stabbing.md), [Slashing](./Slashing.md),
-  [Two-handed](./Two-handed.md)
+- Charge, Cleaving,
+  Concussion, Missile,
+  Stabbing, Slashing,
+  Two-handed
 - [Piercing weapon](./Piercing_weapon.md) for a list of weapons
   belonging to this class.

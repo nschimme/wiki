@@ -16,7 +16,7 @@ Invisibility](./Detect_Invisibility.md).
 
 Engaging in [combat](./Combat.md) causes the shroud to be
 dispelled. If you want to cancel the effect of the spell early (for
-example, to [buy](./buy.md) from a low-level
+example, to buy from a low-level
 [shopkeeper](./Shop.md)), you can '[hit](./Hit.md) self'.
 
 Syntax : cast 'shroud' \[recipient Type : Miscellaneous Accumulative:

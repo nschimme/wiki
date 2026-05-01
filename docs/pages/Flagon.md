@@ -18,7 +18,7 @@ It weighs three pounds.
 
 Tasty mead! Watch out though, drinking it will make you difficult or
 impossible to understand. For more information, read about being
-[drunk](./drunk.md). Note that while the default liquid in a
+drunk. Note that while the default liquid in a
 flagon will be mead, you can empty it and refill with anything you like.
 
 <!--@include: ../includes/Items.md-->

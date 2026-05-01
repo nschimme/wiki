@@ -9,7 +9,7 @@ tags:
 [mobiles](./Mobile.md) found in [Malardil's
 castle](./Malardil's_castle.md). They can
 [sneak](./Sneak.md) and [backstab](./Backstab.md). They load
-with 7 [silver](./silver.md) and 50 [copper](./copper.md), a
+with 7 silver and 50 copper, a
 [piercing weapon](./Piercing_weapon.md), a
 [belt](./Plain_leather_belt.md), a [ring](./Ring.md) and
 some basic cloth equipment.

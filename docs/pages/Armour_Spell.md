@@ -5,10 +5,10 @@ description: 'Armour is a level 3 mage'
 
 **Armour** is a [level](./Level.md) 3 [mage](./Mage.md)
 [spell](./Spell.md) that improves the caster's
-[absorption](./absorption.md) for the duration of the spell. The
+absorption for the duration of the spell. The
 duration and amount of absorption gained is dependent on the caster's
 knowledge. Generally considered a must-have spell for all
-[casters](./caster.md).
+casters.
 
 Syntax : cast 'armour' \[self-only Type : Defensive Accumulative: No
 Duration : Yes Casting : Long Position : Standing Level : Level 3 Class

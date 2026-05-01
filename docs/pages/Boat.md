@@ -14,7 +14,7 @@ boat.
 
 ## Boats
 
-- [brightly painted skiff](./brightly_painted_skiff.md)
+- brightly painted skiff
 - [canoe](./Canoe.md)
 - [light boat of reeds](./Light_boat_of_reeds.md)
 - [narrow grey boat](./Narrow_grey_boat.md)

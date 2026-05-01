@@ -9,7 +9,7 @@ tags:
 overlooking the road to [Grey Havens](./Grey_Havens.md) on the
 eastern edge of the [Tower Hills](./Tower_Hills.md). They load 70
 [copper](./Gold.md), a [cudgel](./Cudgel.md) and some basic
-cloth [equipment](./Equipment.md).
+cloth [equipment](/equipment.md).
 
 `A young ruffian is here, keeping a careful watch over the road.`
 `>`**`examine ruffian`**

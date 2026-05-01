@@ -32,7 +32,7 @@ Poison](./Detect_Poison.md), [Heal](./Heal.md),
 [Shroud](./Shroud.md), [Protection From
 Evil](./Protection_From_Evil.md), [Remove
 Curse](./Remove_Curse.md), [Sanctuary](./Sanctuary.md),
-[Strength](./Strength.md), [Word of
+Strength, [Word of
 Recall](./Word_of_Recall.md), [Remove
 Poison](./Remove_Poison.md), [Sense Life](./Sense_Life.md),
 [Cure Serious](./Cure_Serious.md), [Night

@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Jeraton** is a woodcutter living in a small village southwest of
-[Lorien](./Lorien.md). He needs a new axe to continue his work.
+Lorien. He needs a new axe to continue his work.
 
 `A tall, well-muscled man fingers an old axe hanging from his belt.`
 `> `**`look at Jeraton`**

@@ -54,7 +54,7 @@ group.
 The group leader can transfer leadership to another group member by
 typing 'group &lt;new_leader&gt; transfer'.
 
-NOTE: Only mobs who follow or are [ridden](./ride.md) by a player
+NOTE: Only mobs who follow or are [ridden](/pages/Ride.md) by a player
 member of the group can be grouped.
 
 See also: [Experience](./Experience.md)

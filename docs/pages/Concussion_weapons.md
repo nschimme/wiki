@@ -13,7 +13,7 @@ defeated with this kind of weapon.
 
 ## See also
 
-- [Charge](./Charge.md), [Cleaving](./Cleaving.md),
-  [Missile](./Missile.md), [Piercing](./Piercing.md),
-  [Slashing](./Slashing.md), [Stabbing](./Stabbing.md),
-  [Two-handed](./Two-handed.md)
+- Charge, Cleaving,
+  Missile, Piercing,
+  Slashing, Stabbing,
+  Two-handed

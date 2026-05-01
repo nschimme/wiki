@@ -25,4 +25,4 @@ This spell can be learned from:
 [`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             3`
 
 See also: [Bless](./Bless.md), [Darkness](./Darkness.md),
-[Sanctuary](./Sanctuary.md), [Strength](./Strength_Spell.md)
+[Sanctuary](./Sanctuary.md), Strength

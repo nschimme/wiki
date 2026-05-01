@@ -12,7 +12,7 @@ perform common delayed tasks such as [tracking](./Track.md) or
 will interrupt the action.
 
 You can see your wounds by using the [info](./Info.md) or
-[stat](./stat.md) commands. They will show up under the section
+[stat](/pages/Statistic.md) commands. They will show up under the section
 *Affected by*. For other players they will be shown when you examine
 them.
 
@@ -26,7 +26,7 @@ In increasing order of severity, wounds can be
 
 Depending on the severity and location of the wound, the victim may
 experience loss of [hit points](./Hit_points.md),
-[moves](./Movement_points.md), [strength](./strength.md),
+[moves](./Movement_points.md), strength,
 [endurance](./Endurance.md), precision and/or ability to
 concentrate.
 

@@ -35,7 +35,7 @@ like hell".
 
 It does not matter to the rules of MUME if the player of an enemy
 character has left the keyboard, lost connection et cetera. If you in
-any way help or protect an enemy ([linkless](./linkless.md) or
+any way help or protect an enemy (linkless or
 not), you are breaking one of the most important rules of MUME - this
 one.
 

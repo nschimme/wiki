@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Dales-ponies** are [level](./Level.md) ~7
-[rideable](./ride.md) [mobiles](./Mobile.md). They make the
+[rideable](/pages/Ride.md) [mobiles](./Mobile.md). They make the
 best [mounts](./Mount.md) for [dwarves](./Dwarf.md) and
 [hobbits](./Hobbit.md). They can be bought from the pet
 [shop](./Shop.md) just outside Dwaling in the

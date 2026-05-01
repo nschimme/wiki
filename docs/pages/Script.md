@@ -16,7 +16,7 @@ add/write some action.
 
 - [Powwow Scripts](./Powwow_Scripts.md)
 - [PowTTY Scripts](./PowTTY_Scripts.md)
-- [JMC Scripts](./JMC_Scripts.md)
+- JMC Scripts
 - [Zmud Scripts](./Zmud_Scripts.md)
-- [TinTin Scripts](./TinTin_Scripts.md)
+- TinTin Scripts
 - [Mudlet Scripts](./Mudlet_Scripts.md)

@@ -30,7 +30,7 @@ in order to do this. You have to lead or ride the mobile you want to
 rent.
 
 You can retrieve your mobile from the stables by using the
-"[trade](./trade.md)" command to return the ticket and get your
+"trade" command to return the ticket and get your
 mobile back.
 
 If your connection to the game breaks, after a while the game will rent
@@ -39,5 +39,5 @@ paying much greater rent costs. You will also be rented automatically if
 the game crashes or reboots.
 
 See also: [Camp](./Camp.md), [Inn](./Inn.md),
-[Receptionist](./Receptionist.md), [Noquit](./Noquit.md),
+Receptionist, [Noquit](./Noquit.md),
 [Link](./Link.md), [Hometowns](./Hometowns.md)

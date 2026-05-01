@@ -64,4 +64,4 @@ description: 'Level    Magic User spells:            Cleric s
 `                                Create Focus`
 `                                  Corrupt`
 
-See also [:Category:Spells](./:Category:Spells.md)
+See also :Category:Spells

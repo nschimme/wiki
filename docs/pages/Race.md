@@ -44,7 +44,7 @@ The last race is the Zaugurz Orcs, forming a side of its own.
 <!-- -->
 
 - [Orcs](./Orc.md)
-  - [Tarkhnarb tribe](./Tarkhnarb_Orc.md)
+  - Tarkhnarb tribe
   - [Zaugurz tribe](./Zaugurz_Orc.md)
 
 <!-- -->
@@ -53,6 +53,6 @@ The last race is the Zaugurz Orcs, forming a side of its own.
 
 ## See also
 
-- [Racial stats](./Stats#Racial_Stats.md)
+- [Racial stats](/pages/Statistic.md#Racial_Stats.md)
 
 <!--@include: ../includes/ClassRace.md-->

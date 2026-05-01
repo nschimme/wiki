@@ -18,8 +18,8 @@ the previous entries. Also on the first floor is the kitchen, where one
 may find some smoked and cured [meat](./Meat.md) in the stove.
 
 There is another locked door on the second floor of the mansion, which
-requires a [key](./tinted_brass_key.md) to open. The key can be
-found on a [black crow](./black_crow.md) that normally wanders
+requires a key to open. The key can be
+found on a black crow that normally wanders
 around nearby, just south of the Hedge.
 
 The door leads to a balcony, where the **winch** command can be used to

@@ -20,7 +20,7 @@ the non-XML mode was removed and replaced with an XML parser.
 
 |                                                           |
 |-----------------------------------------------------------|
-| [right](./image:PandoraMapperScreenshot.png.md) |
+| right |
 
 ## Main features
 

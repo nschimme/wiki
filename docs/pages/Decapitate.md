@@ -8,7 +8,7 @@ tags:
 Syntax: **decapitate** corpse
 
 [Orcs](./Orc.md) and [Trolls](./Troll.md) can, with this
-[command](./commands.md), behead a [corpse](./Corpse.md),
+command, behead a [corpse](./Corpse.md),
 put the head on a pole and shove it in the ground. Works only with
 humanoid corpses.
 

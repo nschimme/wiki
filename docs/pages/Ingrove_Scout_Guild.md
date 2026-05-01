@@ -20,7 +20,7 @@ tags:
 `                  Sessions  Difficulty`
 [`attack`](./Attack.md)`                   4  Normal`
 [`dodge`](./Dodge.md)`                    6  Hard`
-[`missile`](./missile.md)`                 13  Normal`
+`missile``                 13  Normal`
 [`pick`](./Pick.md)`                     9  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`        10  Normal`
 [`search`](./Search.md)`                   3  Normal`

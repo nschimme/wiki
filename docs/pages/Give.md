@@ -16,5 +16,5 @@ Examples:
 Note that the monetary units (copper, silver, gold) are different for
 Elves.
 
-See also: [Money](./Money.md), [Steal](./Steal.md)
+See also: Money, [Steal](./Steal.md)
  

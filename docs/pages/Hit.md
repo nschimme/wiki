@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-**Hit** and **kill** are [commands](./commands.md) that can be
+**Hit** and **kill** are commands that can be
 used to start a [fight](./Combat.md). If you are fighting more
 than one opponent, you can switch between them with the command 'hit
 &lt;victim&gt;'.

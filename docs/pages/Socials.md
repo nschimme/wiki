@@ -22,7 +22,7 @@ fla(me) kis(s) rol(l) star(e) bur(p) flex la(ugh) ru(ffle) sto(mp)
 cac(kle) fli(p) lic(k) sal(ute) str(ut) ch(uckle) forg(ive) lov(e)
 scr(eam) su(lk)
 
-See also: [Commands](./Commands.md), [Emote](./Emote.md),
+See also: Commands, [Emote](./Emote.md),
 [Acts](./Acts.md), [Flip](./Flip.md),
 [Raise](./Raise.md), [Shake](./Shake.md),
 [Thumbs](./Thumbs.md)

@@ -4,7 +4,7 @@ description: 'Bakers tend to the bakeries in Bree,'
 tags:
   - Shopkeepers
 ---
-**Bakers** tend to the bakeries in [Bree](./Bree_Baker.md),
+**Bakers** tend to the bakeries in Bree,
 [Fornost](./Fornost_Baker.md) and
 [Tharbad](./Tharbad_Baker.md).
 

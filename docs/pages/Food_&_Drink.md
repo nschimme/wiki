@@ -4,7 +4,7 @@ description: 'Food and drink is an important aspect of MUME,'
 ---
 
 **Food and drink** is an important aspect of [MUME](./MUME.md),
-for example you must [drink](./drink.md) and [eat](./Eat.md)
+for example you must [drink](/pages/Drink.md) and [eat](./Eat.md)
 regularly otherwise your [movement](./Movement_points.md) and hit
 points will not regenerate. Some animals can be
 [butchered](./Butcher.md) for meat, this meat can then be
@@ -19,7 +19,7 @@ points will not regenerate. Some animals can be
 ### Bread
 
 - [delicious bannock](./Delicious_bannock.md)
-- [large biscuit](./large_biscuit.md)
+- large biscuit
 - [lembas wafer](./Lembas_wafer.md)
 - [loaf of bread](./Loaf_of_bread.md)
 - [musty loaf of bread](./Musty_loaf_of_bread.md)

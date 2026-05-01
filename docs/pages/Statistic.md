@@ -6,7 +6,7 @@ aliases: ["Strength"]
 ---
 
 *Strength redirects here. For the spell with the same name, see
-[Strength Spell](./Strength_Spell.md).*
+Strength Spell.*
 
 **Statistics** are a set of numbers that describes your character.
 Statistics may depend on a character's level, [race](./Race.md),
@@ -48,6 +48,6 @@ of other areas.
 
 ## Guides
 
-- [Newbie Base Abilities](./Newbie_Base_Abilities.md), [Guide to
+- Newbie Base Abilities, [Guide to
   advanced character
   statistics](./Guide_to_advanced_character_statistics.md)

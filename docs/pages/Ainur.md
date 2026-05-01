@@ -31,14 +31,14 @@ smaller groups.
 
 Newly created gods join the ranks of plain Maiar, also called
 boardreaders, since what they can do mostly consists of reading boards
-and handing out [newbie kits](./newbie_kit.md).
+and handing out newbie kits.
 
 Helping with fixing typoes, trying out creating a test-zone and various
 other tasks promotes an Ainur to become a Cartographer. Getting your own
 [zone](./Zone.md) to build also does this.
 
 Completing a [zone](./Zone.md), buildingwise with all geography
-and [descriptions](./room_description.md) complete can promote the
+and descriptions complete can promote the
 Cartographer towards Builder.
 
 When your [zone](./Zone.md) opens, the builder can be promoted to
@@ -50,7 +50,7 @@ be recruited and trained.
 ## Valar
 
 The Valar levels [Mudller](./Mudller.md) and
-[Architect](./Architect.md) differ in level, but not in power.
+Architect differ in level, but not in power.
 They are practically the same level but with different job descriptions.
 Mudllers write [mudlle](./Mudlle.md)-code and Architects supervise
 builders.
@@ -58,8 +58,8 @@ builders.
 ## Aratar
 
 Similarly the Aratar level is only one level, with only one Arata per
-job. One [Arata of Code](./Arata_of_Code.md), one of
-[Zones](./Arata_of_Zones.md), etc. All Aratar are only seen with
+job. One Arata of Code, one of
+Zones, etc. All Aratar are only seen with
 the acronym A, no extra-letter is visible. Who is acting in which job
 isn't really important to the public, but ask any Ainur and they'll
 probably know the answer.

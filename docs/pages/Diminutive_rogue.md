@@ -7,7 +7,7 @@ tags:
 **Diminutive rogues** are aggressive [level](./Level.md) ?
 [mobiles](./Mobile.md) found in [Malardil's
 Castle](./Malardil's_Castle.md). They can
-[sneak](./Sneak.md). They load with 8 [silver](./silver.md),
+[sneak](./Sneak.md). They load with 8 silver,
 a [piercing weapon](./Piercing_weapon.md), a
 [buckler](./Shield#Buckler.md), a
 [belt](./Plain_leather_belt.md), [lantern](./Lantern.md),

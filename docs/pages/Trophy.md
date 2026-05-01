@@ -13,7 +13,7 @@ more knowledge you have of a specific kind of creature, the fewer
 [experience](./Experience.md) points you will get.
 
 You may get on trophy also PCs you personally didn't
-[kill](./kill.md). This can happen if a character of an enemy race
+kill. This can happen if a character of an enemy race
 dies soon after meeting you.
 
 Note that trophies fill up from the bottom, so your most recent new

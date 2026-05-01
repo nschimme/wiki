@@ -5,7 +5,7 @@ tags:
   - Help files
 ---
 **Mana** is a character's capability of casting
-[spells](./Spells.md), represented by a numeric value. High mana
+spells, represented by a numeric value. High mana
 means your character is high on magical power, and low means the
 opposite.
 

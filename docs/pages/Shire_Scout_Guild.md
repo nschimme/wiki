@@ -20,7 +20,7 @@ usually be found wandering around in Hobbiton and the fields nearby.
 `                  Sessions  Difficulty`
 [`dodge`](./Dodge.md)`                    6  Hard`
 [`hide`](./Hide.md)`                    12  Normal`
-[`missile`](./missile.md)`                  6  Normal`
+`missile``                  6  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`         4  Normal`
 [`search`](./Search.md)`                   3  Normal`
 [`sneak`](./Sneak.md)`                   18  Hard`

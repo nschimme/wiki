@@ -6,7 +6,7 @@ tags:
 ---
 The **small metal shield** is a lightweight [shield](./Shield.md)
 that gives a mediocre amount of [parry bonus](./Parry_bonus.md).
-It is worth around 9 [silver](./silver.md) and 50 copper, and is
+It is worth around 9 silver and 50 copper, and is
 sold by most weaponsmiths.
 
 `A small metal shield is on the ground.`

@@ -6,7 +6,7 @@ tags:
 ---
 The **pint** is a [drink](./Food_%26_Drink#Drink.md)
 [container](./Container.md). It can contain a bit over 2 pounds
-worth of liquid. It is worth around 15 [copper](./copper.md).
+worth of liquid. It is worth around 15 copper.
 Pints are sold in many taverns, most often containing ale.
 
 `An amber-coloured pint of ale sits here in a large frosty mug.`

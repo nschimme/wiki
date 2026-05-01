@@ -22,4 +22,4 @@ target the missiles hit.
 Recover will work as usual and only remove the missiles you shot.
 
 See also: [Archery](./Archery.md), [Shoot](./Shoot.md),
-[Missile](./Missile.md), [Recover](./Recover.md)
+Missile, [Recover](./Recover.md)

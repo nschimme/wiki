@@ -25,7 +25,7 @@ still, this sort of thing usually means that there has just been a
 crash, and the whole gameful of people is arriving there and going to
 different places in the world by praying.
 
-If you are in a [town](./town.md), there may be a lot of activity
+If you are in a town, there may be a lot of activity
 there at the moment, by coincidence - an expedition assembling, or even
 a battle going on. Find a quieter location, or just wait until things
 die down.

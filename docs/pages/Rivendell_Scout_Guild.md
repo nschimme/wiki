@@ -21,7 +21,7 @@ An **elven hunter** teaches [scout](./Thief.md)
 [`attack`](./Attack.md)`                   3  Normal`
 [`dodge`](./Dodge.md)`                    6  Hard`
 [`hide`](./Hide.md)`                     9  Normal`
-[`missile`](./missile.md)`                 14  Normal`
+`missile``                 14  Normal`
 [`pick`](./Pick.md)`                     9  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`         8  Normal`
 [`search`](./Search.md)`                   2  Normal`

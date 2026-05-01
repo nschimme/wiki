@@ -17,7 +17,7 @@ with them.
 
 ## Ride
 
-The [ride](./ride.md) skill is a [ranger](./General.md)
+The [ride](/pages/Ride.md) skill is a [ranger](./General.md)
 [skill](./Skill.md) that allows one to efficiently ride certain
 rideable [mobiles](./mobiles.md), like horses.
 
@@ -67,10 +67,10 @@ underwater.
 ## Lead, Dismount, and Abandon
 
 To move into a room that is not rideable, you have to '<b>lead</b>' your
-mount. Typing 'lead' while [riding](./ride.md) will automatically
+mount. Typing 'lead' while [riding](/pages/Ride.md) will automatically
 make you dismount and lead your mount.
 
-Use '[dismount](./dismount.md)' if you want the mount not to
+Use 'dismount' if you want the mount not to
 [follow](./Follow.md) you. NOTE: Unlike lead, this command can be
 used in combat.
 
@@ -83,9 +83,9 @@ It is also possible to lead mounts that you previously haven't ridden if
 you specify which one you want to lead (like 'lead horse'). This won't
 work if someone else in the room is leading or riding the mount already.
 
-If you are [leading](./lead.md) a [mount](./Mount.md), the
+If you are leading a [mount](./Mount.md), the
 **abandon** command will make it stop following you. The mount will
-remember its previous [rider](./ride.md), so you can resume
+remember its previous [rider](/pages/Ride.md), so you can resume
 leading it by typing "lead". If you abandon your mount but remain in the
 [room](./room.md) with it, others will not be able to lead it
 away. They can, however, ride the mount and then control it out of the
@@ -140,8 +140,8 @@ Also, different types of mounts have different strengths, hit points,
 moves, and regen. The following lists shows types of mounts for each
 size in ascending order of these qualitites:
 
-- For large [races](../races.md) ([Elves](./Elves.md) and
-  [Men](./Men.md)):
+- For large [races](../races.md) (Elves and
+  Men):
   - [Docile horse](./Horse.md): Not sold in shops but wanders
     certain areas of the map. Even when led, wanders off when not in
     same room with player.
@@ -154,8 +154,8 @@ size in ascending order of these qualitites:
 
 <!-- -->
 
-- For small races ([Dwarves](./Dwarves.md) and
-  [Hobbits](./Hobbits.md))
+- For small races (Dwarves and
+  Hobbits)
   - Mule
   - Pony
   - [Dales Pony](./Dales-pony.md)
@@ -205,7 +205,7 @@ is in your immediate vicinity (5 rooms distance).
 - You cannot [sneak](./Sneak.md) while riding. It does not
   influence movement cost if still enabled, so its safe to leave on to
   automatically reenable when dismounting.
-- [Dwarves](./Dwarves.md) with [axe](./Cleaving_weapon.md)
+- Dwarves with [axe](./Cleaving_weapon.md)
   get an ob modifier when dismounted
 - [Rohirrim](./Rohirrim.md) men get get various modifiers
   concerning mounts.

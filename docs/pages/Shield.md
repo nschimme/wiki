@@ -12,7 +12,7 @@ Light weight shields tend to give less [parry
 bonus](./Parry_bonus.md) to its equivalent heavy shield, however
 they will not weigh you down as much as the heavy ones would.
 
-- [smelly piece of worm hide](./smelly_piece_of_worm_hide.md)
+- smelly piece of worm hide
 - [bejewelled shield](./Bejewelled_shield.md)
 - [gilded round shield](./Gilded_round_shield.md)
 - [shield of Arthedain](./Shield_of_Arthedain.md)
@@ -26,25 +26,25 @@ bonus](./Parry_bonus.md) (i.e more weight carried, lower [dodge
 bonus](./Dodge_bonus.md)).
 
 - [ancient dwarven shield](./Ancient_dwarven_shield.md)
-- [defiled dwarven shield](./defiled_dwarven_shield.md)
-- [large tower shield](./large_tower_shield.md)
+- defiled dwarven shield
+- large tower shield
 - [large metal wall shield](./Large_metal_wall_shield.md)
 - [sun-emblazoned shield](./Sun-emblazoned_shield.md)
 - [metal wall shield](./Metal_wall_shield.md)
-- [large wooden wall shield](./large_wooden_wall_shield.md)
+- large wooden wall shield
 - [wooden wall shield](./Wooden_wall_shield.md)
 
 ## Average
 
-- [dark shield](./dark_shield.md)
+- dark shield
 - [large metal full shield](./Large_metal_full_shield.md)
 - [full metal shield](./Full_metal_shield.md)
 - [large wooden full shield](./Large_wooden_full_shield.md)
-- [shield of Isengard](./shield_of_Isengard.md)
+- shield of Isengard
 - [black metal shield](./Black_metal_shield.md)
 - [full wooden shield](./Full_wooden_shield.md)
 - [large metal shield](./Large_metal_shield.md)
-- [spiked shield](./spiked_shield.md)
+- spiked shield
 - [metal shield](./Metal_shield.md)
 - [large wooden shield](./Large_wooden_shield.md)
 - [small metal shield](./Small_metal_shield.md)
@@ -55,12 +55,12 @@ bonus](./Dodge_bonus.md)).
 ## Buckler
 
 - [metal buckler](./Metal_buckler.md)
-- [small metal target shield](./small_metal_target_shield.md)
+- small metal target shield
 - [small wooden target shield](./Small_wooden_target_shield.md)
 
 ## Artifact
 
-- [the black buckler](./the_black_buckler.md)
+- the black buckler
 
 **Mume Shield List** (a sortable table of shields found in
 [Armour](./Armour.md) page)

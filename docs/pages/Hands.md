@@ -9,13 +9,13 @@ A list of equipment worn on the **hands**.
 
 - [fine metal gauntlets](./Fine_metal_gauntlets.md)
 - [metal gauntlets](./Metal_gauntlets.md)
-- [sturdy metal gauntlets](./sturdy_metal_gauntlets.md)
+- sturdy metal gauntlets
 
 # Chain
 
 - [fine chain mail gloves](./Fine_chain_mail_gloves.md)
 - [chain mail gloves](./Chain_mail_gloves.md)
-- [sturdy chain mail gloves](./sturdy_chain_mail_gloves.md)
+- sturdy chain mail gloves
 
 # Leather
 

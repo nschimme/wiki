@@ -14,20 +14,20 @@ warm, reducing the risk of a [flu](./Disease.md).
 - [fine grey cloak](./Fine_grey_cloak.md)
 - [black and silver surcoat](./Black_and_silver_surcoat.md)
 - [black cape](./Black_cape.md)
-- [black hooded cloak](./black_hooded_cloak.md)
+- black hooded cloak
 - [buttoned cassock](./Buttoned_cassock.md)
-- [embroidered surcoat](./embroidered_surcoat.md)
+- embroidered surcoat
 - [forest green cloak](./Forest_green_cloak.md)
-- [mottled cloak](./mottled_cloak.md)
+- mottled cloak
 - [ragged, blackened cloak](./Ragged,_blackened_cloak.md)
 - [roughly stitched cloak](./Roughly_stitched_cloak.md)
 - [russet cloak](./Russet_cloak.md)
-- [sacred cloak](./sacred_cloak.md)
+- sacred cloak
 
 ## Offensive Bonus
 
 - [black warg fur](./Black_warg_fur.md)
-- [cave-bear fur](./cave-bear_fur.md)
+- cave-bear fur
 - [brown bear fur](./Brown_bear_fur.md)
 - [grey wolf fur](./Grey_wolf_fur.md)
 - [tawny bear fur](./Tawny_bear_fur.md)
@@ -36,15 +36,15 @@ warm, reducing the risk of a [flu](./Disease.md).
 
 ## Poor
 
-- [brown fur](./brown_fur.md)
-- [dark-blue cloak](./dark-blue_cloak.md)
-- [dirty apron](./dirty_apron.md)
+- brown fur
+- dark-blue cloak
+- dirty apron
 - [fine lion pelt](./Fine_lion_pelt.md)
-- [guardsman's cloak](./guardsman's_cloak.md)
+- guardsman's cloak
 - [heavy wool coat](./Heavy_wool_coat.md)
 - [plain cloak](./Plain_cloak.md)
-- [tattered blanket](./tattered_blanket.md)
-- [thick white fur](./thick_white_fur.md)
+- tattered blanket
+- thick white fur
 - [warm blanket](./Warm_blanket.md)
 
 <!--@include: ../includes/Items.md-->

@@ -29,9 +29,9 @@ major gem but adding a focus increases this to 2 major gems.
 
 ## Major Gems
 
-- [corberyl](./corberyl.md) - spell attack
-- [lustrous opal](./lustrous_opal.md) - spell attack
-- [rubellite](./rubellite.md) - increased max mana
+- corberyl - spell attack
+- lustrous opal - spell attack
+- rubellite - increased max mana
 - [tiger's eye](./Tiger's_eye.md) - hit/mana regeneration (race
   dependent)
 - [chunk of honey-coloured
@@ -39,19 +39,19 @@ major gem but adding a focus increases this to 2 major gems.
 
 ## Minor Gems
 
-- [star sapphire](./star_sapphire.md) - spell save
-- [brilliant adamant](./brilliant_adamant.md) - spell save
-- [citrine](./citrine.md) - locate spell cheaper
-- [onyx](./onyx.md) - mana damage (usable)
-- [polished white quartzite](./polished_white_quartzite.md) -
+- star sapphire - spell save
+- brilliant adamant - spell save
+- citrine - locate spell cheaper
+- onyx - mana damage (usable)
+- polished white quartzite -
   group bless (usable)
-- [small, green stone](./small,_green_stone.md) - create food
+- small, green stone - create food
   (usable)
 
 ## Defensive
 
-- [chunk of metal](./chunk_of_metal.md)
-- [huge silvery bracer](./huge_silvery_bracer.md)
+- chunk of metal
+- huge silvery bracer
 - [bar of iron](./Bar_of_iron.md)
 
 See also: [Staff](./Staff.md), [Focus](./Focus.md) <!--@include: ../includes/Items.md-->

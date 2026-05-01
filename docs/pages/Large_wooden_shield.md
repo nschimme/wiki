@@ -6,7 +6,7 @@ tags:
 ---
 The **large wooden shield** is a [shield](./Shield.md). It
 provides a mediocre amount of [parry bonus](./Parry_bonus.md) for
-its weight. It is worth around 10 [silver](./silver.md), and is
+its weight. It is worth around 10 silver, and is
 sold by most armourers.
 
 `>`**`examine shield`**

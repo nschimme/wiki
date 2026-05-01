@@ -15,7 +15,7 @@ It weighs a few ounces.
 
 ## Opinions
 
-This ring is used by [Balrog](./Balrog.md) groups, and is
+This ring is used by Balrog groups, and is
 enchanted to provide the wearer with some protection from fire in the
 Balrog's mini zone. It is also not possible to [rent](./Rent.md)
 or [hide](./Hide.md) the ring.

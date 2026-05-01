@@ -15,4 +15,4 @@ they most likely will not return your tell.
 
 Setting up your linkdrop can enable you to remain unidle.
 
-See also: [Void](./Void.md), [Linkdrop](./Linkdrop.md)
+See also: Void, [Linkdrop](./Linkdrop.md)

@@ -4,7 +4,7 @@ description: 'The Last Homely House of Elrond is located in'
 tags:
   - Cities
 ---
-The Last Homely House of [Elrond](./Elrond.md) is located in
+The Last Homely House of Elrond is located in
 **Rivendell**, which is one of the last conclaves of
 [Elves](./Elf.md) remaining in
 Middle-earth. Rivendell is a haven for all
@@ -19,12 +19,12 @@ would not be able to return easily.
 
 ## Shops
 
-- [Bakery](./Rivendell_Bakery.md)
-- [General Store](./Rivendell_Grocer.md)
+- Bakery
+- General Store
 - [Herbalist](./Rivendell_Herbalist.md)
-- [Jeweller](./Rivendell_Jeweller.md)
-- [Smithy](./Rivendell_Smithy.md)
-- [Tailor Shop](./Rivendell_Tailor.md)
+- Jeweller
+- Smithy
+- Tailor Shop
 
 ## Guilds
 
@@ -38,7 +38,7 @@ would not be able to return easily.
 ## Inns & Taverns
 
 - [The River House](./The_River_House.md)
-- [Imladris Guest Rooms](./Imladris_Guest_Rooms.md)
+- Imladris Guest Rooms
 
 ## Map
 

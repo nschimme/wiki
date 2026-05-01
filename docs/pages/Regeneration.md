@@ -7,9 +7,9 @@ tags:
 The rate of which your character **regenerates** [hit
 points](./Hit_points.md), [mana](./Mana.md) and [movement
 points](./Movement_points.md) is determined by a number of
-factors. Your base [abilities](./abilities.md) are important, as
+factors. Your base abilities are important, as
 are your [race](./Race.md) and your [age](./Age.md), your
-being hungry or thirsty and your position ([standing](./stand.md),
+being hungry or thirsty and your position (standing,
 sitting, [sleeping](./Sleep.md)...)
 
 

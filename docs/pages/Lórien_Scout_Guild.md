@@ -28,7 +28,7 @@ northern part of the city.
 [`dodge`](./Dodge.md)`                   15  Hard`
 [`escape`](./Escape.md)`                   8  Normal`
 [`hide`](./Hide.md)`                     4  Normal`
-[`missile`](./missile.md)`                  6  Normal`
+`missile``                  6  Normal`
 [`pick`](./Pick.md)`                     2  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`         8  Normal`
 [`search`](./Search.md)`                   8  Normal`

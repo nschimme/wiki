@@ -24,6 +24,6 @@ It weighs two stone and five pounds.
 ## Opinions
 
 A good alternative to the artifact shields, though it requires high
-[strength](./strength.md) to use effectively.
+strength to use effectively.
 
 <!--@include: ../includes/Items.md-->

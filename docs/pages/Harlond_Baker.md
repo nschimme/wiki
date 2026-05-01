@@ -5,7 +5,7 @@ tags:
   - Shopkeepers
 ---
 The **elven baker** tends to the **Bakery** in
-[Harlond](./Harlond.md). The store is open from 7am - 7pm.
+Harlond. The store is open from 7am - 7pm.
 
 `> An elven baker is standing here, covered in flour.`
 `> `**`look baker`**

@@ -5,7 +5,7 @@ tags:
   - Shields
 ---
 A **metal shield** is a common [shield](./Shield.md) that can be
-bought from most armourers for around 15 [silver](./silver.md).
+bought from most armourers for around 15 silver.
 
 `A metal shield is on the ground.`
 `>`**`examine shield`**

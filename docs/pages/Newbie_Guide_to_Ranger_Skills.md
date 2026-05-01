@@ -478,5 +478,5 @@ and practice with your character!
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

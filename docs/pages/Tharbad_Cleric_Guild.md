@@ -31,5 +31,5 @@ corner of [Tharbad](./Tharbad.md).
 [`Remove Poison`](./Remove_Poison.md)`               1  Normal`
 [`Sense Life`](./Sense_Life.md)`                  9  Normal`
 [`Smother`](./Smother.md)`                     6  Easy`
-[`Strength`](./Strength_Spell.md)`                    3  Hard`
+`Strength``                    3  Hard`
 [`Word of Recall`](./Word_of_Recall.md)`              6  Very hard`

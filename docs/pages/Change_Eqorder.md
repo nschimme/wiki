@@ -13,5 +13,5 @@ To go back to the default display order, use \`change eqorder default'
 Typing \`change eqorder' without extra arguments shows your current
 equipment order.
 
-See also: [Equipment](./Equipment.md), [Equipment
+See also: [Equipment](/equipment.md), [Equipment
 Format](./Equipment_Format.md)

@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-The "**protect**" [command](./commands.md) is used to select a
+The "**protect**" command is used to select a
 number of people (players or [mobiles](./Mobile.md)) that you will
 try to protect from attacks.
 

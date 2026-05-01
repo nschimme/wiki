@@ -35,12 +35,12 @@ it. The Lord of The Rings will reclaim his treasure in any way he can.
 Sauron has a special function in Mume. All notorious non-darkie
 player-killers will be remembered by him.
 
-To check if someone is on [Saurons List](./Saurons_List.md), type:
+To check if someone is on Saurons List, type:
 
 `tell sauron `&lt;name&gt;`   [For example, "tell sauron ilie"]`
 
 While Sauron may comment on those that are not player killers, those
 that he claims to be his true followers are player killers. Telling him
-'[list](./list.md)' will provide a list of player killers.
+'list' will provide a list of player killers.
 
-See also: [Rules-Sauron](./Rules-Sauron.md)
+See also: Rules-Sauron

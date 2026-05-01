@@ -264,7 +264,7 @@ leaves/flowers/petals have it. To crush plant/flower/etc type "remove
 ## Daisy-chain
 
 ` Description:  A band of small flowers is lying here`
-` Location:  Loads on `[`Dunlending`](./Dunlending.md)` children south of Dunland tower`
+` Location:  Loads on ``Dunlending`` children south of Dunland tower`
 
 ## Elanor
 

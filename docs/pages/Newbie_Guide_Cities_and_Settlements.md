@@ -1356,5 +1356,5 @@ cities to retreat to if danger is near.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

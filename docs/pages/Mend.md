@@ -5,13 +5,13 @@ tags:
   - Help files
   - Commands
 ---
-After wear and tear, your [equipment](./Equipment.md) will
+After wear and tear, your [equipment](/equipment.md) will
 probably begin to become less effective. For instance, your prize
 enchanted [longsword](./Longsword.md) becomes dented. To restore
 it to its former glory, simply go to a [shop](./Shop.md) that
 would sell such an object (e.g. a weaponsmith for a sword) and the
 shopkeeper will **mend** it for a small charge. The shopkeepers can also
-[resize](./resize.md) your over/undersized equipment to fit you.
+resize your over/undersized equipment to fit you.
 It is not possible to mend brand new or already completely fixed
 equipment.
 

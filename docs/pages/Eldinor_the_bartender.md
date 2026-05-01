@@ -5,7 +5,7 @@ tags:
   - Shopkeepers
 ---
 **Eldinor** tends bar at the [Seagull Inn](./Seagull_Inn.md) in
-[Harlond](./Harlond.md).
+Harlond.
 
 `Eldinor the owner and bartender of the Seagull Inn is serving drinks here.`
 `>`**`examine eldinor`**

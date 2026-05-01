@@ -7,19 +7,19 @@ A list of equipment worn on the **arms**.
 
 # Metal
 
-- [crimson metal vambraces](./crimson_metal_vambraces.md)
+- crimson metal vambraces
 - [fine metal vambraces](./Fine_metal_vambraces.md)
 - [metal vambraces](./Metal_vambraces.md)
-- [plate vambraces](./plate_vambraces.md)
-- [sturdy metal vambraces](./sturdy_metal_vambraces.md)
+- plate vambraces
+- sturdy metal vambraces
 
 # Mail
 
 - [fine chain mail sleeves](./Fine_chain_mail_sleeves.md)
 - [chain mail sleeves](./Chain_mail_sleeves.md)
-- [scale sleeves](./scale_sleeves.md)
-- [white chain mail sleeves](./white_chain_mail_sleeves.md)
-- [sturdy chain mail sleeves](./sturdy_chain_mail_sleeves.md)
+- scale sleeves
+- white chain mail sleeves
+- sturdy chain mail sleeves
 
 # Leather
 

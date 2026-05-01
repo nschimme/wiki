@@ -6,7 +6,7 @@ tags:
 ---
 The **ancient weaver** is a [level](./Level.md) \<10
 [mobile](./Mobile.md), located in a house southwest of the gates
-of [Harlond](./Harlond.md). She is looking for someone to
+of Harlond. She is looking for someone to
 [help](./Quest#The_Elven_Weaver.md) her replenish the supplies of
 dye she uses for making [cloaks](./Forest_green_cloak.md).
 

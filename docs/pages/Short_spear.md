@@ -5,7 +5,7 @@ tags:
   - Stabbing weapons
 ---
 The **short spear** is a [stabbing weapon](./Stabbing_weapon.md).
-It is worth around 4 [silver](./silver.md), and is sold by most
+It is worth around 4 silver, and is sold by most
 weaponsmiths.
 
 `A short spear is lying on the ground.`

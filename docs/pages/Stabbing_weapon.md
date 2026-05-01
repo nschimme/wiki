@@ -5,13 +5,13 @@ description: 'Stabbing weapons are one of the'
 
 **[Stabbing weapons](./Stabbing_weapons.md)** are one of the
 [weapon](./Weapon.md) types found in [MUME](./MUME.md). They
-are effective vs. [riding](./ride.md) enemies and have moderate to
+are effective vs. [riding](/pages/Ride.md) enemies and have moderate to
 high strength requirements. Stabbing weapons can be used to keep
 attackers at bay.
 
 ## Offensive
 
-- [blackened Spear](./blackened_Spear.md)
+- blackened Spear
 - [giant spear](./Giant_spear.md)
 - [steel-tipped spear](./Steel-tipped_spear.md)
 - [pike](./Pike.md)
@@ -21,13 +21,13 @@ attackers at bay.
 
 - [elven hunting-spear](./Elven_hunting-spear.md)
 - [steel-shafted spear](./Steel-shafted_spear.md)
-- [orkish battle-standard](./orkish_battle-standard.md)
+- orkish battle-standard
 
 ## Average
 
 - [short spear](./Short_spear.md)
 - [broad spear](./Broad_spear.md)
 - [pitchfork](./Pitchfork.md)
-- [twisted spear](./twisted_spear.md)
+- twisted spear
 
 <!--@include: ../includes/Items.md-->

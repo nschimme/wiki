@@ -11,7 +11,7 @@ target's [level](./Level.md),
 [offensive](./Offensive_bonus.md), [dodge](./Dodge_bonus.md)
 and [parry bonuses](./Parry_bonus.md) and
 [alignment](./Alignment.md). The spell may fail if the target's
-[willpower](./willpower.md) is too high.
+willpower is too high.
 
 Syntax : cast 'divination' Type : Miscellaneous Accumulative: N/A
 Duration : No Casting : Extremely long Position : Standing Level : Level

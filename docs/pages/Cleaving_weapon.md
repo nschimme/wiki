@@ -5,18 +5,18 @@ description: 'Cleaving weapons are one of the'
 
 **[Cleaving weapons](./Cleaving_weapons.md)** are one of the
 [weapon](./Weapon.md) types found in [MUME](./MUME.md). Most
-are efficient vs. wood and have high [strength](./strength.md)
+are efficient vs. wood and have high strength
 requirements. Axes are especially useful for [dwarves](./Dwarf.md)
 thanks to the +5 offensive bonus they receive when standing with their
 feet firm on the ground.
 
 ## Offensive
 
-- [darkened orkish axe](./darkened_orkish_axe.md) (DOA) - good
+- darkened orkish axe (DOA) - good
   offensive axe for evil aligned characters
 - [mighty dwarven axe](./Mighty_dwarven_axe.md) (MDA) - good
   offensive axe, favoured by many cleaving warriors
-- [blackened dwarven axe](./blackened_dwarven_axe.md) (BDA) - good
+- blackened dwarven axe (BDA) - good
   offensive axe. Especially effective against spirits, ghosts, and
   wraiths.
 - [double-headed axe](./Double-headed_axe.md) - High OB, but
@@ -40,6 +40,6 @@ feet firm on the ground.
 
 # Artefact
 
-- [the Axe of Durin](./the_Axe_of_Durin.md)
+- the Axe of Durin
 
 <!--@include: ../includes/Items.md-->

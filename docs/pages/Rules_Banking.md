@@ -4,7 +4,7 @@ description: 'Banking is storing items and gold so that you may'
 ---
 
 **Banking** is storing items and [gold](./Gold.md) so that you may
-have a source of new [equipment](./Equipment.md) should you for
+have a source of new [equipment](/equipment.md) should you for
 some reason lose your old equipment. Bank characters usually have lots
 of gold and have tons of good equipment. When discovered, bank
 characters lose all equipment; both bank and "client" can be subjected

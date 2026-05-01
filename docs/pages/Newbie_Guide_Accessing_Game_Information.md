@@ -674,5 +674,5 @@ defensive toughness, it's type, or level.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

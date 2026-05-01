@@ -5,8 +5,8 @@ tags:
   - Commands
   - Help files
 ---
-**Quaff** is used to drink a [potion](./potion.md), and gain its
-effects. Note that [drink](./drink.md) will also work, but if you
+**Quaff** is used to drink a potion, and gain its
+effects. Note that [drink](/pages/Drink.md) will also work, but if you
 are not thirsty you will not be able to drink the potion, while you will
 always be able to quaff it.
 

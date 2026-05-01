@@ -41,7 +41,7 @@ quite a shock if you didn't read [FAQ2](./FAQ2.md).
   (not in combat)
 - [Shout](./Shout.md) - **Don't use!** 'narrate' and 'sing' are
   preferred
-- [Stat](./Stat.md) - Short form of 'Info' about combat and
+- [Stat](/pages/Statistic.md) - Short form of 'Info' about combat and
   [level](./Level.md)
 - [View](./View.md) - Shows several topics to view information
   about
@@ -53,28 +53,28 @@ quite a shock if you didn't read [FAQ2](./FAQ2.md).
 
 - [Abbreviations](./Abbreviations.md) - A list of important
   abbreviations used
-- [Features](./Features.md) - Lists some important features of
+- Features - Lists some important features of
   MUME
-- [Herblores](./Herblores.md) - Herblores are potions that can be
+- Herblores - Herblores are potions that can be
   made herbs to help stamina in walking, night vision, create poisons,
   antidotes, etc. These formulas are found after
   [quests](./Quest.md).
 - [Istari](./Istari.md) - Characters charged with helping newbies
 - [Justice](./Justice.md) - How the justice system works in a
-  [city](./City.md)
-- [Rules](./Rules.md) - List of rules
+  city
+- [Rules](/guides.md) - List of rules
 - [Rules PK](./Rules_PK.md) - MUME allows but regulates player
   killing, with the player killing being towards enemy
-  [races](./Race.md) such as [Elves](./Elves.md) vs.
+  [races](./Race.md) such as Elves vs.
   [Orcs](./Orc.md)
-- [Travel points](./Travel_points.md) - Travel points needed for
+- Travel points - Travel points needed for
   higher levels
 
 If you have a question try the FAQ's, then ask an Istar, a nearby
 player, or narrate for help.
 
-See also: [Newbie](./Newbie.md), [Basics](./Basics.md),
+See also: [Newbie](/guides.md), [Basics](/guides.md),
 [FAQ1](./FAQ1.md), [FAQ2](./FAQ2.md),
 [FAQ3](./FAQ3.md), [FAQ4](./FAQ4.md),
-[FAQ5](./FAQ5.md), [Features](./Features.md),
-[Rules](./Rules.md)
+[FAQ5](./FAQ5.md), Features,
+[Rules](/guides.md)

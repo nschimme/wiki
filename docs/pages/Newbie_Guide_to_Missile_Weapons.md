@@ -502,5 +502,5 @@ bolt can be a nasty surprise from an Orc!
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

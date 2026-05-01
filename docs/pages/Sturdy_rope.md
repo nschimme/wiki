@@ -6,7 +6,7 @@ tags:
 ---
 The **sturdy rope** is a [rope](./Rope.md) that can be used to
 facilitate [climbing](./Climb.md). It can be bought from most
-grocers for around 1 [silver](./silver.md).
+grocers for around 1 silver.
 
 `A coil of rope is lying here./A sturdy rope has been tied here and descends below.`
 `>`**`examine rope`**

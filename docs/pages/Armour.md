@@ -74,7 +74,7 @@ The way how incoming damage is processed appears to be as follows:
 
 There is a modifier that increases the chance to hit weakly armored body
 parts vs better armored ones. The modifier depends mostly on the
-[perception](./perception.md) stat of the attacker. This mechanism
+perception stat of the attacker. This mechanism
 means that the average effect of mixing strong and weak armour is less
 than the average of its parts, because the weak armour spots are
 primarily hit. It is thus recommended to wear similar armour on all body

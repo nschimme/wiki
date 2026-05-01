@@ -5,5 +5,5 @@ tags:
   - Shops
 ---
 An [elven grocer](./Elven_grocer.md) tends the **Grocery** in
-[Forlond](./Forlond.md). The store is open 9am - 12pm and 3pm -
+Forlond. The store is open 9am - 12pm and 3pm -
 7pm.

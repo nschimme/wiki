@@ -4,7 +4,7 @@ description: 'The cleric is the more supportive spell caster.'
 ---
 
 The **cleric** is the more supportive [spell](./Spell.md) caster.
-The spells of [wisdom](./wisdom.md) offer peace, blessing and
+The spells of wisdom offer peace, blessing and
 healing as well as protection. While clerics are defensively oriented
 spell casters, they do have several spells that can inflict great pain
 upon their enemies.
@@ -12,7 +12,7 @@ upon their enemies.
 ### Opinion
 
 Clerics are the best support class. They are necessary for nearly all
-[end game content](./Smob.md) with their ability to [reduce
+end game content with their ability to [reduce
 damage](./Sanctuary.md) to allies and
 [blind](./Blindness.md) foes!
 

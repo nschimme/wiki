@@ -113,7 +113,7 @@ their length.
 
 ## Saruman
 
-**Price:** Give an item of power to [Saruman](./Saruman.md) (the
+**Price:** Give an item of power to Saruman (the
 pick upgrade is random chosen from a set of possible rewards). Yerik
 gives you NEW set of picks with his upgrade instead of upgrading your
 existing set. Usually claymore should be fine to get picks.

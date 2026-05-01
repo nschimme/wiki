@@ -4,7 +4,7 @@ description: 'An elven maid serves food and drinks at The'
 tags:
   - Shops
 ---
-An [elven maid](./elven_maid.md) serves food and drinks at **The
+An elven maid serves food and drinks at **The
 River House** in [Rivendell](./Rivendell.md). The tavern is open
 from 1pm to 2am.
 

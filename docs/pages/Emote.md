@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-The **emote** [command](./commands.md) is used to show emotions or
+The **emote** command is used to show emotions or
 actions. For example (assuming your character's name is Bilbo):
 
 `>emote lets heavy tears roll down his cheek and fall down onto the floor.`

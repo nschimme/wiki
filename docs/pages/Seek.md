@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-The Last Homely Home of [Elrond](./Elrond.md), also called
+The Last Homely Home of Elrond, also called
 [Rivendell](./Rivendell.md), is well hidden and any visitor has to
 **seek** the path leading there.
 

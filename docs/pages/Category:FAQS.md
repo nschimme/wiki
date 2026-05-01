@@ -17,5 +17,5 @@ The following FAQ files for new players are also available:
 - "[FAQ5](./FAQ5.md)" - Frequently Asked Questions, part 5: mail,
   boards, books
 
-See also: [Newbie](./Newbie.md), [Basics](./Basics.md),
-[Advanced](./Advanced.md), [Features](./Features.md)
+See also: [Newbie](/guides.md), [Basics](/guides.md),
+[Advanced](./Advanced.md), Features

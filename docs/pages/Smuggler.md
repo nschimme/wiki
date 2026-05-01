@@ -9,7 +9,7 @@ tags:
 various places around [Arda](./Arda.md), especially common in the
 areas near [Tharbad](./Tharbad.md). They load 15 silver, a
 [weapon](./Weapon.md), usually a [shield](./Shield.md) and
-some cloth [equipment](./Equipment.md).
+some cloth [equipment](/equipment.md).
 
 `A smuggler is here, angry at having been seen.`
 `>`**`examine smuggler`**

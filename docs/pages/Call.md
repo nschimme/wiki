@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-Most fortified [towns](./town.md) on Arda close their **gates** at
+Most fortified towns on Arda close their **gates** at
 night. If you are a [citizen](./Citizen.md) and you are outside a
 closed gate, you can **call** the gatekeeper and ask him to let you in.
 You can also 'call close' to ask the gatekeeper to close the gate once
@@ -32,4 +32,4 @@ the ladder at the rent place south of Lorien that can be called to be
 lowered.
 
 Another use of the 'call' command is to call an
-[Eagle](./Eagle.md)
+Eagle

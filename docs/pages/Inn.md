@@ -5,8 +5,8 @@ tags:
   - Help files
 ---
 **Inns** are places where the weary traveller may rest while the
-innkeeper (also know as '[receptionist](./receptionist.md)') looks
-after his [equipment](./Equipment.md) and treasure. Specifically,
+innkeeper (also know as 'receptionist') looks
+after his [equipment](/equipment.md) and treasure. Specifically,
 you may use an inn to store your gathered equipment while you are not
 playing the game (we all have to sleep sometimes, there is no shame in
 that).

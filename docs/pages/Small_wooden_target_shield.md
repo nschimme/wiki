@@ -7,7 +7,7 @@ The **small wooden target shield** is a small
 [shield](./Shield.md) that can worn while wielding a [two-handed
 weapon](./Two-handed_weapon.md), providing a small amount of
 [parry bonus](./Parry_bonus.md). It can be bought at most
-armourers for around 5 [silver](./silver.md).
+armourers for around 5 silver.
 
 `A small wooden target shield is on the ground.`
 `>`**`look shield`**

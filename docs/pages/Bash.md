@@ -15,12 +15,12 @@ period of time; he will, however, be able to [parry](./Parry.md)
 or [dodge](./Dodge.md) hits. If you miss, you lose your balance
 and fall.
 
-Note that a person bashed is [sitting](./sit.md) and has less
+Note that a person bashed is sitting and has less
 dodge. This will only apply to the first hit the bashed person receives.
 
 It is possible to bash either with a shield or with a two handed weapon,
 or with your hands if you are a [Troll](./Troll.md) or a
-[Bear](./Bear.md).
+Bear.
 
 If you have high strength, bash can also be used to break down some
 [doors](./Door.md). Unlike for bashing an opponent, in this case
@@ -30,7 +30,7 @@ An option is to 'bash disengage &lt;name&gt;'. If successful, the victim stops
 fighting and just sits on the ground for a short period of time.
 
 NOTE: You can bash any enemy that is engaged to you. This will not cause
-you to switch target as [kill](./kill.md) or [hit](./Hit.md)
+you to switch target as kill or [hit](./Hit.md)
 would.
 
 Examples:

@@ -6,7 +6,7 @@ tags:
 ---
 **Rafts** are a common type of [boat](./Boat.md), often found near
 [waterways](./Waterways.md). They can also be bought from
-[Captains](./Captain.md) for around 5 [silver](./Gold.md).
+Captains for around 5 [silver](./Gold.md).
 Their heavy weight makes them somewhat cumbersome to carry around,
 meaning other boats such as [canoes](./Canoe.md) are generally
 preferable options.

@@ -20,7 +20,7 @@ at the **Scout Guild** in [Blue Mountains](./Blue_Mountains.md).
 [`dodge`](./Dodge.md)`                    6  Hard`
 [`escape`](./Escape.md)`                   4  Normal`
 [`hide`](./Hide.md)`                     3  Normal`
-[`missile`](./missile.md)`                  3  Normal`
+`missile``                  3  Normal`
 [`pick`](./Pick.md)`                    16  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`         4  Normal`
 [`search`](./Search.md)`                   4  Normal`

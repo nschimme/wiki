@@ -465,5 +465,5 @@ horses have died in this game because of the earthquake spell!
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

@@ -16,7 +16,7 @@ warpoints, if you have any. In some other cases (such as deaths in
 points](./travel_points.md) instead.
 
 If you did not die to a deathtrap, you may stand a chance at recovering
-your [equipment](./Equipment.md) from your
+your [equipment](/equipment.md) from your
 [corpse](./Corpse.md). However, whatever killed you may kill you
 again if you are not cautious, and other players may also take your
 items from the corpse. If you are below level 6 and of a good

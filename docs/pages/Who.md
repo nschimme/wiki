@@ -24,9 +24,9 @@ the players will be listed alphabetically. By default they are listed by
 how long they have been logged in (longest last).
 
 Members of enemy [races](../races.md) (for example
-[Elves](./Elves.md) and [Trolls](./Troll.md)) are unable to
+Elves and [Trolls](./Troll.md)) are unable to
 see each other with this command. Members of races who cooperate from
-time to time ([Dwarves](./Dwarves.md) and
+time to time (Dwarves and
 [Bears](./Beorning.md), Trolls and Tarkhnarb
 [Orcs](./Orc.md)) can only see each other if they belong to the
 same group.

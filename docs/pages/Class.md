@@ -8,7 +8,7 @@ description: 'Moria in [The Lord of the Rings: The Fellowship of'
 the
 Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*
 The **class** system of [MUME](./MUME.md) is very flexible. You do
-not have to choose a class on [character](./character.md)
+not have to choose a class on character
 creation - instead, you can shape it later by
 [practicing](./Practice.md) [skills](./Skill.md) or
 [spells](./Spell.md) of a specific class. Even then, you are not
@@ -21,7 +21,7 @@ can change it to something more suitable (with the '[Change
 Class](./Change_Class.md)' command) later. The choice of class
 titles is limited by the skills, or the spells, you have practiced.
 
-It should be noted, however, that some [stats](./stats.md) are
+It should be noted, however, that some [stats](/pages/Statistic.md) are
 more suitable for certain classes than others.
 
 ## List of classes

@@ -398,7 +398,7 @@ Alternatively kill the assassin behind tangle near Wight Captain. Can
 load on the assassin, but it's rare.
 
 - - Ingredients:\*\* 2x
-    [blackberries](./mumeherbslist#blackberries.md), [lily
+    blackberries, [lily
     petals](./mumeherbslist#water-lily.md), [figwort
     petals](./mumeherbslist#figwort_turtlehead.md), [athelas
     leaves](./mumeherbslist#athelas.md)
@@ -529,7 +529,7 @@ these also protect against infection. Finally, leaves from the kingsfoil
 plant must be added, so that their healing properties may staunch the
 blood flow and stimulate the healing.
 
-- - How to obtain:\*\* Kill [Frychra](./mumestrategies#frychra.md)
+- - How to obtain:\*\* Kill Frychra
     in Mirkwood , Kral quest (Zorc only)
 
 <!-- -->
@@ -788,8 +788,8 @@ Crude orkish horn worked for me - Kaspar
 
 - - Ingredients:\*\*
 
-[tincture of oil](./mumeherbslist#tincture_of_oil.md),
-[paprika](./mumeherbslist#paprika_pepper.md), [rose
+tincture of oil,
+paprika, [rose
 petals](./mumeherbslist#red_rose.md), [vanilla
 bean](./mumeherbslist#vanilla.md), [rosemary
 leaves](./mumeherbslist#rosemary.md) x2.
@@ -820,7 +820,7 @@ against the infection will induce a spiritual weakness for a short
 duration.
 
 - - How to obtain:\*\* Complete the quest given by Nordri in the Blue
-    Mountains (see [Quests](./MumeQuests#nordri_s_quest.md)).
+    Mountains (see Quests).
 
 <!-- -->
 
@@ -862,8 +862,8 @@ loads the strength lore.
 
 - - Ingredients:\*\*
 
-[clover](./mumeherbslist#clover.md),
-[paprika](./mumeherbslist#paprika_pepper.md), [comfrey
+clover,
+paprika, [comfrey
 root](./mumeherbslist#comfrey.md).
 
 - - Product: \*\*
@@ -912,9 +912,9 @@ leader in goblin caves near Fork)
 
 - - Ingredients:\*\*
 
-[tarragon leaves](./mumeherbslist#tarragon_estragon.md), [ginseng
+tarragon leaves, [ginseng
 root](./mumeherbslist#ginseng.md),
-[clover](./mumeherbslist#clover.md).
+clover.
 
 - - Product: \*\*
 
@@ -939,17 +939,17 @@ some clover as a base. Add a few crushed leaves of marjoram and freshly
 bought cloves, to clean the blood of its toxines and stop cramps.
 
 - - How to obtain:\*\* Complete the
-    [quest](./mumequests#aldereons_s_quest.md) given by Aldereon
+    quest given by Aldereon
     the ancient Noldo northwest of Greenholm. Aldereon will ask you to
     deliver sealed letters to his friends across Arda. The distance and
     XP/Letter will vary depending on level.
 
 <!-- -->
 
-- - Ingredients:\*\* [clover](./mumeherbslist#clover.md), [juniper
+- - Ingredients:\*\* clover, [juniper
     berries](./mumeherbslist#juniper.md), [marjoram
     leaves](./mumeherbslist#marjoram.md) and
-    [cloves](./mumeherbslist#cloves.md).
+    cloves.
 
 <!-- -->
 
@@ -996,8 +996,8 @@ will succumb to its negative effects.
 
 <!-- -->
 
-- - Ingredients:\*\* [hemlock](./mumeherbslist#hemlock.md),
-    [inkberries](./mumeherbslist#inkberries.md), [frog
+- - Ingredients:\*\* hemlock,
+    inkberries, [frog
     tongue](./mumeherbslist#frog_tongue.md).
 
 <!-- -->
@@ -1127,9 +1127,9 @@ his skills. It can of course be used to poison arrows or blades.
 
 <!-- -->
 
-- - Ingredients:\*\* [belladonna](./mumeherbslist#belladonna.md),
-    [bright red mushroom](./mumeherbslist#bright_red_mushroom.md),
-    [frog tongue](./mumeherbslist#frog_tongue.md).
+- - Ingredients:\*\* belladonna,
+    bright red mushroom,
+    frog tongue.
 
 <!-- -->
 

@@ -34,8 +34,8 @@ It weighs four pounds.
 
 Best slashing weapon for defense and definitely the most widely used
 defensive weapon available. To wield it efficiently, you must have 13 or
-more [strength](./strength.md), this puts it within reach of most
-casters who practice the [strength](./Strength_Spell.md)
+more strength, this puts it within reach of most
+casters who practice the strength
 [spell](./Spell.md).
 
 <!--@include: ../includes/Items.md-->

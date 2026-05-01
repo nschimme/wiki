@@ -3,7 +3,7 @@ title: Thief
 description: 'For the mobile, see thief (mobile) "wikilink").'
 ---
 
-*For the mobile, see [thief (mobile)](thief_(mobile) "wikilink").*
+*For the mobile, see thief (mobile) "wikilink").*
 
 **Thieves** (or 'scouts') are known to have very special qualities that
 no other [class](./Class.md) offers. Many of these qualities can
@@ -72,7 +72,7 @@ goes through if you don't get detected by a mob.
 #### Alternatives
 
 You could level up to 18 or so practiced and
-[equipped](./Equipment.md) as a warrior/buffer, but with your
+[equipped](/equipment.md) as a warrior/buffer, but with your
 thief stats, using [citizen mercenaries](./Citizen_mercenaries.md)
 for parry splitting, retire for 1 month and then get a practice reset
 and maybe an age reset. Or train off warrior skills and train up thief

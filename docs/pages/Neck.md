@@ -10,19 +10,19 @@ neck provide the user with some protection against magic.
 
 ## Magical
 
-- [bright red amulet](./bright_red_amulet.md)
-- [black amulet](./black_amulet.md)
+- bright red amulet
+- black amulet
 - [necklace](./Necklace.md)
-- [old length of iron chain](./old_length_of_iron_chain.md)
+- old length of iron chain
 - [small crystal phial](./Small_crystal_phial.md)
-- [pale blue stone](./pale_blue_stone.md)
+- pale blue stone
 
 ## Ordinary
 
 - [blackened pendant](./Blackened_pendant.md)
-- [spiked collar](./spiked_collar.md)
+- spiked collar
 - [studded leather collar](./Studded_leather_collar.md)
-- [chequered scarf](./chequered_scarf.md)
+- chequered scarf
 - [plain scarf](./Plain_scarf.md)
 - [red ruby](./Red_ruby.md)
 - [sun-emblazoned cloakpin](./Sun-emblazoned_cloakpin.md)
