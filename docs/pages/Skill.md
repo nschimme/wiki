@@ -60,7 +60,7 @@ Finesse
 Offensive
 
 - [Bash](./Bash.md)
-- [Charge](./Newbie_Guide_to_Warrior_Skills.md#charge)
+- [Charge](./Charging_weapons.md)
 - [Kick](./Kick.md)
 
 Weapon Skills

@@ -5,6 +5,7 @@ tags:
   - Warrior skills
   - Skills
   - Commands
+aliases: ["Charge"]
 ---
 **Charge** is a [warrior](./Warrior.md) [skill](./Skill.md)
 and [weapon](./Weapon.md) class. To charge successfully, you need
