@@ -49,6 +49,9 @@ export default defineConfig({
   base: process.env.VITEPRESS_BASE ?? '/',
   cleanUrls: true,
   lastUpdated: true,
+  sitemap: {
+    hostname: 'https://wiki.mume.org'
+  },
 
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/img/Main_Gandalf.png' }],
