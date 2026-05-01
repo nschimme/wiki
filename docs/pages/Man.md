@@ -4,7 +4,7 @@ title: Man
 description: 'the most varied of the races. While one may be kind and gentle, another'
 tags:
   - Playable races
-aliases: "Men"]
+aliases: ["Men"]
 ---
 ![Aragorn As with our own world, **man** is
 the most varied of the races. While one may be kind and gentle, another
@@ -17,7 +17,7 @@ having left their birthplace of Hildórien and traveled westward
 following the sun. In the ages since their awakening, men have built
 fortresses to guard against evil ranging from the northern wastes to the
 gates of Mordor as well as populated areas as far
-as the [Lonely Mountain](./Lonely_Mountain.md).
+as the Lonely Mountain.
 
 Men are divided into a number of subraces, the most notable of those
 being [Beornings](./Beorning.md) and [Black

@@ -4,7 +4,7 @@ title: Orc
 description: 'Goblins, are foul creatures that were created by Morgoth in the'
 tags:
   - Playable races
-aliases: "Uruk-Tarkhnarb"]
+aliases: ["Uruk-Tarkhnarb"]
 ---
 ![Uruk-hai **Orcs**, also known as
 **Goblins**, are foul creatures that were created by Morgoth in the

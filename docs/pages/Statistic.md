@@ -2,7 +2,7 @@
 
 title: Statistic
 description: 'Strength redirects here. For the spell with the same name, see'
-aliases: "Strength"]
+aliases: ["Strength"]
 ---
 
 *Strength redirects here. For the spell with the same name, see

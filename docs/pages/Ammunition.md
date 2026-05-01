@@ -8,7 +8,7 @@ There are various types of **ammunition** found in
 
 ## Arrows
 
-Arrows are used by [bows](/pages/Missile#Longbow.md).
+Arrows are used by [bows](./Missile_weapon.md).
 
 - [silver-tipped arrow](./Silver-tipped_arrow.md) - Effective vs.
   undead.
@@ -19,7 +19,7 @@ Arrows are used by [bows](/pages/Missile#Longbow.md).
 
 ## Bolts
 
-Bolts are used by [crossbows](/pages/Missile#Crossbows.md).
+Bolts are used by [crossbows](./Missile_weapon.md).
 
 - [blackened bolt](./Blackened_bolt.md)
 - [bolt](./Bolt.md)
@@ -27,7 +27,7 @@ Bolts are used by [crossbows](/pages/Missile#Crossbows.md).
 
 ## Stones
 
-Stones are used by [slings](/pages/Missile#Slings.md).
+Stones are used by [slings](./Missile_weapon.md).
 
 - [round stone](./Round_stone.md)
 

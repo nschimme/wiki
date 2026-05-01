@@ -10,9 +10,9 @@ Heaven', or 'Starry-dome' (El = Star ; Rod/Rond = domed roof). (See
 also: 'The Lhamas' -
 Tolkien's linguistic
 dictionary, in [book
-five](./wikipedia:en:The_Lost_Road_and_Other_Writings.md) of the
+five](https://en.wikipedia.org/wiki/The_Lost_Road_and_Other_Writings) of the
 *[The History of
-Middle-earth](./wikipedia:en:The_History_of_Middle-earth.md)*
+Middle-earth](https://en.wikipedia.org/wiki/The_History_of_Middle-earth)*
 series, Part V, Section 2.)
 
 Though it is preferred that you attempt to translate your name into

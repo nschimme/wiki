@@ -1,0 +1,8 @@
+services:
+  wiki:
+    build:
+      context: .
+      args:
+        VITEPRESS_BASE: /
+    ports:
+      - "4173:80"

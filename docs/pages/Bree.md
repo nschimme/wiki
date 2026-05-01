@@ -8,7 +8,7 @@ In the small area of Bree-Land there are four villages; Archet, Staddle,
 Combe and the chief village, **Bree**.
 
 It is the home of both [Hobbits](./Hobbit.md) and
-[Humans](./Human.md), who share the community and live peacefully
+[Humans](./Man.md), who share the community and live peacefully
 together, the only place in [Middle-earth](./Location)
 where such an arrangement exists.
 

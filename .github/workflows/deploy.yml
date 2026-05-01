@@ -38,9 +38,7 @@ jobs:
       - name: Determine Base URL
         id: base_url
         run: |
-          if [ -f docs/public/CNAME ]; then
-            echo "base=/" >> $GITHUB_OUTPUT
-          elif [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
+          if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
             echo "base=/" >> $GITHUB_OUTPUT
           else
             echo "base=/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
@@ -194,25 +192,10 @@ jobs:
                 const repo = context.repo.repo;
                 let baseUrlPath = process.env.BASE_URL_PATH;
 
-                // Normalization for owner.github.io repos without CNAME
-                if (repo === `${owner}.github.io` && (baseUrlPath === `/${repo}/` || !baseUrlPath)) {
-                  baseUrlPath = '/';
-                }
-
                 let base = `https://${owner}.github.io`;
 
-                const cnamePath = path.join('docs', 'public', 'CNAME');
-                if (fs.existsSync(cnamePath)) {
-                  const domain = fs.readFileSync(cnamePath, 'utf8').trim();
-                  if (domain) {
-                    base = `https://${domain}`;
-                  }
-                } else {
-                  // If no CNAME, we are on github.io/{repo}/
-                  // Ensure baseUrlPath has leading slash and trailing slash for consistency before joining
-                  const normalizedPath = baseUrlPath.startsWith('/') ? baseUrlPath : `/${baseUrlPath}`;
-                  base = `${base}${normalizedPath}`.replace(/\/$/, '');
-                }
+                const normalizedPath = baseUrlPath.startsWith('/') ? baseUrlPath : `/${baseUrlPath}`;
+                base = `${base}${normalizedPath}`.replace(/\/$/, '');
 
                 const url = `${base}/pr-${pr.number}/`;
                 console.log(`Deployment URL for PR #${pr.number}: ${url}`);
