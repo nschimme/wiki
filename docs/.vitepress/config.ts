@@ -80,6 +80,15 @@ export default defineConfig({
     search: {
       provider: 'local',
       options: {
+        _render(src, env, md) {
+          const html = md.render(src, env)
+          if (env.frontmatter?.search === false) return ''
+          if (env.relativePath.startsWith('pages/')) {
+            // Keep only headings for wiki pages to save index size
+            return html.replace(/<(p|ul|ol|table|pre|blockquote).*?<\/\1>/gs, '')
+          }
+          return html
+        },
         miniSearch: {
           searchOptions: {
             fuzzy: 0.2,
