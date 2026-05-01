@@ -11,8 +11,8 @@ will wander around when not being led or ridden, and
 may also decide to sit down and [rest](./Rest.md) when they're
 [tired](./Movement_points.md). As such, players would usually be
 better off choosing a more reliable mount such as a [pack
-horse](./Pack_horse.md) or mountain
-mule.
+horse](./Pack_horse.md) or [mountain
+mule](/pages/Mounts).
 
 `A beautiful and docile horse is standing here.`
 `>`**`examine horse`**

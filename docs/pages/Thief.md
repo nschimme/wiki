@@ -54,8 +54,8 @@ only shoot when faced with stronger opponents to avoid the
 Backstab does not work well until you have it at very high skill levels,
 so don't bother practising it until you're ready to put the maximum
 number of practices into it. It's probably not worth using until you're
-at least level 18(?) or so. Missile
-weapons are a better option until then.
+at least level 18(?) or so. [Missile
+weapons](/pages/Missile) are a better option until then.
 
 #### Shoot/flee
 

@@ -3,10 +3,10 @@ title: Quest
 description: 'Several mobiles on MUME offer'
 ---
 
-Several mobiles](./Mobile.md) on MUME](./MUME.md) offer
+Several [mobiles](./Mobile.md) on [MUME](./MUME.md) offer
 **quests** of varying levels to be solved. This can range from killing a
 certain monster, delivering a rare item to repairing something. As a
-reward, sometimes a herblore](./Herblore.md) will be offered, a
+reward, sometimes a [herblore](./Herblore.md) will be offered, a
 rare item or a (temporary) skill boost.
 
 These quests are usually offered, although in some cases you will need
@@ -216,7 +216,7 @@ to him. Perhaps you can help him out?
   tell you that birch trees drove him out of his home. He left behind a
   bowl, and asks your help in retrieving
   it. You will need to get a large [tree
-  branch, and head to the
+  branch](/pages/Weapon), and head to the
   clearing southwest of where Beechbone is. Enter his ruined home and
   use the tree branch to lift up one of the large jars ('lever jar'). Go
   down, reveal the bowl, and return it to Beechbone.
@@ -283,7 +283,7 @@ impress a woman he loves.
 - Quest: When you enter the shop, the herbalist will mention something
   about a ring or a belt. Ask him about the item, and he will explain.
   He will only accept a magical [ring](./Ring.md) or a [gleaming
-  belt.
+  belt](/pages/Armour).
 - Reward: upgraded [herbal kit](./Herbal_kit.md)
 
 ### Snake Hunt
@@ -308,7 +308,7 @@ fallen ill.
 - Quest: Nod when the herbalist asks you for help. Listen to his
   instructions on where to find ragwort,
   hawkweed and [wood
-  anemone, and retrieve the herbs.
+  anemone](/pages/Herb), and retrieve the herbs.
 - Reward: [herbal kit](./Herbal_kit.md),
   [athelas](Herb#Athelas_(Kingsfoil) "wikilink") leaves, ??? xp.
 
