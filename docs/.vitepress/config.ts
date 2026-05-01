@@ -180,7 +180,7 @@ export default defineConfig({
               if (index !== -1) {
                 const before = index > 0 ? text[index - 1] : ' ';
                 const after = index + term.length < text.length ? text[index + term.length] : ' ';
-                if (/\w/.test(before) || /\w/.test(after)) continue;
+                if (/[\w-]/.test(before) || /[\w-]/.test(after)) continue;
 
                 if (bestMatch === null || term.length > bestMatch.length) {
                   bestMatch = term;
@@ -217,7 +217,9 @@ export default defineConfig({
                 newTokens.push(tAfter);
               }
               children.splice(i, 1, ...newTokens);
-              i += newTokens.length - 1;
+              // -2 so that after the loop's i++, we land on the afterText node
+              // and can process it for additional auto-links
+              i += newTokens.length - 2;
             }
           }
         }

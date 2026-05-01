@@ -4,6 +4,7 @@ description: 'Guide Camping and Campfires and Cooking in MUME'
 tags:
   - Guides
   - Newbie Help
+aliases: ["Newbie Guide Campfires"]
 ---
 **Guide Camping and Campfires and Cooking in MUME**
 

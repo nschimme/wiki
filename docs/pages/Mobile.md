@@ -1,6 +1,7 @@
 ---
 title: Mobile
 description: 'PC is sometimes used as a short form of Player Character, which simply'
+aliases: ["Mobiles", "mob", "mobs", "NPC", "NPCs"]
 ---
 
 PC is sometimes used as a short form of Player Character, which simply

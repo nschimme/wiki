@@ -12,7 +12,7 @@ the great forests had dwindled, and so had the Ents, but they were still
 to be found in [Fangorn](./Fangorn.md) Forest.
 
 In [MUME](./MUME.md), Ents are [plant](./Plant.md)-type
-[mobiles](./Mobile.md). Just like in the books, they are found
+mobiles. Just like in the books, they are found
 within Fangorn. While not normally aggressive towards white-side
 players, they will be angered if you attack them, or if they see you
 [casting](./Cast.md) fire or lightning [spells](./Spell.md).

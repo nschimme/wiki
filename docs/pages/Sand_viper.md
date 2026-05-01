@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Sand vipers** are aggressive [level](./Level.md) \<10
-[mobiles](./Mobile.md), found mostly in the hills south of
+mobiles, found mostly in the hills south of
 [Bree](./Bree.md). They can [sneak](./Sneak.md).
 
 `A sand viper is slithering here on the ground.`

@@ -7,7 +7,7 @@ description: 'Sleep is a level 14 mage'
 [spell](./Spell.md). If successfully [cast](./Cast.md) on a
 creature, it will fall asleep and be unable to awake for some time.
 Sleep is primarily used to deactivate tough
-[mobiles](./Mobile.md). It can also be used on players. Use on
+mobiles. It can also be used on players. Use on
 players is uncommon since it is such a long casting time, unless they
 [store](./Store.md) it. Many characters also have a good will
 defence to protect them.

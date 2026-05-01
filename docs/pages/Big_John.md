@@ -8,7 +8,7 @@ tags:
 **Big John** is the leader of a group of
 [smugglers](./Smuggler.md) based in a cave system about halfway
 between [Bree](./Bree.md) and [Tharbad](./Tharbad.md). He is
-an aggressive level ? [mob](./mob.md). He can
+an aggressive level ? mob. He can
 [sneak](./Sneak.md). He loads 1 [gold](./Gold.md), a
 [woodsman's axe](./Woodsman's_axe.md), a [lute](./Lute.md),
 and some leather equipment.

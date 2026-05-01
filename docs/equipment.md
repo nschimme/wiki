@@ -65,7 +65,7 @@ Understanding how your gear works:
 
 - [**Quest Items**](./pages/Quest_items.md)
 - [**Legend Equipment**](./pages/Legend_Home_Equipment.md)
-- [**Containers**](./pages/Containers.md)
+- [**Containers**](./pages/Container.md)
 - [**Plants & Herbs**](./pages/Herb.md)
 - [**Food & Drink**](./pages/Food_&_Drink.md)
 

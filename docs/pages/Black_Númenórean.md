@@ -4,7 +4,7 @@ title: Black Númenórean
 description: 'Men of Númenórean descent corrupted by Sauron, wandering the far southern lands as enemies of the Free Peoples.'
 tags:
   - Playable races
-aliases: ["Black Númenorean", "Black numenorian", "Bn"]
+aliases: ["Black Númenorean", "Black Numenorean", "Bn"]
 ---
 
 ![The_Mouth_of_Sauron](/img/The_Mouth_of_Sauron.jpg) The origin of

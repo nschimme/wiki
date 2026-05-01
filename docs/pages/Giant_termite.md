@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Giant termites** are aggressive [level](./Level.md) 11
-[mobiles](./Mobile.md) found in various locations around
+mobiles found in various locations around
 [Arda](./Arda.md), often within hollowed-out trees and accompanied
 by [small termites](./Small_termite.md).
 

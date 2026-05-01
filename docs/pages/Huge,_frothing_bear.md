@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Huge, frothing bears** are aggressive [level](./Level.md) ~14
-[mobiles](./Mobile.md), found mostly in the vale of Anduin.
+mobiles, found mostly in the vale of Anduin.
 
 `A huge black bear, saliva frothing from its jaws, bellows a challenge.`
 `>`**`examine bear`**

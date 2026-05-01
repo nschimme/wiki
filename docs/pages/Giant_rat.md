@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Giant rats** are aggressive [level](./Level.md) 2
-[mobiles](./Mobile.md) found in various locations around Arda,
+mobiles found in various locations around Arda,
 commonly in cellars or abandoned buildings. 3
 [corpses](./Corpse.md) of giant rats are needed to complete the
 [rat infestation](./Quest#Rat_Infestation.md) quest in [Tower

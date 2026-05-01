@@ -4,7 +4,7 @@ description: 'When fighting mobs or players in MUME there is a'
 tags:
   - Help files
 ---
-When fighting [mobs](./mob.md) or players in MUME there is a
+When fighting mobs or players in MUME there is a
 chance you may inflict or receive **wounds** if the blow is forceful
 enough. The resulting bleeding may subsequently make it difficult to
 perform common delayed tasks such as [tracking](./Track.md) or

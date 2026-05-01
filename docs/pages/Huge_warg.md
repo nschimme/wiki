@@ -4,7 +4,7 @@ description: 'Huge wargs are aggressive level ~13-14 mobs found'
 tags:
   - Mobiles
 ---
-**Huge wargs** are aggressive level ~13-14 [mobs](./mob.md) found
+**Huge wargs** are aggressive level ~13-14 mobs found
 mostly in the eastern parts of [Arda](./Arda.md). They can
 [track](./Track.md), and their [corpses](./Corpse.md) can be
 [butchered](./Butcher.md) to produce a [warg

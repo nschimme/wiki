@@ -4,22 +4,31 @@ Community wiki and guide to [Multi-Users in Middle-earth](https://mume.org/) —
 
 ## Contributing
 
-See [AGENTS.md](AGENTS.md) for full editing instructions.
+### Non-coders (edit via GitHub)
 
-**Quick steps:**
-1. Fork this repo
-2. Edit or add pages in [`docs/pages/`](docs/pages/)
-3. Test locally: `npm install && npm run docs:dev`
-4. Open a pull request — a preview will be available in the GitHub interface once approved by a maintainer
+1. Browse to any page in [`docs/pages/`](docs/pages/) on GitHub
+2. Click the pencil icon (Edit this file)
+3. Make your changes and click **Commit changes** → **Create a new branch and pull request**
+4. A preview build will be triggered automatically; a maintainer will review and merge
 
-## Local development
+### Coders (local development)
 
 ```bash
 npm install
-npm run docs:dev      # http://localhost:5173
-npm run docs:build    # production build
-npm run docs:preview  # preview production build
+npm run docs:dev      # dev server at http://localhost:5173 (hot reload)
+npm run docs:build    # production build — must exit 0 before opening a PR
 ```
+
+#### Exact CI parity (Docker / Podman)
+
+To reproduce the GitHub Actions environment exactly before pushing:
+
+```bash
+docker compose up --build   # or: podman compose up --build
+# site served at http://localhost:4173
+```
+
+This runs Node 22-alpine, `npm ci`, and `npm run docs:build` — the same steps as the deploy workflow.
 
 ## Tech stack
 

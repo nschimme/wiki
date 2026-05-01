@@ -11,6 +11,13 @@ npm run docs:build    # production build → docs/.vitepress/dist/
 npm run docs:preview  # preview the production build locally
 ```
 
+To reproduce the CI environment exactly (Node 22, same `npm ci` + build flags):
+
+```bash
+docker compose up --build   # or: podman compose up --build
+# site served at http://localhost:4173
+```
+
 ## Adding or editing pages
 
 All wiki pages live in [`docs/pages/`](docs/pages/). Each is a standard Markdown file with YAML frontmatter:
@@ -110,6 +117,8 @@ Key facts for agents:
 - Build command: `npm run docs:build`
 - Dev server: `npm run docs:dev`
 - No test suite — verify with `npm run docs:build` (must exit 0)
+- `ignoreDeadLinks: false` in VitePress config — dead links cause the build to fail; fix them, don't disable the check
+- CI environment: Node 22, `git` required (VitePress uses it for last-modified dates); use `Dockerfile`/`docker-compose.yml` to replicate locally
 
 ## Running the migration script
 

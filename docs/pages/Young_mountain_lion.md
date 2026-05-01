@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Young mountain lions** are passive [level](./Level.md) 12
-[mobiles](./Mobile.md) found mainly in the mountains around [Grey
+mobiles found mainly in the mountains around [Grey
 Havens](./Grey_Havens.md). They can [sneak](./Sneak.md).
 Their [corpses](./Corpse.md) can be
 [butchered](./Butcher.md) to produce a [fine lion

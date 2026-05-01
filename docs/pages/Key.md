@@ -1,6 +1,7 @@
 ---
 title: Key
 description: 'Keys are items that can be used to'
+aliases: ["Keys"]
 ---
 
 **Keys** are [items](./Item.md) that can be used to

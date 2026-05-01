@@ -23,6 +23,6 @@ It weighs half a pound.
 
 Can only hold money and gems and can contain up to 100 gold coins.
 Putting your gold in a moneybag prevents it from being
-[stolen](./Steal.md) by [mobiles](./Mobile.md).
+[stolen](./Steal.md) by mobiles.
 
 <!--@include: ../includes/Items.md-->

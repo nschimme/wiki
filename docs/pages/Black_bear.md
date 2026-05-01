@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Black bears** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) 13 [mobiles](./Mobile.md) found in
+[level](./Level.md) 13 mobiles found in
 various places around [Arda](./Arda.md), often
 [hibernating](./Sleep.md) in caves. Their
 [corpses](./Corpse.md) can be [butchered](./Butcher.md) to

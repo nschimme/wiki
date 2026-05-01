@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Diminutive rogues** are aggressive [level](./Level.md) ?
-[mobiles](./Mobile.md) found in [Malardil's
+mobiles found in [Malardil's
 Castle](/pages/Malardil). They can
 [sneak](./Sneak.md). They load with 8 silver,
 a [piercing weapon](./Piercing_weapon.md), a

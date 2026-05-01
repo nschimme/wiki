@@ -46,7 +46,7 @@ A: Type 'equipment' (or 'eq') to see what you
 are wearing and wielding. Type '[inventory](./Inventory.md)' (or
 'i') to see what you are carrying around with you. If you have too many
 things, you won't be able to pick up stuff, but you can put things in
-[sacks](/pages/Containers), backpacks, pouches, etc.
+[sacks](/pages/Container), backpacks, pouches, etc.
 
 You look in your sack by typing '[examine](./Examine.md) sack'.
 You get a biscuit out of your sack by typing '[get](./Get.md)

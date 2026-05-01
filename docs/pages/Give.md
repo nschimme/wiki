@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 The **give** command transfers objects between characters and
-[mobiles](./Mobile.md).
+mobiles.
 
 Examples:
 

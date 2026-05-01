@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Swift bucks** are passive [level](./Level.md) ~3
-[mobiles](./Mobile.md), common in the area near [Blue
+mobiles, common in the area near [Blue
 Mountains](./Blue_Mountains.md). Their corpses can be butchered
 for a [fine pelt](./Fine_pelt.md) and some
 [meat](./Meat.md).

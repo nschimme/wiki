@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Grizzly bears** are aggressive [level](./Level.md) 15
-[mobiles](./Mobile.md), found in various locations around
+mobiles, found in various locations around
 [Arda](./Arda.md), particularly in the area north of [Grey
 Havens](./Grey_Havens.md). They are usually accompanied by a few
 [grizzly cubs](./Grizzly_cub.md). Their

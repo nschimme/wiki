@@ -5,7 +5,7 @@ tags:
   - Commands
   - Basics
 ---
-Mounts are [mobiles](./mobiles.md) that can be lead and ridden to
+Mounts are mobiles that can be lead and ridden to
 help you to move further without getting tired or to carry extra
 equipment.
 
@@ -19,7 +19,7 @@ with them.
 
 The [ride](/pages/Ride) skill is a [ranger](./General.md)
 [skill](./Skill.md) that allows one to efficiently ride certain
-rideable [mobiles](./mobiles.md), like horses.
+rideable mobiles, like horses.
 
 Riding will lower the amount of [movement
 points](./Movement_points.md) you need while travelling and your

@@ -5,7 +5,7 @@ tags:
   - Mobiles
   - Mobiles with unknown level
 ---
-**Highwaymen** are level ? [mobiles](./Mobile.md) who accompany
+**Highwaymen** are level ? mobiles who accompany
 [Morthan Blacksoul](./Morthan_Blacksoul.md) at the obstruction in
 [Greenway](./Greenway.md). While not initially aggressive, they
 will remember if you've attacked them or any of their allies and become

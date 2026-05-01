@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Small termites** are aggressive [level](./Level.md) 1
-[mobiles](./Mobile.md) found in various locations around
+mobiles found in various locations around
 [Arda](./Arda.md), often within hollowed-out trees.
 
 `A small termite is running around making strange sounds.`

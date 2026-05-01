@@ -6,7 +6,7 @@ tags:
   - Mobiles with unknown level
 ---
 **Rogues** are aggressive [level](./Level.md) ?
-[mobiles](./Mobile.md) found in [Malardil's
+mobiles found in [Malardil's
 castle](/pages/Malardil). They can
 [sneak](./Sneak.md) and [backstab](./Backstab.md). They load
 with 7 silver and 50 copper, a

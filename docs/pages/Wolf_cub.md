@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Wolf cubs** are passive [level](./Level.md) ~1-2
-[mobiles](./Mobile.md), found in various locations around
+mobiles, found in various locations around
 [Arda](./Arda.md). They will attempt to [flee](./Flee.md)
 when low on health.
 

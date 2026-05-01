@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Dreadful snakes** are aggressive [level](./Level.md) ~10
-[mobiles](./Mobile.md) found in various locations around
+mobiles found in various locations around
 [Arda](./Arda.md), notably in the [Grey
 Havens](./Grey_Havens.md) area.
 

@@ -13,7 +13,7 @@ damage. It is of medium speed, uses a minor amount of
 [mana](./Mana.md), causes much damage, and it is
 [storable](./Store.md), all this makes it a common spell in both
 [player killing](./Player_killing.md) and against
-[mobiles](./Mobile.md). [Legend](./Legend.md) mages can
+mobiles. [Legend](./Legend.md) mages can
 usually store 2 fireballs.
 
 Both good races and [Black Númenóreans](./Black_Númenórean.md) can

@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Giant slugs** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) 9 [mobiles](./Mobile.md), found in
+[level](./Level.md) 9 mobiles, found in
 various locations around [Arda](./Arda.md). They have an acid
 attack that can [damage](./State.md) equipment.
 

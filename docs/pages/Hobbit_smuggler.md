@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Hobbit smugglers** are passive [level](./Level.md) 5
-[mobiles](./Mobile.md), found in the [Pipeweed Smuggler's
+mobiles, found in the [Pipeweed Smuggler's
 Hideout](/pages/Shire) in the
 [Shire](./Shire.md). They can [sneak](./Sneak.md). They load
 with a [stiletto](./Stiletto.md), a [ring](./Ring.md) and

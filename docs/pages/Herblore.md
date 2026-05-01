@@ -6,7 +6,7 @@ tags:
 ---
 A **herblore** is a recipe that will provide you with a potion or other
 item to help you in your travels. They can be learnt by helping certain
-[mobiles](./Mobile.md) or by reading an ancient scroll or book. To
+mobiles or by reading an ancient scroll or book. To
 make them, you must have the [items](./Herb.md) specified in the
 herblore instructions, a herbal kit and you must have acquired the lore.
 

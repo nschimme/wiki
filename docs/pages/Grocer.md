@@ -7,7 +7,7 @@ tags:
 **Grocers** tend to groceries and general stores in
 [Bree](./Bree.md), [Fornost](./Fornost.md) and
 [Tharbad](./Tharbad.md). They are [level](./Level.md) ~16-17
-[mobiles](./Mobile.md).
+mobiles.
 
 `A large grocer is here, waiting to buy or sell some goods.`
 `>`**`examine grocer`**

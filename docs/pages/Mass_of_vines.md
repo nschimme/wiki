@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Masses of vines** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) 11 [mobiles](./Mobile.md), found in
+[level](./Level.md) 11 mobiles, found in
 various locations around [Arda](./Arda.md), mostly in forests.
 
 `A mass of wriggling vines drops on you from the trees.`

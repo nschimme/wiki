@@ -3,7 +3,7 @@ title: Quest
 description: 'Several mobiles on MUME offer'
 ---
 
-Several [mobiles](./Mobile.md) on [MUME](./MUME.md) offer
+Several mobiles on [MUME](./MUME.md) offer
 **quests** of varying levels to be solved. This can range from killing a
 certain monster, delivering a rare item to repairing something. As a
 reward, sometimes a [herblore](./Herblore.md) will be offered, a

@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Mountain lionesses** are aggressive [level](./Level.md) 13
-[mobs](./mob.md) found mainly in the mountains around [Grey
+mobs found mainly in the mountains around [Grey
 Havens](./Grey_Havens.md). They can [sneak](./Sneak.md).
 Their corpses can be butchered to produce a [fine lion
 pelt](./Fine_lion_pelt.md) and some [meat](./Meat.md).

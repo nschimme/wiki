@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Spirit-soldiers** are aggressive level ~14
-[mobiles](./Mobile.md) found in [Old
+mobiles found in [Old
 Fornost](./Old_Fornost.md). They are incorporeal. They load with a
 [weapon](./Weapon.md), and will also pick up items from ground.
 

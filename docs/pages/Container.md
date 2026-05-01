@@ -1,6 +1,7 @@
 ---
 title: Container
 description: 'Containers allow you to organize your items. Some containers can be'
+aliases: ["Containers"]
 ---
 
 **Containers** allow you to organize your items. Some containers can be

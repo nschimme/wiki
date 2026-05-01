@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Mottled snakes** are aggressive [level](./Level.md) ~10-13
-[mobiles](./Mobile.md). They have a poisonous bite, and can
+mobiles. They have a poisonous bite, and can
 [sneak](./Sneak.md).
 
 `A mottled snake is sneaking here, ready to sink its fangs into flesh.`

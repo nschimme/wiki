@@ -62,7 +62,7 @@ weapons](./Missile_weapon.md) are a better option until then.
 When playing scout early levels until 16 or so: practice sneak, get bow
 and war arrows or ash arrows. Some absorb equipment - fine rigid leather
 is a great start. Sneak on, enter room with
-[mobiles](./mobiles.md), shoot a mob, flee. Wait for sneak to be
+mobiles, shoot a mob, flee. Wait for sneak to be
 available again (big S in prompt and a message if previously small s in
 prompt). Enter again, shoot the mob again, flee. After it dies recover
 or get the arrows, repeat for the other mobs. Bows do a tons of damage,

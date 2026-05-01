@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 Experienced **smugglers** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) ~11-12 [mobiles](./Mobile.md) found in
+[level](./Level.md) ~11-12 mobiles found in
 various places across [Arda](./Arda.md), especially common in the
 areas near [Tharbad](./Tharbad.md). They load 15
 [silver](./Gold.md), a sword and some cloth equipment.

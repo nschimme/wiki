@@ -4,7 +4,7 @@ description: 'Ferocious wargs are aggressive level ~11-12 mobs'
 tags:
   - Mobiles
 ---
-**Ferocious wargs** are aggressive level ~11-12 [mobs](./mob.md)
+**Ferocious wargs** are aggressive level ~11-12 mobs
 found mostly in the eastern parts of [Arda](./Arda.md). They can
 [track](./Track.md). Their [corpses](./Corpse.md) can be
 [butchered](./Butcher.md) to produce a [warg

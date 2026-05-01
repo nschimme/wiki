@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Skeletal warriors** are aggressive level ~14
-[mobiles](./Mobile.md) found in old [Fornost](./Fornost.md)
+mobiles found in old [Fornost](./Fornost.md)
 as well as summoned by the
 [Necromancer](./Super_Mobile#Necromancer.md). They can
 [kick](./Kick.md). They load a weapon, usually a

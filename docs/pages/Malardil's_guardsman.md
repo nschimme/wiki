@@ -6,7 +6,7 @@ tags:
   - Mobiles with unknown level
 ---
 **Malardil's guardsmen** are aggressive [level](./Level.md) ?
-[mobiles](./Mobile.md) found in [Malardil's
+mobiles found in [Malardil's
 castle](/pages/Malardil). They load with 5
 silver, a [slashing
 weapon](./Slashing_weapon.md), a [shield](./Shield.md), a

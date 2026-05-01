@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 The "**protect**" command is used to select a
-number of people (players or [mobiles](./Mobile.md)) that you will
+number of people (players or mobiles) that you will
 try to protect from attacks.
 
 When someone tries to [hit](./Hit.md) one of those in your

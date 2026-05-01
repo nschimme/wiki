@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Young ruffians** are aggressive [level](./Level.md) ~2-3
-[mobiles](./Mobile.md). They can be found on the plateau
+mobiles. They can be found on the plateau
 overlooking the road to [Grey Havens](./Grey_Havens.md) on the
 eastern edge of the [Tower Hills](./Tower_Hills.md). They load 70
 [copper](./Gold.md), a [cudgel](./Cudgel.md) and some basic

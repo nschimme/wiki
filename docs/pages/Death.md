@@ -34,7 +34,7 @@ More precisely:
 - You suffer pk-death if you die when \*an Enemy\* is present, or soon
   after you encountered \*enemies\*, or soon after you received massive
   damage from a PC; no matter what the actual cause of death is. This
-  means, if you drown, fall, or get whacked by a [mob](./mob.md)
+  means, if you drown, fall, or get whacked by a mob
   while escaping \*an Enemy\*, it is considered pk death. "Soon" and
   "while" depend on the specific conditions: on how many enemies you
   met, on how badly they wounded you, and so on.

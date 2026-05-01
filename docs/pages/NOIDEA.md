@@ -84,7 +84,7 @@ implementors) and ruled to never appear as long as they draw breath:
 ## Equipment
 
 - Being able to buy heals or healing spells from
-  clerical-[mobiles](./Mobile.md)
+  clerical-mobiles
 
 <!-- -->
 

@@ -24,6 +24,6 @@ It weighs a couple of pounds.
 ## Other
 
 Can be looted from [Nagrorh](./Nagrorh.md) and some other evil
-caster [mobs](./mob.md).
+caster mobs.
 
 <!--@include: ../includes/Items.md-->

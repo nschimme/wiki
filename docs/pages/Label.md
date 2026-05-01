@@ -6,7 +6,7 @@ tags:
   - Help files
 ---
 With the **label** command, you can attach labels to characters or
-[mobs](./mob.md). These labels can be used as keywords to identify
+mobs. These labels can be used as keywords to identify
 them (when they are in the [room](./room.md)), and labels show
 within parentheses after the character's name when you see it.
 
