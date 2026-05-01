@@ -12,7 +12,7 @@
       </p>
 
       <div class="not-found-actions">
-        <button class="action-btn primary" @click="openSearch">
+        <button class="action-btn primary" @click="openSearch()">
           Search for "{{ pageName || 'this topic' }}"
         </button>
 
@@ -23,7 +23,7 @@
           rel="noopener"
           class="action-btn secondary"
         >
-          Create this page on GitHub
+          Create page via Pull Request
         </a>
         <a
           v-else
@@ -32,10 +32,13 @@
           rel="noopener"
           class="action-btn secondary"
         >
-          Create a new page on GitHub
+          Create page via Pull Request
         </a>
 
-        <a href="/" class="action-btn ghost">Return to Home</a>
+        <div class="not-found-nav">
+          <button @click="goBack" class="action-btn ghost">Go Back</button>
+          <a href="/" class="action-btn ghost">Return to Home</a>
+        </div>
       </div>
 
       <p class="not-found-hint">
@@ -77,35 +80,60 @@ const createUrl = computed(() => {
   return `https://github.com/${editRepo}/new/${editBranch}/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
 })
 
+function goBack() {
+  if (inBrowser) window.history.back()
+}
+
 function openSearch() {
   if (!inBrowser) return
-  // Open VitePress local search modal
-  const btn = document.querySelector<HTMLElement>('.VPNavBarSearch button, .search-root button')
-  if (btn) {
-    btn.click()
-    // Pre-fill the search input after the modal opens
-    setTimeout(() => {
-      const input = document.querySelector<HTMLInputElement>('#localsearch-input, .VPLocalSearchBox input[type="search"]')
-      if (input && pageName.value) {
-        input.value = pageName.value
-        input.dispatchEvent(new Event('input', { bubbles: true }))
-        input.focus()
-      }
-    }, 80)
+  // Try to find the search button and trigger it
+  const selectors = ['.VPNavBarSearch button', '.DocSearch-Button', '.search-root button']
+  for (const s of selectors) {
+    const btn = document.querySelector<HTMLElement>(s)
+    if (btn) {
+      btn.click()
+      // Pre-fill the input if it's already there or appears quickly
+      setTimeout(() => {
+        const input = document.querySelector<HTMLInputElement>('#localsearch-input, .VPLocalSearchBox input[type="search"]')
+        if (input && pageName.value) {
+          input.value = pageName.value
+          input.dispatchEvent(new Event('input', { bubbles: true }))
+          input.focus()
+        }
+      }, 100)
+      return
+    }
   }
+  // Fallback to keyboard shortcut
+  window.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', ctrlKey: true }))
 }
 
 onMounted(() => {
   if (!inBrowser) return
-  const path = window.location.pathname
-  // Strip base prefix, then get last meaningful segment
-  const base = (site.value.base ?? '/').replace(/\/$/, '')
-  const stripped = base ? path.replace(base, '') : path
-  const slug = stripped.split('/').filter(Boolean).pop()?.replace(/\.html$/, '') ?? ''
+
+  // Get last meaningful segment from URL path
+  const segments = window.location.pathname.split('/').filter(Boolean)
+  let slug = ''
+  for (let i = segments.length - 1; i >= 0; i--) {
+    const s = segments[i].replace(/\.html$/, '')
+    // Ignore common infrastructure segments
+    if (s && s !== '404' && s !== 'wiki' && !/^pr-\d+$/.test(s)) {
+      slug = s
+      break
+    }
+  }
+
   rawSlug.value = decodeURIComponent(slug).replace(/[_-]/g, ' ')
   pageName.value = rawSlug.value
     ? rawSlug.value.charAt(0).toUpperCase() + rawSlug.value.slice(1)
     : ''
+
+  // Automatically trigger search if a page name was found
+  if (pageName.value) {
+    setTimeout(() => {
+      openSearch()
+    }, 500)
+  }
 })
 </script>
 
@@ -155,6 +183,15 @@ onMounted(() => {
   gap: 0.75rem;
   align-items: center;
   margin-bottom: 2rem;
+}
+
+.not-found-nav {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.not-found-nav .action-btn {
+  min-width: 116px;
 }
 
 .action-btn {
