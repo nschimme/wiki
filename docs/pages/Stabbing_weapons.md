@@ -11,7 +11,7 @@ The **stabbing weapons** [skill](./Skill.md) is a
 [warrior](./Warrior.md) skill and [weapon](./Weapon.md)
 class that applies to all spears and polearms, if they are wielded in
 one hand only. These weapons are particularly effective against
-[riding](/pages/Ride.md) enemies.
+[riding](/pages/Ride) enemies.
 
 If you are wielding a [stabbing weapon](./Stabbing_weapon.md), you
 are ready to fight, and an enemy tries to attack you with a shorter

@@ -41,7 +41,7 @@ quite a shock if you didn't read [FAQ2](./FAQ2.md).
   (not in combat)
 - [Shout](./Shout.md) - **Don't use!** 'narrate' and 'sing' are
   preferred
-- [Stat](/pages/Statistic.md) - Short form of 'Info' about combat and
+- Stat - Short form of 'Info' about combat and
   [level](./Level.md)
 - [View](./View.md) - Shows several topics to view information
   about
@@ -62,19 +62,19 @@ quite a shock if you didn't read [FAQ2](./FAQ2.md).
 - [Istari](./Istari.md) - Characters charged with helping newbies
 - [Justice](./Justice.md) - How the justice system works in a
   city
-- [Rules](/guides.md) - List of rules
+- Rules - List of rules
 - [Rules PK](./Rules_PK.md) - MUME allows but regulates player
   killing, with the player killing being towards enemy
   [races](./Race.md) such as Elves vs.
   [Orcs](./Orc.md)
-- Travel points - Travel points needed for
+- [Travel points](/pages/Newbie_Guide_Travel_Points) - Travel points needed for
   higher levels
 
 If you have a question try the FAQ's, then ask an Istar, a nearby
 player, or narrate for help.
 
-See also: [Newbie](/guides.md), [Basics](/guides.md),
+See also: Newbie, Basics,
 [FAQ1](./FAQ1.md), [FAQ2](./FAQ2.md),
 [FAQ3](./FAQ3.md), [FAQ4](./FAQ4.md),
 [FAQ5](./FAQ5.md), Features,
-[Rules](/guides.md)
+Rules

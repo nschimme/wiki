@@ -7,7 +7,7 @@ tags:
 ---
 **Malardil's guardsmen** are aggressive [level](./Level.md) ?
 [mobiles](./Mobile.md) found in [Malardil's
-castle](./Malardil's_castle.md). They load with 5
+castle](/pages/Malardil). They load with 5
 silver, a [slashing
 weapon](./Slashing_weapon.md), a [shield](./Shield.md), a
 [belt](./Plain_leather_belt.md), [lantern](./Lantern.md) and

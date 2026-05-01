@@ -18,12 +18,12 @@ The following FAQ files for new players are also available:
 - [FAQ2](./FAQ2.md) - Frequently Asked Questions, part 2:
   [renting](./Rent.md) at an inn
 - [FAQ3](./FAQ3.md) - Frequently Asked Questions, part 3: using
-  [equipment](/equipment.md)
+  equipment
 - [FAQ4](./FAQ4.md) - Frequently Asked Questions, part 4: hunting
   and [fishing](./Fish.md)
 - [FAQ5](./FAQ5.md) - Frequently Asked Questions, part 5:
   [mail](./Mail.md), [boards](./Board.md), books
 
-See also: [Newbie](/guides.md), [Basics](/guides.md),
+See also: Newbie, Basics,
 [Advanced](./Advanced.md), Features
  

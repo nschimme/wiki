@@ -6,7 +6,7 @@ tags:
 ---
 **Celebrindal** teaches [scout](./Thief.md)
 [skills](./Skill.md) at [Caras
-Galadhon](./Caras_Galadhon.md). She can be found wandering in the
+Galadhon](/pages/Lothlórien). She can be found wandering in the
 northern part of the city.
 
 `Celebrindal, Lady of the Galadhrim, is before you.`

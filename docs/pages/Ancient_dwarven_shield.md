@@ -33,6 +33,6 @@ dwarven shield is highly difficult to get. Despite being very heavy,
 it's weight is somewhat cancelled out by the lightweight properties of
 other equipment that loads alongside it. This is certainly a powerful
 shield, but it becomes even more so in it's corrupted form: a [defiled
-dwarven shield](./defiled_dwarven_shield.md)
+dwarven shield](/pages/Ancient_dwarven_shield)
 
 <!--@include: ../includes/Items.md-->

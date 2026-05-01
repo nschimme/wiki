@@ -6,7 +6,7 @@ tags:
 ---
 **Haldir** teaches [warrior](./Warrior.md)
 [skills](./Skill.md) at the **Peleryn of the Guards** in [Caras
-Galadhon](./Caras_Galadhon.md).
+Galadhon](/pages/Lothlórien).
 
 `Haldir the Elf is here.`
 `>`**`examine Haldir`**

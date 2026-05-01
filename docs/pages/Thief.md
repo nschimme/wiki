@@ -3,7 +3,7 @@ title: Thief
 description: 'For the mobile, see thief (mobile) "wikilink").'
 ---
 
-*For the mobile, see thief (mobile) "wikilink").*
+*For the mobile, see thief (mobile).*
 
 **Thieves** (or 'scouts') are known to have very special qualities that
 no other [class](./Class.md) offers. Many of these qualities can
@@ -54,8 +54,8 @@ only shoot when faced with stronger opponents to avoid the
 Backstab does not work well until you have it at very high skill levels,
 so don't bother practising it until you're ready to put the maximum
 number of practices into it. It's probably not worth using until you're
-at least level 18(?) or so. [Missile
-weapons](./Missile_weapons.md) are a better option until then.
+at least level 18(?) or so. Missile
+weapons are a better option until then.
 
 #### Shoot/flee
 
@@ -72,7 +72,7 @@ goes through if you don't get detected by a mob.
 #### Alternatives
 
 You could level up to 18 or so practiced and
-[equipped](/equipment.md) as a warrior/buffer, but with your
+equipped as a warrior/buffer, but with your
 thief stats, using [citizen mercenaries](./Citizen_mercenaries.md)
 for parry splitting, retire for 1 month and then get a practice reset
 and maybe an age reset. Or train off warrior skills and train up thief

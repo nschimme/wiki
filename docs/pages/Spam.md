@@ -16,7 +16,7 @@ What it does:
 - Won't show [room](./room.md) descriptions on
   '[look](./Look.md)'. They are still available typing the command
   '[examine](./Examine.md)'.
-- Won't show [ridden](/pages/Ride.md) mounts in a room (since they are
+- Won't show [ridden](/pages/Ride) mounts in a room (since they are
   already shown with their rider description). Mounts are shown on
   'examine'.
 - Missed fight messages are not sent EXCEPT the message of the first

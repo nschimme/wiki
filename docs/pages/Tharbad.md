@@ -16,7 +16,7 @@ power in that city of thieves.
 His decree follows:
 
 1\. If you wish to live in Tharbad you may [register as a
-citizen](./citizenship.md), upon payment of a small contribution.
+citizen](/pages/Rules_PK), upon payment of a small contribution.
 The secretary will calculate the amount when you ask him. Be aware that
 he is accompanied by guards who may still be impolite to you.
 

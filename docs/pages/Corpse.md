@@ -12,7 +12,7 @@ enemies and friends. You can also [bury](./Bury.md) corpses,
 with many other things you could do with the corpse of a fallen enemy.
 
 If you have died, you can try to retrieve your
-[equipment](/equipment.md), but be aware that corpses do decay
+equipment, but be aware that corpses do decay
 after some time. Rumour says this takes a bit longer than a full
 MUME-day.
 

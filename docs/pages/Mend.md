@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-After wear and tear, your [equipment](/equipment.md) will
+After wear and tear, your equipment will
 probably begin to become less effective. For instance, your prize
 enchanted [longsword](./Longsword.md) becomes dented. To restore
 it to its former glory, simply go to a [shop](./Shop.md) that

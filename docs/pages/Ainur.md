@@ -31,7 +31,7 @@ smaller groups.
 
 Newly created gods join the ranks of plain Maiar, also called
 boardreaders, since what they can do mostly consists of reading boards
-and handing out newbie kits.
+and handing out [newbie kits](/pages/Category:Newbie_Help).
 
 Helping with fixing typoes, trying out creating a test-zone and various
 other tasks promotes an Ainur to become a Cartographer. Getting your own

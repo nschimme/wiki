@@ -7,7 +7,7 @@ tags:
 **Orkish wolf-riders** are [level](./Level.md) ~12-13
 [mobiles](./Mobile.md), found mostly in the vale of Anduin. They
 are aggressive towards white-side players. They can
-[track](./Track.md), and usually spawn [riding](/pages/Ride.md)
+[track](./Track.md), and usually spawn [riding](/pages/Ride)
 brown wolves. They load with 1
 silver, a charging or slashing weapon, a
 [belt](./Belt.md), a [ring](./Ring.md) and some pieces of

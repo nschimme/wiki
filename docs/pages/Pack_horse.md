@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Pack horses** are [level](./Level.md) 6
-[rideable](/pages/Ride.md) [mobs](./mob.md), found in various
+[rideable](/pages/Ride) [mobs](./mob.md), found in various
 places around [Arda](./Arda.md). Pack horses are probably the most
 often used [mount](./Mount.md) for the larger
 [races](./Race.md) among the Free People, due to being commonly

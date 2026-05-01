@@ -20,7 +20,7 @@ Rohir Men are especially gifted in horse related
 skills:
 
 - They start with a base 25% [skill](./Skill.md) in
-  [ride](/pages/Ride.md) (without any pracs)
+  [ride](/pages/Ride) (without any pracs)
 - They are less likely to get thrown off by their mounts
 - Their mounts are less likely to refuse movement commands
 - They get +5% [OB](./Offensive_bonus.md) when mounted and

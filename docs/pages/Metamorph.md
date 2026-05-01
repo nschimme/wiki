@@ -26,9 +26,9 @@ cast upon the normal form carry over to the metamorph. Metamorphs are
 also unable to [bash](./Bash.md) doors.
 
 Note, that in order for any experience or [travel
-points](./travel_points.md) gained while in metamorph form to be
+points](/pages/Newbie_Guide_Travel_Points) gained while in metamorph form to be
 saved, you must return to your normal form. However, any
-[gold](./Gold.md) or [equipment](/equipment.md) carried by
+[gold](./Gold.md) or equipment carried by
 the meta form will be lost upon return. Metas have no autowimpy mode,
 but can [flee](./Flee.md) manually if they choose.
 

@@ -16,7 +16,7 @@ It weighs half a pound.
 ## Opinions
 
 This item can be used to cure wounds, much like a [garnet
-ring](./garnet_ring.md) or the [cure
+ring](/pages/Other_equipment) or the [cure
 critic](./Cure_Critic.md) spell.
 
 <!--@include: ../includes/Items.md-->

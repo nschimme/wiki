@@ -4,12 +4,12 @@ description: 'The shaman is a class restricted to the [Tarkhnarb'
 ---
 
 The **shaman** is a class restricted to the [Tarkhnarb
-orcs](./Tarkhnarb_orc.md). They are a combination of the
+orcs](/pages/Orc). They are a combination of the
 [Mage](./Mage.md) and [Cleric](./Cleric.md) class, using
-both schools of [magic](/pages/Combat_Magic.md) without
+both schools of magic without
 [penalty](./Practice_Penalty.md). Shamans are an interesting
 [class](./Class.md) because, unlike their counterparts, their
-[magic](/pages/Combat_Magic.md) is often weak and thus the player has to be
+magic is often weak and thus the player has to be
 creative in shaping his shaman, supplementing him with other skills to
 make him an effective killing machine.
 

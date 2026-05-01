@@ -488,7 +488,7 @@ while you play.
 <!-- -->
 
 - [Guide to install mmapper2 on
-  Windows](./Guide_to_install_mmapper2_on_Windows.md) is
+  Windows](/community) is
   invaluable to learn the game's map
 
 <!-- -->

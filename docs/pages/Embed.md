@@ -35,7 +35,7 @@ major gem but adding a focus increases this to 2 major gems.
 - [tiger's eye](./Tiger's_eye.md) - hit/mana regeneration (race
   dependent)
 - [chunk of honey-coloured
-  amber](./chunk_of_honey-coloured_amber.md) - absorb spell damage
+  amber](/pages/Other_equipment) - absorb spell damage
 
 ## Minor Gems
 

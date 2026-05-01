@@ -12,7 +12,7 @@ have already run mmapper2 and loaded a map, but that step is unnecessary
 for using local editing.
 
 <figure>
-![Localediting_1.png](/img/Localediting_1.png)
+!Localediting_1.png
 <figcaption>Image:Localediting_1.png</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ for using local editing.
 Click the "PowTTY" tab and then enable the local editing option.
 
 <figure>
-![Localediting_2.png](/img/Localediting_2.png)
+!Localediting_2.png
 <figcaption>Image:Localediting_2.png</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ enter in a session name to save it under and then click "Save" to save
 it for later use. Finally I click "Open" to run PowTTY.
 
 <figure>
-![Localediting_3.png](/img/Localediting_3.png)
+!Localediting_3.png
 <figcaption>Image:Localediting_3.png</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Type "change editor" and verify that it is currently set to mume. If
 not, then type: change editor mume
 
 <figure>
-![Localediting_4.png](/img/Localediting_4.png)
+!Localediting_4.png
 <figcaption>Image:Localediting_4.png</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ notepad. You will be able to change the text file and then click "File",
 current editing session.
 
 <figure>
-![Localediting_5.png](/img/Localediting_5.png)
+!Localediting_5.png
 <figcaption>Image:Localediting_5.png</figcaption>
 </figure>
 

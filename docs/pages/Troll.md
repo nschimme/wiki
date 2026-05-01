@@ -4,11 +4,11 @@ description: 'Trolls have the greatest physical might. These huge figures may be
 tags:
   - Playable races
 ---
-![Cave_troll](/img/Cave_troll.jpg) Of all Sauron's servants,
+!Cave_troll Of all Sauron's servants,
 **Trolls** have the greatest physical might. These huge figures may be
 the corrupted form of tree spirits, created by
 Morgoth in the [Great
-Darkness](./Great_Darkness.md). Trolls are normally incapable of
+Darkness](/pages/Third_Age). Trolls are normally incapable of
 withstanding the pureness of daylight. Trolls are very large (twelve
 feet tall or more) humanoids of great strength and poor intellect. Their
 blood is black and so hot, that when it falls, it sizzles on the floor.
@@ -55,7 +55,7 @@ Since they are not true Olog-Hai, they suffer
 
 The three subraces have the following modifiers:
 
-- MUME Hill Trolls\[1
+- MUME Hill Trolls\1
 
 ------------------------------------------------------------------------
 
@@ -106,7 +106,7 @@ Sécrêt's troll advice from the Palantíri on Elvenrunes:
 
 "Yes, my first advice is: the troll race is a special species with its
 own written and unwritten rules, its own social status and its own way
-of [pking](/pages/Rules_PK.md) and xping. In my opinion there is three
+of [pking and xping. In my opinion there is three
 different trolls: the trackless troll with defence, the berserker
 [hitter](./Unarmed.md) and the [track](./Track.md) troll.
 Make up your mind before you level up your troll because the playstyle

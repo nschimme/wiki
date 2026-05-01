@@ -6,11 +6,11 @@ description: 'Cast is a delayed command for issuing a magical'
 Cast is a [delayed](./Delayed.md) command for issuing a magical
 [spell](./Spell.md).
 
-**cast \[\&lt;[effort](./Effort.md)\&gt; 'spell name' \[&lt;target&gt;**
+**cast \[\&lt;[effort](./Effort.md)\&gt; 'spell name' \&lt;target&gt;**
 
 Note that the name of the spell must be enclosed by apostrophes (').
 Also, the spell name doesn't need to be typed fully -
-abbreviations are also accepted (e.g. cast
+[abbreviations are also accepted (e.g. cast
 'ench' sword).
 
 Since the quotes can be frustrating to type, most people set

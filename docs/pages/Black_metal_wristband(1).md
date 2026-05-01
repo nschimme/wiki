@@ -20,9 +20,9 @@ It fits you well.
 ## Opinions
 
 This wristband behaves in much the same way as [smooth padded
-boots](./smooth_padded_boots.md), [strange black
-helmet](./strange_black_helmet.md) and also the [large visored
-helm](./large_visored_helm.md); that is they can have three copies
+boots](/pages/Armour), [strange black
+helmet](/pages/Armour) and also the [large visored
+helm](/pages/Armour); that is they can have three copies
 in game at any one time (though it is unlikely). It's actual effects are
 to manipulate
 [OB](./Offensive_bonus.md)/[DB](./Dodge_bonus.md)/[PB](./Parry_bonus.md)

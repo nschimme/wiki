@@ -4,7 +4,7 @@ description: 'To succeed on Arda, it is crucial to possess skills.'
 ---
 
 To succeed on [Arda](./Arda.md), it is crucial to possess skills.
-Your character needs to know how to fight, [ride](/pages/Ride.md),
+Your character needs to know how to fight, [ride](/pages/Ride),
 [swim](./Swim.md), [track](./Track.md) et cetera. Some
 things are very hard to learn, whilst other talents are easily
 developed. When reading a help file, check

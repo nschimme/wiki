@@ -6,7 +6,7 @@ tags:
   - Head items
 ---
 The **leather helmet** is a piece of leather
-[equipment](/equipment.md) worn on the [head](./Head.md).
+equipment worn on the [head](./Head.md).
 
 `A leather helmet lies here.`
 `>`**`look helmet`**

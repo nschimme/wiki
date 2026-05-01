@@ -37,4 +37,4 @@ You have to be in a white-side-city to make your payment. See also:
 Equipment](./Legend_Home_Equipment.md), [Legend Home
 Valet](./Legend_Home_Valet.md), [Friend](./Friend.md),
 [Legend Home Doors](./Legend_Home_Doors.md), [Legend Home
-Locations](./Legend_Home_Locations.md)
+Locations](/pages/Legend_Home_Equipment)

@@ -17,7 +17,7 @@ power-rings.
 - golden emerald ring - remove poison
 - golden opal ring - scout
 - ruby ring - ob
-- iron ring - db
+- [iron ring](/pages/Other_equipment) - db
 - [copper ring](./Copper_ring.md)
 - banded ring
 - [icy ring](./Icy_ring.md) - eff. vs fire
@@ -31,7 +31,7 @@ power-rings.
 - diamond ring
 - engagement ring
 - [gold ring](./Gold_ring.md)
-- ring "wikilink")
+- ring
 - [ring of silver](./Ring_of_silver.md)
 - silver ring
 - [silver wedding ring](./Silver_wedding_ring.md)

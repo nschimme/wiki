@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 <figure>
-![campfire.jpg](/img/Campfire.jpg)
+!campfire.jpg
 <figcaption>Image:campfire.jpg</figcaption>
 </figure>
 

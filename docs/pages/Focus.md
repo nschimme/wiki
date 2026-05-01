@@ -25,6 +25,6 @@ lose their powers whenever a new focus is created.
 An in depth explanation of the focus system can be found under [Staff,
 Gem, and Focus Guide](./Staff,_Gem_and_Focus_guide.md).
 
-Once a focus is created you can call an Eagle.
+Once a focus is created you can call an [Eagle](/pages/Mobile).
 
 See also: [Staff](./Staff.md)

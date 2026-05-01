@@ -17,7 +17,7 @@ with them.
 
 ## Ride
 
-The [ride](/pages/Ride.md) skill is a [ranger](./General.md)
+The [ride](/pages/Ride) skill is a [ranger](./General.md)
 [skill](./Skill.md) that allows one to efficiently ride certain
 rideable [mobiles](./mobiles.md), like horses.
 
@@ -67,7 +67,7 @@ underwater.
 ## Lead, Dismount, and Abandon
 
 To move into a room that is not rideable, you have to '<b>lead</b>' your
-mount. Typing 'lead' while [riding](/pages/Ride.md) will automatically
+mount. Typing 'lead' while [riding](/pages/Ride) will automatically
 make you dismount and lead your mount.
 
 Use 'dismount' if you want the mount not to
@@ -85,7 +85,7 @@ work if someone else in the room is leading or riding the mount already.
 
 If you are leading a [mount](./Mount.md), the
 **abandon** command will make it stop following you. The mount will
-remember its previous [rider](/pages/Ride.md), so you can resume
+remember its previous [rider](/pages/Ride), so you can resume
 leading it by typing "lead". If you abandon your mount but remain in the
 [room](./room.md) with it, others will not be able to lead it
 away. They can, however, ride the mount and then control it out of the

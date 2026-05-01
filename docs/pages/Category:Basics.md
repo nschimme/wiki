@@ -20,7 +20,7 @@ being looked at if one is available.
 object, person, creature, or room. It sometimes provides more detailed
 information than LOOK, for example when used on a person or a container.
 
-[Equipment](/equipment.md) (abbreviated EQ) - shows a list of the
+Equipment (abbreviated EQ) - shows a list of the
 items which you are wearing or holding. This will include your clothing
 and anything which you are holding in your hands, as well as things
 being worn on your belt.
@@ -96,7 +96,7 @@ mana and movement points. It is not accessible while in combat, but the
 prompt will show you some approximations such as '\* HP:Fine' when you
 have been damaged lightly.
 
-[Stat](/pages/Statistic.md) - This command shows things like OB (offensive
+Stat - This command shows things like OB (offensive
 bonus), DB (dodge bonus), PB (parry bonus) and is available during
 combat. It also show things like how much you need to gain a level, and
 if you are affected by spells, poisons, wounds, or diseases.
@@ -138,8 +138,8 @@ with your enemy and flee the first time. Beware, some creatures such as
 wolves might decide to track you down for a distance before returning
 home if they haven't caught you.
 
-See also: [Newbie](/guides.md), [FAQ1](./FAQ1.md),
+See also: Newbie, [FAQ1](./FAQ1.md),
 [FAQ2](./FAQ2.md), [FAQ3](./FAQ3.md),
 [FAQ4](./FAQ4.md), [FAQ5](./FAQ5.md),
 [Advanced](./Advanced.md), Features,
-[Rules](/guides.md)
+Rules

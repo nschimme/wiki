@@ -6,7 +6,7 @@ tags:
 ---
 When you begin the game, if you're not an [Orc](./Orc.md), a
 [Troll](./Troll.md) or a [Black
-Numenorean](./Black_Numenorean.md), you will become a **citizen**
+Numenorean](/pages/Black_Númenórean), you will become a **citizen**
 of the town you '[pray](./Pray.md)' to (the
 first time you pray, thus choosing your hometown).
 

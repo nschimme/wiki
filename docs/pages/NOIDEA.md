@@ -88,7 +88,7 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- Banks and places to store excess [equipment](/equipment.md)
+- Banks and places to store excess equipment
 
 <!-- -->
 

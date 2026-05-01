@@ -12,7 +12,7 @@ bar is open from 7am to 12am. The [Rooftop Thieves'
 Guild](./Rooftop_Thieves'_Guild.md) is accessible through a hidden
 grate in the main room, while a hidden trapdoor leads from the cellar to
 the [Sewers](./Sewers_Thieves'_Guild.md). As can be expected, a
-few thieves "wikilink") are usually lurking in the
+few thieves are usually lurking in the
 tavern, so one would be wise to keep a close eye on their money.
 
 ## Menu

@@ -13,7 +13,7 @@ therefore everything you might carry on it.
 
 ## Magical
 
-- gleaming belt
+- [gleaming belt](/pages/Armour)
 - [broad silver belt](./Broad_silver_belt.md)
 
 ## Ordinary

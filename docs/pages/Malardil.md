@@ -7,7 +7,7 @@ tags:
 ---
 **Malardil** is an aggressive [level](./Level.md) ?
 [mobile](./Mobile.md) found in [Malardil's
-castle](./Malardil's_castle.md). He can [track](./Track.md)
+castle](/pages/Malardil). He can [track](./Track.md)
 and [cast](./Cast.md) [Lightning Bolt](./Lightning_Bolt.md).
 He loads with 1 [gold](./Gold.md), a [shiny
 dagger](./Shiny_dagger.md), a [shield of

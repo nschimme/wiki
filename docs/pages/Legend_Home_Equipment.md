@@ -21,4 +21,4 @@ homes.
 See also: [Legend Homes](./Legend_Homes.md), [Legend Home
 Valet](./Legend_Home_Valet.md), [Legend Home
 Prices](./Legend_Home_Prices.md), [Legend Home
-Locations](./Legend_Home_Locations.md)
+Locations](/pages/Legend_Home_Equipment)

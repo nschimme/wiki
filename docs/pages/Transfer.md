@@ -9,7 +9,7 @@ tags:
 [spell](./Spell.md). Like [Summon](./Summon.md) it will
 transfer a creature or player to the location of the caster but unlike
 *Summon* the transfer will include the
-[equipment](/equipment.md).
+equipment.
 
 Wearing a [ring](./Ring.md) (or collar for shape-shifting
 bears) can protect against being transfered

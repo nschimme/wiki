@@ -9,7 +9,7 @@ tags:
 of Galerel](./Ghost_of_Galerel.md) may be encountered. The
 entrance can be found in a hidden ravine behind a wall of bushes
 somewhere on the plains just east of the [Midgewater
-Marsh](./Midgewater_Marsh.md).
+Marsh](/pages/Shire).
 
 The front [door](./Door.md) to the mansion is locked and the lock
 needs to be [picked](./Pick.md) if one wishes to enter. There is a

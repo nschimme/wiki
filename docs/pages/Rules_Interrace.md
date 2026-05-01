@@ -7,7 +7,7 @@ MUME characters belong either to the good races;
 [Dwarves](./Dwarf.md), [Elves](./Elf.md),
 [Half-Elves](./Half-Elf.md), [Men](./Man.md), and
 [Hobbits](./Hobbit.md), the evil races; [Black
-Numenoreans](./Black_Numenorean.md), (Tarkhnarb)
+Numenoreans](/pages/Black_Númenórean), (Tarkhnarb)
 [Orcs](./Orc.md), and [Trolls](./Troll.md), or the "third"
 side; the [Zaugurz Orcs](./Zaugurz_Orc.md).
 

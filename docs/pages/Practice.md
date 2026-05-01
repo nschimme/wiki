@@ -31,7 +31,7 @@ Some skills are easier or harder to learn than others in the same group
 skill per practice session is also related to your stats - note that
 only unmodified (natural) stats are considered for practicing purposes.
 That is, the stats unaffected by [age](./Age.md),
-[spells](./Spell.md) and [equipment](/equipment.md).
+[spells](./Spell.md) and equipment.
 
 When you learn a skill outside your [class](./Class.md), this
 skill will be less efficient than for a character of that class. For
@@ -63,4 +63,4 @@ days. "[retire](./Retire.md)" will provide complete details.
 Examples:
 
 `> practice`
-`> practice `[`ride`](/pages/Ride.md)
+`> practice `[`ride`](/pages/Ride)

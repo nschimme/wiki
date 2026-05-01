@@ -13,7 +13,7 @@ A list of items worn on the **body**.
 - metal breastplate
 - sturdy metal breastplate
 - [sturdy, rigid metal
-  breasplate](./sturdy,_rigid_metal_breasplate.md)
+  breasplate](/pages/Fine_metal_breastplate)
 
 # Mail
 

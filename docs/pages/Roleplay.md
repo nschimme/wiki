@@ -28,7 +28,7 @@ can expect that their alignment will suffer strongly and maybe some
 protectors of good will deal harshly with them. We also will require
 your characters to act as separate characters (not helping each other
 with equipment, arranging ambushes together, etc.) - see the different
-[RULE](/guides.md) headings for this (e.g. [Rules Character
+RULE headings for this (e.g. [Rules Character
 Separation](./Rules_Character_Separation.md)).
 
 Beyond this, we would hope that players who enjoy role-playing will come

@@ -27,7 +27,7 @@ An action can be a crime only in a town or its immediate environs:
 
 <!-- -->
 
-- Using [magic](/pages/Combat_Magic.md) if you are not a citizen of the town.
+- Using magic if you are not a citizen of the town.
   (This is not a crime in some towns.)
 
 <!-- -->

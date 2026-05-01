@@ -19,7 +19,7 @@ They weigh a couple of pounds.
 
 These pants are equipped automatically on any [Black
 Númenórean](./Black_Númenórean.md) after praying from the [Hidden
-Island](./Hidden_Island.md) (if they're not already wearing
+Island](/pages/Misty_Mountains) (if they're not already wearing
 something else). They will decay immediately if dropped.
 
 <!--@include: ../includes/Items.md-->

@@ -32,4 +32,4 @@ the ladder at the rent place south of Lorien that can be called to be
 lowered.
 
 Another use of the 'call' command is to call an
-Eagle
+[Eagle](/pages/Mobile)

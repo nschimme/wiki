@@ -29,7 +29,7 @@ It fits you well.
 The shield is a rare item, it loads on Haldin at the Mark in
 [Dunland](./Dunland.md). It gives slightly less [parry
 bonus](./Parry_bonus.md) when compared to a [bejewelled
-shield](./a_bejewelled_shield.md), approx. 3pb less on a full
+shield](/pages/Shield), approx. 3pb less on a full
 metal dwarf warrior with 20 strength.
 
 <!--@include: ../includes/Items.md-->

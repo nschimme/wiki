@@ -8,7 +8,7 @@ A **death trap** is a [room](./room.md) where anyone who enters
 dies immediately. Examples of death traps are bottomless pits, gaping
 precipices, or lava-filled lakes. Upon entering a death trap, you will
 have one chance to retrace your steps. Failure means instant death; your
-[equipment](/equipment.md), except some particular cases, will be
+equipment, except some particular cases, will be
 lost forever. If you are leading a [group](./Group.md) and you
 stumble in a DT, your [followers](./Follow.md) will see your fatal
 mistake and will not follow you.

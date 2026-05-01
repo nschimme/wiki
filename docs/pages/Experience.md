@@ -5,9 +5,9 @@ tags:
   - Help files
 ---
 Whenever you kill a monster or a player, you earn experience points.
-When enough experience and travel points are
+When enough experience and [travel points](/pages/Newbie_Guide_Travel_Points) are
 earned, you'll gain a [level](./Level.md). You can see how much is
-left until the next level when you type '[stat](/pages/Statistic.md)'.
+left until the next level when you type 'stat'.
 Things you should know about experience points:
 
 `* When damaging a monster, you get experience points. (Magic included)`

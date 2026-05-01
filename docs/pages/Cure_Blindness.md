@@ -9,7 +9,7 @@ tags:
 **Cure Blindness** is a level 4 [cleric](./Cleric.md)
 [spell](./Spell.md). It removes the effect of the
 [Blindness](./Blindness.md) spell from the creature it is cast on.
-The spell is mainly useful for [PK](/pages/Rules_PK.md), because very few
+The spell is mainly useful for PK, because very few
 [mobs](./mob.md) cast Blindness.
 
 A few practices might save your life someday! Generally only casters get

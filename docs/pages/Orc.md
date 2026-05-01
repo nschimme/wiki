@@ -4,9 +4,9 @@ title: Orc
 description: 'Goblins, are foul creatures that were created by Morgoth in the'
 tags:
   - Playable races
-aliases: ["Uruk-Tarkhnarb"]
+aliases: "Uruk-Tarkhnarb"]
 ---
-![Uruk-hai](/img/Uruk-hai.jpg) **Orcs**, also known as
+![Uruk-hai **Orcs**, also known as
 **Goblins**, are foul creatures that were created by Morgoth in the
 First Age. Through his evil power, it is said he corrupted the beautiful
 [Elves](./Elf.md) and transformed them into his servants of evil,
@@ -25,8 +25,8 @@ make powerful warriors, but have difficulties with other classes.
 There are two playable tribes of Orcs in MUME; the
 Uruk-Tarkhnarb and the
 Uruk-Zaugurz. The Tarkhnarb Orcs are subjects
-of Sauron, allies of the [Black
-Númenoreans](./Black_Númenorean.md) and the powerful
+of Sauron, allies of the Black
+Númenoreans and the powerful
 [Trolls](./Troll.md) in the battle against the Free People. The
 Zaugurz Orcs were cast out of Goblin Gate (the primary dwelling of the
 Tarkhnarb), and are now at war with the Tarkhnarb and their allies.
@@ -52,7 +52,7 @@ tribes in MUME:
   eastern [Moria](./Moria.md)
 - Uruk-Morgundul that reside in Red Horn
   Pass, [Vales of Anduin](./Anduin_Vale.md), and [Dol
-  Guldur](./Dol_Guldur.md)
+  Guldur](/pages/Mirkwood)
 - Uruk-Ohurk who have set up camp around the
   Ford of the River Bruinen
 - Uruk-Urughash who live in the Misty

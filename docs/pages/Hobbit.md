@@ -4,9 +4,9 @@ description: 'Ring](TheLordoftheRings:TheFellowshipoftheRing(film) "wikilink")'
 tags:
   - Playable races
 ---
-![Hobbits](/img/Hobbits.jpg) in *[The Lord of the Rings: The
+!Hobbits in *The Lord of the Rings: The
 Fellowship of the
-Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*
+Ring*
 The origin of **hobbits** is uncertain, though it's known that they
 existed long before coming to their current main home in the
 [Shire](./Shire.md). Hobbits are a small folk, being about half
@@ -58,7 +58,7 @@ this subrace has the following modifications:
 #### Fallohid
 
 - When led by a Fallohid Hobbit, others get the full [travel
-  points](./travel_points.md) amount.
+  points](/pages/Newbie_Guide_Travel_Points) amount.
 - When a Fallohid Hobbit follows someone, they still get the full amount
   of Travel points.
 - For mixing herblores they get a bonus for both

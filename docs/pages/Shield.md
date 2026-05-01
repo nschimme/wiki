@@ -26,7 +26,7 @@ bonus](./Parry_bonus.md) (i.e more weight carried, lower [dodge
 bonus](./Dodge_bonus.md)).
 
 - [ancient dwarven shield](./Ancient_dwarven_shield.md)
-- defiled dwarven shield
+- [defiled dwarven shield](/pages/Ancient_dwarven_shield)
 - large tower shield
 - [large metal wall shield](./Large_metal_wall_shield.md)
 - [sun-emblazoned shield](./Sun-emblazoned_shield.md)

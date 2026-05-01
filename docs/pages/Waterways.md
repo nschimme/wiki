@@ -6,7 +6,7 @@ tags:
 ---
 [Arda](./Arda.md) has a number of rivers, streams and other
 **bodies of water** that can be traveled upon if the proper
-[equipment](/equipment.md) or [skills](./Skill.md) are
+equipment or [skills](./Skill.md) are
 available. Some of the waterways can be slow, others can have the water
 rushing so fast that the water drags travelers along with it. Travel on
 many of the bodies of water is safe if the traveler watches for rapids
@@ -29,7 +29,7 @@ Of the three the easiest ones to cross is shallow water. Shallow water
 is water that any [race](./Race.md) can wade across without use of
 equipment or a skill. Fords across deep rivers are sections where the
 water has become shallow enough to wade or in some places to
-[ride](/pages/Ride.md) across.
+[ride](/pages/Ride) across.
 
 Deep water makes up the majority of major rivers and other large bodies
 of water. While [ferries](./Ferry.md) or bridges exist along some

@@ -22,7 +22,7 @@ Harlond.
 [`climb`](./Climb.md)`              2  Very easy`
 [`command`](./Command.md)`            5  Normal`
 [`leadership`](./Leadership.md)`         5  Normal`
-[`ride`](/pages/Ride.md)`               8  Very easy`
+[`ride`](/pages/Ride)`               8  Very easy`
 [`swim`](./Swim.md)`              14  Very easy`
 [`track`](./Track.md)`              6  Normal`
 [`wilderness`](./Wilderness.md)`         8  Normal`

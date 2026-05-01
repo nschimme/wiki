@@ -7,7 +7,7 @@ tags:
 The Last Homely House of Elrond is located in
 **Rivendell**, which is one of the last conclaves of
 [Elves](./Elf.md) remaining in
-Middle-earth. Rivendell is a haven for all
+[Middle-earth](/lore). Rivendell is a haven for all
 that is kind and just, and no evil will pass its borders.
 
 You can get anything you desire in the peaceful land, be it merrymaking

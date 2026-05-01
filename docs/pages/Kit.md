@@ -9,7 +9,7 @@ out in MUME. Normally a newbie kit will consist of a weapon of some
 sort, a shield, some meat and bread, a cup of water and maybe a map of a
 nearby city.
 
-In order to receive a [newbie](/guides.md) kit, simply pray to
+In order to receive a newbie kit, simply pray to
 the Ainur and nicely ask for one. It is not an automatic process so
 please do not continue asking right away if you don't immediately
 receive a kit. Spam-praying 'kit' is not appreciated; if an immortal is
@@ -35,5 +35,5 @@ Soldiers of the Dark Lord can only receive ONE kit ever, at any level.
 
 Zaugurz Orcs do not get any kit at all.
 
-See also: [Newbie](/guides.md), [Pray](./Pray.md),
+See also: Newbie, [Pray](./Pray.md),
 Rangers, [Names](./Names.md)

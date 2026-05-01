@@ -24,5 +24,5 @@ are:
 - Express one idea concisely (make that two hints if needed).
 - Preferably in-character (but OOC if that cannot be done conveniently).
 
-See also: [Newbie](/guides.md), Cookies
+See also: Newbie, Cookies
  

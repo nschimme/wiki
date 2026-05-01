@@ -7,7 +7,7 @@ tags:
 ---
 You can set fire to a [corpse](./Corpse.md) or corpses by using
 the command "**burn**". The corpses will be
-destroyed in the process and the [equipment](/equipment.md) they
+destroyed in the process and the equipment they
 contain will be lost. If there are many corpses in the room and you try
 to burn them all, all will be piled together before you start the
 bonfire. It is rumoured that searching among the ashes of a funeral pyre

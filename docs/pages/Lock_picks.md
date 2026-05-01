@@ -93,7 +93,7 @@ one side.
 ## Grey Cloaked Man
 
 This upgrade is only available to [Black
-Numenoreans](./Black_Numenorean.md).
+Numenoreans](/pages/Black_Númenórean).
 
 **Price:** oak staff from a slain whitie.
 

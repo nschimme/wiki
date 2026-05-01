@@ -20,7 +20,7 @@ A list of equipment worn on the **head**.
 - [pot helm](./Pot_helm.md)
 - [spiked metal helmet](./Spiked_metal_helmet.md) - very minor ob
   reduction
-- strange black helmet - eff. vs.
+- [strange black helmet](/pages/Armour) - eff. vs.
   darkness, ineff. vs fire/light, night vision
 - [S-rune helmet](./S-rune_helmet.md)
 

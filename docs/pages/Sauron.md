@@ -37,10 +37,10 @@ player-killers will be remembered by him.
 
 To check if someone is on Saurons List, type:
 
-`tell sauron `&lt;name&gt;`   [For example, "tell sauron ilie"]`
+`tell sauron `&lt;name&gt;`   For example, "tell sauron ilie"]`
 
 While Sauron may comment on those that are not player killers, those
 that he claims to be his true followers are player killers. Telling him
-'list' will provide a list of player killers.
+'[list' will provide a list of player killers.
 
 See also: Rules-Sauron

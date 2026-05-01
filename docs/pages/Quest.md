@@ -3,10 +3,10 @@ title: Quest
 description: 'Several mobiles on MUME offer'
 ---
 
-Several [mobiles](./Mobile.md) on [MUME](./MUME.md) offer
+Several mobiles](./Mobile.md) on MUME](./MUME.md) offer
 **quests** of varying levels to be solved. This can range from killing a
 certain monster, delivering a rare item to repairing something. As a
-reward, sometimes a [herblore](./Herblore.md) will be offered, a
+reward, sometimes a herblore](./Herblore.md) will be offered, a
 rare item or a (temporary) skill boost.
 
 These quests are usually offered, although in some cases you will need
@@ -130,7 +130,7 @@ awry. Perhaps you could help the smith out?
 - Quest: If you visit the [Bree
   Weaponsmith](./Bree_Weaponsmith.md) while you are between levels
   4-9, he will ask you to help him with a problem of his related to an
-  antique [dagger](/pages/Dagger.md#Other.md) that was lost while being
+  antique [dagger](/pages/Dagger#Other.md) that was lost while being
   transported from [Fornost](./Fornost.md). Search the forest
   northeast of Bree for the ruffian bandit who stole the dagger, kill
   him, and return the dagger to the weaponsmith.
@@ -216,7 +216,7 @@ to him. Perhaps you can help him out?
   tell you that birch trees drove him out of his home. He left behind a
   bowl, and asks your help in retrieving
   it. You will need to get a large [tree
-  branch](./a_very_large_knotted_tree-branch.md), and head to the
+  branch, and head to the
   clearing southwest of where Beechbone is. Enter his ruined home and
   use the tree branch to lift up one of the large jars ('lever jar'). Go
   down, reveal the bowl, and return it to Beechbone.
@@ -283,7 +283,7 @@ impress a woman he loves.
 - Quest: When you enter the shop, the herbalist will mention something
   about a ring or a belt. Ask him about the item, and he will explain.
   He will only accept a magical [ring](./Ring.md) or a [gleaming
-  belt](./gleaming_belt.md).
+  belt.
 - Reward: upgraded [herbal kit](./Herbal_kit.md)
 
 ### Snake Hunt
@@ -308,7 +308,7 @@ fallen ill.
 - Quest: Nod when the herbalist asks you for help. Listen to his
   instructions on where to find ragwort,
   hawkweed and [wood
-  anemone](./wood_anemone.md), and retrieve the herbs.
+  anemone, and retrieve the herbs.
 - Reward: [herbal kit](./Herbal_kit.md),
   [athelas](Herb#Athelas_(Kingsfoil) "wikilink") leaves, ??? xp.
 
@@ -363,7 +363,7 @@ exterminate [giant rats](./Giant_rat.md).
 ### Equipping Leonard
 
 Leonard from [Black Hill](./Black_Hill.md)
-needs help procuring some [equipment](/equipment.md).
+needs help procuring some equipment.
 
 - Required level: 4
 - Quest: He will ask for a [lantern](./Lantern.md), a [woollen

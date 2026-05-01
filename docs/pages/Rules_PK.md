@@ -9,7 +9,7 @@ description: '1. Player killing between the good and evil races is allowed on MU
 strictly forbidden. See: [Rules Interrace](./Rules_Interrace.md)
 
 3\. Player killing is heavily restricted among the good races. See:
-Rules Sauron
+[Rules Sauron](/pages/Rules_PK)
 
 4\. Player killing is restricted for trolls. See: [Rules
 Trolls](./Rules_Trolls.md)
@@ -19,7 +19,7 @@ forbidden when participating in player killing. See: [Rules
 Actions](./Rules_Actions.md)
 
 6\. Special rules apply to Istari when engaging in player killing. See:
-Rules Istari
+[Rules Istari](/pages/Rules_PK)
 
 7\. It is illegal to use "throw-away" characters as spies. See: [Rules
 Spies](./Rules_Spies.md)

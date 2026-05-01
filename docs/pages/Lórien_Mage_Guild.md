@@ -6,7 +6,7 @@ tags:
 ---
 **Rumil** teaches [mage](./Mage.md) [spells](./Spell.md) at
 the **Flet of the Bards** in [Caras
-Galadhon](./Caras_Galadhon.md). The guild is open from 6am to 6pm.
+Galadhon](/pages/Lothlórien). The guild is open from 6am to 6pm.
 
 `Rumil the Master Bard of Lothlórien is here smiling gently (glowing).`
 `>`**`examine Rumil`**

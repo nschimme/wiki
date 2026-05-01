@@ -319,6 +319,6 @@ sword, spell, or bow.
 
 ### The Balrog
 
-![Balrog](/img/Balrog.jpg) Durin's Bane, a creature not to be
+!Balrog Durin's Bane, a creature not to be
 taken lightly even by the greatest of legends. The rewards for his
 defeat are of equal value.

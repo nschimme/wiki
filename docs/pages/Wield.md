@@ -18,5 +18,5 @@ then type "wield 2" to grasp it in two hands, or "wield 1" to hold it in
 one hand.
 
 See also: [Remove](./Remove.md),
-[Equipment](/equipment.md), [Draw](./Draw.md),
+Equipment, [Draw](./Draw.md),
 [Justice](./Justice.md)

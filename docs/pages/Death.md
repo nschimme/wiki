@@ -13,15 +13,15 @@ loss of all gains of the character. You can lose no more than the
 a pkill death, you lose less experience, but you also lose some
 warpoints, if you have any. In some other cases (such as deaths in
 [death traps](./Death_trap.md)) you lose some [travel
-points](./travel_points.md) instead.
+points](/pages/Newbie_Guide_Travel_Points) instead.
 
 If you did not die to a deathtrap, you may stand a chance at recovering
-your [equipment](/equipment.md) from your
+your equipment from your
 [corpse](./Corpse.md). However, whatever killed you may kill you
 again if you are not cautious, and other players may also take your
 items from the corpse. If you are below level 6 and of a good
 [race](./Race.md), you are entitled to a new [newbie
-kit](./newbie_kit.md) every time you die.
+kit](/pages/Category:Newbie_Help) every time you die.
 
 The kind of death a character suffers (mobdeath, pk, other) now depends
 not only on the immediate cause of the death, but also on the recent

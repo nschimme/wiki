@@ -6,7 +6,7 @@ tags:
   - Head items
 ---
 The **finely woven hood** is a piece of cloth
-[equipment](/equipment.md) worn on the [head](./Head.md).
+equipment worn on the [head](./Head.md).
 It grants higher [dodge bonus](./Dodge_bonus.md) than other cloth
 [items](./Item.md). It can be given by
 Galadriel as a reward for defeating the

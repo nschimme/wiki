@@ -11,7 +11,7 @@ obtain an age reset after you've been retired for a real year.
 
 Your characters have a limited lifespan after you log off, before they
 are deleted, irrespective of how much [gold](./Gold.md) or
-[equipment](/equipment.md) they have for renting. This time
+equipment they have for renting. This time
 period is approximately (Level - 1) \* 5 Real Life days. If you will be
 unable to log in for an extended period and yet want to return at a
 later date with the same character you need to retire him/her.

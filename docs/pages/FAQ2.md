@@ -8,7 +8,7 @@ tags:
 
 A: You have to find an [Inn](./Inn.md), go to the innkeeper, and
 type '[rent](./Rent.md)'. This will allow you to keep your
-[equipment](/equipment.md), [food](./Food.md),
+equipment, [food](./Food.md),
 [weapon](./Weapon.md), etc. - assuming you have enough rent
 money!
 

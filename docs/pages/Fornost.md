@@ -89,7 +89,7 @@ This section lists the individuals that live within the walls of
 Fornost.
 
 - [Woman (looking for someone to chat
-  with)](./Woman_looking_for_someone_to_chat_with.md)
+  with)](/pages/Mobile)
 - Cute Little Girl
 - [Innkeeper](./Crown_of_Arnor_Innkeeper.md)
 - [Olly](./Olly.md)

@@ -4,7 +4,7 @@ description: 'Banking is storing items and gold so that you may'
 ---
 
 **Banking** is storing items and [gold](./Gold.md) so that you may
-have a source of new [equipment](/equipment.md) should you for
+have a source of new equipment should you for
 some reason lose your old equipment. Bank characters usually have lots
 of gold and have tons of good equipment. When discovered, bank
 characters lose all equipment; both bank and "client" can be subjected
@@ -36,7 +36,7 @@ It is also forbidden to exchange equipment between characters which
 belong to the same player. If you own characters A and B, you cannot
 transfer equipment or money between them, neither directly (which
 involves multiplaying) nor indirectly (for instance, A gives C an [iron
-ring](./iron_ring.md), [rents](./Rent.md), logs in B and
+ring](/pages/Other_equipment), [rents](./Rent.md), logs in B and
 gets the ring back; or, A hides the ring, rents, logs in B and
 [reveals](./Reveal.md) it).
 

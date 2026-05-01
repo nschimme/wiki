@@ -12,7 +12,7 @@ perform common delayed tasks such as [tracking](./Track.md) or
 will interrupt the action.
 
 You can see your wounds by using the [info](./Info.md) or
-[stat](/pages/Statistic.md) commands. They will show up under the section
+stat commands. They will show up under the section
 *Affected by*. For other players they will be shown when you examine
 them.
 

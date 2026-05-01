@@ -190,7 +190,7 @@ The shaman guildmasters are scattered around the map, and all of them
 have something useful:
 
 - [Thrakghash of the Mordor
-  Flame](./Thrakghash_of_the_Mordor_Flame.md) located in West NOC.
+  Flame](/pages/Super_Mobile) located in West NOC.
   This BN teaches all of the mage spells that orcs have access to.
 - Brolg located in his tower south of Rivendell.
   Brolg most notably teaches max breath of briskness and black breath.

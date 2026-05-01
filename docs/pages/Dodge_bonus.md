@@ -16,7 +16,7 @@ against 3 enemies as you do against one. While you will only block hits
 (parry) from enemies 33% as well when facing 3 enemies.
 
 Your dodge bonus will be lowered if you carry too much weight. The
-heavier your [equipment](/equipment.md), the harder it is for you
+heavier your equipment, the harder it is for you
 to dodge.
 
 You can boost your dodge bonus with certain items. There are

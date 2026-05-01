@@ -4,7 +4,7 @@ description: 'Lúthien Tinúviel, the daughter of the Elven King Thingol, fell i
 tags:
   - Playable races
 ---
-![Elrond](/img/Elrond.jpg) Back in the First Age of the Sun,
+!Elrond Back in the First Age of the Sun,
 Lúthien Tinúviel, the daughter of the Elven King Thingol, fell in love
 with the Man Beren. Lúthien's father disapproved of this and set Beren a
 seemingly impossible task of reclaiming one of the stolen

@@ -13,5 +13,5 @@ Examples: \> wear cloak \> wear all You may also specify where to wear
 something, but in that case you cannot specify more than one object: \>
 wear baldric back You put a leather baldric on your back. \> wear
 baldric quiver You put a leather baldric over your shoulder. See also:
-[Remove](./Remove.md), [Equipment](/equipment.md),
+[Remove](./Remove.md), Equipment,
 [Mend](./Mend.md)

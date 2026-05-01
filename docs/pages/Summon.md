@@ -7,7 +7,7 @@ tags:
 ---
 **Summon** is a level 8 [cleric](./Cleric.md)
 [spell](./Spell.md). It will transfer a creature or player to the
-location of the caster. The [equipment](/equipment.md) will
+location of the caster. The equipment will
 remain at the original location. To transfer the equipment too, use the
 [Transfer](./Transfer.md) spell. It can be used to quickly get a
 needed [mobile](./Mobile.md), like a horse or a potential charmie
