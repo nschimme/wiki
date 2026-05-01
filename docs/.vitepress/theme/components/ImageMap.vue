@@ -1,6 +1,6 @@
 <template>
   <div class="image-map-container">
-    <img src="/img/Middle-earth.png" alt="Map of Middle-earth" />
+    <img :src="withBase('/img/Middle-earth.png')" alt="Map of Middle-earth" />
     <svg
       viewBox="0 0 800 560"
       preserveAspectRatio="xMidYMid meet"
@@ -9,8 +9,8 @@
     >
       <template v-for="(area, index) in areas" :key="index">
         <a
-          :xlink:href="area.href"
-          :href="area.href"
+          :xlink:href="withBase(normalizeHref(area.href))"
+          :href="withBase(normalizeHref(area.href))"
           :title="area.title"
           class="map-area-link"
         >
@@ -24,12 +24,32 @@
 </template>
 
 <script setup>
+import { withBase } from 'vitepress'
+
 const props = defineProps({
   areas: {
     type: Array,
     required: true
   }
 })
+
+function normalizeHref(href) {
+  if (href.startsWith('http')) return href
+
+  // If it starts with ./ it's relative to the pages directory usually,
+  // but let's make it absolute to /pages/ for robustness
+  let clean = href
+  if (clean.startsWith('./')) {
+    clean = clean.slice(2)
+  }
+
+  // Ensure it starts with /pages/ unless it's a special root page
+  if (!clean.startsWith('/') && !clean.includes(':')) {
+     return '/pages/' + clean
+  }
+
+  return clean
+}
 </script>
 
 <style scoped>
@@ -67,7 +87,8 @@ const props = defineProps({
 .map-area-link circle,
 .map-area-link rect,
 .map-area-link polygon {
-  fill: transparent;
+  /* Use a very faint fill so the area is clickable in all browsers */
+  fill: rgba(0, 0, 0, 0.001);
   stroke: transparent;
   transition: all 0.2s;
 }
