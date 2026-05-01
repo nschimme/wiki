@@ -6,6 +6,9 @@ const { Layout } = DefaultTheme
 
 <template>
   <Layout>
+    <template #doc-before>
+      <StubNotice />
+    </template>
     <template #not-found>
       <NotFound />
     </template>

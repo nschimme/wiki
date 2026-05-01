@@ -4,6 +4,36 @@ import path from 'path'
 const docsDir = path.resolve('docs')
 const pagesDir = path.resolve(docsDir, 'pages')
 
+function isStub(content) {
+    // Ignore pages that are intentional includes
+    if (content.includes('<!--@include')) {
+        return false;
+    }
+
+    const lines = content.split('\n');
+    let inFrontmatter = false;
+    let bodyLines = 0;
+    let hasStubTag = content.includes('{{stub}}') ||
+                     content.includes('stub: true') ||
+                     /tags:[\s\S]*?-\s*Stubs/.test(content);
+
+    lines.forEach(line => {
+        if (line.trim() === '---') {
+            inFrontmatter = !inFrontmatter;
+            return;
+        }
+        if (!inFrontmatter) {
+            const trimmed = line.trim();
+            // Ignore headers, empty lines, and comments
+            if (trimmed.length > 0 && !trimmed.startsWith('<!--') && !trimmed.startsWith('# ')) {
+                bodyLines++;
+            }
+        }
+    });
+
+    return bodyLines <= 3 || hasStubTag;
+}
+
 function getPages(dir, urlPrefix) {
     if (!fs.existsSync(dir)) return []
     return fs.readdirSync(dir)
@@ -14,6 +44,8 @@ function getPages(dir, urlPrefix) {
             const fm = content.match(/^---([\s\S]*?)---/)
             let title = ''
             let aliases = []
+            let isPageStub = isStub(content)
+
             if (fm) {
                 const titleMatch = fm[1].match(/^title:\s*(.*)$/m)
                 if (titleMatch) title = titleMatch[1].trim().replace(/^['"](.*)['"]$/, '$1')
@@ -29,7 +61,8 @@ function getPages(dir, urlPrefix) {
                 title,
                 name: f.replace(/\.md$/, '').replace(/_/g, ' '),
                 url: urlPrefix + f.replace(/\.md$/, ''),
-                aliases
+                aliases,
+                isStub: isPageStub
             }
         })
 }
@@ -41,9 +74,12 @@ const allPages = [
 
 const termMap = {}
 const paths = new Set()
+const stubs = new Set()
 
 for (const p of allPages) {
     paths.add(p.url)
+    if (p.isStub) stubs.add(p.url)
+
     const titleLower = p.title.toLowerCase()
     const nameLower = p.name.toLowerCase()
     if (titleLower.length > 3) termMap[titleLower] = p.url
@@ -60,7 +96,9 @@ paths.add('/tags')
 
 const output = {
     terms: termMap,
-    paths: Array.from(paths)
+    paths: Array.from(paths),
+    stubs: Array.from(stubs)
 }
 
 fs.writeFileSync(path.resolve('docs/.vitepress/pages-meta.json'), JSON.stringify(output, null, 2))
+console.log('Generated pages-meta.json with ' + stubs.size + ' stubs identified.')

@@ -29,7 +29,7 @@ or for short
   capacity 100 pounds
 - leather satchel - weight 2 pounds,
   capacity 40 pounds
-- [sable pouch](./Sable_pouch.md) - weight 25 pounds, capacity 62
+- [sable pouch](./Other_equipment.md) - weight 25 pounds, capacity 62
   pounds
 
 ## Money containers

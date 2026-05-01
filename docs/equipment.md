@@ -69,6 +69,3 @@ Understanding how your gear works:
 - [**Plants & Herbs**](./pages/Herb.md)
 - [**Food & Drink**](./pages/Food_&_Drink.md)
 
-## Browse All Equipment
-
-Browse all [**Equipment**](./pages/Equipment.md) or [**Items**](./pages/Items.md) pages.

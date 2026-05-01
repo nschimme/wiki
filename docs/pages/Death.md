@@ -21,7 +21,7 @@ your equipment from your
 again if you are not cautious, and other players may also take your
 items from the corpse. If you are below level 6 and of a good
 [race](./Race.md), you are entitled to a new [newbie
-kit](/pages/Newbie_Help) every time you die.
+kit](/guides) every time you die.
 
 The kind of death a character suffers (mobdeath, pk, other) now depends
 not only on the immediate cause of the death, but also on the recent
