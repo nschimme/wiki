@@ -31,6 +31,9 @@
   --vp-nav-logo-height: 28px;
   --vp-sidebar-width: 260px;
 
+  /* Wide screen layout */
+  --vp-layout-max-width: 1800px;
+
   /* Home hero */
   --vp-home-hero-name-color: var(--mume-gold);
   --vp-home-hero-name-background: none;
@@ -116,6 +119,15 @@ a:hover {
   text-decoration: underline;
 }
 
+/* ---------- Wide screen ---------- */
+
+@media (min-width: 1920px) {
+  :root {
+    --vp-layout-max-width: 2400px;
+    --vp-sidebar-width: 300px;
+  }
+}
+
 /* ---------- Nav ---------- */
 
 .VPNav {
@@ -153,7 +165,7 @@ a:hover {
 /* ---------- Content ---------- */
 
 .vp-doc {
-  max-width: 1280px;
+  max-width: 100%;
 }
 
 .vp-doc table {

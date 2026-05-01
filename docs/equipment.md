@@ -36,18 +36,18 @@ Understanding how your gear works:
 | [**Legs**](./pages/Legs.md) | Trousers, greaves |
 | [**Feet**](./pages/Feet.md) | Boots, sandals |
 | [**Shield**](./pages/Shield.md) | All shields |
-| [**Back**](./pages/Category:Cloaks.md) | Cloaks, capes |
-| [**Waist**](./pages/Category:Belts.md) | Belts, girdles |
+| [**Back**](./pages/Cloaks.md) | Cloaks, capes |
+| [**Waist**](./pages/Belts.md) | Belts, girdles |
 | [**Wrist**](./pages/Wrist.md) | Wristbands, bracers |
-| [**Finger**](./pages/Category:Rings.md) | Rings |
+| [**Finger**](./pages/Rings.md) | Rings |
 | [**Light**](./pages/Light.md) | Torches, lanterns |
 
 ## Browse by Material
 
-- [**Metal Armour**](./pages/Category:Metal_equipment.md) — Highest protection, heavy weight.
-- [**Mail Armour**](./pages/Category:Mail_equipment.md) — Medium protection, moderate weight.
-- [**Leather Armour**](./pages/Category:Leather_equipment.md) — Light weight, preferred by thieves and scouts.
-- [**Cloth**](./pages/Category:Cloth_equipment.md) — Often features magical bonuses for casters.
+- [**Metal Armour**](./pages/Metal_equipment.md) — Highest protection, heavy weight.
+- [**Mail Armour**](./pages/Mail_equipment.md) — Medium protection, moderate weight.
+- [**Leather Armour**](./pages/Leather_equipment.md) — Light weight, preferred by thieves and scouts.
+- [**Cloth**](./pages/Cloth_equipment.md) — Often features magical bonuses for casters.
 
 ## Weapons by Type
 
@@ -57,7 +57,7 @@ Understanding how your gear works:
 | [**Slashing**](./pages/Slashing_weapons.md) | Swords, blades |
 | [**Piercing**](./pages/Piercing_weapons.md) | Daggers, shortswords |
 | [**Stabbing**](./pages/Stabbing_weapons.md) | Spears, pikes |
-| [**Smiting**](./pages/Category:Smiting_weapons.md) | Two-handed weapons |
+| [**Smiting**](./pages/Smiting_weapons.md) | Two-handed weapons |
 | [**Concussion**](./pages/Concussion_weapons.md) | Maces, warhammers |
 | [**Ranged**](./pages/Ranged_weapons.md) | Bows, arrows, crossbows |
 
@@ -71,4 +71,4 @@ Understanding how your gear works:
 
 ## Browse All Equipment
 
-Browse all [**Equipment**](./pages/Category:Equipment.md) or [**Items**](./pages/Category:Items.md) pages.
+Browse all [**Equipment**](./pages/Equipment.md) or [**Items**](./pages/Items.md) pages.

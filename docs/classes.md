@@ -7,7 +7,7 @@ description: The class system in MUME — Warrior, Mage, Cleric, Thief, and Rang
 
 In MUME, "Class" is not a rigid choice made at birth. While your [Race](./races.md) determines your physical potential (stats), your **Class** is determined by where you spend your [Practices](./pages/Practice.md).
 
-<div class="tip custom-block" style="padding: 1em; border: 1px solid #e1d5b3; background: #fdfaf3; margin-bottom: 20px;">
+<div class="tip custom-block" style="padding: 1em; margin-bottom: 20px;">
   <strong>The MUME Identity:</strong> Race defines your <em>ceiling</em> (maximum stats), while practices define your <em>role</em>. You can be a Mage-like Hobbit or a Warrior-like Elf, though some combinations are more natural than others.
 </div>
 
