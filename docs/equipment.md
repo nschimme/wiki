@@ -12,15 +12,15 @@ MUME features a vast array of equipment. Use this hub to find specific items or 
 Most players are looking for these "Identified Gear" tables:
 
 - [**Weapon List**](./pages/Weapon.md) — Stats for swords, axes, bows, and more.
-- [**Armour List**](./pages/Armour.md#identified-gear) — Detailed protection values for all slots.
-- [**Jewelry & Tools**](./pages/Other_equipment.md#identified-gear) — Rings, amulets, lights, and containers.
+- [**Armour List**](./pages/Armour.md) — Detailed protection values for all slots.
+- [**Jewelry & Tools**](./pages/Other_equipment.md) — Rings, amulets, lights, and containers.
 
 ## Mechanics & Stats
 
 Understanding how your gear works:
 
-- [**Armour Mechanics**](./pages/Armour.md#armour-types) — How Absorb and Max work.
-- [**Weapon Mechanics**](./pages/Weapon.md#identified-gear) — Strength requirements and effectiveness.
+- [**Armour Mechanics**](./pages/Armour.md) — How Absorb and Max work.
+- [**Weapon Mechanics**](./pages/Weapon.md) — Strength requirements and effectiveness.
 - [**Condition**](./pages/Whet.md) — Keeping your weapons sharp and gear repaired.
 - [**Enchanting**](./pages/Enchant.md) — Improving your equipment via magic.
 
@@ -59,7 +59,6 @@ Understanding how your gear works:
 | [**Stabbing**](./pages/Stabbing_weapons.md) | Spears, pikes |
 | [**Smiting**](./pages/Category:Smiting_weapons.md) | Two-handed weapons |
 | [**Concussion**](./pages/Concussion_weapons.md) | Maces, warhammers |
-| [**Whipping**](./pages/Weapon.md#other-melee-weapons) | Whips, scourges |
 | [**Ranged**](./pages/Ranged_weapons.md) | Bows, arrows, crossbows |
 
 ## Special Equipment

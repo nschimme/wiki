@@ -1,6 +1,6 @@
 ---
 title: Playable Races
-description: The eight playable races in MUME — Elf, Dwarf, Hobbit, Man, Beorning, Orc, Troll, and Black Númenórean.
+description: The nine playable races in MUME — Elf, Half-Elf, Dwarf, Hobbit, Man, Beorning, Orc, Troll, and Black Númenórean.
 ---
 
 # Playable Races
@@ -14,6 +14,7 @@ These races generally start in Eriador (Bree, Blue Mountains, or the Shire) and 
 | Race | Notable Attributes |
 |------|-----------|
 | [Elf](./pages/Elf.md) | High mana, snow movement, immune to disease. |
+| [Half-Elf](./pages/Half-Elf.md) | Balanced between Man and Elf; good for versatile casters. |
 | [Dwarf](./pages/Dwarf.md) | High constitution, magic resistance, expert smithing. |
 | [Hobbit](./pages/Hobbit.md) | Small size, high dexterity, stealth and evasion bonuses. |
 | [Man](./pages/Man.md) | The most versatile race; fastest levelling and most class options. |
