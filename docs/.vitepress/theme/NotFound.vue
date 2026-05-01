@@ -77,7 +77,7 @@ const createUrl = computed(() => {
   return `https://github.com/${editRepo}/new/${editBranch}/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
 })
 
-function openSearch() {
+function openSearch(initialValue = '') {
   if (!inBrowser) return
   // Open VitePress local search modal
   const btn = document.querySelector<HTMLElement>('.VPNavBarSearch button, .search-root button')
@@ -86,12 +86,13 @@ function openSearch() {
     // Pre-fill the search input after the modal opens
     setTimeout(() => {
       const input = document.querySelector<HTMLInputElement>('#localsearch-input, .VPLocalSearchBox input[type="search"]')
-      if (input && pageName.value) {
-        input.value = pageName.value
+      const valueToFill = initialValue || pageName.value
+      if (input && valueToFill) {
+        input.value = valueToFill
         input.dispatchEvent(new Event('input', { bubbles: true }))
         input.focus()
       }
-    }, 200)
+    }, 100)
   }
 }
 
@@ -108,8 +109,8 @@ onMounted(() => {
     : ''
 
   if (pageName.value) {
-    // Small delay to ensure the DOM is ready and search component is initialized
-    setTimeout(openSearch, 200)
+    // Open search modal with a single short delay to ensure site-level search is ready
+    setTimeout(() => openSearch(pageName.value), 200)
   }
 })
 </script>
