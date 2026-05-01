@@ -46,11 +46,11 @@ export default defineConfig({
 
   title: 'MUME Wiki',
   description: 'A community wiki and guide to surviving in Multi-Users in Middle-earth.',
-  base: process.env.VITEPRESS_BASE ?? '/',
+  base: process.env.VITEPRESS_BASE ?? '/wiki/',
   cleanUrls: true,
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://wiki.mume.org'
+    hostname: 'https://docs.mume.org/wiki/'
   },
 
   head: [
