@@ -4,6 +4,7 @@ description: 'Two-handed weapons is a warrior'
 tags:
   - Warrior skills
   - Skills
+aliases: ["Two-handed", "Two Handed Weapons", "Smiting"]
 ---
 **Two-handed weapons** is a [warrior](./Warrior.md)
 [skill](./Skill.md) and [weapon](./Weapon.md) class. It is

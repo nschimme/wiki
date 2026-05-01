@@ -4,6 +4,7 @@ description: 'Piercing weapons is a thief'
 tags:
   - Thief skills
   - Skills
+aliases: ["Piercing"]
 ---
 **Piercing weapons** is a [thief](./Thief.md)
 [skill](./Skill.md) and [weapon](./Weapon.md) class that
