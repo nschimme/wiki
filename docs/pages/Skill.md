@@ -38,8 +38,8 @@ Damage
 
 - [Attack](./Attack.md)
 - [Backstab](./Backstab.md)
-- Missile
-- Piercing
+- [Missile](./Missile_weapons.md)
+- [Piercing](./Piercing_weapons.md)
 
 Subtlety
 
@@ -60,7 +60,7 @@ Finesse
 Offensive
 
 - [Bash](./Bash.md)
-- Charge
+- [Charge](./Newbie_Guide_to_Warrior_Skills.md#charge)
 - [Kick](./Kick.md)
 
 Weapon Skills
@@ -69,7 +69,7 @@ Weapon Skills
 - [Concussion Weapons](./Concussion_weapons.md)
 - [Slashing Weapons](./Slashing_weapons.md)
 - [Stabbing Weapons](./Stabbing_weapons.md)
-- Two Handed Weapons
+- [Two Handed Weapons](./Two-handed_weapons.md)
 - [Unarmed (Troll)](./Unarmed.md)
 
 Defensive
