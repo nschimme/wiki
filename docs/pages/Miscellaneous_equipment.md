@@ -14,8 +14,8 @@ easily into one of the available categories.
 
 ## Wearable Equipment
 
-- [mithril circlet](./mithril_circlet.md)
-- [twisted crown](./twisted_crown.md)
+- mithril circlet
+- twisted crown
 
 ## Usable items
 
@@ -27,11 +27,11 @@ easily into one of the available categories.
 ## Potions
 
 - [brown bottle](./Brown_bottle.md)
-- [flask of orkish draught](./flask_of_orkish_draught.md)
-- [flask of miruvor](./flask_of_miruvor.md)
+- flask of orkish draught
+- flask of miruvor
 - [infusion](./Infusion.md)
-- [small brown bottle](./small_brown_bottle.md)
-- [small metal flask](./small_metal_flask.md)
+- small brown bottle
+- small metal flask
 - [softly glowing green cup](./Softly_glowing_green_cup.md)
 
 <!--@include: ../includes/Items.md-->

@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 **Say**, **whisper** and **ask** can be used to communicate with players
-or [mobiles](./Mobile.md) in the same [room](./room.md). For
+or mobiles in the same [room](./room.md). For
 long-distance communication, use [tell](./Tell.md).
 
 Say is heard by everyone in your room, while ask and whisper are only

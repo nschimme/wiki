@@ -22,5 +22,5 @@ exact name. Non-hidden exits can be addressed as simply 'exit'.
 Note that latched doors can be locked and unlocked without a key.
 
 See also: [Pick](./Pick.md), [Knock](./Knock.md),
-[Keyring](./Keyring.md), [Lockpicks](./Lockpicks.md),
+[Keyring](./Keyring.md), Lockpicks,
 [Call](./Call.md)

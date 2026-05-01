@@ -19,7 +19,7 @@ tags:
 
 `                   Sessions  Difficulty  `
 [`bash`](./Bash.md)`                    43   Hard       `
-[`charge`](./charge.md)`                  29   Normal     `
+`charge``                  29   Normal     `
 [`cleaving weapons`](./Cleaving_weapons.md)`        29   Normal     `
 [`concussion weapons`](./Concussion_weapons.md)`      29   Normal     `
 [`endurance`](./Endurance.md)`               58   Very hard   `

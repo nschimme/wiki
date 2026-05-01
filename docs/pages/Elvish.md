@@ -9,10 +9,10 @@ aliases: ["Quenya", "Sindarin"]
 *See also: [Language](./Language.md)*
 
 There are 2 Elvish tongues generally used in the *[The Lord of the
-Rings](./wikipedia:en:The_Lord_of_the_Rings.md)*: "the High-elven
-or [Quenya](./wikipedia:en:Quenya.md), and the Grey-elven, or
-[Sindarin](./wikipedia:en:Sindarin.md). The High-elven was an
-ancient tongue of [Eldamar](./wikipedia:en:Eldamar.md) beyond the
+Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)*: "the High-elven
+or [Quenya](https://en.wikipedia.org/wiki/Quenya), and the Grey-elven, or
+[Sindarin](https://en.wikipedia.org/wiki/Sindarin). The High-elven was an
+ancient tongue of [Eldamar](https://en.wikipedia.org/wiki/Eldamar) beyond the
 Sea, the first to be recorded in writing. It was no longer a
 birth-tongue, but had become, as it were, an 'Elven-Latin', still used
 for ceremony, and for high matters of lore and song".
@@ -27,6 +27,6 @@ Sindarin for daily use; and hence it was the tongue for all those Elves
 and Elf-Lords".
 
 Direct quotes are from appendices E and F in the *[The Return of the
-King](./wikipedia:en:The_Return_of_the_King.md)*.
+King](https://en.wikipedia.org/wiki/The_Return_of_the_King)*.
 
 See also: [Elven names](./Elven_names.md)

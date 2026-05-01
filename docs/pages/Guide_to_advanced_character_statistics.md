@@ -33,7 +33,7 @@ the reroll.
 A small aside: this kind of tweaking is fun for some people. But if you
 just want to play, don't worry too much about stats more than what is
 mentioned in the [Newbie Base
-Abilities](./Newbie_Base_Abilities.md) guide. You'll still be
+Abilities](/pages/Newbie_Guide_to_Choosing_your_Base_Abilities_or_Stats) guide. You'll still be
 nearly as potentially powerful as other players.
 
 **Statistic Effects**
@@ -57,7 +57,7 @@ generator](http://sites.google.com/site/jaharamume/index/stat-generator).
   (Sanctuary Absorb?)
 - Perception: Detecting hidden things (also enhanced by
   [Awareness](./Awareness.md)), Taking aim, [Line of
-  Sight](./Line_of_Sight.md)
+  Sight](/pages/Combat)
 
 Generally training is primarily useful for improving strength; dexterity
 and constitution are also useful, but the best really depends on a

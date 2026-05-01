@@ -20,6 +20,6 @@ Halls after dying, you need to regenerate some
 The room contains a sign and a bulletin [board](./Board.md) that
 provide some info for new players. Some basic equipment also loads here
 on a table, including a [hatchet](./Hatchet.md), a [hunting
-knife](./Hunting_knife.md), [torches](./torch.md), and some
+knife](./Hunting_knife.md), torches, and some
 food like [apples](./Apple.md) and
 [bread](./Loaf_of_bread.md).

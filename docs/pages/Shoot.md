@@ -16,5 +16,5 @@ break. This is likely to happen if you shoot a hard-to-hit target, or
 when your shot kills the opponent.
 
 See also: [Archery](./Archery.md), [Recover](./Recover.md),
-[Missile](./Missile.md), [Load](./Load.md), [Target
+Missile, [Load](./Load.md), [Target
 Shooting](./Target_Shooting.md)

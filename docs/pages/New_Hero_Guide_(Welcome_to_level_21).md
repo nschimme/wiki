@@ -306,5 +306,5 @@ their flying distance.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

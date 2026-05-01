@@ -6,7 +6,7 @@ tags:
   - Shopkeepers
 ---
 A **retired fisherman** sells food and drinks at the **Spicy Swordfish
-House** tavern in [Harlond](./Harlond.md).
+House** tavern in Harlond.
 
 `A retired fisherman works as bartender and cook here.`
 `>`**`examine fisherman`**
@@ -17,12 +17,12 @@ House** tavern in [Harlond](./Harlond.md).
 
 ## Menu
 
-- [steamed crabs](./steamed_crabs.md)
-- [roast duck](./roast_duck.md)
-- [grilled swordfish](./grilled_swordfish.md)
+- steamed crabs
+- roast duck
+- grilled swordfish
 - [beer bottles](./Beer_bottle.md) full of
   [beer](./Food_%26_Drink#Alcohol.md)
 - [ceramic cups](./Ceramic_cup.md) full of
   [tea](./Food_%26_Drink#Drink.md)
-- [wine glasses](./wine_glass.md) full of wine
+- wine glasses full of wine
  

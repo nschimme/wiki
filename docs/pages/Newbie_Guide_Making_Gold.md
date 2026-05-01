@@ -552,5 +552,5 @@ them for more quest rewards.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

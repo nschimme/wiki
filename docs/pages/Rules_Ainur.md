@@ -31,6 +31,6 @@ If you think an Ainu is mistreating you, use the pray command to get
 another Ainu's opinion.
 
 See also: [Ainur](./Ainur.md), [Rules
-Istari](./Rules_Istari.md), [Rules
+Istari](/pages/Rules_PK), [Rules
 Reimbursement](./Rules_Reimbursement.md), [Rules Character
 Separation](./Rules_Character_Separation.md)

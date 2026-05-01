@@ -6,7 +6,7 @@ tags:
   - Commands
 ---
 In order to **write** a note, you need a piece of blank paper (often
-available at your local grocer) and a [quill pen](./quill_pen.md).
+available at your local grocer) and a quill pen.
 You need to '[hold](./Hold.md)' the pen and then 'write note'. To
 read the note, you need to 'hold' the note and '[read](./Read.md)
 note'.

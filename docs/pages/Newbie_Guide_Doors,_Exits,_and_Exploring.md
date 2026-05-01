@@ -529,5 +529,5 @@ does not end there...
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

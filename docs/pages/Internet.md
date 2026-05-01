@@ -62,7 +62,7 @@ Attacks on PK enemies.
 
 ## PK and Lag
 
-When going from a non-[PK](./PK.md) situation to a PK-situation,
+When going from a non-PK situation to a PK-situation,
 generally the textual output from MUME increases a lot. This means that
 even a low packet loss link gets a more notable latency (lag) when
 loaded with more packets. This lag is generally because of the resending

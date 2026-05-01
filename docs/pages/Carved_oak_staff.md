@@ -37,12 +37,12 @@ list of items is as follows:
 
 **`Item`**`                   `**`Effect`**`              `**`Description when embedded`**
 [`Iron bar`](./Bar_of_iron.md)`               +`[`ob`](./Offensive_bonus.md)` and `[`pb`](./Parry_bonus.md)`          its foot is shod with iron`
-[`Huge silver bracer`](./Huge_silver_bracer.md)`     +ob and pb          silvery bands encircle it from top to bottom`
-[`Chunk of metal`](./Chunk_of_metal.md)`         +ob and pb          an orb of black metal surrounds its tip`
-[`Lustrous opal`](./Lustrous_opal.md)`          +attack spell power lustrous fire opal has been inlaid in it`
-[`Corberyl`](./Corberyl.md)`               +attack spell power a shining gemstone embedded near its top shimmers with many colours`
-[`Star sapphire`](./Star_sapphire.md)`          -spell save         a six-rayed star shines from the middle of a blue stone set in the staff`
-[`Brilliant adamant`](./Brilliant_adamant.md)`      -spell save`
+`Huge silver bracer``     +ob and pb          silvery bands encircle it from top to bottom`
+`Chunk of metal``         +ob and pb          an orb of black metal surrounds its tip`
+`Lustrous opal``          +attack spell power lustrous fire opal has been inlaid in it`
+`Corberyl``               +attack spell power a shining gemstone embedded near its top shimmers with many colours`
+`Star sapphire``          -spell save         a six-rayed star shines from the middle of a blue stone set in the staff`
+`Brilliant adamant``      -spell save`
 
 Up to three items can be embedded, and they all have to be different. An
 embedded item can't be removed. Depending on what items are embedded,

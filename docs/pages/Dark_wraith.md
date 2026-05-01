@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Dark wraiths** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) ~13-14 [mobs](./mob.md) found in various
+[level](./Level.md) ~13-14 mobs found in various
 locations around [Arda](./Arda.md). They are incorporeal and
 cannot be [bashed](./Bash.md). The can cast [Lightning
 Bolt](./Lightning_Bolt.md). Most of them load with a common

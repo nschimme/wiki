@@ -4,7 +4,7 @@ description: 'Assassins are aggressive level ~15-16 mobiles,'
 tags:
   - Mobiles
 ---
-**Assassins** are aggressive level ~15-16 [mobiles](./Mobile.md),
+**Assassins** are aggressive level ~15-16 mobiles,
 found in various place around [Arda](./Arda.md), especially common
 in [Tharbad](./Tharbad.md). They can sneak. They load 1 gold, a
 [moneybag](./Moneybag.md), a [piercing

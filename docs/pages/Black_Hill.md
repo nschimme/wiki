@@ -10,8 +10,8 @@ Havens](./Grey_Havens.md).
 
 ## Guilds
 
-- [Tower Hills Cleric Guild](./Tower_Hills_Cleric_Guild.md)
-- [Tower Hills Mage Guild](./Tower_Hills_Mage_Guild.md)
+- Tower Hills Cleric Guild
+- Tower Hills Mage Guild
 - [Tower Hills Ranger Guild](./Tower_Hills_Ranger_Guild.md)
 - [Tower Hills Scout Guild](./Tower_Hills_Scout_Guild.md)
 - [Tower Hills Warrior Guild](./Tower_Hills_Warrior_Guild.md)

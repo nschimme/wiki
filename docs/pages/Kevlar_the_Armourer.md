@@ -5,7 +5,7 @@ tags:
   - Shopkeepers
 ---
 **Kevlar the Armourer** tends to the **Kevlar's Fine Armour** shop in
-[Harlond](./Harlond.md). The store is open 6am - 12pm and 3pm -
+Harlond. The store is open 6am - 12pm and 3pm -
 9pm.
 
 `> Kevlar the elven armourer is here polishing items he has on display.`

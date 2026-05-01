@@ -9,7 +9,7 @@ A list of equipment worn on the **feet**.
 
 - [fine metal boots](./Fine_metal_boots.md)
 - [metal boots](./Metal_boots.md)
-- [sturdy metal boots](./sturdy_metal_boots.md)
+- sturdy metal boots
 
 # Leather
 
@@ -27,9 +27,9 @@ A list of equipment worn on the **feet**.
 # Cloth
 
 - [rabbit fur shoes](./Rabbit_fur_shoes.md)
-- [sandals](./sandals.md)
+- sandals
 - [shoes](./Shoes.md)
-- [soft, sequinned slippers](./soft,_sequinned_slippers.md)
-- [snowshoes](./snowshoes.md)
+- soft, sequinned slippers
+- snowshoes
 
 <!--@include: ../includes/Items.md-->

@@ -6,8 +6,8 @@ tags:
   - Belts
 ---
 The **plain silken sash** is a [belt](./Belt.md). It is worth
-around 7 [silver](./silver.md) and 50 copper, and is sold by most
-tailors. It can be [dyed](./dye.md) different colours.
+around 7 silver and 50 copper, and is sold by most
+tailors. It can be dyed different colours.
 
 `>`**`look sash`**
 `Long and sleek, this piece of silk is shiny and smooth to the touch.`

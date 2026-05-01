@@ -5,7 +5,7 @@ tags:
   - Help files
 ---
 Every once in a while MUME will need to **reboot** to incorporate new
-[features](./features.md) as well as to change or update certain
+features as well as to change or update certain
 game functions. A reboot usually takes about 30 seconds.
 
 Periodically, the game is also rebooted to "clean up" the world. Some
@@ -14,7 +14,7 @@ restarted.
 
 Any [mount](./Mount.md) you were riding/leading at the time of
 reboot will disappear so it might be a good idea to
-[rent](./Rent.md) it at your local [stable](./stable.md).
+[rent](./Rent.md) it at your local stable.
 Also, if you do not plan on coming back to the game immediately after
 the reboot be aware that the cost of renting your characters outside of
 an [inn](./Inn.md) is considerably higher.

@@ -12,7 +12,7 @@ chance of not getting caught depends on how well you have
 level of the victim compared to thief.
 
 Due to misuse of the steal command, it is not possible to steal from
-players. You can still steal from [mobiles](./Mobile.md) at any
+players. You can still steal from mobiles at any
 level.
 
 Also note that if citizens of a town see you stealing you will become

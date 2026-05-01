@@ -32,6 +32,6 @@ It weighs four pounds.
 ## Opinion
 
 When max enchanted this spear make most damage per time unit, more than
-[a giant spear](./a_giant_spear.md) for example.
+a giant spear for example.
 
 <!--@include: ../includes/Items.md-->

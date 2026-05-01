@@ -34,4 +34,4 @@ Room Name: Library
 [`Heal`](./Heal.md)`                        7  Hard`
 [`Remove Poison`](./Remove_Poison.md)`               3  Normal`
 [`Smother`](./Smother.md)`                     9  Easy`
-[`Strength`](./strength_Spell.md)`                    3  Hard`
+`Strength``                    3  Hard`

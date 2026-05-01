@@ -28,7 +28,7 @@ playing.
 
 There are also some mobiles in [MUME](./MUME.md) who bear the name
 of ranger. **Young rangers** will guide new players (relatively) safely
-from one [city](./City.md) to another. **Hardened rangers** patrol
+from one city to another. **Hardened rangers** patrol
 the area west of Bree, hunting down minions of Sauron as well as evil
 whities.
  

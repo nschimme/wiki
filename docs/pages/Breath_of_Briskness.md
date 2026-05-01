@@ -11,7 +11,7 @@ tags:
 points](./Movement_points.md) and increases move regeneration
 temporarily.
 
-This spell increases [mobility](./mobility.md) significantly and
+This spell increases mobility significantly and
 can be a lifesaver if you need to outrun chasing enemies or provide the
 mobility to pursue fleeing enemies. Clerics should practice it close to
 maximum. Most [mages](./Mage.md) use it too. The druid who lives

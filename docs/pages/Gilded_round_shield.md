@@ -6,7 +6,7 @@ description: 'The gilded round shield is a lightweight shield that grants a'
 The **gilded round shield** is a lightweight shield that grants a
 considerable amount of [parry bonus](./Parry_bonus.md) for its
 weight, making it a desirable option for
-lower-[strength](./strength.md) characters. It is similar to the
+lower-strength characters. It is similar to the
 [shield of Arthedain](./Shield_of_Arthedain.md), giving slightly
 better parry while also weighing slightly more. It loads on the [ghost
 of Galerel](./Ghost_of_Galerel.md).

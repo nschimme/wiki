@@ -14,4 +14,4 @@ leader.
 
 Examples: \> follow frostblade \> follow See also:
 [Group](./Group.md), [Drop](./Drop.md),
-[Abandon](./Abandon.md)
+Abandon

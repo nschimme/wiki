@@ -21,4 +21,4 @@ or "drop everyone" to try to shake off everyone:
 ` Merry stops following you.`
 
 See also: [Get](./Get.md), [Put](./Put.md),
-[Abandon](./Abandon.md)
+Abandon

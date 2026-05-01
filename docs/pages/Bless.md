@@ -28,4 +28,4 @@ This spell can be learned from:
 
 See also: [Darkness](./Darkness.md), [Protection From
 Evil](./Protection_From_Evil.md),
-[Sanctuary](./Sanctuary.md), [Strength](./Strength_Spell.md)
+[Sanctuary](./Sanctuary.md), Strength

@@ -13,7 +13,7 @@ The keyword to use the scroll can be any of the keywords that the scroll
 has.
 
 NOTE: For playability, [black scrolls](./Black_scroll.md) and
-[blue scrolls](./blue_scroll.md) can be activated by using
+blue scrolls can be activated by using
 blackscroll/bluescroll as keywords.
 
 Examples:

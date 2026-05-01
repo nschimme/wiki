@@ -13,7 +13,7 @@ It is wise to make sure the lock is locked first. If you attempt to pick
 a lock that is actually unlocked, there is a chance you might accidently
 lock it.
 
-Holding/Wearing [lockpicks](./lockpicks.md) will improve your
+Holding/Wearing lockpicks will improve your
 chances at picking.
 
 Examples:

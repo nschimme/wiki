@@ -36,5 +36,5 @@ paying much greater rent costs. You will also be rented automatically if
 the game crashes or reboots.
 
 See also: [Camp](./Camp.md), [Inn](./Inn.md),
-[Receptionist](./Receptionist.md), [Noquit](./Noquit.md),
+Receptionist, [Noquit](./Noquit.md),
 [Link](./Link.md), [Hometowns](./Hometowns.md)

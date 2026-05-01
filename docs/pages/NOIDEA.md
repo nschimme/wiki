@@ -42,7 +42,7 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- BNs with a [city](./City.md)
+- BNs with a city
 
 <!-- -->
 
@@ -84,11 +84,11 @@ implementors) and ruled to never appear as long as they draw breath:
 ## Equipment
 
 - Being able to buy heals or healing spells from
-  clerical-[mobiles](./Mobile.md)
+  clerical-mobiles
 
 <!-- -->
 
-- Banks and places to store excess [equipment](./Equipment.md)
+- Banks and places to store excess equipment
 
 <!-- -->
 
@@ -112,7 +112,7 @@ implementors) and ruled to never appear as long as they draw breath:
 
 <!-- -->
 
-- Safe areas where newbies can learn [commands](./commands.md)
+- Safe areas where newbies can learn commands
 
 <!-- -->
 

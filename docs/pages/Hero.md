@@ -13,4 +13,4 @@ an [Istar](./Istari.md), and casting some 'special' spells.
 
 Also see: [Istari](./Istari.md),
 [Metamorph](./Metamorph.md), [Create
-Focus](./Create_Focus.md), [Rules-Titles](./Rules-Titles.md)
+Focus](./Create_Focus.md), Rules-Titles

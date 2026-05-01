@@ -5,7 +5,7 @@ tags:
   - Piercing weapons
 ---
 The **rapier** is a [piercing weapon](./Piercing_weapon.md). It is
-worth around 15 [silver](./silver.md), and is sold by most
+worth around 15 silver, and is sold by most
 weaponsmiths.
 
 `A rapier is on the ground.`

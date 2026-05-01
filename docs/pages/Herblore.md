@@ -6,7 +6,7 @@ tags:
 ---
 A **herblore** is a recipe that will provide you with a potion or other
 item to help you in your travels. They can be learnt by helping certain
-[mobiles](./Mobile.md) or by reading an ancient scroll or book. To
+mobiles or by reading an ancient scroll or book. To
 make them, you must have the [items](./Herb.md) specified in the
 herblore instructions, a herbal kit and you must have acquired the lore.
 
@@ -398,10 +398,10 @@ Alternatively kill the assassin behind tangle near Wight Captain. Can
 load on the assassin, but it's rare.
 
 - - Ingredients:\*\* 2x
-    [blackberries](./mumeherbslist#blackberries.md), [lily
-    petals](./mumeherbslist#water-lily.md), [figwort
-    petals](./mumeherbslist#figwort_turtlehead.md), [athelas
-    leaves](./mumeherbslist#athelas.md)
+    [blackberries](/pages/Herb#blackberries.md), [lily
+    petals](/pages/Herb#water-lily.md), [figwort
+    petals](/pages/Herb#figwort_turtlehead.md), [athelas
+    leaves](/pages/Herb#athelas.md)
 
 <!-- -->
 
@@ -529,7 +529,7 @@ these also protect against infection. Finally, leaves from the kingsfoil
 plant must be added, so that their healing properties may staunch the
 blood flow and stimulate the healing.
 
-- - How to obtain:\*\* Kill [Frychra](./mumestrategies#frychra.md)
+- - How to obtain:\*\* Kill Frychra
     in Mirkwood , Kral quest (Zorc only)
 
 <!-- -->
@@ -606,7 +606,7 @@ strenghten the body. Finally, the large leaves of the coneflower can be
 used to wrap the mixture, producing a sort of leaf-cake.
 
 - - How to obtain:\*\* Complete the [Leaf-cake
-    quest](./mumequests#leaf-cake_quest.md).
+    quest](/pages/Quest#leaf-cake_quest.md).
 
 <!-- -->
 
@@ -788,11 +788,11 @@ Crude orkish horn worked for me - Kaspar
 
 - - Ingredients:\*\*
 
-[tincture of oil](./mumeherbslist#tincture_of_oil.md),
-[paprika](./mumeherbslist#paprika_pepper.md), [rose
-petals](./mumeherbslist#red_rose.md), [vanilla
-bean](./mumeherbslist#vanilla.md), [rosemary
-leaves](./mumeherbslist#rosemary.md) x2.
+[tincture of oil](/pages/Herb#tincture_of_oil.md),
+[paprika](/pages/Herb#paprika_pepper.md), [rose
+petals](/pages/Herb#red_rose.md), [vanilla
+bean](/pages/Herb#vanilla.md), [rosemary
+leaves](/pages/Herb#rosemary.md) x2.
 
 - - Product: \*\* a vial of scented oil (lasted 71 minutes)
 
@@ -820,7 +820,7 @@ against the infection will induce a spiritual weakness for a short
 duration.
 
 - - How to obtain:\*\* Complete the quest given by Nordri in the Blue
-    Mountains (see [Quests](./MumeQuests#nordri_s_quest.md)).
+    Mountains (see [Quests](/pages/Quest#nordri_s_quest.md)).
 
 <!-- -->
 
@@ -862,9 +862,9 @@ loads the strength lore.
 
 - - Ingredients:\*\*
 
-[clover](./mumeherbslist#clover.md),
-[paprika](./mumeherbslist#paprika_pepper.md), [comfrey
-root](./mumeherbslist#comfrey.md).
+[clover](/pages/Herb#clover.md),
+[paprika](/pages/Herb#paprika_pepper.md), [comfrey
+root](/pages/Herb#comfrey.md).
 
 - - Product: \*\*
 
@@ -912,9 +912,9 @@ leader in goblin caves near Fork)
 
 - - Ingredients:\*\*
 
-[tarragon leaves](./mumeherbslist#tarragon_estragon.md), [ginseng
-root](./mumeherbslist#ginseng.md),
-[clover](./mumeherbslist#clover.md).
+[tarragon leaves](/pages/Herb#tarragon_estragon.md), [ginseng
+root](/pages/Herb#ginseng.md),
+[clover](/pages/Herb#clover.md).
 
 - - Product: \*\*
 
@@ -939,17 +939,17 @@ some clover as a base. Add a few crushed leaves of marjoram and freshly
 bought cloves, to clean the blood of its toxines and stop cramps.
 
 - - How to obtain:\*\* Complete the
-    [quest](./mumequests#aldereons_s_quest.md) given by Aldereon
+    [quest](/pages/Quest#aldereons_s_quest.md) given by Aldereon
     the ancient Noldo northwest of Greenholm. Aldereon will ask you to
     deliver sealed letters to his friends across Arda. The distance and
     XP/Letter will vary depending on level.
 
 <!-- -->
 
-- - Ingredients:\*\* [clover](./mumeherbslist#clover.md), [juniper
-    berries](./mumeherbslist#juniper.md), [marjoram
-    leaves](./mumeherbslist#marjoram.md) and
-    [cloves](./mumeherbslist#cloves.md).
+- - Ingredients:\*\* [clover](/pages/Herb#clover.md), [juniper
+    berries](/pages/Herb#juniper.md), [marjoram
+    leaves](/pages/Herb#marjoram.md) and
+    [cloves](/pages/Herb#cloves.md).
 
 <!-- -->
 
@@ -996,9 +996,9 @@ will succumb to its negative effects.
 
 <!-- -->
 
-- - Ingredients:\*\* [hemlock](./mumeherbslist#hemlock.md),
-    [inkberries](./mumeherbslist#inkberries.md), [frog
-    tongue](./mumeherbslist#frog_tongue.md).
+- - Ingredients:\*\* [hemlock](/pages/Herb#hemlock.md),
+    [inkberries](/pages/Herb#inkberries.md), [frog
+    tongue](/pages/Herb#frog_tongue.md).
 
 <!-- -->
 
@@ -1067,9 +1067,9 @@ any blade or arrow for use against the enemy.
 <!-- -->
 
 - - Ingredients:\*\* [salamander
-    tail](./mumeherbslist#salamander_tail.md), [bat
-    fur](./mumeherbslist#bat_fur.md), [small-fluid
-    sack](./mumeherbslist#small-fluid_sack.md).
+    tail](/pages/Herb#salamander_tail.md), [bat
+    fur](/pages/Herb#bat_fur.md), [small-fluid
+    sack](/pages/Herb#small-fluid_sack.md).
 
 <!-- -->
 
@@ -1127,9 +1127,9 @@ his skills. It can of course be used to poison arrows or blades.
 
 <!-- -->
 
-- - Ingredients:\*\* [belladonna](./mumeherbslist#belladonna.md),
-    [bright red mushroom](./mumeherbslist#bright_red_mushroom.md),
-    [frog tongue](./mumeherbslist#frog_tongue.md).
+- - Ingredients:\*\* [belladonna](/pages/Herb#belladonna.md),
+    [bright red mushroom](/pages/Herb#bright_red_mushroom.md),
+    [frog tongue](/pages/Herb#frog_tongue.md).
 
 <!-- -->
 

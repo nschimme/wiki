@@ -31,7 +31,7 @@ It weighs six pounds.
 
 Top of the non-artifact [concussion
 weapons](./Concussion_weapon.md), the ornate warhammer is a very
-common weapon in [PK](./PK.md) and rightly so - it is arguably the
+common weapon in PK and rightly so - it is arguably the
 best weapon for PK in closables.
 
 <!--@include: ../includes/Items.md-->

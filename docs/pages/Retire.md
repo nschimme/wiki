@@ -11,13 +11,13 @@ obtain an age reset after you've been retired for a real year.
 
 Your characters have a limited lifespan after you log off, before they
 are deleted, irrespective of how much [gold](./Gold.md) or
-[equipment](./Equipment.md) they have for renting. This time
+equipment they have for renting. This time
 period is approximately (Level - 1) \* 5 Real Life days. If you will be
 unable to log in for an extended period and yet want to return at a
 later date with the same character you need to retire him/her.
 
 In order to retire you must go to a
-[receptionist](./receptionist.md) and type
+receptionist and type
 "[rent](./Rent.md) retire" twice. There is currently a requirement
 that you have at least one item such as a loaf of bread and 1 coin such
 as a copper (a busc in the Elven tongue). This restriction might be
@@ -72,7 +72,7 @@ level refer to characters under level 20.
 
 3\) Characters under level 6 cannot "rent retire."
 
-4\) Retired [Istari](./Istar.md) cannot get an age reset.
+4\) Retired Istari cannot get an age reset.
 
 5\) [Sauron-listed](./Sauron's_List.md) people cannot rent retire
 and can only be retired in exceptional circumstances.

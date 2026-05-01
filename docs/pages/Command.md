@@ -6,7 +6,7 @@ tags:
   - Ranger skills
 ---
 *For a list of commands useable in the game, see
-[commands](./commands.md).*
+commands.*
 
 **Command** is a [ranger](./General.md) [skill](./Skill.md).
 This skill defines your ability to impose your will on a

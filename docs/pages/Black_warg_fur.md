@@ -18,6 +18,6 @@ It weighs eight pounds.
 ## Opinions
 
 Probably the most commonly used [OB](./Offensive_bonus.md) item,
-it is light compared to a [cave bear fur](./cave_bear_fur.md) and
+it is light compared to a cave bear fur and
 can be easily switched for a cloak when defence is necessary.
 <!--@include: ../includes/Items.md-->

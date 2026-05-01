@@ -31,4 +31,4 @@ Brethil](./Minas_Brethil.md).
 [`Remove Poison`](./Remove_Poison.md)`                1  Normal`
 [`Sense Life`](./Sense_Life.md)`                   1  Normal`
 [`Smother`](./Smother.md)`                      3  Easy`
-[`Strength`](./Strength_Spell.md)`                     2  Hard`
+`Strength``                     2  Hard`

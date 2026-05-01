@@ -5,7 +5,7 @@ description: 'Piercing weapons are one of the'
 
 **[Piercing weapons](./Piercing_weapons.md)** are one of the
 weapon types found in [MUME](./MUME.md). These weapons usually
-have a low [strength](./strength.md) requirement and are mostly
+have a low strength requirement and are mostly
 used by [thieves](./Thief.md).
 
 ## Damage
@@ -13,7 +13,7 @@ used by [thieves](./Thief.md).
 - [black runed dagger](./Black_runed_dagger.md) (BRD) - good
   damage, parry, good db, spellsave
 - [nasty orkish fang](./Nasty_orkish_fang.md) - good damage
-- [elven dagger](./elven_dagger.md) - same as fang
+- elven dagger - same as fang
 - [barbed fang](./Barbed_fang.md)
 
 ## Offensive
@@ -39,11 +39,11 @@ used by [thieves](./Thief.md).
 - [stiletto](./Stiletto.md)
 - [butcher knife](./Butcher_knife.md)
 - [horn](./Horn.md)
-- [long, wicked knife](./long,_wicked_knife.md) - evil
+- long, wicked knife - evil
 - [hunting knife](./Hunting_knife.md)
 - [gem-inlaid knife](./Gem-inlaid_knife.md)
-- [sacrificial knife](./sacrificial_knife.md) - evil
-- [brown thorn](./brown_thorn.md)
+- sacrificial knife - evil
+- brown thorn
 
 ## Artifacts
 

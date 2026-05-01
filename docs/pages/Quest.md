@@ -3,7 +3,7 @@ title: Quest
 description: 'Several mobiles on MUME offer'
 ---
 
-Several [mobiles](./Mobile.md) on [MUME](./MUME.md) offer
+Several mobiles on [MUME](./MUME.md) offer
 **quests** of varying levels to be solved. This can range from killing a
 certain monster, delivering a rare item to repairing something. As a
 reward, sometimes a [herblore](./Herblore.md) will be offered, a
@@ -16,7 +16,7 @@ to ask them about something specific.
 
 ### The Hunt
 
-A trapper northwest of [Forlond](./Forlond.md) mentioned an old
+A trapper northwest of Forlond mentioned an old
 tale of a legendary stag. Perhaps you could hear out his story before
 attempting to find it yourself?
 
@@ -25,7 +25,7 @@ attempting to find it yourself?
   talk about old times, and about a [noble stag](./Noble_stag.md)
   he recently sighted to the northwest, then nod in agreement when he
   asks you to kill the noble stag and give him its
-  [antlers](./a_pair_of_antlers.md). If the trapper does not start
+  antlers. If the trapper does not start
   talking after you've sold the furs and pelts, then either you have not
   sold him enough, or the noble stag is not loading at the moment, in
   which case, wait a while before trying again. Once you find the noble
@@ -33,8 +33,8 @@ attempting to find it yourself?
   can be done twice by the same character, but the second time requires
   more furs/pelts, and they must be given to the trapper, not sold for
   money.
-- Reward: [Yew longbow](./a_yew_longbow.md), and quiver with 12
-  [ash arrows](./an_ash_arrow.md).
+- Reward: Yew longbow, and quiver with 12
+  ash arrows.
 
 ### The Lonely Giant
 
@@ -44,7 +44,7 @@ wafers, you can make bannocks yourself... that is, if you complete this
 quest.
 
 - Location: Various locations in the [Shire](./Shire.md).
-- Quest: Find the [lonely giant](./lonely_giant.md) and comfort
+- Quest: Find the lonely giant and comfort
   the poor fellow. He'll then offer to teach you how to make bannocks of
   golden brown, but to do this, he needs you to bring him some
   [herbs](./Herb.md). You have about 1.5 MUME days to complete the
@@ -119,7 +119,7 @@ the Dwarven mines. If you smelt, you usually need wood...
   other hobbits in the Shire in that as soon as you enter her room,
   she'll exclaim for help, and start following you. Lead her to her
   father.
-- Reward: [a forest green cloak](./a_forest_green_cloak.md), 1000
+- Reward: a forest green cloak, 1000
   exp, and 1 gold.
 
 ### Bree Weaponsmith
@@ -130,7 +130,7 @@ awry. Perhaps you could help the smith out?
 - Quest: If you visit the [Bree
   Weaponsmith](./Bree_Weaponsmith.md) while you are between levels
   4-9, he will ask you to help him with a problem of his related to an
-  antique [dagger](./dagger#Other.md) that was lost while being
+  antique [dagger](/pages/Dagger#Other.md) that was lost while being
   transported from [Fornost](./Fornost.md). Search the forest
   northeast of Bree for the ruffian bandit who stole the dagger, kill
   him, and return the dagger to the weaponsmith.
@@ -141,12 +141,12 @@ awry. Perhaps you could help the smith out?
 - Location: Harle can spawn in one of the taverns in the
   [Shire](./Shire.md).
 - Quest: Ask Harle about entwives and he will begin to follow you. Take
-  him to [Tom Bombadil](./Tom_Bombadil.md), and then to
+  him to Tom Bombadil, and then to
   [Treebeard](./Treebeard.md) in [Fangorn](./Fangorn.md). He
   has bad [moves](./Movement_points.md), so it is best if you are
   able to cast [Breath of Briskness](./Breath_of_Briskness.md) or
   bring along someone who can.
-- Reward: +1 [constitution](./constitution.md) for 1 real life
+- Reward: +1 constitution for 1 real life
   week.
 
 ### Elven Chief
@@ -161,9 +161,9 @@ Havens](./Grey_Havens.md) has lost a barrel of exquisite wine.
   thieves' secret lair is located West of the village, despite the
   quest's description saying North East. Retrieve the [small oaken
   barrel](./A_small_oaken_barrel.md) and return it to the chief.
-  - Note: The chief only speaks [Sindarin](./Sindarin.md), but can
+  - Note: The chief only speaks Sindarin, but can
     understand you if you talk to him in another language.
-- Reward: [an exquisite wine glass](./an_exquisite_wine_glass.md)
+- Reward: an exquisite wine glass
 
 ### Bree Secretary
 
@@ -214,9 +214,9 @@ to him. Perhaps you can help him out?
 - Quest: Find [Beechbone the Ent](./Beechbone_the_Ent.md) at the
   eastern edge of the Fangorn forest and ask him why he's sad. He'll
   tell you that birch trees drove him out of his home. He left behind a
-  [bowl](./a_large_clay_bowl.md), and asks your help in retrieving
+  bowl, and asks your help in retrieving
   it. You will need to get a large [tree
-  branch](./a_very_large_knotted_tree-branch.md), and head to the
+  branch](/pages/Weapon), and head to the
   clearing southwest of where Beechbone is. Enter his ruined home and
   use the tree branch to lift up one of the large jars ('lever jar'). Go
   down, reveal the bowl, and return it to Beechbone.
@@ -224,32 +224,32 @@ to him. Perhaps you can help him out?
 
 ### Berel and Jeraton
 
-- Location: Village southwest of [Lorien](./Lorien.md).
+- Location: Village southwest of Lorien.
 - Quest: When you enter one of the houses in the village,
   [Berel](./Berel.md) will try (and fail) to steal from you. She
   will then apologize and tell you that she and her husband have fallen
   on hard times, and ask you to speak to [Jeraton](./Jeraton.md),
   who is located in a nearby room. Jeraton will tell you that he needs a
-  new axe. Bring him a [woodsman's axe](./a_woodsman's_axe.md).
+  new axe. Bring him a woodsman's axe.
 - Reward: a [stout oaken stick](./Stout_oaken_stick.md)
 
 ### Tethel
 
 - Location: Secret flet on the western edge of
-  [Lorien](./Lorien.md) near the river.
+  Lorien near the river.
 - Quest: When you enter, Tethel may ask you if you are headed West. If
   she does and you agree with her, then she will tell you of unfortunate
   elf who met a grisly end nearby. The dead elf was carrying a tome to
   [Rivendell](./Rivendell.md). You must seek it in the Redhorn
   Pass where it loads hidden. If you find the tome and take it to
-  [Quenaire](./Quenaire.md) in Rivendell, you will be rewarded.
+  Quenaire in Rivendell, you will be rewarded.
 - Reward: Some lembas wafers, possibly some miruvor, and a letter of
   introduction to the elves of Lorien. If you take the letter back to
   Tethel, you will be granted limited access to Lorien.
 
 ### The Elven Weaver
 
-- Location: South of [Harlond](./Harlond.md).
+- Location: South of Harlond.
 - Quest: The [ancient weaver](./Ancient_weaver.md) will mention
   that she is running out of dye. Agree to help her. The [dwarven
   dye-maker](./Dwarven_dye-maker.md) she tells you about can be
@@ -277,20 +277,20 @@ to him. Perhaps you can help him out?
 ### Harlond Herbalist
 
 The [herbalist](./Harlond_Herbalist.md) in
-[Harlond](./Harlond.md) is looking for some valuable jewelry to
+Harlond is looking for some valuable jewelry to
 impress a woman he loves.
 
 - Quest: When you enter the shop, the herbalist will mention something
   about a ring or a belt. Ask him about the item, and he will explain.
   He will only accept a magical [ring](./Ring.md) or a [gleaming
-  belt](./gleaming_belt.md).
+  belt](/pages/Armour).
 - Reward: upgraded [herbal kit](./Herbal_kit.md)
 
 ### Snake Hunt
 
 The [accomplished hunter](./Tower_Hills_Scout_Guild.md) in the
 [Tower Hills](./Tower_Hills.md) needs help dealing with an
-overpopulation of [slithering snakes](./slithering_snake.md).
+overpopulation of slithering snakes.
 
 - Quest: Agree to help him, and bring him three slithering snake
   [corpses](./Corpse.md). The corpses can be turned in one at a
@@ -306,9 +306,9 @@ fallen ill.
 
 - Required level: 3
 - Quest: Nod when the herbalist asks you for help. Listen to his
-  instructions on where to find [ragwort](./ragwort.md),
-  [hawkweed](./hawkweed.md) and [wood
-  anemone](./wood_anemone.md), and retrieve the herbs.
+  instructions on where to find ragwort,
+  hawkweed and [wood
+  anemone](/pages/Herb), and retrieve the herbs.
 - Reward: [herbal kit](./Herbal_kit.md),
   [athelas](Herb#Athelas_(Kingsfoil) "wikilink") leaves, ??? xp.
 
@@ -362,8 +362,8 @@ exterminate [giant rats](./Giant_rat.md).
 
 ### Equipping Leonard
 
-[Leonard](./Leonard.md) from [Black Hill](./Black_Hill.md)
-needs help procuring some [equipment](./Equipment.md).
+Leonard from [Black Hill](./Black_Hill.md)
+needs help procuring some equipment.
 
 - Required level: 4
 - Quest: He will ask for a [lantern](./Lantern.md), a [woollen
@@ -372,7 +372,7 @@ needs help procuring some [equipment](./Equipment.md).
   [whetstone](./Whetstone.md). Agree to help him. All
   [items](./Item.md) may be found nearby or bought from
   [shops](./Shop.md).
-- Reward: [Leonard's notes](./Leonard's_notes.md), 1000xp
+- Reward: Leonard's notes, 1000xp
 
 ### Bandit's Note
 
@@ -384,7 +384,7 @@ from a [bandit](./Bandit.md) lookout.
 - Quest: The plateau with the bandit lookouts is just north of the road
   to [Grey Havens](./Grey_Havens.md), on the eastern edge of the
   Tower Hills. It can be accessed from the northern side, along the path
-  leading to the [White Tower](./White_Tower.md). The
+  leading to the White Tower. The
   [bandit](./Bandit.md) carrying the
   [note](./Crumpled,_mud-smeared_piece_of_paper.md) wanders around
   all the [rooms](./room.md) on the plateau - watch out for the

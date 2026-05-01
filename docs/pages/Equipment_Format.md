@@ -18,5 +18,5 @@ Examples:
 
 eq W show what you are holding in your hands eq WSHbcahlfnF-qB the
 default eq display eq Fn hblaHfc WSw q-B a sane eq display See also:
-[Equipment](./Equipment.md), [Change
+Equipment, [Change
 Eqorder](./Change_Eqorder.md)

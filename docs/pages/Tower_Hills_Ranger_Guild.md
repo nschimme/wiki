@@ -23,7 +23,7 @@ Hill](./Black_Hill.md). He is looking for someone to retrieve
 `            Sessions  Difficulty`
 [`bandage`](./Bandage.md)`            4  Easy`
 [`climb`](./Climb.md)`              4  Very easy`
-[`ride`](./ride.md)`              10  Very easy`
+[`ride`](/pages/Ride)`              10  Very easy`
 [`swim`](./Swim.md)`               4  Very easy`
 [`track`](./Track.md)`             15  Normal`
 [`wilderness`](./Wilderness.md)`        12  Normal     `

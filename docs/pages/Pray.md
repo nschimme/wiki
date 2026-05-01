@@ -7,7 +7,7 @@ tags:
 ---
 In the [Halls of Mandos](./Halls_of_Mandos.md), the **pray**
 command is used to transport yourself to one of the main
-[towns](./town.md) and cities of [Middle-earth](./Location). The locations to which you may choose
+[towns](./Hometowns.md) and cities of [Middle-earth](./Location). The locations to which you may choose
 to pray are dictated by your [race](./Race.md) and
 [citizenships](./Citizen.md). The first time you pray, or if you
 have no citizenships for any other reason, you may pray only to the
@@ -47,8 +47,8 @@ problem is in his prayer:
 
 Good prays:
 
-- can I have a [newbie](./newbie.md) kit?
-- my [strength](./strength.md) suddenly decreased from 17 to 1,
+- can I have a newbie kit?
+- my [strength](./Statistic.md) suddenly decreased from 17 to 1,
   what's up?
 - Morgul blade disappeared, but it was Sauron's darkness
 - Fornost [warrior](./Warrior.md) [guild](./Guild.md) isn't

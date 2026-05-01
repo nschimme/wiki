@@ -1,10 +1,10 @@
 ---
 title: File:Warg.jpg
-description: 'An warg in [The Lord of the Rings: The Fellowship of the'
+description: 'An warg in The Lord of the Rings: The Fellowship of the'
 ---
 
 An warg in *[The Lord of the Rings: The Fellowship of the
-Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*
+Ring*
 
 A scene from Peter Jackson's The Lord of the Rings: The Fellowship of
 the Ring (film), an adaptation of J. R. R. Tolkien's The Lord of the

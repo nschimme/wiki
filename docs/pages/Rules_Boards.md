@@ -21,7 +21,7 @@ goes for mortal-immortal relationships, i.e. an
 [orc](./Orc.md) board about his/her [dwarf](./Dwarf.md).
 
 3\. Do not post [maps](./Map.md) or statistics of
-[mobiles](./Mobile.md) or objects. This information is not for
+mobiles or objects. This information is not for
 general release. At best the information should be vague and at times
 misleading. For advice contact one of the management.
 

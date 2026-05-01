@@ -24,5 +24,5 @@ When referring to an unknown amount, use 'coins':
 
 ` > take coins`
 
-Money is useful for [buying](./buy.md) things, and for [storing
+Money is useful for buying things, and for [storing
 your equipment](./Rent.md) while you are not playing.

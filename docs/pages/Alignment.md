@@ -18,7 +18,7 @@ zones of alignment opposite to theirs. Thus, past a point, the more
 extreme you are, the less penalty you suffer.
 
 IMPORTANT: Note that the evil folks cannot enter some good
-[cities](./City.md) and may be hunted by certain protectors of the
+cities and may be hunted by certain protectors of the
 western lands. Thus being an evil character of a good
 [race](./Race.md) is likely to make your life hard and may often
 get you killed. The more evil you are, the more likely you are to

@@ -8,7 +8,7 @@ tags:
 Syntax : cast 'create focus' \&lt;object\&gt; Type : Special Accumulative: No
 Duration : Permanent Casting : - Position : Standing; fully rested Class
 : All Level : Hero Min. Mana : Special A focus is a powerful item bound
-to an [Istar](./Istar.md) or [Hero](./Hero.md).
+to an Istar or [Hero](./Hero.md).
 
 This spell creates a focus for the caster, it need not be learnt at any
 guild, but it can only be cast with the correct components and under

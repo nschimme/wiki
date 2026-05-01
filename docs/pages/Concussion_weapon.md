@@ -22,31 +22,31 @@ have high strength requirements and are efficient vs. opponents in metal
 
 ## Average
 
-- [large warhammer](./large_warhammer.md)
+- large warhammer
 - [very heavy branch](./Very_heavy_branch.md)
-- [huge spiked club](./huge_spiked_club.md)
+- huge spiked club
 - [cruelly-spiked mace](./Cruelly-spiked_mace.md)
 
 ## Poor
 
 - [cudgel](./Cudgel.md)
 - [wooden club](./Wooden_club.md)
-- [gnarled wooden club](./gnarled_wooden_club.md)
-- [maul](./maul.md)
+- gnarled wooden club
+- maul
 - [warhammer](./Warhammer.md)
-- [iron-shod mace](./iron-shod_mace.md)
+- iron-shod mace
 - [morningstar](./Morningstar.md)
 - [spiked war club](./Spiked_war_club.md)
 - [pick](./Pick.md)
-- [mallet](./mallet.md)
+- mallet
 - [stone club](./Stone_club.md)
-- [hammer](./hammer.md)
+- hammer
 
 ## Artefacts
 
-- [huge black mace](./huge_black_mace.md)
-- [fine silvery morningstar](./fine_silvery_morningstar.md)
-- [The Hammer of Belegost](./The_Hammer_of_Belegost.md)
-- [black runed sceptre](./black_runed_sceptre.md)
+- huge black mace
+- fine silvery morningstar
+- The Hammer of Belegost
+- black runed sceptre
 
 <!--@include: ../includes/Items.md-->

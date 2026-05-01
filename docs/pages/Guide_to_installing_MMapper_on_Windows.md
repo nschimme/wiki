@@ -40,7 +40,7 @@ users will need to right click and hit Open twice to get past the
 security nag.
 
 <figure>
-![Mmapper2_2.png](/img/Mmapper2_2.png)
+!Mmapper2_2.png
 <figcaption>Image:Mmapper2_2.png</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ automatically, but if not, load it by clicking "File", "Open" and then
 selecting the file name.
 
 <figure>
-![Mmapper2_3.png](/img/Mmapper2_3.png)
+!Mmapper2_3.png
 <figcaption>Image:Mmapper2_3.png</figcaption>
 </figure>
 
@@ -62,10 +62,10 @@ connect to your own computer (or there is also a basic built-in client).
 As you already know, MUME runs at mume.org on port 4242. The mapper runs
 on your own computer at the same port and because of this you need to
 direct your client to localhost on port 4242 (not in secure mode).
-[thumb](./image:Mmapper2_4jmc.png.md)
+thumb
 
 <figure>
-![Mmapper2_4.png](/img/Mmapper2_4.png)
+!Mmapper2_4.png
 <figcaption>Image:Mmapper2_4.png</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ it's probably because the map or rooms have changed slightly, or it
 could be because you turned off terrain in the prompt, or xml mode.)
 
 <figure>
-![Mmapper2_6.png](/img/Mmapper2_6.png)
+!Mmapper2_6.png
 <figcaption>Image:Mmapper2_6.png</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ description: 'Shades are aggressive level ? mobs. They are'
 tags:
   - Mobiles
 ---
-**Shades** are aggressive level ? [mobs](./mob.md). They are
+**Shades** are aggressive level ? mobs. They are
 incorporeal, and cannot be [bashed](./Bash.md). They can also
 [sneak](./Sneak.md).
 

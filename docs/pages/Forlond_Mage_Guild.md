@@ -6,7 +6,7 @@ tags:
 ---
 A **grey haired elf** teaches [mage](./Mage.md)
 [spells](./Spell.md) at the **Guild of the Arcane** in
-[Forlond](./Forlond.md).
+Forlond.
 
 `A grey haired elf is standing here, ready to share his knowledge.`
 `>`**`examine elf`**

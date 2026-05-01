@@ -14,7 +14,7 @@ of the person being rescued. This is highly usable when playing in
 
 The chance to succeed depends on how high your rescue skill is. Typing
 rescue with no argument rescues the character that is
-[buffering](./buffer.md). The skill also controls how well you can
+buffering. The skill also controls how well you can
 [protect](./Protect.md) people.
 
 NOTE: The rescued person will experience some dizzyness. Learning the

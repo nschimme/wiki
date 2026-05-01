@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Furious dogs** are aggressive [level](./Level.md) \<9
-[mobiles](./Mobile.md), found mostly in the vale of Anduin. They
+mobiles, found mostly in the vale of Anduin. They
 can [sneak](./Sneak.md).
 
 `A furious, wild dog is here, snarling and growling (hidden).`

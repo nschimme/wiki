@@ -4,7 +4,7 @@ description: 'Robbers are aggressive level ~12-13 mobs found in'
 tags:
   - Mobiles
 ---
-**Robbers** are aggressive level ~12-13 [mobs](./mob.md) found in
+**Robbers** are aggressive level ~12-13 mobs found in
 various locations around [Arda](./Arda.md). They can
 [sneak](./Sneak.md) and may attempt to
 [backstab](./Backstab.md). They load a

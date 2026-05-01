@@ -7,7 +7,7 @@ MUME characters belong either to the good races;
 [Dwarves](./Dwarf.md), [Elves](./Elf.md),
 [Half-Elves](./Half-Elf.md), [Men](./Man.md), and
 [Hobbits](./Hobbit.md), the evil races; [Black
-Numenoreans](./Black_Numenorean.md), (Tarkhnarb)
+Numenoreans](/pages/Black_Númenórean), (Tarkhnarb)
 [Orcs](./Orc.md), and [Trolls](./Troll.md), or the "third"
 side; the [Zaugurz Orcs](./Zaugurz_Orc.md).
 
@@ -35,7 +35,7 @@ like hell".
 
 It does not matter to the rules of MUME if the player of an enemy
 character has left the keyboard, lost connection et cetera. If you in
-any way help or protect an enemy ([linkless](./linkless.md) or
+any way help or protect an enemy (linkless or
 not), you are breaking one of the most important rules of MUME - this
 one.
 

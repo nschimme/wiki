@@ -4,7 +4,7 @@ description: 'people, the creation of Mahal, the Vala Aulë. They are stubborn a
 tags:
   - Playable races
 ---
-![Gimli](/img/Gimli.jpg) **Dwarves** are a tough and sturdy
+!Gimli **Dwarves** are a tough and sturdy
 people, the creation of Mahal, the Vala Aulë. They are stubborn and
 aggressive, yet honourable and steadfast companions. The Dwarves have
 had probably the most disastrous time in the Third Age, with their homes
@@ -22,13 +22,13 @@ and for this reason they tend to make terrible
 [thieves](./Thief.md). Being short, Dwarves do not find themselves
 at ease when mounting horses.
 
-They speak their native language of [Khuzdul](./Khuzdul.md), as
-well as [Westron](./Westron.md) the common language of men.
+They speak their native language of Khuzdul, as
+well as Westron the common language of men.
 
 Dwarves get
 
 - +5% [OB](./Offensive_bonus.md) when not mounted and wielding an
-  [axe](./cleaving.md).
+  axe.
 - maluses when riding larger horses and thus should ride mules or ponies
   instead.
 

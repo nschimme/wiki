@@ -9,7 +9,7 @@ tags:
 [cleric](./Cleric.md) [spell](./Spell.md). If cast on a
 player it limits the maximum hit point damage that the player can suffer
 per hit. It is primarily used to protect players when attacking very
-dangerous and hard hitting [mobs](./mob.md). The maximum hit point
+dangerous and hard hitting mobs. The maximum hit point
 damage is dependant upon the casters wisdom and the target's willpower,
 but is usually a bit under 20 points of damage.
 

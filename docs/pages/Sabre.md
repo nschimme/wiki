@@ -4,7 +4,7 @@ description: 'The sabre is a slashing weapon. It is'
 ---
 
 The **sabre** is a [slashing weapon](./Slashing_weapon.md). It is
-worth around 15 [silver](./silver.md), and is sold by most
+worth around 15 silver, and is sold by most
 weaponsmiths.
 
 `A sabre is on the ground.`

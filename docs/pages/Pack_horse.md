@@ -5,12 +5,12 @@ tags:
   - Mobiles
 ---
 **Pack horses** are [level](./Level.md) 6
-[rideable](./ride.md) [mobs](./mob.md), found in various
+[rideable](/pages/Ride) mobs, found in various
 places around [Arda](./Arda.md). Pack horses are probably the most
 often used [mount](./Mount.md) for the larger
 [races](./Race.md) among the Free People, due to being commonly
-available, stronger than [mules](./mule.md) or
-[ponies](./pony.md), and more reliable than
+available, stronger than mules or
+ponies, and more reliable than
 [horses](./Horse.md).
 
 `A sturdy pack horse is standing here.`

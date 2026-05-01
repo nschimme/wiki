@@ -12,7 +12,7 @@ their most well known establishment is [Bree](./Bree.md).
 
 ## Eriadoran Men in Mume
 
-Eriadoran [Men](./Men.md) have the following modifications:
+Eriadoran Men have the following modifications:
 
 - They start with 5 additional practice points
 - They can obtain Tharbad citizenship more easily

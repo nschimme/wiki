@@ -40,7 +40,7 @@ profession available for the Zaugurz orc, the insidious and agile way of
 the [scout](./Thief.md) and the pure brute force of the
 [Warrior](./Warrior.md). There is also a possibility to train
 ranger skills in the Zaugurz caves, but there is no possibility to
-master [magic](./Magic.md) as Zaugurz. No Master of Black Magic
+master magic as Zaugurz. No Master of Black Magic
 seems willing to teach the Zaugurz tribe magic, rendering the usage of
 [Mana](./Mana.md) obsolete, thus Zaugurz have no Mana points.
 

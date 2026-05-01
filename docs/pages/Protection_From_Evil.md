@@ -9,7 +9,7 @@ tags:
 [spell](./Spell.md). It temporarily makes evil creatures less
 aggressive to you. Thus, it will take a little bit longer for them to
 attack you and if you are in the same [room](./room.md) with other
-players, who are not using this spell, [mobs](./mob.md) will
+players, who are not using this spell, mobs will
 prefer to attack these instead.
 
 Syntax : cast 'protection from evil' Type : Defensive Accumulative: No
@@ -25,4 +25,4 @@ This spell can be learned from:
 [`Rivendell Cleric Guild`](./Rivendell_Cleric_Guild.md)`             3`
 
 See also: [Bless](./Bless.md), [Darkness](./Darkness.md),
-[Sanctuary](./Sanctuary.md), [Strength](./Strength_Spell.md)
+[Sanctuary](./Sanctuary.md), Strength

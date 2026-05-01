@@ -10,13 +10,13 @@ tags:
 [spell](./Spell.md). If [cast](./Cast.md) on a creature, it
 will turn invisible for some time. This can be used to protect oneself
 against animals like wolves and bears and some humanoids. Most dangerous
-[mobiles](./Mobile.md) can, however, see invisible creatures. So
+mobiles can, however, see invisible creatures. So
 can experienced players. Low level players can use the spell [Detect
 Invisibility](./Detect_Invisibility.md).
 
 Engaging in [combat](./Combat.md) causes the shroud to be
 dispelled. If you want to cancel the effect of the spell early (for
-example, to [buy](./buy.md) from a low-level
+example, to buy from a low-level
 [shopkeeper](./Shop.md)), you can '[hit](./Hit.md) self'.
 
 Syntax : cast 'shroud' \[recipient Type : Miscellaneous Accumulative:

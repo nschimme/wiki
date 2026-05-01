@@ -7,7 +7,7 @@ A list of items worn on the **wrist**.
 
 ## Magical
 
-- [black metal wristband](./black_metal_wristband.md)
+- black metal wristband
 
 ## Mundane
 

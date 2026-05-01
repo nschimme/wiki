@@ -17,7 +17,7 @@ fit on any of the specialty boards, and so on.
 A: There is a board containing advice for new players in the [Halls of
 Mandos](./Halls_of_Mandos.md) where new players start, and people
 come to after they die. There are several bulletin boards in most major
-[towns](./town.md). Check your newbie map ([look](./Look.md)
+towns. Check your newbie map ([look](./Look.md)
 map) for places such as guilds and inns for some boards.
 
 **Q: When I find one what do I do with it?**

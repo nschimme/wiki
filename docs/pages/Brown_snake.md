@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Brown snakes** are aggressive, evil [level](./Level.md) \<10
-[mobiles](./Mobile.md), found in various locations around
+mobiles, found in various locations around
 [Arda](./Arda.md).
 
 `A brown snake watches you.`

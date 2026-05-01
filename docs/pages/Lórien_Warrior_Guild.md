@@ -6,7 +6,7 @@ tags:
 ---
 **Haldir** teaches [warrior](./Warrior.md)
 [skills](./Skill.md) at the **Peleryn of the Guards** in [Caras
-Galadhon](./Caras_Galadhon.md).
+Galadhon](/pages/Lothlórien).
 
 `Haldir the Elf is here.`
 `>`**`examine Haldir`**
@@ -19,7 +19,7 @@ Galadhon](./Caras_Galadhon.md).
 
 `                    Sessions  Difficulty`
 [`bash`](./Bash.md)`                      31  Hard`
-[`charge`](./charge.md)`                     6  Normal`
+`charge``                     6  Normal`
 [`cleaving weapons`](./Cleaving_weapons.md)`           8  Normal`
 [`concussion weapons`](./Concussion_weapons.md)`        17  Normal`
 [`endurance`](./Endurance.md)`                 45  Very hard`

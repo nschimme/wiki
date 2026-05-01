@@ -5,7 +5,7 @@ tags:
   - Consumables
 ---
 **Pastries** are a [food](./Food.md) [item](./Item.md),
-worth around 6 [copper](./copper.md) and sold in many bakeries and
+worth around 6 copper and sold in many bakeries and
 taverns. They are not very filling, requiring about 5 to get from hungry
 to full.
 

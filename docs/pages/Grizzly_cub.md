@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Grizzly cubs** are aggressive [level](./Level.md) 4
-[mobiles](./Mobile.md), usually found
+mobiles, usually found
 [following](./Follow.md) [grizzly bears](./Grizzly_bear.md).
 Their [corpses](./Corpse.md) can be
 [butchered](./Butcher.md) to produce some [meat](./Meat.md).

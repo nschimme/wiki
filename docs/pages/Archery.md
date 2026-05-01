@@ -17,6 +17,6 @@ Currently implemented missile weapons are: WEAPON MISSILE QUIVER
 ------------------------ Bow Arrows Quiver Crossbow Bolts Bolt-case \<-
 Crossbows can be winched and loaded before use Sling Pebbles Pouch \<-
 Pebbles may be searched for on the ground, if you are using a sling: use
-REVEAL STONE. See also: [Missile](./Missile.md),
+REVEAL STONE. See also: Missile,
 [Shoot](./Shoot.md), [Recover](./Recover.md),
 [Load](./Load.md), [Target Shooting](./Target_Shooting.md)

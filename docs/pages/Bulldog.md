@@ -6,8 +6,8 @@ tags:
   - Mobiles with unknown level
 ---
 **Bulldogs** are aggressive [level](./Level.md) ?
-[mobiles](./Mobile.md) found in [Malardil's
-castle](./Malardil's_castle.md). They load with a [studded leather
+mobiles found in [Malardil's
+castle](/pages/Malardil). They load with a [studded leather
 collar](./Studded_leather_collar.md).
 
 `A strong bulldog, with sharp teeth, growls at strangers.`

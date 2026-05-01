@@ -4,10 +4,10 @@ description: 'The water skin is a drink'
 tags:
   - Containers
 ---
-The **water skin** is a [drink](./drink.md)
+The **water skin** is a [drink](/pages/Drink)
 [container](./Container.md) that can be worn on a
 [belt](./Belt.md). It can contain up to 4 pounds worth of liquid.
-It is worth around 20 [copper](./copper.md), and is sold by most
+It is worth around 20 copper, and is sold by most
 grocers.
 
 `There is a water skin lying on the ground.`

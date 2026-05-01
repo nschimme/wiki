@@ -20,12 +20,12 @@ separation.
 
 #### Trading equipment between characters:
 
-Note that helping one of your characters obtain [EQ](./EQ.md) with
+Note that helping one of your characters obtain EQ with
 the help of another, even if indirectly, is illegal. E.g. using
-MyWarrior to [buffer](./buffer.md) wightlord, so Joe the
+MyWarrior to buffer wightlord, so Joe the
 Groupmember can loot the grey cloak and pass it on to MyMage (or keeping
 the grey cloak so he can give his OLD grey cloak to MyMage). This
-naturally applies to equipment obtained by [PK](./PK.md) as well.
+naturally applies to equipment obtained by PK as well.
 
 #### Keeping other peoples characters separate:
 

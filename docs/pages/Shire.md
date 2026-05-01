@@ -12,7 +12,7 @@ Located east of the Baranduin (Brandywine) is Buckland. Most
 [Hobbits](./Hobbit.md) from the Farthings consider Bucklanders
 very queer, while Bucklanders think much the same of the others. Lying
 on the Eastern border of Buckland stretches the [Old
-Forest](./Old_Forest.md); a place very few dare to enter.
+Forest](/pages/Shire); a place very few dare to enter.
 
 The Shire was first inhabited in 1601 by a few adventurous Hobbits from
 Bree, and since then has become the main home of Hobbits. There are no

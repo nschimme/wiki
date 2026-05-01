@@ -15,4 +15,4 @@ around you, which makes you vulnerable to surprise attacks.
 When you are done sleeping you can **wake**.
 
 See also: [Camp](./Camp.md), [Rest](./Rest.md),
-[Sit](./Sit.md)
+Sit

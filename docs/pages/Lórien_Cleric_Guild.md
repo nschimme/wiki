@@ -43,7 +43,7 @@ The guild is open from 8am to 6pm.
 [`Remove Poison`](./Remove_Poison.md)`               12  Normal`
 [`Sanctuary`](./Sanctuary.md)`                   25  Very hard`
 [`Sense Life`](./Sense_Life.md)`                   3  Normal`
-[`Strength`](./Strength_Spell.md)`                    10  Hard`
+`Strength``                    10  Hard`
 [`Summon`](./Summon.md)`                      10  Hard`
 [`Transfer`](./Transfer.md)`                    14  Very hard`
 [`Word of Recall`](./Word_of_Recall.md)`              10  Very hard`

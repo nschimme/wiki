@@ -4,7 +4,7 @@ description: 'Rattlesnakes are aggressive level ~14 mobiles'
 tags:
   - Mobiles
 ---
-**Rattlesnakes** are aggressive level ~14 [mobiles](./Mobile.md)
+**Rattlesnakes** are aggressive level ~14 mobiles
 found in various places around [Arda](./Arda.md). They have a
 venomous bite. Rattlesnake venom drains [HP](./Hit_points.md) and
 can be quite dangerous to a player if they don't have a way to [remove

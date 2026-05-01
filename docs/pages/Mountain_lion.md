@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Mountain lions** are aggressive [level](./Level.md) 15
-[mobiles](./Mobile.md) found mainly in the mountains north of
+mobiles found mainly in the mountains north of
 [Grey Havens](./Grey_Havens.md). They can [bash](./Bash.md).
 Their corpses can be butchered to produce a [fine lion
 pelt](./Fine_lion_pelt.md) and some [meat](./Meat.md).

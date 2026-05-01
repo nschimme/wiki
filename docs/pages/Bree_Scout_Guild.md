@@ -19,7 +19,7 @@ at the **Freebooters' Society** in [Bree](./Bree.md).
 [`attack`](./Attack.md)`                   2  Normal      `
 [`dodge`](./Dodge.md)`                    3  Hard        `
 [`hide`](./Hide.md)`                     3  Normal      `
-[`missile`](./missile.md)`                  3  Normal      `
+`missile``                  3  Normal      `
 [`pick`](./Pick.md)`                     1  Normal      `
 [`piercing weapons`](./Piercing_weapons.md)`         6  Normal      `
 [`search`](./Search.md)`                   1  Normal      `

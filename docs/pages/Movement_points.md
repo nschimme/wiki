@@ -33,8 +33,8 @@ The dynamics of movement point loss and regeneration define a player's
 
 Is affected by
 
-- The [Constitution](./Constitution.md) stat
-- The [Dexterity](./Dexterity.md) stat
+- The Constitution stat
+- The Dexterity stat
 - The [Age](./Age.md)
 
 # Move cost
@@ -46,7 +46,7 @@ Is affected by
   - Saddle (except for elves who don't need them)
 - On foot:
   - The encumbrance of the weight of your equipment and inventory vs the
-    [Strength](./Strength.md) stat
+    Strength stat
   - The [Wilderness](./Wilderness.md) skill
   - Various shoes and boots
   - Some special items (such as the [stout oaken
@@ -63,7 +63,7 @@ Is affected by
 
 Is affected by
 
-- The [Constitution](./Constitution.md) stat
+- The Constitution stat
 - The [Age](./Age.md)
 - The stance (whether you are standing, [resting](./Rest.md), or
   [sleeping](./Sleep.md))
@@ -71,8 +71,8 @@ Is affected by
 - Various [Cloaks](./Cloak.md) (such as Forest Green Cloak, Russet
   Cloak, etc)
 - Some [Belts](./Belt.md) (such as Gleaming Belt, Golden Belt)
-- Some [Herblores](./Herblores.md) (such as Travelling, Walking)
-- Some [Poisons](./Herblores.md) (such as Belladonna, Hemlock)
+- Some Herblores (such as Travelling, Walking)
+- Some Poisons (such as Belladonna, Hemlock)
 
 # Other
 
@@ -89,9 +89,9 @@ points:
 # Tips for new players
 
 - Monitor your encumbrance. When carrying large amounts of loot, give
-  them to your mount instead and use the [unsaddle](./unsaddle.md)
+  them to your mount instead and use the unsaddle
   command to get it back later.
-- The [forest green cloak](./a_forest_green_cloak.md) is one of
+- The forest green cloak is one of
   the standard clothing items to improve move regeneration. It is
   relatively easy to get and often sold in shops around Arda.
 - Monitor your movement points and rest before they get too low. If you

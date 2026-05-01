@@ -6,7 +6,7 @@ description: 'The shield of Arthedain is a'
 The [shield of Arthedain](./Shield_of_Arthedain.md) is a
 lightweight [shield](./Shield.md) that grants a considerable
 amount of [parry bonus](./Parry_bonus.md) for its weight, making
-it a decent option for lower-[strength](./strength.md) characters.
+it a decent option for lower-strength characters.
 It can be found in [Bill Ferny](./Bill_Ferny.md)'s hideout, and is
 also sold by some armourers for around 12 [gold](./Gold.md) and 11
 silver.

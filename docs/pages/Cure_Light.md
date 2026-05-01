@@ -9,7 +9,7 @@ tags:
 **Cure Light** is a [level](./Level.md) 1
 [cleric](./Cleric.md) [spell](./Spell.md) that cures the
 target of a few [hit points](./Hit_points.md) (around 10). It's a
-must for any low-level [caster](./caster.md), and most mid-high
+must for any low-level caster, and most mid-high
 level non-casters ([warriors](./Warrior.md),
 [thieves](./Thief.md)) learn it some as well. It significantly
 improves the hit-point [regeneration](./Regeneration.md) downtime

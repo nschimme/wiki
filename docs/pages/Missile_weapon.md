@@ -3,10 +3,10 @@ title: Missile weapon
 description: 'Missile weapons are one of the'
 ---
 
-**[Missile weapons](./Missile.md)** are one of the
+**Missile weapons** are one of the
 [weapon](./Weapon.md) types found in [MUME](./MUME.md). Many
 missile weapons inflict considerable amounts of damage, while requiring
-little [strength](./strength.md) to wield. Thus these weapons are
+little strength to wield. Thus these weapons are
 mostly used by [thieves](./Thief.md), but are viable for other
 light classes, such as [clerics](./Cleric.md). While powerful,
 using them is more complicated than other weapon types, as they require

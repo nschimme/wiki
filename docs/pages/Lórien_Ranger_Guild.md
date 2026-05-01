@@ -6,7 +6,7 @@ tags:
 ---
 **Orophin** teaches [ranger](./General.md)
 [skills](./Skill.md) at [Caras
-Galadhon](./Caras_Galadhon.md). He can usually be found
+Galadhon](/pages/Lothlórien). He can usually be found
 [sneaking](./Sneak.md) around in the western part of the city.
 
 `Orophin, Lord of the Galadhrim, stands before you.`
@@ -25,7 +25,7 @@ Galadhon](./Caras_Galadhon.md). He can usually be found
 [`climb`](./Climb.md)`             13  Very easy`
 [`command`](./Command.md)`           12  Normal`
 [`leadership`](./Leadership.md)`        12  Normal`
-[`ride`](./ride.md)`               6  Very easy`
+[`ride`](/pages/Ride)`               6  Very easy`
 [`swim`](./Swim.md)`               9  Very easy`
 [`track`](./Track.md)`             14  Normal`
 [`wilderness`](./Wilderness.md)`        18  Normal`

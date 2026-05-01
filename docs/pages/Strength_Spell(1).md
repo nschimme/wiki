@@ -8,7 +8,7 @@ tags:
 ---
 **Strength** is a [level](./Level.md) 7
 [cleric](./Cleric.md) [spell](./Spell.md), giving the target
-1-3 extra [strength](./strength.md) for a period of time. The
+1-3 extra strength for a period of time. The
 amount of bonus strength gained depends on the caster's proficiency with
 the spell. Syntax : cast 'strength' \[recipient Type : Miscellaneous
 Accumulative: No Duration : Yes Casting : Very long Position : Standing
@@ -30,5 +30,5 @@ This spell can be learned from:
 
 - [Bless](./Bless.md), [Darkness](./Darkness.md),
   [Protection From Evil](./Protection_From_Evil.md),
-  [Sanctuary](./Sanctuary.md), [Strength](./Strength.md)
+  [Sanctuary](./Sanctuary.md), Strength
   

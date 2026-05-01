@@ -16,7 +16,7 @@ The 'hints' command lets everyone review these tips at will. Example:
 
 ### Contributing
 
-Feel free to contribute! Please '[idea](./idea.md)' new hints that
+Feel free to contribute! Please 'idea' new hints that
 are:
 
 - Focused on issues that new players ([levels](./Level.md) 1-12)
@@ -24,5 +24,5 @@ are:
 - Express one idea concisely (make that two hints if needed).
 - Preferably in-character (but OOC if that cannot be done conveniently).
 
-See also: [Newbie](./Newbie.md), [Cookies](./Cookies.md)
+See also: Newbie, Cookies
  

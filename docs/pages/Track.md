@@ -43,7 +43,7 @@ find well-covered tracks, but you will also track faster. Be aware that
 there is a limit to how fast you can actually track somebody though.
 Examples: \> track \> track warg \> where robber
 
-Certain [mobiles](./Mobile.md) are also capable of tracking
+Certain mobiles are also capable of tracking
 (including, but not limited to, most wolves and
 [wargs](./Warg.md)), and will attempt to track you down if you've
 [fled](./Flee.md) from combat with them. Some mobiles will only

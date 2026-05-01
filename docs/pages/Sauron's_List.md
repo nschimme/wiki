@@ -6,8 +6,8 @@ description: 'Sauron''s list is a list of people acknowledged by'
 **Sauron's list** is a list of people acknowledged by
 [Sauron](./Sauron.md) as his followers, due to their chosen path
 of [player killing](./Player_killing.md) other members of the free
-races ([dwarves](./dwarves.md), [elves](./elves.md),
-[humans](./human.md), [half-elves](./half-elves.md),
+races (dwarves, elves,
+humans, half-elves,
 [hobbits](./Hobbit.md)).
 
 You may see the list's members by asking Sauron himself - using
@@ -17,7 +17,7 @@ A player who is on the list has Real-[Death](./Death.md), which
 means when they die they lose all [levels](./Level.md) and regress
 to level 1. Players on the list also get very evil
 [alignment](./Alignment.md), and find themselves rather
-unpleasantly hunted by the guards of the Elven [towns](./town.md).
+unpleasantly hunted by the guards of the Elven towns.
 They possibly have other towns revoke their
 [citizenship](./Citizen.md) and give them the 'wanted, dead or
 alive' status. [Tharbad](./Tharbad.md) is exempt from this.
@@ -44,7 +44,7 @@ fairly obvious they are into it for the sake of killing.
 
 A player can be listed for as little as one kill, according to the
 criteria above, if it's obvious it was done just for the sake of
-killing, or if the victim was an [Istar](./Istar.md) or Istar's
+killing, or if the victim was an Istar or Istar's
 apprentice. The thing we want to avoid is of course the "hmm let's see I
 can kill 5 people with this char without getting listed" logic, that's
 why we leave the "limits" fairly floating - and if you want to avoid the

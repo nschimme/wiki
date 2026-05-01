@@ -8,7 +8,7 @@ tags:
 [Arda](./Arda.md). They are normally not aggressive, but may be
 grouped with another type of wolf such as a [huge, black
 wolf](./Huge,_black_wolf.md) or [pack
-leader](./pack_leader.md), in which case they will attack along
+leader](/pages/Mobile), in which case they will attack along
 with the leader. Their [corpses](./Corpse.md) can be butchered to
 produce a [black wolf fur](./Black_wolf_fur.md) and some
 [meat](./Meat.md).

@@ -5,7 +5,7 @@ tags:
   - Shops
 ---
 **Olly's Tavern** is located on the northern end of The King's Road in
-[Fornost](./Fornost.md). [Olly](./Olly_of_Fornost.md) is the
+[Fornost](./Fornost.md). Olly is the
 proprietor - a seedy individual with rumored ties to the shady
 underbelly of Old Fornost.
 
@@ -31,5 +31,5 @@ place, it would seem!
 ## For Thieves Only!
 
 Pickpockets and sneakers in general might want to ask
-[Olly](./Olly_of_Fornost.md) if he knows where you might be able
+Olly if he knows where you might be able
 to better hone your skills!

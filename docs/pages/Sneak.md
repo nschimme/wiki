@@ -13,7 +13,7 @@ knowing. The sneak command will toggle on and off your ability to sneak.
 
 The chances of a succesful sneak depend on the terrain and the number of
 people you are trying to hide from. You must be on foot: sneaking on
-[horseback](./ride.md) is impossible. It is impossible to sneak
+[horseback](/pages/Ride) is impossible. It is impossible to sneak
 successfully when you are [fleeing](./Flee.md) a room.
 [Hobbits](./Hobbit.md) (and [Elves](./Elf.md) to a lesser
 extent) sneak well, [Dwarves](./Dwarf.md) not so well, and

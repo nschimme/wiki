@@ -8,7 +8,7 @@ tags:
 **Black padded boots** are a piece of soft leather equipment worn on the
 [feet](./Feet.md). They provide a small amount of damage
 absorption and considerably reduce movement cost. They are worth around
-2 [silver](./silver.md).
+2 silver.
 
 `A pair of black padded boots lie on the ground here.`
 `>`**`examine boots`**

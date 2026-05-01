@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Huge millipedes** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) 10 [mobiles](./Mobile.md) found in
+[level](./Level.md) 10 mobiles found in
 [Fangorn](./Fangorn.md).
 
 `A huge millipede is writhing around here.`

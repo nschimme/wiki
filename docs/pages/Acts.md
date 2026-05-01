@@ -18,8 +18,8 @@ and people will see:
 ` Gandalf is standing here making fancy smoke-rings.`
 
 To turn the acts text off, just type "acts". The string will be reset
-automatically when you [sit](./sit.md), [stand](./stand.md),
-[ride](./ride.md), move, and a bunch of other "active" things.
+automatically when you sit, stand,
+[ride](/pages/Ride), move, and a bunch of other "active" things.
 
 Abusing acts to give misleading information might lead to punishment.
 

@@ -15,7 +15,7 @@ terrain, movement, twiddlers, all (of the previous options), or none.
 \* - Sunlight, either direct or indirect ! - Artificial light ) -
 Moonlight, either direct or indirect o - Darkness
 
-- movement - Display R if you are [riding](./ride.md), r if you
+- movement - Display R if you are [riding](/pages/Ride), r if you
   are being ridden, W if you are trying to [swim](./Swim.md), S if
   you are trying to [sneak](./Sneak.md), c if you are
   [climbing](./Climb.md) safely, and C if you're climbing

@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Mother wolves** are aggressive [level](./Level.md) 7
-[mobiles](./Mobile.md), found in various locations around
+mobiles, found in various locations around
 [Arda](./Arda.md). Unlike most other wolves, they do not
 [track](./Track.md). Their corpses can be
 [butchered](./Butcher.md) to produce a [grey wolf

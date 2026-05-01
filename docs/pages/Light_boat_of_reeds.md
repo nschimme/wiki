@@ -7,7 +7,7 @@ tags:
 **Light boats of reeds** are a common type of [boat](./Boat.md),
 mostly found near [waterways](./Waterways.md) in the [Blue
 Mountains](./Blue_Mountains.md) area. They can also be bought from
-[Captains](./Captain.md) for around 12 silver. They are
+Captains for around 12 silver. They are
 functionally identical to [canoes](./Canoe.md).
 
 `A light boat made of reeds has been left here.`

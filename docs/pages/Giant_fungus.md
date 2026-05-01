@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Giant fungi** are passive [level](./Level.md) \&lt;10
-[mobiles](./Mobile.md).
+mobiles.
 
 `An ancient fungus smothers the boulders.`
 `&gt;`**`examine fungus`**

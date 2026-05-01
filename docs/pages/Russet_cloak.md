@@ -10,7 +10,7 @@ The **russet cloak** is a [cloak](./Cloak.md) that grants some
 [regeneration](./Regeneration.md), similar to a [forest green
 cloak](./Forest_green_cloak.md). It loads on the [gypsy
 woman](./Gypsy_woman.md) in [Malardil's
-castle](./Malardil's_castle.md), and can be bought from some
+castle](/pages/Malardil), and can be bought from some
 tailors for around 3 [gold](./Gold.md).
 
 `A fine piece of red-brown cloth has been folded neatly here.`

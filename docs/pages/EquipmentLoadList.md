@@ -11,34 +11,34 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Black scroll\*\*
 
-` *`[`The Sage`](./mumestrategies#black_numenorean_sage.md)
+` *``The Sage`
 
 - - Blue scroll\*\*
 
-` *`[`Wight Lord`](./mumestrategies#wight_lord.md)`         `
+` *``Wight Lord``         `
 
 - - Purple scroll\*\*
 
-` *`[`Eastern Priest`](./mumestrategies#east_evil_priest.md)
+` *``Eastern Priest`
 
 - - Azure scroll\*\*
 
 ` *Given by the Sage for a pale blue stone`
-` *`[`Eblees`](./mumestrategies#eblees.md)
+` *``Eblees`
 
 - - Vellum scroll\*\*
 
-` *`[`NOC vellum place`](./mumestrategies#noc_area_vellum_place.md)
-` *`[`Dunland vellum place`](./mumestrategies#dunland_vellum_place.md)
+` *``NOC vellum place`
+` *``Dunland vellum place`
 
 - - Scroll which reads "ysafg"\*\*
 
-` *`[`The Necromancer`](./mumestrategies#necromancer.md)
+` *``The Necromancer`
 
 - - Ivory scroll\*\*, \*\*clear ivory scroll\*\*, \*\*ebony scroll\*\*,
     and \*\*deep ebony scroll\*\*
 
-` *Given by `[`Yerik`](./rohannews#reward_matrix.md)
+` *Given by ``Yerik`
 
 ##### Cloaks
 
@@ -51,11 +51,11 @@ description: 'Given by the Sage for a pale blue stone'
 
 ` *Eoghha `
 ` *Elven hunters near Rivendell `
-` *Spirit northeast of `[`Morthan`](./mumestrategies#morthan_blacksoul.md)`, under hidden 'cairn' and 'stoneblock' `
+` *Spirit northeast of ``Morthan``, under hidden 'cairn' and 'stoneblock' `
 ` *Chest 2u, s from secret 'chest' northeast from Grey Havens (unsized)`
 ` *In skeleton at Mrak (unsized)`
-` *`[`BBT`](./mumestrategies#bill,_bert,_tom.md)` entrance (unsized)`
-` *On the experienced trapper near `[`Malardil`](./mumestrategies#light_shields.md)
+` *``BBT`` entrance (unsized)`
+` *On the experienced trapper near ``Malardil`
 ` *On the gnarled old man behind the hidden 'treedoor' near the dunland oak tree`
 ` *On Cinard`
 ` *On Ilyne the Ranger of Ingrove`
@@ -69,12 +69,12 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Russet cloak\*\*
 
-` *`[`Malardil`](./mumestrategies#light_shields.md)` or his gypsy woman`
+` *``Malardil`` or his gypsy woman`
 ` *excavators in Ost-in-Edhil`
 
 - - Ragged, blackened cloak\*\*
 
-` *Thena, at `[`Morthan`](./mumestrategies#morthan_blacksoul.md)
+` *Thena, at ``Morthan`
 ` *Urgorl's chest (unsized)`
 ` *Ushurg's chest (unsized)`
 ` *Dark cave in Emyn-nu-Fuin (unsized)`
@@ -87,8 +87,8 @@ description: 'Given by the Sage for a pale blue stone'
 
 ` *A warg pack-leader in pine forest south of the Dark Tower`
 ` *A huge stone troll (one of the 3) at cave just east of the Dark Tower`
-` *On `[`Shaghosh`](./mumemoriastrategies#shaghosh.md)
-` *Down from hidden 'secretstair' in `[`Shaghosh`](./mumemoriastrategies#shaghosh.md)
+` *On ``Shaghosh`
+` *Down from hidden 'secretstair' in ``Shaghosh`
 ` *A huge stone giant behind hidden exit brush bit northeast of Nagash`
 ` *Inside husk at Frychra (sometimes)`
 ` *Inside skeleton underneath Dol Guldur guarded by 4 bats`
@@ -104,22 +104,22 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Buttoned cassock\*\*
 
-` *`[`Bill Ferny`](./mumestrategies#light_shields.md)
+` *``Bill Ferny`
 ` *Ranger near Woodhall, in Eregion`
 ` *Wealthy widower in Ingrove`
 
 - - Mottled cloak\*\*
 
-` *On `[`Tall orc`](./mumestrategies#tall_orc.md)
+` *On ``Tall orc`
 ` *Behind hidden 'grasses' southeast of tall orc`
 ` *On Ohurk-uai chief.`
 ` *On Brolg`
-` *On the `[`Bloodwight`](./mumestrategies#bloodwight.md)
-` *On the `[`Necromancer`](./mumestrategies#necromancer.md)
-` *On Mordrath the Uroth-Ghásh in the `[`Dunland Orc Caves`](./mumestrategies#dunland_orc_caves_/_orkish_chieftain.md)
+` *On the ``Bloodwight`
+` *On the ``Necromancer`
+` *On Mordrath the Uroth-Ghásh in the ``Dunland Orc Caves`
 ` *On the goblin shaman in the goblin caves west of NOC`
 ` *On liche in Dunland`
-` *On `[`Bloodwight`](./mumestrategies#bloodwight.md)` `
+` *On ``Bloodwight`` `
 ` *On Thrakghash of the Mordor in western part of NOC`
 ` *On heavily scarred orc, the ranger GM in NOC`
 ` *On Narag, the scout GM in ZOC`
@@ -127,12 +127,12 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Sacred Cloak\*\*
 
-` *`[`Amanrandil`](./mumequests#amanrandil_s_quest.md)
+` *`[`Amanrandil`](/pages/Quest#amanrandil_s_quest.md)
 
 - - Fine grey cloak\*\*
 
-` *`[`Wight Lord`](./mumestrategies#wight_lord.md)
-` *`[`Eblees`](./mumestrategies#eblees.md)
+` *``Wight Lord`
+` *``Eblees`
 
 - - Fine sable cloak\*\*
 
@@ -160,11 +160,11 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Gleaming belt\*\*
 
-` *`[`Scaly beast`](./mumestrategies#scaly_beast.md)
+` *``Scaly beast`
 
 - - Broad silver belt\*\*
 
-` *On the `[`Wight Captain`](./mumestrategies#wight_captain.md)
+` *On the ``Wight Captain`
 ` *Inside husk at Frychra (sometimes)`
 
 - - Golden Belt\*\*
@@ -187,59 +187,59 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Corberyl\*\*
 
-` *`[`Muranog`](./mumemoriastrategies#muranog.md)
-` *`[`Scaly beast`](./mumestrategies#scaly_beast.md)` (butcher corpse to get, extremely rare)`
+` *``Muranog`
+` *``Scaly beast`` (butcher corpse to get, extremely rare)`
 
 - - Garnet\*\*
 
 ` *On ashen aberrations in underground area west of Lorien`
-` *`[`Dunland vellum chest`](./mumestrategies#dunland_vellum_place.md)
+` *``Dunland vellum chest`
 
 - - Topaz\*\*
 
 ` *In chest at statues in Woodhall, in Eregion`
-` *`[`Mormaeg`](./mumestrategies#mormaeg_the_spider.md)
+` *``Mormaeg`
 
 - - Opal\*\*
 
 ` *In chest at statues in Woodhall, in Eregion`
 ` *Ancient warg near Khuzur (butcher corpse to get)`
 ` *On the crooked, long-armed creature in southeastern Lorien`
-` *`[`Amon Othar`](./mumestrategies#amon_othar.md)
-` *`[`Shaghosh`](./mumemoriastrategies#shaghosh.md)
-` *`[`Bulag`](./mumemoriastrategies#bulag/grey_spider.md)
+` *``Amon Othar`
+` *``Shaghosh`
+` *``Bulag`
 
 - - Emerald\*\*
 
 ` *In the Moria circlet chest`
-` *2d, open wellrocks, e, u, n from the water-drake in Moria (need `[`Balrog`](./mumemoriastrategies#the_balrog.md)` keys)`
-` *`[`Shaghosh`](./mumemoriastrategies#shaghosh.md)
+` *2d, open wellrocks, e, u, n from the water-drake in Moria (need ``Balrog`` keys)`
+` *``Shaghosh`
 ` *On animated uruks in Unqalome area (rarely)`
-` *`[`Scaly beast`](./mumestrategies#scaly_beast.md)` (butcher corpse to get, extremely rare)`
+` *``Scaly beast`` (butcher corpse to get, extremely rare)`
 
 - - Adamant\*\*
 
-` *`[`Mithnaur the Dragon`](./mumestrategies#mithnaur_the_dragon.md)
+` *``Mithnaur the Dragon`
 
 - - Star sapphire\*\*
 
-` *On the `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
-` *`[`Scaly beast`](./mumestrategies#scaly_beast.md)` (butcher corpse to get, extremely rare)`
+` *On the ``Ghostly Captain`
+` *``Scaly beast`` (butcher corpse to get, extremely rare)`
 ` *Inside husk at Frychra (sometimes)`
 
 - - Diamond\*\*
 
 ` *Shops`
-` *`[`Balrog`](./mumemoriastrategies#the_balrog.md)
-` *On animated uruks in `[`Unqalome`](./mumestrategies#unqalome_the_great_dark.md)` area (rarely)`
-` *`[`Scaly beast`](./mumestrategies#scaly_beast.md)` (butcher corpse to get, extremely rare)`
+` *``Balrog`
+` *On animated uruks in ``Unqalome`` area (rarely)`
+` *``Scaly beast`` (butcher corpse to get, extremely rare)`
 
 - - Amethyst\*\*
 
-` *Lorien: in manacup room (`[`Dagnir's Ghost quest`](./mumequests#dagnir's_ghost's_quest.md)`)`
+` *Lorien: in manacup room (`[`Dagnir's Ghost quest`](/pages/Quest#dagnir's_ghost's_quest.md)`)`
 ` *In the chest behind hidden 'carpet' under Cinard, Eregion`
 ` *In OiE, from dispelling the statues that guard the forge`
-` *`[`Bulag`](./mumemoriastrategies#bulag/grey_spider.md)
+` *``Bulag`
 ` *In the chest west of the orkish chieftain in Dunland`
 ` *In the pouch worn by Malardil`
 ` *east of elf trapper, north of Forlond, above underground river, open brokenlimestone. Loads on green fungus`
@@ -247,7 +247,7 @@ description: 'Given by the Sage for a pale blue stone'
 - - Fine silver bracelet\*\*
 
 ` *On the shade behind the underwater cave just northwest of Moria's east gate`
-` *`[`Ebon wraith`](./mumestrategies#ebon_wraith.md)
+` *``Ebon wraith`
 
 - - Jewelled goblet\*\*
 
@@ -259,7 +259,7 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Golden cup\*\*
 
-` *Loads on the ground in Moria: from inside sturdydoor (top of the Mustering Stairs), go: 4d, w, 2s, open rubblepile, 3e, n. It can also load hidden, here. Place is accessible from the other side through the Devastation [worm-like creatures infested area] as well.`
+` *Loads on the ground in Moria: from inside sturdydoor (top of the Mustering Stairs), go: 4d, w, 2s, open rubblepile, 3e, n. It can also load hidden, here. Place is accessible from the other side through the Devastation worm-like creatures infested area] as well.`
 
 - - Silvery piece of metal (mithril)\*\*
 
@@ -279,7 +279,7 @@ description: 'Given by the Sage for a pale blue stone'
 ` *On the huge stone giant which loads bit east of way/slide between ZOC and NOC, behind hidden exit "quarry".`
 ` *On the huge stone giant which loads: d e s 3w open bushes d s open stones s w n from Moria's east gate`
 ` *On the huge stone giant which loads: bit se of NOC roots behindhidden brush  /Griand`
-` *On any stone statue (behind 'dwarfdoor' in Moria; in `[`Amon Othar`](./mumestrategies#amon_othar.md)`; in Woodhall; under 'tombstone' on ABR, in Dunland vellum loading spot)`
+` *On any stone statue (behind 'dwarfdoor' in Moria; in `[`Amon Othar``; in Woodhall; under 'tombstone' on ABR, in Dunland vellum loading spot)`
 
 ##### Necklaces
 
@@ -290,8 +290,8 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Bright red amulet\*\*
 
-` *`[`Necromancer`](./mumestrategies#necromancer.md)
-` *Give `[`the black sword`](./mumestrategies#willow_soul.md)` to Elrond`
+` *``Necromancer`
+` *Give ``the black sword`` to Elrond`
 
 - - Black amulet\*\*
 
@@ -334,37 +334,37 @@ time.
 - - Iron ring\*\* (power ring) (cannot wear with metal armour) (can wear
     with cloth, leather, and shining)
 
-` *`[`The Chief of Tharbad`](./mumestrategies#chief_of_tharbad.md)
+` *``The Chief of Tharbad`
 
 - - Ruby ring\*\* (power ring)
 
-` *`[`Wight Lord`](./mumestrategies#wight_lord.md)
+` *``Wight Lord`
 
 - - Copper ring\*\* (power ring)
 
-` *`[`Mithnaur the Dragon`](./mumestrategies#mithnaur_the_dragon.md)
+` *``Mithnaur the Dragon`
 
 - - Banded ring\*\* (power ring)
 
-` *`[`Unqalome the Great Dark`](./mumestrategies#unqalome_the_great_dark.md)
+` *``Unqalome the Great Dark`
 ` *Corrupt a sapphire ring`
 
 - - Icy ring\*\* (can wear with power ring)
 
-` *`[`Unqalome the Great Dark`](./mumestrategies#unqalome_the_great_dark.md)
+` *``Unqalome the Great Dark`
 
 - - Jewelled ring\*\* (power ring) (new change to descriptions)
 
-` *`[`Ost-in-Edhil quest`](./mumequests#ost-in-edhil.md)
+` *`[`Ost-in-Edhil quest`](/pages/Quest#ost-in-edhil.md)
 
 - - Azure ring\*\* (quest item ring, also counts as treasure)
 
-` *`[`Vairr the assassin, in the Anduin Vale`](./mumequests#narv's_quest.md)
+` *`[`Vairr the assassin, in the Anduin Vale`](/pages/Quest#narv's_quest.md)
 
 - - Golden quartzite ring\*\* (casts bless on wearer, limited charges)
     (can wear with power ring)
 
-` *`[`In Offa's chest.`](./mumequests#offa_the_scout_s_quest.md)
+` *`[`In Offa's chest.`](/pages/Quest#offa_the_scout_s_quest.md)
 
 - - Small tin ring (eff vs disease)\*\* (can wear with power ring)
 
@@ -380,11 +380,11 @@ time.
 
 - - The gleaming broadsword\*\*
 
-` *`[`Mithnaur the Dragon`](./mumestrategies#mithnaur_the_dragon.md)
+` *``Mithnaur the Dragon`
 
 - - The Morgul Blade\*\*
 
-` *2d, open wellrocks, e, u, n from the water-drake in Moria (You need `[`Balrog`](./mumemoriastrategies#the_balrog.md)` keys)`
+` *2d, open wellrocks, e, u, n from the water-drake in Moria (You need ``Balrog`` keys)`
 
 - - The dark, curved sword (Angmacil)\*\*
 
@@ -392,15 +392,15 @@ time.
 
 - - The silvery broadsword (Mithvegil)\*\*
 
-` *`[`Wight Captain`](./mumestrategies#wight_captain.md)
+` *``Wight Captain`
 
 - - The slender elven sword (Orcrist)\*\*
 
-` *`[`Bill, Bert, Tom`](./mumestrategies#bill_bert_tom.md)
+` *``Bill, Bert, Tom`
 
 - - The broad elven blade (Glamdring)\*\*
 
-` *`[`Bill, Bert, Tom`](./mumestrategies#bill_bert_tom.md)
+` *``Bill, Bert, Tom`
 
 - - Steel claymore\*\*
 
@@ -408,24 +408,24 @@ time.
 
 - - Engraved broadsword\*\*
 
-` *`[`Bloodwight`](./mumestrategies#bloodwight.md)
+` *``Bloodwight`
 ` *Glorfindel`
-` *`[`Eblees`](./mumestrategies#eblees.md)
+` *``Eblees`
 
 - - Dunadan blade\*\*
 
-` *`[`Kraken`](./mumestrategies#kraken.md)
-` *`[`Eblees`](./mumestrategies#eblees.md)
+` *``Kraken`
+` *``Eblees`
 ` *Inside husk at Frychra (sometimes)`
 
 - - Wightblade\*\*
 
-` *`[`Wight Lord`](./mumestrategies#wight_lord.md)
+` *``Wight Lord`
 ` *Corrupt a Dunadan blade`
 
 - - Fell blade\*\*
 
-` *`[`Karcarak`](./mumemoriastrategies#karcarak.md)
+` *``Karcarak`
 
 - - Bastard sword\*\*
 
@@ -433,44 +433,44 @@ time.
 ` *On the western evil priest`
 ` *On the Outcast`
 ` *In rack in secretplace northeast of Wuda`
-` *In the chest behind hidden 'fireplace' in `[`Dead Knight`](./mumestrategies#dead_knight.md)` area`
+` *In the chest behind hidden 'fireplace' in ``Dead Knight`` area`
 
 - - Jagged-edged scimitar\*\*
 
-` *`[`Guardian in NOC`](./mumestrategies#guardian.md)
+` *``Guardian in NOC`
 ` *On half-elven cut-throat`
 
 - - Dark broadsword\*\*
 
 ` *On the wraiths in the tower just west of the Canyon Trail`
 ` *On Brolg`
-` *On the `[`Bloodwight`](./mumestrategies#bloodwight.md)
-` *On the `[`Dead Knight`](./mumestrategies#dead_knight.md)
+` *On the ``Bloodwight`
+` *On the ``Dead Knight`
 ` *On wraith just outside Old Fornost`
 ` *Shade in tower east of Thorns between Khuzur and ABR`
 ` *Shade north of Vale village`
 ` *At bald orc south of Old Forest Road in a rack`
 ` *On wraiths at entrance to strange black helmet place`
-` *On wraiths guarding entrance to `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
+` *On wraiths guarding entrance to ``Ghostly Captain`
 ` *On wraiths east of Rivendell in area where GCM pops`
 
 #### Piercing Weapons
 
 - - The elven shortsword, with a runic inscription (Sting)\*\*
 
-` *`[`Bill, Bert, Tom`](./mumestrategies#bill_bert_tom.md)
+` *``Bill, Bert, Tom`
 
 - - Black runed dagger\*\*
 
-` *`[`The Sage`](./mumestrategies#black_numenorean_sage.md)
+` *``The Sage`
 
 - - Slender dagger\*\*
 
-` *`[`Master Assassin`](./mumestrategies#master_assassin.md)
+` *``Master Assassin`
 
 - - Ceremonial dagger\*\*
 
-` *`[`Amanrandil`](./mumequests#amanrandil_s_quest.md)
+` *`[`Amanrandil`](/pages/Quest#amanrandil_s_quest.md)
 
 - - Elven dagger\*\*
 
@@ -487,7 +487,7 @@ time.
 
 ` *Gaunt man (BN Ranger guildmaster)`
 ` *Cinard the Master-Thief`
-` *`[`Dunland vellum place`](./mumestrategies#dunland_vellum_place.md)
+` *``Dunland vellum place`
 ` *Bear Statue east of Lothlorien`
 ` *Inside husk at Frychra (sometimes)`
 
@@ -500,7 +500,7 @@ time.
 
 ` *On the goblin shaman in the goblin caves west of NOC`
 ` *On Brolg`
-` *On `[`Nagash`](./mumestrategies#nagash_the_dark.md)
+` *On ``Nagash`
 
 - - Barbed fang\*\*
 
@@ -508,26 +508,26 @@ time.
 
 - - Nasty orkish fang\*\*
 
-` *On the `[`Necromancer`](./mumestrategies#necromancer.md)
+` *On the ``Necromancer`
 ` *Behind hidden 'grasses' southeast of tall orc`
-` *In the chest east of the `[`Necromancer`](./mumestrategies#necromancer.md)
+` *In the chest east of the ``Necromancer`
 ` *On Lurg leaders and expelled orc in Moria.`
-` *Mordrath the Uroth-Ghásh in the `[`Dunland Orc Caves`](./mumestrategies#dunland_orc_caves_/_orkish_chieftain.md)
+` *Mordrath the Uroth-Ghásh in the ``Dunland Orc Caves`
 ` *On the Orkish Assassin behind trapdoor in wnoc`
 
 #### Concussion Weapons
 
 - - The Hammer of Belegost\*\*
 
-` *`[`King Thorin II`](./mumequests#hammer_of_belegost_quest.md)
+` *`[`King Thorin II`](/pages/Quest#hammer_of_belegost_quest.md)
 
 - - Black runed sceptre\*\*
 
-` *`[`Ebon wraith`](./mumestrategies#ebon_wraith.md)
+` *``Ebon wraith`
 
 - - The huge, black mace\*\*
 
-` *`[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
+` *``Muranog`
 
 - - The fine silvery morningstar\*\*
 
@@ -535,20 +535,20 @@ time.
 
 - - Ornate, steel-shafted warhammer\*\*
 
-` *`[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
+` *``Muranog`
 
 - - Engraved warhammer\*\*
 
-` *`[`The Spirit Knight`](./mumestrategies#spirit_knight.md)
+` *``The Spirit Knight`
 ` *Inside husk at Frychra (sometimes)`
 
 - - Steel-shafted mattock\*\*
 
-` *`[`Theddin's Mines`](./mumestrategies#theddin_s_mines.md)
+` *``Theddin's Mines`
 
 - - Heavy morningstar\*\*
 
-` *`[`Wight Lord`](./mumestrategies#wight_lord.md)
+` *``Wight Lord`
 ` *Orkish chieftain in NOC`
 ` *Sodmat olog`
 
@@ -565,15 +565,15 @@ time.
 
 - - The Axe of Durin\*\*
 
-` *`[`Balrog`](./mumemoriastrategies#the_balrog.md)
+` *``Balrog`
 
 - - Great warsword\*\*
 
-` *`[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
+` *``Ghostly Captain`
 
 - - War mattock\*\*
 
-` *`[`Mezagor`](./mumemoriastrategies#mezagor.md)
+` *``Mezagor`
 ` *On the stationary black uruk patrol in Moria (loads on troll)`
 ` *Inside husk at Frychra (sometimes)`
 
@@ -585,17 +585,17 @@ time.
 - - 2H sword and buckler\*\*
 
 ` *On the Old Wight near Bree`
-` *`[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
+` *``Ghostly Captain`
 
 #### Stabbing Weapons
 
 - - Blackened spear\*\*
 
-` *`[`Blackened spear quest`](./mumequests#blackened_spear_quest.md)
+` *`[`Blackened spear quest`](/pages/Quest#blackened_spear_quest.md)
 
 - - Steel-tipped spear\*\*
 
-` *`[`Broghha`](./mumestrategies#broghha.md)
+` *``Broghha`
 
 - - Steel-shafted spear\*\*
 
@@ -613,16 +613,16 @@ time.
 
 - - The Axe of Durin\*\*
 
-` *`[`Balrog`](./mumemoriastrategies#the_balrog.md)
+` *``Balrog`
 
 - - Blackened dwarven axe\*\*
 
-` *`[`Umuk`](./mumemoriastrategies#umuk.md)
+` *``Umuk`
 
 - - Mighty dwarven axe\*\*
 
-` *`[`Overseer`](./mumestrategies#overseer.md)
-` *`[`Amon Othar`](./mumestrategies#amon_othar.md)
+` *``Overseer`
+` *``Amon Othar`
 ` *In a dwarven skeleton, behind the Moria Kraken`
 
 #### Charging Weapons
@@ -635,7 +635,7 @@ time.
 
 - - Embellished longbow\*\*
 
-` *`[`Amon Othar`](./mumestrategies#amon_othar.md)
+` *``Amon Othar`
 ` *Inside husk at Frychra (sometimes)`
 
 - - Elven longbow\*\*
@@ -644,7 +644,7 @@ time.
 
 - - Yew longbow\*\*
 
-` *`[`Trapper north from Forlond`](./mumequests#trappers_s_quest.md)
+` *`[`Trapper north from Forlond`](/pages/Quest#trappers_s_quest.md)
 ` *Inside husk at Frychra (sometimes)`
 
 - - Crossbow\*\*
@@ -674,7 +674,7 @@ time.
 
 - - Silver tipped arrows\*\*
 
-` *`[`Amon Othar`](./mumestrategies#amon_othar.md)
+` *``Amon Othar`
 ` *Inside husk at Frychra (sometimes)`
 
 - - Grey arrows\*\*
@@ -702,7 +702,7 @@ time.
 
 - - The Dragonhelm\*\*
 
-` *`[`Balrog`](./mumemoriastrategies#the_balrog.md)
+` *``Balrog`
 
 - - Strange black helmet\*\*
 
@@ -711,7 +711,7 @@ time.
 - - White chain mail coif\*\*
 
 ` *On the orkish shaman inside Moria's east gate`
-` *Down from `[`Umuk`](./mumemoriastrategies#umuk.md)
+` *Down from ``Umuk`
 
 - - Winged metal helmet\*\*
 
@@ -721,8 +721,8 @@ time.
 
 ` *On the Death Knight`
 ` *On the Spirit Knight`
-` *On `[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
-` *On one of the trolls at the entrance to `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
+` *On ``Muranog`
+` *On one of the trolls at the entrance to ``Ghostly Captain`
 ` *Hidden 1s of 'stoneblock' (hidden exit) in boulders area.`
 ` *On olog in Icedoor area.`
 
@@ -732,7 +732,7 @@ time.
 
 - - Silvery crown\*\*
 
-` *`[`Brolg's standard quest`](./mumequests#brolg_s_standard_quest_uncomplete.md)
+` *`[`Brolg's standard quest`](/pages/Quest#brolg_s_standard_quest_uncomplete.md)
 
 - - Mithril circlet\*\*
 
@@ -750,8 +750,8 @@ time.
 
 - - Fine chain coif\*\*
 
-` *Spirit-soldiers in `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
-` *`[`Orkish Chieftain`](./mumestrategies#dunland_orc_caves_/_orkish_chieftain.md)` in Dunland`
+` *Spirit-soldiers in ``Ghostly Captain`
+` *``Orkish Chieftain`` in Dunland`
 ` *LBF when dark`
 ` *Caravan in DG(need 2)`
 
@@ -768,12 +768,12 @@ time.
 
 - - Shining breastplate\*\*
 
-` *`[`Balrog`](./mumemoriastrategies#the_balrog.md)
+` *``Balrog`
 
 - - Shining chain mail shirt\*\*
 
-` *`[`Karcarak`](./mumemoriastrategies#karcarak.md)
-` *`[`Mezagor`](./mumemoriastrategies#mezagor.md)
+` *``Karcarak`
+` *``Mezagor`
 
 - - White chain mail jerkin\*\*
 
@@ -783,10 +783,10 @@ time.
 
 - - Fine metal breastplate\*\*
 
-` *`[`Overseer`](./mumestrategies#overseer.md)
+` *``Overseer`
 ` *Old Wight`
-` *`[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
-` *On the `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
+` *``Muranog`
+` *On the ``Ghostly Captain`
 ` *On Gumak.`
 ` *Throulhuk chest`
 ` *3x wraith near GCM`
@@ -818,27 +818,27 @@ time.
 
 - - Shining vambraces\*\*
 
-` *`[`Balrog`](./mumemoriastrategies#the_balrog.md)
+` *``Balrog`
 
 - - Shining chain mail sleeves\*\*
 
-` *`[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
+` *``Muranog`
 
 - - White chain mail sleeves\*\*
 
-` *`[`Mezagor`](./mumemoriastrategies#mezagor.md)
+` *``Mezagor`
 ` *Spectyre sarcophagus s from where the fine silvery morningstar loads`
 ` *On Glorfindel`
 
 - - Fine vambraces\*\*
 
-` *`[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
-` *On the `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
+` *``Muranog`
+` *On the ``Ghostly Captain`
 
 - - Plate vambraces\*\*
 
-` *On the `[`Bloodwight`](./mumestrategies#bloodwight.md)
-` *`[`Bulag`](./mumemoriastrategies#bulaggrey_spider.md)
+` *On the ``Bloodwight`
+` *``Bulag`
 
 - - Fine chain sleeves\*\*
 
@@ -863,9 +863,9 @@ time.
 
 - - Fine metal gauntlets\*\*
 
-` *`[`Umuk`](./mumemoriastrategies#umuk.md)
-` *`[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
-` *On the `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
+` *``Umuk`
+` *``Muranog`
+` *On the ``Ghostly Captain`
 
 - - Fine chain gloves\*\*
 
@@ -885,34 +885,34 @@ time.
 
 - - Shining greaves\*\*
 
-` *`[`Balrog`](./mumemoriastrategies#the_balrog.md)
+` *``Balrog`
 
 - - Shining chain mail leggings\*\*
 
-` *`[`Bulag`](./mumemoriastrategies#bulaggrey_spider.md)
-` *`[`Shaghosh`](./mumemoriastrategies#shaghosh.md)
+` *``Bulag`
+` *``Shaghosh`
 
 - - White chain mail leggings\*\*
 
-` *On `[`Bulag`](./mumemoriastrategies#bulaggrey_spider.md)
-` *`[`Mezagor`](./mumemoriastrategies#mezagor.md)
+` *On ``Bulag`
+` *``Mezagor`
 ` *Recess in Moria where jade bracelet loads`
 ` *In a dwarven skeleton, behind the Moria Kraken`
 ` *On Glorfindel`
 
 - - Fine greaves\*\*
 
-` *In the skeleton at lever on the way out of `[`Unqalome`](./mumestrategies#unqalome_the_great_dark.md)
-` *`[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
-` *On the `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)` (unless plate greaves load)`
+` *In the skeleton at lever on the way out of ``Unqalome`
+` *``Muranog`
+` *On the ``Ghostly Captain`` (unless plate greaves load)`
 ` *On ohurk chief`
 ` *Hidden 1s of 'stoneblock' (hidden exit) in boulders area.`
 
 - - Plate greaves\*\*
 
-` *On `[`Shaghosh`](./mumemoriastrategies#shaghosh.md)
-` *On the `[`Bloodwight`](./mumestrategies#bloodwight.md)
-` *`[`Bulag`](./mumemoriastrategies#bulaggrey_spider.md)
+` *On ``Shaghosh`
+` *On the ``Bloodwight`
+` *``Bulag`
 
 - - Fine chain leggings\*\*
 
@@ -926,13 +926,13 @@ time.
 
 - - Fine metal boots\*\*
 
-` *`[`Muranog`](./mumemoriastrategies#muranog_the_high_lieutenant.md)
-` *On `[`Shaghosh`](./mumemoriastrategies#shaghosh.md)
-` *On the `[`Ghostly Captain`](./mumestrategies#ghostly_captain.md)
+` *``Muranog`
+` *On ``Shaghosh`
+` *On the ``Ghostly Captain`
 
 - - Soft padded boots (notrack boots)\*\*
 
-` *`[`The Chief of Tharbad`](./mumestrategies#chief_of_tharbad.md)
+` *``The Chief of Tharbad`
 
 - - Black padded boots\*\*
 
@@ -959,7 +959,7 @@ time.
 
 - - Ancient dwarven shield\*\*
 
-` *`[`Balrog`](./mumemoriastrategies#the_balrog.md)
+` *``Balrog`
 
 - - Defiled dwarven shield\*\*
 
@@ -967,15 +967,15 @@ time.
 
 - - Tower shield\*\*
 
-` *`[`Mithnaur the Dragon`](./mumestrategies#mithnaur_the_dragon.md)
+` *``Mithnaur the Dragon`
 
 - - Bejewelled shield\*\*
 
-` *`[`Bloodwight`](./mumestrategies#bloodwight.md)
+` *``Bloodwight`
 
 - - Large metal wall shield\*\*
 
-` *`[`Bill, Bert, Tom`](./mumestrategies#bill_bert_tom.md)
+` *``Bill, Bert, Tom`
 ` *Inside husk at Frychra (sometimes)`
 
 - - Sun-emblazoned shield\*\*
@@ -984,7 +984,7 @@ time.
 
 - - Metal wall shield\*\*
 
-` *In the chest behind hidden 'fireplace' in `[`Dead Knight`](./mumestrategies#dead_knight.md)` area`
+` *In the chest behind hidden 'fireplace' in ``Dead Knight`` area`
 ` *Loads hidden, from the southern-most 'road' room on ABR: s 3e n 3e n`
 ` *Behind door in Filthy Caves`
 ` *On the goblin leader, in the goblin caves west of NOC`
@@ -999,15 +999,15 @@ time.
 
 - - Gilded rounded shield\*\*
 
-` *`[`The ghost of Galerel`](./mumestrategies#light_shields.md)
+` *``The ghost of Galerel`
 
 - - Shield of Arthedain\*\*
 
-` *`[`Bill Ferny`](./mumestrategies#light_shields.md)
+` *``Bill Ferny`
 
 - - Shield of Cardolan\*\*
 
-` *`[`Malardil`](./mumestrategies#light_shields.md)
+` *``Malardil`
 ` *excavators in Ost-in-Edhil`
 
 - - Reinforced oaken shield\*\*
@@ -1026,12 +1026,12 @@ time.
 
 - - Sable pouch\*\*
 
-` *On the ground in `[`Mormaeg`](./mumestrategies#mormaeg.md)`'s room`
+` *On the ground in ``Mormaeg``'s room`
 ` *In anduin vale at place with stone statues`
 
 - - A web\*\*
 
-` *Where the monstrous black spider loads in Fangorn (part of `[`Treebeard's forest quest`](./mumequests#treebeard's_forest_quest.md)`), on the ground`
+` *Where the monstrous black spider loads in Fangorn (part of `[`Treebeard's forest quest`](/pages/Quest#treebeard's_forest_quest.md)`), on the ground`
 ` *On ground near Grey spider in Mirkwood`
 ` *On the ground under brown bears north of Anduin Vale`
 ` *In the area under Broghha`
@@ -1077,7 +1077,7 @@ time.
 
 - - Flask of miruvor\*\*
 
-` *Reward for the `[`Elven scout camp quest`](./mumequests#elven_scout_camp_quest.md)
+` *Reward for the `[`Elven scout camp quest`](/pages/Quest#elven_scout_camp_quest.md)
 ` *Reward for giving an elven dagger back to its owner which is an elven scout. (rarely)`
 ` *Can be given to any whitie who brings and gives to Erestor or Ecthelion any of the following:`
 `   *Twisted crown`
@@ -1128,8 +1128,8 @@ miruvor than Ecthelion. - Staub//
 
 ` *On hunter near Woodhall`
 ` *On Hillman Chief`
-` *`[`East Priest`](./mumestrategies#east_evil_priest.md)
-` *`[`Tall Orc`](./mumestrategies#tall_orc.md)
+` *``East Priest`
+` *``Tall Orc`
 ` *On Eoghha (June07) `
 ` *Farmer Maggot , also loads 'small green bottle' for purging diseases`
 ` *loads in chest east of BM, nw of crazed dwarf`
@@ -1155,7 +1155,7 @@ miruvor than Ecthelion. - Staub//
 
 - - Fine Elven Rope\*\*
 
-` *`[`Ropemaker's Quest`](./mumequests#ropemaker's_quest.md)` in Lorien  `
+` *`[`Ropemaker's Quest`](/pages/Quest#ropemaker's_quest.md)` in Lorien  `
 
 //Fine elven ropes can be recovered from the botom of the slope! Tie
 rope, climb down and get rope: normally it would say "A sturdy rope is

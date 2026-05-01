@@ -19,7 +19,7 @@ at the **Black Dagger Guild** in [Old Fornost](./Old_Fornost.md).
 [`attack`](./Attack.md)`                  11  Normal`
 [`dodge`](./Dodge.md)`                    5  Hard`
 [`hide`](./Hide.md)`                    11  Normal`
-[`missile`](./missile.md)`                 11  Normal`
+`missile``                 11  Normal`
 [`pick`](./Pick.md)`                     1  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`        12  Normal`
 [`search`](./Search.md)`                  16  Normal`

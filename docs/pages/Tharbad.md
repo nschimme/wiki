@@ -10,13 +10,13 @@ North-South road; which the Bree-Landers call the
 [Greenway](./Greenway.md), the city welcomes few past its gates.
 
 Rumour has it that there was a coup d'etat in Tharbad, and a more
-ruthless and merciless [Chief](./Chief_of_Tharbad.md) has taken
+ruthless and merciless Chief has taken
 power in that city of thieves.
 
 His decree follows:
 
 1\. If you wish to live in Tharbad you may [register as a
-citizen](./citizenship.md), upon payment of a small contribution.
+citizen](/pages/Rules_PK), upon payment of a small contribution.
 The secretary will calculate the amount when you ask him. Be aware that
 he is accompanied by guards who may still be impolite to you.
 
@@ -28,7 +28,7 @@ No human or beast will be admitted in the closed hours.
 (Sidenote: The gatekeeper has carelessly dropped the hint that he is
 rather low on funds. It is likely he will accept monetary gifts gladly.
 When you are stopped by the locked gate at night,
-"[call](./Call.md)" and then "[bribe x gold](./bribe.md)".
+"[call](./Call.md)" and then "bribe x gold".
 He may just be persuaded to open for your group.)
 
 Know however that these are but rumours.
@@ -64,7 +64,7 @@ surrender. Tharbad's justice system is known to show little lenience.
 ## Inns and Taverns
 
 - [Thirsty Ranger's Inn](./Thirsty_Ranger's_Inn.md)
-- [Golden Knife Bar](./Golden_Knife_Bar.md)
+- Golden Knife Bar
 
 ## Map
 

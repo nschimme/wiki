@@ -20,5 +20,5 @@ shop](./Tharbad_Weaponsmith.md).
 `                  Sessions  Difficulty`
 [`attack`](./Attack.md)`                  16  Normal`
 [`dodge`](./Dodge.md)`                   23  Hard`
-[`missile`](./missile.md)`                  6  Normal`
+`missile``                  6  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`        12  Normal`

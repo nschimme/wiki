@@ -34,7 +34,7 @@ in the practice list:
 `                Not refreshed`
 
 Finally, 'train' can be used to improve some of your base
-[abilities](./abilities.md) at the expense of others. For example:
+abilities at the expense of others. For example:
 
 `> train improve strength`
 `> train neglect constitution`

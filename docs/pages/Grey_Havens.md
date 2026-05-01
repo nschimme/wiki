@@ -15,11 +15,11 @@ Cirdan the Shipwright was lord of the Havens and mighty among the
 Wise... --- J.R.R. Tolkien, Silmarillion
 
 What is called **Grey Havens** are the three cities of Mithlond,
-[Harlond](./Harlond.md) and [Forlond](./Forlond.md). In
+Harlond and Forlond. In
 [MUME](./MUME.md), you can visit the cities of Harlond and Forlond
 while a ferry will help you to cross the miles of the Gulf that lie
 between them. You will find all sorts of [shops](./Shop.md) or
-[guilds](./Guild.md) in these two [cities](./City.md). The
+[guilds](./Guild.md) in these two cities. The
 area of the Grey Havens is also considered very safe from the growing
 influence of the dark Shadows in the east and many young adventurers
 started their journeys here.

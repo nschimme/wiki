@@ -5,7 +5,7 @@ description: 'If you are darkie and got some anti-evil item into your hands, the
 
 If you are darkie and got some anti-evil item into your hands, then it's
 not just crap anymore. You can corrupt them on black altar at
-[ABR](./ABR.md), or give to BN [sage](./sage.md), and make
+ABR, or give to BN sage, and make
 them serve you as true servants on your evil paths.
 
 ` Original                Result                             Place`

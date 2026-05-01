@@ -7,20 +7,20 @@ A list of equipment worn on the **legs**.
 
 # Metal
 
-- [black metal greaves](./black_metal_greaves.md)
-- [crimson greaves](./crimson_greaves.md)
+- black metal greaves
+- crimson greaves
 - [fine metal greaves](./Fine_metal_greaves.md)
 - [metal greaves](./Metal_greaves.md)
-- [plate greaves](./plate_greaves.md)
-- [sturdy metal greaves](./sturdy_metal_greaves.md)
+- plate greaves
+- sturdy metal greaves
 
 # Mail
 
 - [fine chain mail leggings](./Fine_chain_mail_leggings.md)
 - [chain mail leggings](./Chain_mail_leggings.md)
-- [scale leggings](./scale_leggings.md)
-- [white chain mail leggings](./white_chain_mail_leggings.md)
-- [sturdy chain mail leggings](./sturdy_chain_mail_leggings.md)
+- scale leggings
+- white chain mail leggings
+- sturdy chain mail leggings
 
 # Leather
 

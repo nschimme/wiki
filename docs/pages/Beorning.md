@@ -4,10 +4,10 @@ description: 'Bears, are a race of men who are capable of'
 tags:
   - Playable races
 ---
-![Bear_roar](/img/Bear_roar.jpg) **Beornings**, also known as
+!Bear_roar **Beornings**, also known as
 **Bears**, are a race of [men](./Man.md) who are capable of
 transforming into huge, powerful bears. The most notable and well-known
-Beorning in Tolkien is [Beorn](./Beorn.md) who appears for his
+Beorning in Tolkien is Beorn who appears for his
 most notable role in *[The Hobbit](./The_Hobbit.md)*. Beornings
 live in the [Anduin Vale](./Anduin_Vale.md), at the foot of the
 [Misty Mountains](./Misty_Mountains.md).
@@ -50,7 +50,7 @@ on the same factors as above). A bear can try to "return" to human form
 before the time limit expires; failed attempts can cause fatigue.
 
 While in bear form, Beornings have increased strength and other
-"physical" [stats](./stat.md):
+"physical" stats:
 
 | STR | CON | DEX | PER | INT | WIS | WIL |
 |-----|-----|-----|-----|-----|-----|-----|

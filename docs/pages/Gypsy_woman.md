@@ -7,12 +7,12 @@ tags:
 ---
 The **gypsy woman** is an aggressive [level](./Level.md) ?
 [mobile](./Mobile.md) found in [Malardil's
-castle](./Malardil's_castle.md). She usually follows
+castle](/pages/Malardil). She usually follows
 [Malardil](./Malardil.md) around. She can [cast](./Cast.md)
 [Sanctuary](./Sanctuary.md), and will usually attempt to first
 cast it on Malardil and then herself when engaged in
 [combat](./Combat.md). She loads with 8
-[silver](./silver.md), a [russet cloak](./Russet_cloak.md),
+silver, a [russet cloak](./Russet_cloak.md),
 a [belt](./Plain_leather_belt.md), [lantern](./Lantern.md),
 [ring](./Ring.md), and russet cloth equipment.
 

@@ -13,7 +13,7 @@ something. Example:
 
 ` > order followers smile  [Order all charmed followers]`
 
-Note that it is not possible to order [mobiles](./Mobile.md) to do
+Note that it is not possible to order mobiles to do
 any of the following commands: [narrate](./Narrate.md),
 [yell](./Yell.md), [shout](./Shout.md),
 [tell](./Tell.md), [sing](./Sing.md),

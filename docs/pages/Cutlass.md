@@ -5,7 +5,7 @@ tags:
   - Slashing weapons
 ---
 The **cutlass** is a [slashing weapon](./Slashing_weapon.md). It
-is worth around 12 [silver](./silver.md), and is sold by most
+is worth around 12 silver, and is sold by most
 weaponsmiths.
 
 `>`**`examine cutlass`**

@@ -3,9 +3,9 @@ title: Race
 description: 'Ring](TheLordoftheRings:TheFellowshipoftheRing(film) "wikilink")'
 ---
 
-![Fellowship](/img/Fellowship.jpg) in *[The Lord of the Rings: The
+!Fellowship in *The Lord of the Rings: The
 Fellowship of the
-Ring](The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring_(film) "wikilink")*
+Ring*
 There are nine different **races** you can play on MUME.
 
 Five of these belong to the good side (a.k.a. "whities"). They are Men,
@@ -44,7 +44,7 @@ The last race is the Zaugurz Orcs, forming a side of its own.
 <!-- -->
 
 - [Orcs](./Orc.md)
-  - [Tarkhnarb tribe](./Tarkhnarb_Orc.md)
+  - [Tarkhnarb tribe](/pages/Orc)
   - [Zaugurz tribe](./Zaugurz_Orc.md)
 
 <!-- -->
@@ -53,6 +53,6 @@ The last race is the Zaugurz Orcs, forming a side of its own.
 
 ## See also
 
-- [Racial stats](./Stats#Racial_Stats.md)
+- Racial stats
 
 <!--@include: ../includes/ClassRace.md-->

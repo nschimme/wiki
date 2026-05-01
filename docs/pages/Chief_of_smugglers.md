@@ -6,7 +6,7 @@ tags:
   - Mobiles with unknown level
 ---
 The **chief of smugglers** is an aggressive level ?
-[mob](./mob.md). He can be found in a hidden cave in the hills
+mob. He can be found in a hidden cave in the hills
 south of [Bree](./Bree.md). He loads 1 gold, a
 [falchion](./Falchion.md), a [fine, rigid leather
 breastplate](./Fine,_rigid_leather_breastplate.md) and some common

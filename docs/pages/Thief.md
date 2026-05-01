@@ -3,7 +3,7 @@ title: Thief
 description: 'For the mobile, see thief (mobile) "wikilink").'
 ---
 
-*For the mobile, see [thief (mobile)](thief_(mobile) "wikilink").*
+*For the mobile, see thief (mobile).*
 
 **Thieves** (or 'scouts') are known to have very special qualities that
 no other [class](./Class.md) offers. Many of these qualities can
@@ -55,14 +55,14 @@ Backstab does not work well until you have it at very high skill levels,
 so don't bother practising it until you're ready to put the maximum
 number of practices into it. It's probably not worth using until you're
 at least level 18(?) or so. [Missile
-weapons](./Missile_weapons.md) are a better option until then.
+weapons](./Missile_weapon.md) are a better option until then.
 
 #### Shoot/flee
 
 When playing scout early levels until 16 or so: practice sneak, get bow
 and war arrows or ash arrows. Some absorb equipment - fine rigid leather
 is a great start. Sneak on, enter room with
-[mobiles](./mobiles.md), shoot a mob, flee. Wait for sneak to be
+mobiles, shoot a mob, flee. Wait for sneak to be
 available again (big S in prompt and a message if previously small s in
 prompt). Enter again, shoot the mob again, flee. After it dies recover
 or get the arrows, repeat for the other mobs. Bows do a tons of damage,
@@ -72,7 +72,7 @@ goes through if you don't get detected by a mob.
 #### Alternatives
 
 You could level up to 18 or so practiced and
-[equipped](./Equipment.md) as a warrior/buffer, but with your
+equipped as a warrior/buffer, but with your
 thief stats, using [citizen mercenaries](./Citizen_mercenaries.md)
 for parry splitting, retire for 1 month and then get a practice reset
 and maybe an age reset. Or train off warrior skills and train up thief

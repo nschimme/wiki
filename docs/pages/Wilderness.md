@@ -9,10 +9,10 @@ tags:
 [skill](./Skill.md) that allows one to survive better in the wild.
 It helps by reducing the amount of work one has to do to travel, thus
 reducing the need for food and beverages. The ease of learning
-Wilderness depends on the [Strength](./Strength.md) and
-[Willpower](./Willpower.md) stats.
+Wilderness depends on the Strength and
+Willpower stats.
 
 ### See also
 
-[Mobility](./Mobility.md)
+Mobility
  

@@ -28,7 +28,7 @@ the caster's room is watched, to which a portal is leading from his
 room, or from which a portal is coming to his room.
 
 Unfortunately, in spite of the low level of this spell, there are few
-[guildmasters](./guildmaster.md) that teach Detect Magic to the
+guildmasters that teach Detect Magic to the
 free races.
 
 Syntax : cast 'detect magic' \[self-only Type : Detection

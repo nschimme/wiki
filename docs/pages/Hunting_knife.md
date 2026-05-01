@@ -8,7 +8,7 @@ The **hunting knife** is a [piercing weapon](./Piercing_weapon.md)
 that can also be used to [butcher](./Butcher.md)
 [corpses](./Corpse.md) when [wielded](./Wield.md) or worn on
 a [belt](./Belt.md). It is worth around 3
-[silver](./silver.md) and is sold by most weaponsmiths.
+silver and is sold by most weaponsmiths.
 
 `A small hunting knife lies on the ground.`
 `>`**`examine knife`**

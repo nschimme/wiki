@@ -20,9 +20,9 @@ It fits you well.
 ## Opinions
 
 This wristband behaves in much the same way as [smooth padded
-boots](./smooth_padded_boots.md), [strange black
-helmet](./strange_black_helmet.md) and also the [large visored
-helm](./large_visored_helm.md); that is they can have three copies
+boots](/pages/Armour), [strange black
+helmet](/pages/Armour) and also the [large visored
+helm](/pages/Armour); that is they can have three copies
 in game at any one time (though it is unlikely). It's actual effects are
 to manipulate
 [OB](./Offensive_bonus.md)/[DB](./Dodge_bonus.md)/[PB](./Parry_bonus.md)
@@ -30,7 +30,7 @@ according to your [mood](./Mood.md). When in aggressive mood, the
 wristband will convert some DB into OB. When wimpy, it will convert some
 PB into DB, which is of arguable benefit in such small amounts, but a
 benefit none the less because you will end up with slightly more
-defence. [Dwarves](./Dwarves.md) are said to gain an even greater
+defence. Dwarves are said to gain an even greater
 boost to OB when in berserk mood, compared to other
 [races](./Race.md), although the actual benefits of this are very
 limited.

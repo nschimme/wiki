@@ -24,6 +24,6 @@ It weighs half a pound.
 
 ## Other
 
-Can be [dyed](./dye.md) different colours.
+Can be dyed different colours.
 
 <!--@include: ../includes/Items.md-->

@@ -12,7 +12,7 @@ they are wielded with one hand only.
 
 ## See also
 
-- [Charge](./Charge.md), [Cleaving](./Cleaving.md),
-  [Concussion](./Concussion.md), [Missile](./Missile.md),
-  [Piercing](./Piercing.md), [Stabbing](./Stabbing.md),
-  [Two-handed](./Two-handed.md)
+- Charge, Cleaving,
+  Concussion, Missile,
+  Piercing, Stabbing,
+  Two-handed

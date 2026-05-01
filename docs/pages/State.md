@@ -22,5 +22,5 @@ any way, and have little value.
 
 From News 2096 by Ilie.
 
-See Also: [Equipment](./Equipment.md),
+See Also: Equipment,
 [Inventory](./Inventory.md)

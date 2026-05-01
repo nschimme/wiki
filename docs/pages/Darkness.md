@@ -13,7 +13,7 @@ Cleric Min. Mana : 25
 Example: \> cast 'darkness'
 
 From time to time, the Necromancer causes dark clouds to spread from his
-fortress of Dol Guldur. These billowing clouds
+fortress of [Dol Guldur](/pages/Mirkwood). These billowing clouds
 screen off sunlight, turning even the brightest day into a moonless
 night; contrarily to the effects of the 'darkness' spell, these clouds
 can extend hundreds of miles from their source, and usually herald
@@ -29,5 +29,5 @@ details of the rituals involved are a well-guarded secret.
 - [Bless](./Bless.md), [Protection From
   Evil](./Protection_From_Evil.md),
   [Sanctuary](./Sanctuary.md),
-  [Strength](./Strength_Spell.md)
+  Strength
   

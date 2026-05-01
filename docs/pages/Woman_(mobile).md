@@ -7,7 +7,7 @@ tags:
 ---
 *For the playable race, see [man](./Man.md).*
 
-**Women** are low-level [mobiles](./Mobile.md) who wander around
+**Women** are low-level mobiles who wander around
 [Fornost](./Fornost.md). They load with a dress, some shoes, a
 belt, a [ring](./Ring.md) and a [lantern](./Lantern.md).
 

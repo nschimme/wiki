@@ -6,7 +6,7 @@ tags:
 ---
 *For the playable class, see [thief](./Thief.md).*
 
-**Thieves** are passive level ~13 [mobiles](./Mobile.md), found in
+**Thieves** are passive level ~13 mobiles, found in
 various places across [Arda](./Arda.md). They will attempt to
 [steal](./Steal.md) [gold](./Gold.md) from players, and
 [flee](./Flee.md) when low on health. They load 3 silver 50

@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Roe deer** are passive [level](./Level.md) ~1-2
-[mobiles](./Mobile.md) found in various locations around
+mobiles found in various locations around
 [Arda](./Arda.md), particularly in the [Blue
 Mountains](./Blue_Mountains.md) area. Their corpses can be
 butchered to produce a [fine pelt](./Fine_pelt.md) and some

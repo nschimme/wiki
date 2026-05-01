@@ -707,5 +707,5 @@ bonus. High level casters that focus on it sometimes can grant a +3.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

@@ -22,7 +22,7 @@ tags:
 [`climb`](./Climb.md)`              3  Very easy`
 [`command`](./Command.md)`            2  Normal`
 [`leadership`](./Leadership.md)`         6  Normal`
-[`ride`](./ride.md)`               3  Very easy`
+[`ride`](/pages/Ride)`               3  Very easy`
 [`swim`](./Swim.md)`               4  Very easy`
 [`track`](./Track.md)`              7  Normal`
 [`wilderness`](./Wilderness.md)`        12  Normal`

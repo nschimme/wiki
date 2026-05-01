@@ -4,11 +4,11 @@ description: 'Trolls have the greatest physical might. These huge figures may be
 tags:
   - Playable races
 ---
-![Cave_troll](/img/Cave_troll.jpg) Of all Sauron's servants,
+!Cave_troll Of all Sauron's servants,
 **Trolls** have the greatest physical might. These huge figures may be
 the corrupted form of tree spirits, created by
-[Morgoth](./Morgoth.md) in the [Great
-Darkness](./Great_Darkness.md). Trolls are normally incapable of
+Morgoth in the [Great
+Darkness](/pages/Third_Age). Trolls are normally incapable of
 withstanding the pureness of daylight. Trolls are very large (twelve
 feet tall or more) humanoids of great strength and poor intellect. Their
 blood is black and so hot, that when it falls, it sizzles on the floor.
@@ -44,7 +44,7 @@ most other races:
 Player-controlled Trolls are deemed to be of the Hill Troll, Mountain
 Troll or Cave Troll strain (as opposed to Forest Trolls and Olog-Hai).
 Those trolls who have reached 21st level are given the standard title
-[Olog-Hai](./Olog-Hai.md). This does not mean they have swapped
+Olog-Hai. This does not mean they have swapped
 race. Instead it means simply what it says: Troll-Race, i.e. a Troll. It
 is an honorific title if you like, saying they have established
 themselves as a great troll. It is certainly better than Lord of Trolls.
@@ -55,7 +55,7 @@ Since they are not true Olog-Hai, they suffer
 
 The three subraces have the following modifiers:
 
-- MUME Hill Trolls\[1
+- MUME Hill Trolls\1
 
 ------------------------------------------------------------------------
 
@@ -106,21 +106,21 @@ Sécrêt's troll advice from the Palantíri on Elvenrunes:
 
 "Yes, my first advice is: the troll race is a special species with its
 own written and unwritten rules, its own social status and its own way
-of [pking](./PK.md) and xping. In my opinion there is three
+of [pking and xping. In my opinion there is three
 different trolls: the trackless troll with defence, the berserker
 [hitter](./Unarmed.md) and the [track](./Track.md) troll.
 Make up your mind before you level up your troll because the playstyle
 is very different. As troll, you need to know which areas are dark and
 which are light, which is the most important. If you have experience as
-[puke](./Pukes.md)/[orc](./Orc.md)/[bn](./Black_Númenórean.md)
+puke/[orc](./Orc.md)/[bn](./Black_Númenórean.md)
 then the troll race is pretty easy, BESIDES in pk situations with
 sunlight and other things. Just going [berserk](./Mood.md) works
 if you don’t care to die however if you don’t just want to die like a
 piece of meat, trolls take time to master :)'
 
 Real newbie players best make an unarmed troll and learn where to get
-[boots](./a_pair_of_smooth,_black_boots.md) and
-[fgc](./a_forest_green_cloak.md) and go play around."
+boots and
+fgc and go play around."
 
 Qzapaboo hill troll: If and when you die from \*SUNDEATH\* use the
 reborn command to reset trophies so you get all the exp you would like a

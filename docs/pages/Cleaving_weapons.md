@@ -13,7 +13,7 @@ weapons when they're standing with their feet firm on the ground.
 
 ## See also
 
-- [Charge](./Charge.md), [Concussion](./Concussion.md),
-  [Missile](./Missile.md), [Piercing](./Piercing.md),
-  [Slashing](./Slashing.md), [Stabbing](./Stabbing.md),
-  [Two-handed](./Two-handed.md)
+- Charge, Concussion,
+  Missile, Piercing,
+  Slashing, Stabbing,
+  Two-handed

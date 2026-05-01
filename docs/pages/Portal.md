@@ -39,8 +39,8 @@ high for characters below [legend](./Legend.md) level, characters
 that have not [practiced](./Practice.md) portal to maximal
 possible percentage, or characters that are aiming to portal very far. A
 failed portal, also called a *misportal*, opens into a random locateable
-room that may be quite far away from the target room. A [Black
-Númenorean](./Black_Númenorean.md) may misportal into a room that
+room that may be quite far away from the target room. A Black
+Númenorean may misportal into a room that
 Black Númenoreans cannot [Teleport](./Teleport.md) or portal from.
 
 Syntax : cast 'portal' \&lt;direction\&gt; \&lt;room key\&gt; Type : Long range

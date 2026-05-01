@@ -6,7 +6,7 @@ tags:
 ---
 The **dwarven dye-maker** is a [level](./Level.md) ~11-12
 [mobile](./Mobile.md), located in the dwarven mines north of
-[Harlond](./Harlond.md). He can procure the
+Harlond. He can procure the
 [dye](./Sealed_jug_of_dye.md) needed for the [elven
 weaver](./Ancient_weaver.md)'s
 [quest](./Quest#The_Elven_Weaver.md).

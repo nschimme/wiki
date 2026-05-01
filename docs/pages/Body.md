@@ -7,21 +7,21 @@ A list of items worn on the **body**.
 
 # Metal
 
-- [blood-encrusted breastplate](./blood-encrusted_breastplate.md)
-- [crimson metal breastplate](./crimson_metal_breastplate.md)
+- blood-encrusted breastplate
+- crimson metal breastplate
 - [fine metal breastplate](./Fine_metal_breastplate.md)
-- [metal breastplate](./metal_breastplate.md)
-- [sturdy metal breastplate](./sturdy_metal_breastplate.md)
+- metal breastplate
+- sturdy metal breastplate
 - [sturdy, rigid metal
-  breasplate](./sturdy,_rigid_metal_breasplate.md)
+  breasplate](/pages/Fine_metal_breastplate)
 
 # Mail
 
 - [chain mail hauberk](./Chain_mail_hauberk.md)
 - [fine chain mail hauberk](./Fine_chain_mail_hauberk.md)
 - [sturdy chain mail hauberk](./Sturdy_chain_mail_hauberk.md)
-- [white chain mail jerkin](./white_chain_mail_jerkin.md)
-- [scale shirt](./scale_shirt.md)
+- white chain mail jerkin
+- scale shirt
 
 # Leather
 
@@ -37,15 +37,15 @@ A list of items worn on the **body**.
 # Cloth
 
 - [ashen grey shirt](./Ashen_grey_shirt.md)
-- [black and red robe](./black_and_red_robe.md)
+- black and red robe
 - [black robe](./Black_robe.md)
 - [chequered shirt](./Chequered_shirt.md)
-- [Daedeltiri robe](./Daedeltiri_robe.md)
+- Daedeltiri robe
 - [embroidered blouse](./Embroidered_blouse.md)
 - [enruned robe](./Enruned_robe.md)
 - [fine plain dress](./Fine_plain_dress.md)
 - [fine tunic](./Fine_tunic.md)
-- [goat skin jacket](./goat_skin_jacket.md)
+- goat skin jacket
 - [grey tunic](./Grey_tunic.md)
 - [guardsman's shirt](./Guardsman's_shirt.md)
 - [plain blouse](./Plain_blouse.md)

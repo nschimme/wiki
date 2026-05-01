@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Berel** is a woman living in a small village southwest of
-[Lorien](./Lorien.md). She is looking for somebody to
+Lorien. She is looking for somebody to
 [help](./Quest#Berel_and_Jeraton.md) her
 [husband](./Jeraton.md).
 

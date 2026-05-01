@@ -13,5 +13,5 @@ Common causes for bansites include:
 - [Spamming](./Rules_Spam.md)
 - [Multiplaying](./Rules_Accounts.md)
 - Inapproriate [names](./Rules_Names.md) for characters
-- Repeatedly breaking any [rule](./Rules.md) or rules
+- Repeatedly breaking any rule or rules
  

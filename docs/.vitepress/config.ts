@@ -60,11 +60,11 @@ export default defineConfig({
     siteTitle: 'MUME Wiki',
 
     nav: [
+      { text: 'Guides', link: '/guides' },
+      { text: 'Equipment', link: '/equipment' },
       { text: 'Classes', link: '/classes' },
       { text: 'Races', link: '/races' },
-      { text: 'Guides', link: '/guides' },
       { text: 'Lore', link: '/lore' },
-      { text: 'Equipment', link: '/equipment' },
       { text: 'Community', link: '/community' },
       { text: 'Tags', link: '/tags' },
       {
@@ -180,7 +180,7 @@ export default defineConfig({
               if (index !== -1) {
                 const before = index > 0 ? text[index - 1] : ' ';
                 const after = index + term.length < text.length ? text[index + term.length] : ' ';
-                if (/\w/.test(before) || /\w/.test(after)) continue;
+                if (/[\w-]/.test(before) || /[\w-]/.test(after)) continue;
 
                 if (bestMatch === null || term.length > bestMatch.length) {
                   bestMatch = term;
@@ -217,60 +217,14 @@ export default defineConfig({
                 newTokens.push(tAfter);
               }
               children.splice(i, 1, ...newTokens);
-              i += newTokens.length - 1;
+              // -2 so that after the loop's i++, we land on the afterText node
+              // and can process it for additional auto-links
+              i += newTokens.length - 2;
             }
           }
         }
       });
 
-      // 2. Scrub dead links from existing markdown links
-      md.core.ruler.after('auto-link', 'scrub-dead', (state) => {
-        const filePath = state.env.path;
-        if (!filePath) return;
-        const fileDir = path.dirname(filePath);
-
-        for (const token of state.tokens) {
-          if (token.type !== 'inline') continue;
-          let children = token.children;
-          // Iterate backwards to safely remove tokens
-          for (let i = children.length - 1; i >= 0; i--) {
-            if (children[i].type === 'link_open') {
-              const hrefAttr = children[i].attrs?.find(a => a[0] === 'href');
-              if (hrefAttr) {
-                const href = hrefAttr[1];
-                if (href.startsWith('http') || href.startsWith('#') || href.startsWith('mailto:')) continue;
-
-                const targetPathOnly = href.split('#')[0];
-                if (!targetPathOnly) continue;
-
-                // Resolve absolute path from site root
-                let absoluteFromRoot;
-                if (targetPathOnly.startsWith('/')) {
-                  absoluteFromRoot = targetPathOnly.replace(/\.md$/, '');
-                } else {
-                  // Resolve relative to current file
-                  const relToDocs = path.relative(path.resolve('docs'), path.resolve(fileDir, targetPathOnly));
-                  absoluteFromRoot = '/' + relToDocs.replace(/\.md$/, '').replace(/\\/g, '/');
-                  if (absoluteFromRoot === '/.') absoluteFromRoot = '/';
-                }
-
-                if (!validPaths.has(absoluteFromRoot) && !validPaths.has(absoluteFromRoot.replace('/pages/', '/'))) {
-                  // Dead link! Convert to text.
-                  // Find link_close
-                  let closeIdx = -1;
-                  for (let j = i + 1; j < children.length; j++) {
-                    if (children[j].type === 'link_close') { closeIdx = j; break; }
-                  }
-                  if (closeIdx !== -1) {
-                    children.splice(closeIdx, 1);
-                    children.splice(i, 1);
-                  }
-                }
-              }
-            }
-          }
-        }
-      });
     }
   },
 

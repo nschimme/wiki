@@ -5,7 +5,7 @@ tags:
   - Concussion weapons
 ---
 The **mace** is a [concussion weapon](./Concussion_weapon.md). It
-is worth around 15 [silver](./silver.md), and is sold by most
+is worth around 15 silver, and is sold by most
 weaponsmiths.
 
 `>`**`examine mace`**

@@ -6,9 +6,9 @@ tags:
   - Mobiles with unknown level
 ---
 **Huge, poisonous spiders** are aggressive level ~11-12
-[mobiles](./Mobile.md), found in various places across
+mobiles, found in various places across
 [Arda](./Arda.md). They have a poisonous bite that can afflict you
-with [Arachnia](./Herblores#Arachnia.md).
+with Arachnia.
 
 `A huge, poisonous spider is here.`
 `>`**`examine spider`**

@@ -10,7 +10,7 @@ in a cave in the [Blue Mountains](./Blue_Mountains.md), some
 southwest from the entrance of the dwarven city. He can carve a [perfect
 oak branch](./Perfect_oak_branch.md) into a [carved oak
 staff](./Carved_oak_staff.md). He loads with a
-[ring](ring_(item) "wikilink") and a [broad-bladed
+ring and a [broad-bladed
 knife](./Broad-bladed_knife.md).
 
 `A tall and hardened man sits here, whittling a piece of wood.`

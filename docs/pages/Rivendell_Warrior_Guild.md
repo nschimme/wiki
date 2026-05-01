@@ -18,7 +18,7 @@ An **elven knight** teaches [warrior](./Warrior.md)
 
 `                    Sessions  Difficulty`
 [`bash`](./Bash.md)`                      20  Hard`
-[`charge`](./charge.md)`                    18  Normal`
+`charge``                    18  Normal`
 [`cleaving weapons`](./Cleaving_weapons.md)`          12  Normal`
 [`concussion weapons`](./Concussion_weapons.md)`        14  Normal`
 [`endurance`](./Endurance.md)`                 41  Very hard`

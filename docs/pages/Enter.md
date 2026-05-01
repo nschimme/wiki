@@ -7,7 +7,7 @@ tags:
 ---
 If you type "**enter**" while you are outdoors, you'll enter any nearby
 shelter. You can also follow 'enter' with an argument; for example,
-'enter window'. This [command](./commands.md) is also used to
+'enter window'. This command is also used to
 enter [coaches](./Coach.md).
 
 See also: [Leave](./Leave.md)

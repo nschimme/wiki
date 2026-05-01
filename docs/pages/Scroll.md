@@ -16,13 +16,13 @@ will be greatly increased.
 
 ## Types
 
-- [a blue scroll](./blue_scroll.md)
+- a blue scroll
 - [a black scroll](./Black_scroll.md)
 - [an azure scroll](./Azure_scroll.md)
-- [a vellum scroll](./vellum.md)
-- [a purple scroll](./purple.md)
-- [an ivory scroll](./ivory_scroll.md)
-- [a clear ivory scroll](./clear_ivory.md)
-- [a deep ebony scroll](./deep_ebony.md)
+- a vellum scroll
+- a purple scroll
+- an ivory scroll
+- a clear ivory scroll
+- a deep ebony scroll
 
 <!--@include: ../includes/Items.md-->

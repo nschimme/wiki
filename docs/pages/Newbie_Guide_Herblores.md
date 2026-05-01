@@ -494,5 +494,5 @@ shops will buy berries.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

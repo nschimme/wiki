@@ -8,7 +8,7 @@ tags:
 A **tall, muscular blacksmith** tends to the **Blacksmith's Workshop**
 in [Black Hill](./Black_Hill.md). The store stocks a variety of
 common [armour](./Armour.md) and [weapons](./Weapon.md), and
-will also buy [ore](./ore.md). The smithy is open from 6am - 11am
+will also buy ore. The smithy is open from 6am - 11am
 and 12pm to 12am.
 
 `A tall, muscular man stands here, heating metal in the furnace.`

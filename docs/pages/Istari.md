@@ -60,7 +60,7 @@ evil items of power, such as mottled cloaks or morgul blades: an Istar
 should destroy similar items, not use them or encourage their use.
 
 Same-side player killing is strictly forbidden, unless the victim is
-listed on [Saurons List](./Saurons_List.md).
+listed on Saurons List.
 
 Since their main task is to help and protect newbies, Istari, Eldar and
 metamorphs may not engage actively in the race war, except to defend the

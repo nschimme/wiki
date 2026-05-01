@@ -57,8 +57,8 @@ is below.
 - Shops
   - [The Traveller's Shop](./The_Traveller's_Shop.md)
   - [The Tailor's Shop](./Fornost_Tailor.md)
-  - [The King's Armoury](./The_King's_Armoury.md)
-  - [The Mighty Hammer Weaponry](./The_Mighty_Hammer_Weaponry.md)
+  - The King's Armoury
+  - The Mighty Hammer Weaponry
   - [Herb Shop](./Fornost_Herbalist.md)
   - [The Grocery](./Fornost_Grocer.md)
   - [Small Bakery](./Fornost_Baker.md)
@@ -69,7 +69,7 @@ is below.
   - [Ranger's Guild](./Fornost_Ranger_Guild.md)
   - [Black Dagger Guild](./Black_Dagger_Guild.md)
   - [Warrior's Guild](./Fornost_Warrior_Guild.md)
-  - [Scout's Guild](./Fornost_Scout's_Guild.md)
+  - Scout's Guild
   - See also: [Minas Brethil](./Minas_Brethil.md)
 
 <!-- -->
@@ -89,7 +89,7 @@ This section lists the individuals that live within the walls of
 Fornost.
 
 - [Woman (looking for someone to chat
-  with)](./Woman_looking_for_someone_to_chat_with.md)
+  with)](/pages/Mobile)
 - Cute Little Girl
 - [Innkeeper](./Crown_of_Arnor_Innkeeper.md)
 - [Olly](./Olly.md)
@@ -97,7 +97,7 @@ Fornost.
 - [Tundur the Lamplighter](./Tundur_the_Lamplighter.md)
 - [Rugged-looking man](./Rugged-looking_man.md)
 - Barman
-- [Old Tailor](./Old_Tailor_in_Fornost.md)
+- Old Tailor
 - Simple Servant
 - Wealthy Merchant
 - Man (intent on his business)

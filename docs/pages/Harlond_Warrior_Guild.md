@@ -6,7 +6,7 @@ tags:
 ---
 An **elven knight** teaches [warrior](./Warrior.md)
 [skills](./Skill.md) at the **Warrior's Guild** in
-[Harlond](./Harlond.md). He is permanently under the effect of the
+Harlond. He is permanently under the effect of the
 [sanctuary](./Sanctuary.md) spell.
 
 `An impressive elven knight stands watch here (glowing).`
@@ -19,7 +19,7 @@ An **elven knight** teaches [warrior](./Warrior.md)
 
 `                    Sessions  Difficulty`
 [`bash`](./Bash.md)`                      20  Hard`
-[`charge`](./charge.md)`                    11  Normal`
+`charge``                    11  Normal`
 [`cleaving weapons`](./Cleaving_weapons.md)`          12  Normal`
 [`concussion weapons`](./Concussion_weapons.md)`        14  Normal`
 [`endurance`](./Endurance.md)`                 28  Very hard`

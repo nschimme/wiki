@@ -7,7 +7,7 @@ tags:
 ---
 **Hard leather trousers** are a piece of hard leather equipment worn on
 the [legs](./Legs.md). They are worth around 3
-[silver](./silver.md) and 50 copper, and are sold by most
+silver and 50 copper, and are sold by most
 armourers.
 
 `A pair of hard leather pants are lying here.`

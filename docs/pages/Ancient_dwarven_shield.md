@@ -23,16 +23,16 @@ It fits you well.
 ## Other
 
 Equal highest [parry bonus](./Parry_bonus.md) (35) shield along
-with the [tower shield](./tower_shield.md), an ancient dwarven
+with the tower shield, an ancient dwarven
 shield is only really a serious choice for a
 [warrior](./Warrior.md) - preferably one with max
-[strength](./strength.md) and some means of bonus strength (either
-[spell](./Strength_spell.md) or [ring](./jewelled_ring.md)).
+strength and some means of bonus strength (either
+spell or ring).
 Although it is almost no different to a tower shield, the ancient
 dwarven shield is highly difficult to get. Despite being very heavy,
 it's weight is somewhat cancelled out by the lightweight properties of
 other equipment that loads alongside it. This is certainly a powerful
 shield, but it becomes even more so in it's corrupted form: a [defiled
-dwarven shield](./defiled_dwarven_shield.md)
+dwarven shield](/pages/Ancient_dwarven_shield)
 
 <!--@include: ../includes/Items.md-->

@@ -12,7 +12,7 @@ enemies and friends. You can also [bury](./Bury.md) corpses,
 with many other things you could do with the corpse of a fallen enemy.
 
 If you have died, you can try to retrieve your
-[equipment](./Equipment.md), but be aware that corpses do decay
+equipment, but be aware that corpses do decay
 after some time. Rumour says this takes a bit longer than a full
 MUME-day.
 
@@ -29,7 +29,7 @@ Sometimes corpses can not be recovered at all, for example, if you
 happened to die in an extremely dangerous place (also known as [death
 trap](./Death_trap.md)).
 
-Note that dense [fog](./fog.md) may make it impossible to see
+Note that dense fog may make it impossible to see
 items on the ground; that includes corpses.
 
 Some creatures, such as [ghosts](./Ghost.md), do not leave a

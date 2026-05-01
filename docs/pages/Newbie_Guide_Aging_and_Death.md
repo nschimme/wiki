@@ -424,5 +424,5 @@ due to this very scary type of death in the game.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

@@ -9,7 +9,7 @@ tags:
 The **ring**, also known as an **Arda ring**, is a magical
 [ring](./Ring.md) that prevents the wearer from being
 [summoned](./Summon.md) against their will. It is worth around 15
-[copper](./copper.md) and can be bought from most jewellers and
+copper and can be bought from most jewellers and
 general stores.
 
 `>`**`look ring`**

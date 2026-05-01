@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Grizzled werewolves** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) ~11-12 [mobiles](./Mobile.md). They can
+[level](./Level.md) ~11-12 mobiles. They can
 [track](./Track.md).
 
 `An iron-grey wolf stands here, grizzled from countless hunts.`

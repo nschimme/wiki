@@ -23,6 +23,6 @@ Mountains](./Blue_Mountains.md).
 [`climb`](./Climb.md)`              3  Very easy`
 [`command`](./Command.md)`            3  Normal`
 [`leadership`](./Leadership.md)`         8  Normal`
-[`ride`](./ride.md)`               3  Very easy`
+[`ride`](/pages/Ride)`               3  Very easy`
 [`track`](./Track.md)`              2  Normal`
 [`wilderness`](./Wilderness.md)`        16  Normal`

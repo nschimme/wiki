@@ -5,10 +5,10 @@ tags:
   - Mobiles
 ---
 **Huge tarantulas** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) 14 [mobiles](./Mobile.md), found in
+[level](./Level.md) 14 mobiles, found in
 various places around [Arda](./Arda.md). They have a poisonous
 bite that can afflict you with
-[Arachnia](./Herblores#Arachnia.md).
+Arachnia.
 
 `A huge, poisonous tarantula extends her legs to you.`
 `>`**`examine spider`**

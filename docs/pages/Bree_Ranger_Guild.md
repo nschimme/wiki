@@ -22,7 +22,7 @@ A **ranger** teaches [ranger](./General.md)
 [`climb`](./Climb.md)`              2  Very easy `
 [`command`](./Command.md)`            2  Normal    `
 [`leadership`](./Leadership.md)`         4  Normal    `
-[`ride`](./ride.md)`               3  Very easy `
+[`ride`](/pages/Ride)`               3  Very easy `
 [`swim`](./Swim.md)`               3  Very easy `
 [`track`](./Track.md)`              3  Normal    `
 [`wilderness`](./Wilderness.md)`         7  Normal  `

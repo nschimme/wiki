@@ -4,7 +4,7 @@ description: 'Shops are places where the adventurer may purchase'
 ---
 
 **Shop**s are places where the adventurer may purchase
-[equipment](./Equipment.md) for his quests, and where he may sell
+equipment for his quests, and where he may sell
 his treasure if he should manage to survive the perils with his life and
 sanity intact. Many shops trade only in a specific type of merchandise.
 Thus, a baker may well refuse to buy your [armour](./Armour.md),

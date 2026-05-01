@@ -51,7 +51,7 @@ Blessings
 - [Darkness](./Darkness.md)
 - [Protection From Evil](./Protection_From_Evil.md)
 - [Sanctuary](./Sanctuary.md)
-- [Strength](./Strength_Spell.md)
+- Strength
 
 Clairvoyance
 

@@ -5,7 +5,7 @@ tags:
   - Mobiles
   - Mobiles with unknown level
 ---
-**Spectres** are aggressive level ? [mobs](./mob.md). They are
+**Spectres** are aggressive level ? mobs. They are
 summoned by [Nagrorh](./Nagrorh.md), and will
 [follow](./Follow.md) and [assist](./Assist.md) him while
 he's alive.

@@ -38,5 +38,5 @@ An **elven priest** teaches [cleric](./Cleric.md)
 [`Remove Poison`](./Remove_Poison.md)`               12  Normal`
 [`Sanctuary`](./Sanctuary.md)`                   15  Very hard`
 [`Sense Life`](./Sense_Life.md)`                   3  Normal`
-[`Strength`](./Strength_Spell.md)`                    18  Hard`
+`Strength``                    18  Hard`
 [`Word of Recall`](./Word_of_Recall.md)`              12  Very hard`

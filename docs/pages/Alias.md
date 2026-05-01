@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-The **alias** [command](./commands.md) allows you to define
+The **alias** command allows you to define
 abbreviations for long commands frequently used, thus minimizing your
 typing.
 
@@ -28,7 +28,7 @@ added to the end of the command.
 
 If &lt;word&gt; starts with a "%" it is a "keyword alias" which will be
 expanded whenever a keyword lookup is done to find a character,
-[object](./object.md), or [door](./Door.md).
+object, or [door](./Door.md).
 
 Some words cannot be used as keyword aliases: words that the
 [look](./Look.md) command treats specially ("at", "around",

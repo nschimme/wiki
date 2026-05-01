@@ -27,6 +27,6 @@ It weighs about one pound.
 ## Opinion
 
 This kind of necklace is rumoured to give some kind of protection vs
-[spells](./Spells.md) of a certain class.
+spells of a certain class.
 
 <!--@include: ../includes/Items.md-->

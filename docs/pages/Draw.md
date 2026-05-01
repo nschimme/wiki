@@ -5,7 +5,7 @@ tags:
   - Help files
   - Commands
 ---
-Walking about a [town](./town.md) with your
+Walking about a town with your
 [weapon](./Weapon.md) **drawn** might draw unwanted attention from
 the guards. Play safe, keep your weapon **sheathed**.
 
@@ -16,7 +16,7 @@ could make you use your little longsword.
 
 Example: \> draw sheath (would make you draw the weapon in the sheath)
 \> sheath harness (would make you sheath your weapon in the harness) You
-can also draw [bows](./bow.md) you are wearing (across your back
+can also draw bows you are wearing (across your back
 e.g.) with 'draw &lt;bow&gt;' and weapons in inventory with 'draw &lt;weapon&gt;'.
 
 If you're [wielding](./Wield.md) a weapon when trying to draw a

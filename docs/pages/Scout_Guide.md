@@ -28,7 +28,7 @@ to lose some weight.
 All scouts skills, except envenom and attack are
 [DEX](./Statistic.md) and [PER](./Statistic.md) based, in
 that order, and you need above 101% in order to have a working scout.
-[Dwarves](./Dwarves.md) do not make great scouts not only due to
+Dwarves do not make great scouts not only due to
 bad stats, but they also get a severe malus to sneak, which makes them
 an overall bad choice.
 
@@ -38,7 +38,7 @@ scout, so that leaves us with the choice of [man](./Man.md),
 make the best scouts, since they get high bonuses to DEX and PER.
 However elves get a malus in str, con and wil and lower [move point
 regen](./Movement_points.md). Elves get a free citizenship in
-[lorien](./lorien.md) and cannot become sick in MUME.
+lorien and cannot become sick in MUME.
 
 Hobbits get bonuses to dex, con and wil, but malus to str and int.
 Hobbits also get a bonus to backstabbing (higher sucess rate) if they
@@ -125,7 +125,7 @@ and after that by backstabbing.
 
 Both [shoot](./Shoot.md) and backstab are delayed commands that
 are interrupted if you get hit while trying. In order to shoot something
-you need a [bow](./bow.md) (longbow is better for xp), a quiver
+you need a bow (longbow is better for xp), a quiver
 with arrows and preferably the missile skill. Shooting from sneak also
 helps both aiming, damage and reliability of your shots, so get max
 sneak as soon as you can. When a scout (or anyone else) flees from

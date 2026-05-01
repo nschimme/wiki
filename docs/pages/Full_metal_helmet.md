@@ -7,7 +7,7 @@ tags:
 ---
 The **full metal helmet** is a piece of metal
 [armour](./Armour.md) worn on the [head](./Head.md). It
-provides a large amount of damage [absorption](./absorption.md),
+provides a large amount of damage absorption,
 and reduces [offensive bonus](./Offensive_bonus.md) slightly. It
 loads in the Wight-Captain's crypt, and is also sold by some armourers.
 It is worth around ~3 [gold](./Gold.md).

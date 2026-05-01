@@ -7,7 +7,7 @@ tags:
 ---
 **Escape** is a [thief](./Thief.md) [skill](./Skill.md) that
 allows you to exit a fight without [fleeing](./Flee.md) if you are
-the [buffer](./buffer.md). Escape offers the following advantages
+the buffer. Escape offers the following advantages
 and disadvantages:
 
 - You can choose in which direction to move if you manage to escape:

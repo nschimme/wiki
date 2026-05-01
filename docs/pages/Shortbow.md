@@ -5,7 +5,7 @@ tags:
   - Missile weapons
 ---
 The **shortbow** is a [missile weapon](./Missile_weapon.md). It is
-worth around 10 [silver](./silver.md) and is sold by most
+worth around 10 silver and is sold by most
 weaponsmiths.
 
 `A shortbow has been left here.`

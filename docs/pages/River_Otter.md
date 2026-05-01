@@ -19,4 +19,4 @@ sleek, chestnut-brown fur.
 
 River otters are not hostile.
 
-Loot: Can be butchered to produce a [pelt](./a_fine_pelt.md).
+Loot: Can be butchered to produce a pelt.

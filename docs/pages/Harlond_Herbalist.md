@@ -5,7 +5,7 @@ tags:
   - Shopkeepers
 ---
 The **elven herbalist** tends to the **Herbalist** shop in
-[Harlond](./Harlond.md). The store is open 8am - 12pm and 1pm -
+Harlond. The store is open 8am - 12pm and 1pm -
 7pm and stocks a variety of [herbs](./Herb.md) at cheap prices.
 The herbalist is looking for someone to
 [help](./Quest#Harlond_Herbalist.md) him impress a woman he loves.

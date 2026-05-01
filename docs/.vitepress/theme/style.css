@@ -245,6 +245,11 @@ a:hover {
 .VPFeature:hover {
   border-color: var(--mume-gold) !important;
   box-shadow: 0 0 12px rgba(201, 168, 76, 0.15);
+  text-decoration: none !important;
+}
+
+.VPFeature:hover * {
+  text-decoration: none !important;
 }
 
 .VPFeature a {

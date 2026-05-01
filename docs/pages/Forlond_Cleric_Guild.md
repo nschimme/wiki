@@ -6,7 +6,7 @@ tags:
 ---
 An **elven priest** teaches [cleric](./Cleric.md)
 [spells](./Spell.md) at **Ossė's Temple** in
-[Forlond](./Forlond.md).
+Forlond.
 
 `A venerable elven priest is here, willing to teach his art.`
 `>`**`examine priest`**
@@ -39,7 +39,7 @@ An **elven priest** teaches [cleric](./Cleric.md)
 [`Remove Poison`](./Remove_Poison.md)`                3  Normal`
 [`Sanctuary`](./Sanctuary.md)`                    6  Very hard`
 [`Sense Life`](./Sense_Life.md)`                   3  Normal`
-[`Strength`](./strength_Spell.md)`                     8  Hard`
+`Strength``                     8  Hard`
 [`Summon`](./Summon.md)`                      18  Hard`
 [`Transfer`](./Transfer.md)`                    23  Very hard`
 [`Word of Recall`](./Word_of_Recall.md)`              23  Very hard`

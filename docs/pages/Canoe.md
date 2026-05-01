@@ -6,7 +6,7 @@ tags:
 ---
 **Canoes** are the most common type of [boat](./Boat.md), often
 found near [waterways](./Waterways.md). They can also be bought
-from [Captains](./Captain.md) for around 12
+from Captains for around 12
 [silver](./Gold.md). They are functionally identical to the
 somewhat rarer [light boat of reeds](./Light_boat_of_reeds.md).
 

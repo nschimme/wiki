@@ -12,6 +12,6 @@ Several functions can be reached through the **suggest** command;
 
 <!-- -->
 
-- Suggest [cookies](./cookies.md) - Suggest a text for fortune
+- Suggest cookies - Suggest a text for fortune
   cookies.
  

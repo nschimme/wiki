@@ -38,13 +38,13 @@ Elves in MUME have some unique modifiers:
 - They can more easily walk on snow
 - Their mana regenerates at a quicker rate
 - Their moves and hit points regenerate at a slower rate
-- They don't need a saddle to efficiently [ride](./ride.md) horses
+- They don't need a saddle to efficiently [ride](./Ride.md) horses
 - They age slower than all other races
 
 Elves can start the game in they [Grey Havens](./Grey_Havens.md),
 the [Tower Hills](./Tower_Hills.md), [Bree](./Bree.md),
 [Fornost](./Fornost.md), [Rivendell](./Rivendell.md), or
-[Lorien](./Lorien.md).
+[Lorien](./Lothlórien.md).
 
 ## Subraces
 
@@ -53,7 +53,7 @@ The three subraces have their own unique modifiers.
 ### Silvan
 
 - Base 10% [wilderness](./Wilderness.md) skill
-- Base 10% [missile](./missile.md) skill
+- Base 10% [missile](./Missile_weapon.md) skill
 - Bonus for [track](./Track.md) when tracking in forests
 - 10[PB](./Parry.md) when wielding a ranged weapon
 - [Movement point](./Movement_points.md) cost reduction in forests
@@ -66,7 +66,7 @@ The three subraces have their own unique modifiers.
 - Can un-equip shields in combat
 - Base 10% [leadership](./Leadership.md) skill
 - Increased maximum distance when using the [Great
-  Eagles](./eagle.md).
+  Eagles](./Great_Eagle.md).
 - Second slowest aging of all races (3 times slower than common men)
 
 ### Noldo

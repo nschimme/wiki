@@ -1,6 +1,6 @@
 ---
 title: Flee
-description: 'Usage: flee [on|off|yes|no'
+description: 'Usage: flee on|off|yes|no'
 tags:
   - Help files
   - Commands
@@ -15,7 +15,7 @@ automatically scheduled until you get out of the fight somehow or type
 
 Fleeing when not engaged is immediate. The delay between flee attempts
 (called also 'flee round') while in a fight is modified by your
-[dexterity](./dexterity.md), your encumbrance and your
+[dexterity, your encumbrance and your
 [attack](./Attack.md) skill.
 
 When you attack someone, you can't flee from the fight for a full flee

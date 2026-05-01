@@ -1,36 +1,30 @@
 ---
-title: Community
-description: Tools, clients, mappers, and community resources for MUME players.
+title: Community Resources
+description: External tools, mappers, and community sites for MUME players.
 ---
 
-# Community
+# Community Resources
+
+MUME has a rich ecosystem of community-developed tools and resources.
 
 ## Mappers & Clients
 
-| Tool | Description |
-|------|-------------|
-| [MMapper](./pages/MMapper.md) | The standard MUME mapper — highly recommended |
-| [Pandora](./pages/Pandora.md) | Feature-rich MUME client |
-| [tintin++](./pages/Tintin++.md) · [TinyFugue](./pages/TinyFugue.md) | Terminal-based MUD clients |
-| [Powwow](./pages/Powwow.md) | Classic MUME client |
+- [**MMapper**](https://github.com/MUME/MMapper) — The official and most popular mapping tool. Essential for navigation.
+- [**Mudlet**](https://www.mudlet.org/) — A modern, cross-platform MUD client.
+- [**Mudlet Scripts**](./pages/Mudlet_Scripts.md) — Essential scripts for playing MUME on Mudlet.
 
-## MMapper Screenshots
+## External Sites
 
-![MMapper](/img/Mmapper2_3.png)
+- [**MUME Official Site**](https://mume.org/) — News, character management, and official rules.
+- [**MUME Forum**](https://mume.org/forum) — Community discussion and announcements.
+- [**MUME Discord**](https://discord.gg/mume) — Real-time chat with the player base.
 
-## Getting Started
+## Advanced Tools
 
-- [Local Editing](./pages/Local_editing.md) — Edit the wiki locally
-- [Wikibot](./pages/Wikibot.md) — Automated wiki assistant
-- [MUME Forum](https://mume.org/forum) — Official forum
+- [**MUME Log Search**](https://logs.mume.org/) — Search through years of game logs and history.
+- [**Character Planner**](https://mume.org/planner) — Plan your practices and stats before committing in-game.
 
-## External Links
+---
 
-- [MUME Homepage](https://mume.org/)
-- [MUME Forum](https://mume.org/forum)
-- [MMapper on GitHub](https://github.com/MUME/MMapper)
-- [Elvenrunes](https://www.elvenrunes.com/) — MUME community site
-
-## Contributing to This Wiki
-
-This wiki is open to community contributions. See [AGENTS.md](https://github.com/MUME/wiki/blob/main/AGENTS.md) for editing instructions.
+### Browse More
+[Full Community Index](./pages/Community.md)

@@ -5,7 +5,7 @@ tags:
   - Cleaving weapons
 ---
 The **hatchet** is a [cleaving weapon](./Cleaving_weapon.md). It
-is worth around 4 [silver](./silver.md) and is sold by most
+is worth around 4 silver and is sold by most
 weaponsmiths.
 
 `A small hatchet has been left on the ground.`

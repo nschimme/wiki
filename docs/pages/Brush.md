@@ -5,7 +5,7 @@ tags:
   - Locations
 ---
 The Brush is an area that lies between
-[Weathertop](./Weathertop.md) (East of [Bree](./Bree.md))
+Weathertop (East of [Bree](./Bree.md))
 and the Windswepts that lead to [Rivendell](./Rivendell.md).
 
 <!--@include: ../includes/Place.md-->

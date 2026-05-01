@@ -32,16 +32,12 @@ jobs:
       - name: Determine Base URL Prefix
         id: base_url
         run: |
-          if [ -f docs/public/CNAME ]; then
+          if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
             echo "prefix=/" >> $GITHUB_OUTPUT
-            echo "host=$(cat docs/public/CNAME)" >> $GITHUB_OUTPUT
-          elif [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
-            echo "prefix=/" >> $GITHUB_OUTPUT
-            echo "host=${{ github.repository_owner }}.github.io" >> $GITHUB_OUTPUT
           else
             echo "prefix=/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
-            echo "host=${{ github.repository_owner }}.github.io" >> $GITHUB_OUTPUT
           fi
+          echo "host=${{ github.repository_owner }}.github.io" >> $GITHUB_OUTPUT
 
       - name: Build preview
         run: npm run docs:build

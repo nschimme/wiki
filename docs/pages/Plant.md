@@ -1,6 +1,7 @@
 ---
 title: Plant
 description: 'This article is about a type of mobile. For other plants, see'
+aliases: ["Plants"]
 ---
 
 *This article is about a type of mobile. For other plants, see

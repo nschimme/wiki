@@ -6,7 +6,7 @@ description: 'A dagger is a piercing weapon. Daggers'
 A **dagger** is a [piercing weapon](./Piercing_weapon.md). Daggers
 can be bought from most weapon shops for around 7 silver and also load
 on [robbers](./Robber.md), [thieves](./Thief.md) and
-occasionally other humanoid [mobiles](./Mobile.md).
+occasionally other humanoid mobiles.
 
 `>`**`examine dagger`**
 `This blade is two sided, ten inches long and one inch wide. The hilt offers`

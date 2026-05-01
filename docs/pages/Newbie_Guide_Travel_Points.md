@@ -381,5 +381,5 @@ travel points, and discovered many secret doors.
 
 Link back to the wiki guides:
 
-- [Guide](./Guide.md)
+- Guide
  

@@ -12,5 +12,5 @@ use the empty command:
 `> empty barrel`
 
 See also: [Get](./Get.md), [Pour](./Pour.md),
-[Herblores](./Herblores.md)
+Herblores
  

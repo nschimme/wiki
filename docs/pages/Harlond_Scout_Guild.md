@@ -6,7 +6,7 @@ tags:
 ---
 An **elven hunter** teaches [scout](./Thief.md)
 [skills](./Skill.md) at the **Hunter's Guild** in
-[Harlond](./Harlond.md).
+Harlond.
 
 `An elven hunter is here, ready to teach.`
 `>`**`examine hunter`**
@@ -21,7 +21,7 @@ An **elven hunter** teaches [scout](./Thief.md)
 [`attack`](./Attack.md)`                   2  Normal`
 [`dodge`](./Dodge.md)`                    6  Hard`
 [`hide`](./Hide.md)`                     6  Normal`
-[`missile`](./missile.md)`                  9  Normal`
+`missile``                  9  Normal`
 [`pick`](./Pick.md)`                     1  Normal`
 [`piercing weapons`](./Piercing_weapons.md)`         6  Normal`
 [`search`](./Search.md)`                   3  Normal`

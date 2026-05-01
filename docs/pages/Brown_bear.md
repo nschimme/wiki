@@ -5,7 +5,7 @@ tags:
   - Mobiles
 ---
 **Brown bears** are aggressive, [evil](./Alignment.md)
-[level](./Level.md) 12 [mobs](./mob.md) found in various
+[level](./Level.md) 12 mobs found in various
 places around [Arda](./Arda.md), often
 [hibernating](./Sleep.md) in caves. Their
 [corpses](./Corpse.md) can be [butchered](./Butcher.md) to

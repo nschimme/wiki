@@ -25,7 +25,7 @@ At the end of the [First Age](./First_Age.md), the population of
 Khazad-dûm was increased, as many skilled [Dwarves](./Dwarf.md)
 from the Ered Luin came there after the ruin of Nogrod and Belegost.
 Early in the Second Age, mithril was discovered in Khazad-dûm, and the
-friendship between Durin's Folk and the [Noldor](./Noldor.md) of
+friendship between Durin's Folk and the Noldor of
 [Eregion](./Eregion.md) began. The gates of Khazad-dûm were closed
 during the War of Elves and Sauron, and thus the Dwarves survived
 through the Second Age.
@@ -38,12 +38,12 @@ home never to permanently return. From this time, Khazad-dûm filled with
 2790 Thror was killed by orcs in the city. This led to the War of the
 Dwarves and Orcs, which ended in 2799 with the battle of Azanulbizar.
 Despite the Dwarves' victory, Dain Ironfoot refused to re-enter
-Khazad-dûm because of the presence of [Durin's Bane](./Balrog.md).
+Khazad-dûm because of the presence of Durin's Bane.
 
 As the Kingdom of the noblest Lord of the Seven Tribes, the city was
 sculpted from rock and embellished by the finest hall-builders of their
 day. Within its recesses, as well as discovering
-[mithril](./mithril.md), the "true-silver", Durin's Folk mined
+mithril, the "true-silver", Durin's Folk mined
 precious jewels and metals. They built stairways to peaks touching the
 stars, and to depths unknown and terrible. They erected spans across
 bottom-less pits and enchanting canyons, and fashioned vaults in caves
