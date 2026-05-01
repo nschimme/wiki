@@ -77,29 +77,49 @@ const createUrl = computed(() => {
   return `https://github.com/${editRepo}/new/${editBranch}/docs/pages?filename=${encodeURIComponent(filename)}&value=${encodeURIComponent(stub)}`
 })
 
-function openSearch(initialValue = '') {
+import { nextTick } from 'vue'
+
+function openSearch(initialValue = '', retries = 10) {
   if (!inBrowser) return
-  // Open VitePress local search modal
-  const btn = document.querySelector<HTMLElement>('.VPNavBarSearch button, .search-root button')
+
+  const selectors = [
+    '.VPNavBarSearch button',
+    '.DocSearch-Button',
+    '.search-root button',
+    '.VPNavBarSearchButton',
+    '#localsearch-button'
+  ]
+  let btn: HTMLElement | null = null
+  for (const selector of selectors) {
+    btn = document.querySelector<HTMLElement>(selector)
+    if (btn) break
+  }
+
   if (btn) {
     btn.click()
-    // Pre-fill the search input after the modal opens
-    setTimeout(() => {
+    const fillInput = (attempts = 15) => {
       const input = document.querySelector<HTMLInputElement>('#localsearch-input, .VPLocalSearchBox input[type="search"]')
       const valueToFill = initialValue || pageName.value
       if (input && valueToFill) {
         input.value = valueToFill
         input.dispatchEvent(new Event('input', { bubbles: true }))
         input.focus()
+      } else if (attempts > 0) {
+        // Shorter interval for smoother filling
+        setTimeout(() => fillInput(attempts - 1), 50)
       }
-    }, 100)
+    }
+    fillInput()
+  } else if (retries > 0) {
+    setTimeout(() => openSearch(initialValue, retries - 1), 100)
+  } else {
+    window.dispatchEvent(new KeyboardEvent('keydown', { key: 'k', ctrlKey: true }))
   }
 }
 
 onMounted(() => {
   if (!inBrowser) return
   const path = window.location.pathname
-  // Strip base prefix, then get last meaningful segment
   const base = (site.value.base ?? '/').replace(/\/$/, '')
   const stripped = base ? path.replace(base, '') : path
   const slug = stripped.split('/').filter(Boolean).pop()?.replace(/\.html$/, '') ?? ''
@@ -109,8 +129,10 @@ onMounted(() => {
     : ''
 
   if (pageName.value) {
-    // Open search modal with a single short delay to ensure site-level search is ready
-    setTimeout(() => openSearch(pageName.value), 200)
+    nextTick(() => {
+      // Small initial wait to allow theme elements to populate
+      setTimeout(() => openSearch(pageName.value), 100)
+    })
   }
 })
 </script>
