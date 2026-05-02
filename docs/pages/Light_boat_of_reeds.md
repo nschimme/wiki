@@ -4,7 +4,7 @@ description: 'Light boats of reeds are a common type of boat,'
 tags:
   - Boats
 ---
-**Light boats of reeds** are a common type of [boat](./Boat.md),
+**Light boats of reeds** are a common type of [boat](./Boats.md),
 mostly found near [waterways](./Waterways.md) in the [Blue
 Mountains](./Blue_Mountains.md) area. They can also be bought from
 Captains for around 12 silver. They are

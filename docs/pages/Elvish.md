@@ -1,5 +1,9 @@
 ---
-
+title: Elvish
+tags:
+  - Help files
+aliases: ["Quenya", "Sindarin"]
+---
 title: Elvish
 description: 'There are 2 Elvish tongues generally used in the [The Lord of the'
 tags:

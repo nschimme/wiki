@@ -3,7 +3,7 @@ title: Metal helmet
 description: 'The metal helmet is worn on the head. It provides'
 ---
 
-The **metal helmet** is worn on the [head](./Head.md). It provides
+The **metal helmet** is worn on the [head](./Head_items.md). It provides
 a large amount of damage absorption, and slightly decrease [dodge
 bonus](./Dodge_bonus.md) and [offensive
 bonus](./Offensive_bonus.md). It is worth around 2

@@ -5,7 +5,7 @@ tags:
   - Cloth equipment
   - Cloaks
 ---
-The **ragged, blackened cloak** is a [cloak](./Cloak.md) that
+The **ragged, blackened cloak** is a [cloak](./Cloaks.md) that
 increases [dodge bonus](./Dodge_bonus.md) and [movement
 point](./Movement_points.md)
 [regeneration](./Regeneration.md). It loads on [Thena

@@ -1,5 +1,10 @@
 ---
 title: Newbie Guide Campfires and Cooking
+tags:
+  - Guides
+  - Newbie Help
+aliases: ["Newbie Guide Campfires"]
+---
 description: 'Guide Camping and Campfires and Cooking in MUME'
 tags:
   - Guides
@@ -239,4 +244,3 @@ skills! It just takes a minute to try most of them out.
 Link back to the wiki guides:
 
 - Guide
- 

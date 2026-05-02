@@ -5,7 +5,7 @@ tags:
   - Cloth equipment
   - Cloaks
 ---
-The **russet cloak** is a [cloak](./Cloak.md) that grants some
+The **russet cloak** is a [cloak](./Cloaks.md) that grants some
 [dodge bonus](./Dodge_bonus.md) and slightly increases move
 [regeneration](./Regeneration.md), similar to a [forest green
 cloak](./Forest_green_cloak.md). It loads on the [gypsy

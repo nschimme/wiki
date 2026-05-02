@@ -1,5 +1,9 @@
 ---
 title: Location
+tags:
+  - Locations
+aliases: ["Middle-earth"]
+---
 description: 'The continent of Middle-earth was shaped in'
 tags:
   - Locations

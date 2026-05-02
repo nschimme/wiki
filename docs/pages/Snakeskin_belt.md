@@ -4,7 +4,7 @@ description: 'The snakeskin belt is a belt. One can be earned'
 tags:
   - Belts
 ---
-The **snakeskin belt** is a [belt](./Belt.md). One can be earned
+The **snakeskin belt** is a [belt](./Belts.md). One can be earned
 as a reward for completing the [snake hunt](./Quest#Snake_Hunt.md)
 quest.
 

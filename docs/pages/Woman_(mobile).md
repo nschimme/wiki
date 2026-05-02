@@ -9,7 +9,7 @@ tags:
 
 **Women** are low-level mobiles who wander around
 [Fornost](./Fornost.md). They load with a dress, some shoes, a
-belt, a [ring](./Ring.md) and a [lantern](./Lantern.md).
+belt, a [ring](./Rings.md) and a [lantern](./Lantern.md).
 
 `A woman is here, looking for someone to chat with.`
 `>`**`examine woman`**

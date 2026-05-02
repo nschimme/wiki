@@ -1,5 +1,9 @@
 ---
-
+title: Bill Ferny
+tags:
+  - Mobiles
+aliases: ["Ferny"]
+---
 title: Bill Ferny
 description: 'Bill Ferny is a man of poor reputation living in'
 tags:

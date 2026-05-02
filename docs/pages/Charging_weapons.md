@@ -1,5 +1,11 @@
 ---
 title: Charging weapons
+tags:
+  - Warrior skills
+  - Skills
+  - Commands
+aliases: ["Charge"]
+---
 description: 'Charge is a warrior skill'
 tags:
   - Warrior skills
@@ -27,4 +33,3 @@ NOTE: This skill is considered useless.
   Missile, Piercing,
   Slashing, Stabbing,
   Two-handed
- 

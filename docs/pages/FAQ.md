@@ -1,5 +1,10 @@
 ---
-
+title: FAQ
+tags:
+  - Help files
+  - Commands
+aliases: ["FAQS"]
+---
 title: FAQ
 description: 'Command FAQ allows you to read the FAQ board'
 tags:
@@ -26,4 +31,3 @@ The following FAQ files for new players are also available:
 
 See also: Newbie, Basics,
 [Advanced](./Advanced.md), Features
- 

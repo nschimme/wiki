@@ -10,7 +10,7 @@ A: Type '[wield](./Wield.md) sword' (for example).
 
 **Q: How do I put on my clothes?**
 
-A: Type "[wear](./Wear.md) [cloak](./Cloak.md)" (for
+A: Type "[wear](./Wear.md) [cloak](./Cloaks.md)" (for
 example), or "wear all" after you have gotten your newbie kit.
 
 **Q: It says my hands are full!**
@@ -27,7 +27,7 @@ shield first (or sheathe it).
 "[Hold](./Hold.md) torch" or "hold
 [lantern](./Lantern.md)" will work, but then you can't use that
 hand for your weapon or shield. A lantern can be worn on your
-[belt](./Belt.md), if you have one, with 'wear lantern belt'. This
+[belt](./Belts.md), if you have one, with 'wear lantern belt'. This
 will automatically light it. 'Remove lantern' when it's day to save
 fuel. If you have a flask of [oil](./Oil.md), you can refill your
 lantern (while wearing it) by typing '[fill](./Fill.md) lantern'.

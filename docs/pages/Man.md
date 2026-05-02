@@ -1,5 +1,9 @@
 ---
-
+title: Man
+tags:
+  - Playable races
+aliases: ["Men"]
+---
 title: Man
 description: 'the most varied of the races. While one may be kind and gentle, another'
 tags:

@@ -1,5 +1,9 @@
 ---
-
+title: Old East Road Meets Greenway
+tags:
+  - Locations
+aliases: ["Oermg"]
+---
 title: Old East Road Meets Greenway
 description: 'This is an intersection of roads to the west of Bree.'
 tags:

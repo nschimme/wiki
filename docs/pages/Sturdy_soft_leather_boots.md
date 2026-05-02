@@ -6,7 +6,7 @@ tags:
   - Feet items
 ---
 **Sturdy soft leather boots** are a piece of soft leather equipment worn
-on the [feet](./Feet.md). They provide a small amount of damage
+on the [feet](./Feet_items.md). They provide a small amount of damage
 absorption. They are worth around 1 silver 50
 copper and can be bought from most armourers.
 

@@ -6,7 +6,7 @@ tags:
   - Legs items
 ---
 **Hard leather trousers** are a piece of hard leather equipment worn on
-the [legs](./Legs.md). They are worth around 3
+the [legs](./Legs_items.md). They are worth around 3
 silver and 50 copper, and are sold by most
 armourers.
 

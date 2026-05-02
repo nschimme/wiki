@@ -19,7 +19,7 @@ Of course, you need to [wield](./Wield.md) some kind of tool to be
 able to exploit the dead corpse in front of you.
 
 To aid playability, it is actually enough to [wear](./Wear.md) a
-scalping tool (on a [belt](./Belt.md) for example).
+scalping tool (on a [belt](./Belts.md) for example).
 
 A corpse which has already been butchered (or
 [scalped](./Scalp.md)) is readily identifiable.

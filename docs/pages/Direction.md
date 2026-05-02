@@ -1,5 +1,10 @@
 ---
-
+title: Direction
+tags:
+  - Basics
+  - Commands
+aliases: ["East"]
+---
 title: Direction
 description: 'The commands to move in a given direction: north, west,'
 tags:

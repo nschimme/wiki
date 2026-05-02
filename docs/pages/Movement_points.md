@@ -68,9 +68,9 @@ Is affected by
 - The stance (whether you are standing, [resting](./Rest.md), or
   [sleeping](./Sleep.md))
 - The [Breath of Briskness](./Breath_of_Briskness.md) spell
-- Various [Cloaks](./Cloak.md) (such as Forest Green Cloak, Russet
+- Various [Cloaks](./Cloaks.md) (such as Forest Green Cloak, Russet
   Cloak, etc)
-- Some [Belts](./Belt.md) (such as Gleaming Belt, Golden Belt)
+- Some [Belts](./Belts.md) (such as Gleaming Belt, Golden Belt)
 - Some Herblores (such as Travelling, Walking)
 - Some Poisons (such as Belladonna, Hemlock)
 

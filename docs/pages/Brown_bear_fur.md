@@ -5,7 +5,7 @@ description: 'The brown bear fur slightly increases [offensive'
 
 The **brown bear fur** slightly increases [offensive
 bonus](./Offensive_bonus.md) when worn as a
-[cloak](./Cloak.md). It can be obtained by
+[cloak](./Cloaks.md). It can be obtained by
 [butchering](./Butcher.md) [brown bears](./Brown_bear.md),
 or bought from some tailors for around 8 silver.
 

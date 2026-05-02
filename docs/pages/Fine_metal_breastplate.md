@@ -5,7 +5,7 @@ tags:
   - Metal equipment
   - Body items
 ---
-The **fine metal breastplate** is worn on the [body](./Body.md).
+The **fine metal breastplate** is worn on the [body](./Body_items.md).
 It provides a large amount of damage absorption, and slightly decreases
 [offensive bonus](./Offensive_bonus.md). It is worth around 14
 [gold](./Gold.md) and 6 silver, and is sold by most armourers. It

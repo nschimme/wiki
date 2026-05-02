@@ -10,7 +10,7 @@ are aggressive towards white-side players. They can
 [track](./Track.md), and usually spawn [riding](/pages/Ride)
 brown wolves. They load with 1
 silver, a charging or slashing weapon, a
-[belt](./Belt.md), a [ring](./Ring.md) and some pieces of
+[belt](./Belts.md), a [ring](./Rings.md) and some pieces of
 basic leather or cloth equipment.
 
 `>`**`examine orc`**

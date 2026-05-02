@@ -1,5 +1,9 @@
 ---
-
+title: Dodge bonus
+tags:
+  - Statistics
+aliases: ["Db", "Dodging bonus"]
+---
 title: Dodge bonus
 description: 'The dodge bonus (DB%) is a defensive bonus. It is similar to your'
 tags:
@@ -20,8 +24,8 @@ heavier your equipment, the harder it is for you
 to dodge.
 
 You can boost your dodge bonus with certain items. There are
-[cloaks](./Cloak.md), [belts](./Belt.md), and
-[rings](./Ring.md) that boost your dodge bonus significantly.
+[cloaks](./Cloaks.md), [belts](./Belts.md), and
+[rings](./Rings.md) that boost your dodge bonus significantly.
 There are also some lighter clothes that provide extra dodge bonuses.
 
 You can improve your dodge bonus rather significantly by learning the

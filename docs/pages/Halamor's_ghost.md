@@ -9,7 +9,7 @@ in a ruined village east of [Bree](./Bree.md). He can
 [sneak](./Sneak.md) and cast [Lightning
 Bolt](./Lightning_Bolt.md). He is accompanied by [Sulien's
 ghost](./Sulien's_ghost.md), who will disappear if he is killed.
-He loads a [rapier](./Rapier.md) and a [ring](./Ring.md).
+He loads a [rapier](./Rapier.md) and a [ring](./Rings.md).
 
 `A tall, thin ghost paces the room, looking about malevolently.`
 `>`**`examine ghost`**

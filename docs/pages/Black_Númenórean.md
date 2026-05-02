@@ -1,5 +1,9 @@
 ---
-
+title: Black Númenórean
+tags:
+  - Playable races
+aliases: ["Black Númenorean", "Black Numenorean", "Bn"]
+---
 title: Black Númenórean
 description: 'Men of Númenórean descent corrupted by Sauron, wandering the far southern lands as enemies of the Free Peoples.'
 tags:

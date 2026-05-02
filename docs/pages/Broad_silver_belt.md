@@ -4,7 +4,7 @@ description: 'The broad silver belt is a belt that increases'
 tags:
   - Belts
 ---
-The **broad silver belt** is a [belt](./Belt.md) that increases
+The **broad silver belt** is a [belt](./Belts.md) that increases
 [dodge bonus](./Dodge_bonus.md) by a small amount. It loads on the
 [wight captain](./Super_Mobile#Wight_Captain.md).
 

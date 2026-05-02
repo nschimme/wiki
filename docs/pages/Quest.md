@@ -282,7 +282,7 @@ impress a woman he loves.
 
 - Quest: When you enter the shop, the herbalist will mention something
   about a ring or a belt. Ask him about the item, and he will explain.
-  He will only accept a magical [ring](./Ring.md) or a [gleaming
+  He will only accept a magical [ring](./Rings.md) or a [gleaming
   belt](/pages/Armour).
 - Reward: upgraded [herbal kit](./Herbal_kit.md)
 

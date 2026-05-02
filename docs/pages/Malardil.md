@@ -13,8 +13,8 @@ He loads with 1 [gold](./Gold.md), a [shiny
 dagger](./Shiny_dagger.md), a [shield of
 Cardolan](./Shield_of_Cardolan.md), a [belt
 pouch](./Belt_pouch.md), the [castle key](./Castle_key.md),
-a [cloak](./Cloak.md), [belt](./Belt.md),
-[lantern](./Lantern.md), [ring](./Ring.md) and some basic
+a [cloak](./Cloaks.md), [belt](./Belts.md),
+[lantern](./Lantern.md), [ring](./Rings.md) and some basic
 leather equipment.
 
 `A tall, lean man follows your every move with his eyes.`

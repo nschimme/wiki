@@ -5,7 +5,7 @@ tags:
   - Metal equipment
   - Arms items
 ---
-**Metal vambraces** are worn on the [arms](./Arms.md). They
+**Metal vambraces** are worn on the [arms](./Arms_items.md). They
 provide a large amount of damage absorption and slightly decrease
 [offensive bonus](./Offensive_bonus.md). They are worth around 6
 [gold](./Gold.md) and 2 silver and are sold by most armourers.

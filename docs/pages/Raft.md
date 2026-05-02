@@ -4,7 +4,7 @@ description: 'Rafts are a common type of boat, often found near'
 tags:
   - Boats
 ---
-**Rafts** are a common type of [boat](./Boat.md), often found near
+**Rafts** are a common type of [boat](./Boats.md), often found near
 [waterways](./Waterways.md). They can also be bought from
 Captains for around 5 [silver](./Gold.md).
 Their heavy weight makes them somewhat cumbersome to carry around,

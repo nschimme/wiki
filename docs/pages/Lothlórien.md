@@ -1,5 +1,10 @@
 ---
 title: Lothlórien
+tags:
+  - Cities
+  - Locations
+aliases: ["Lorien", "Lórien", "Lóthlorien"]
+---
 description: '''Lóthlorien, the hidden land between Celebrant and Anduin, where the'
 tags:
   - Cities
@@ -64,4 +69,3 @@ will see a message 'The trees confuse you' when trying to enter the
 area.
 
 <!--@include: ../includes/Place.md-->
- 

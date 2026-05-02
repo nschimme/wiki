@@ -13,7 +13,7 @@ remain at the original location. To transfer the equipment too, use the
 needed [mobile](./Mobile.md), like a horse or a potential charmie
 of some type. Because of the high mana cost, it is however rarely used.
 
-Wearing a [ring](./Ring.md) (or collar for shape-shifting
+Wearing a [ring](./Rings.md) (or collar for shape-shifting
 bears) can protect against being summoned
 involuntarily.
 

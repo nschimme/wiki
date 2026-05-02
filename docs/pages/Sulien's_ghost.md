@@ -7,7 +7,7 @@ tags:
 **Sulien's ghost** is a level ~7-8 [mobile](./Mobile.md) found in
 a ruined village east of [Bree](./Bree.md). She follows [Halamor's
 ghost](./Halamor's_ghost.md) around, and will disappear if he is
-killed. She loads a [ring](./Ring.md).
+killed. She loads a [ring](./Rings.md).
 
 `The ghostly form of a young woman stands here in despair.`
 `>`**`examine woman`**

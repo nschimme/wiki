@@ -4,7 +4,7 @@ description: 'Narrow grey boats are a type of boat found in'
 tags:
   - Boats
 ---
-**Narrow grey boats** are a type of [boat](./Boat.md) found in
+**Narrow grey boats** are a type of [boat](./Boats.md) found in
 [Lothlórien](./Lothlórien.md).
 
 `A narrow, grey boat has been left here.`

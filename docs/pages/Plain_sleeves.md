@@ -6,7 +6,7 @@ tags:
   - Cloth equipment
 ---
 **Plain sleeves** are a piece of cloth equipment
-worn on the [arms](./Arms.md). They are worth around 80
+worn on the [arms](./Arms_items.md). They are worth around 80
 [copper](./Gold.md).
 
 `A plain pair of sleeves lies here.`

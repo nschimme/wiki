@@ -11,7 +11,7 @@ Castle](/pages/Malardil). They can
 a [piercing weapon](./Piercing_weapon.md), a
 [buckler](./Shield#Buckler.md), a
 [belt](./Plain_leather_belt.md), [lantern](./Lantern.md),
-[ring](./Ring.md) and some basic cloth equipment.
+[ring](./Rings.md) and some basic cloth equipment.
 
 `A slim young woman glares at you suspiciously.`
 `>`**`examine rogue`**

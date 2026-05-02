@@ -1,5 +1,9 @@
 ---
-
+title: Orc
+tags:
+  - Playable races
+aliases: ["Uruk-Tarkhnarb"]
+---
 title: Orc
 description: 'Goblins, are foul creatures that were created by Morgoth in the'
 tags:
