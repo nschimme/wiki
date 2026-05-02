@@ -2,6 +2,7 @@ import DefaultTheme from 'vitepress/theme'
 import Layout from './Layout.vue'
 import NotFound from './NotFound.vue'
 import ImageMap from './components/ImageMap.vue'
+import StubNotice from './components/StubNotice.vue'
 import './style.css'
 
 export default {
@@ -10,6 +11,7 @@ export default {
   enhanceApp({ app, router }) {
     app.component('ImageMap', ImageMap)
     app.component('NotFound', NotFound)
+    app.component('StubNotice', StubNotice)
 
     // Handle 404 redirection from public/404.html shim
     if (typeof window !== 'undefined') {

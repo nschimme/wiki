@@ -48,7 +48,7 @@ used by [thieves](./Thief.md).
 ## Artifacts
 
 - [the Elven shortsword with a runic
-  inscription](./The_Elven_shortsword_with_a_runic_inscription.md)
+  inscription](./Sting.md)
   ([Sting](./Sting.md))
 
 <!--@include: ../includes/Items.md-->

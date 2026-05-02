@@ -14,7 +14,7 @@ description: Player guides and tutorials for MUME — from newbie basics to adva
 
 If you are new to MUME, we recommend following these guides in order:
 
-1. [**Newbie Guide**](./pages/Newbie_Help.md) — The absolute starting point.
+1. [**Newbie Guide**](#newbie-tutorial-series) — The absolute starting point.
 2. [**Character Creation & Stats**](./pages/Newbie_Guide_to_Choosing_your_Base_Abilities_or_Stats.md) — Choosing your base abilities.
 3. [**Accessing Information**](./pages/Newbie_Guide_Accessing_Game_Information.md) — How to use `help`, `info`, and more.
 4. [**Movement & Exploring**](./pages/Newbie_Guide_Doors,_Exits,_and_Exploring.md) — Navigating Middle-earth.
@@ -65,6 +65,3 @@ Technical data and lists for quick lookups:
 - [**PK Guide**](./pages/Rules_PK.md) — Player vs. Player combat rules.
 - [**Leveling Guide**](./pages/Level.md) — Experience and leveling information.
 
-## Browse All
-
-Browse all [**Guides**](./pages/Guides.md) or [**Newbie Help**](./pages/Newbie_Help.md) pages.

@@ -21,7 +21,7 @@ Second Age a tunnel was built to Eregion making it the largest of all
 Dwarven creations. Khazad-dûm consists of many large halls on a number
 of levels, as well as mines and much more.
 
-At the end of the [First Age](./First_Age.md), the population of
+At the end of the [First Age](http://en.wikipedia.org/wiki/First_Age), the population of
 Khazad-dûm was increased, as many skilled [Dwarves](./Dwarf.md)
 from the Ered Luin came there after the ruin of Nogrod and Belegost.
 Early in the Second Age, mithril was discovered in Khazad-dûm, and the

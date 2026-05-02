@@ -1,5 +1,0 @@
----
-title: The Morgul blade
----
-
-

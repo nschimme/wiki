@@ -9,7 +9,7 @@ tags:
 **Wargs** are large evil semi-intelligent wolf-hounds. They are probably
 descended from Draugluin's werewolves, or of the
 wolf-hounds of the line of Carcharoth of the [First
-Age](./First_Age.md). Due to their intelligence they often ally
+Age](http://en.wikipedia.org/wiki/First_Age). Due to their intelligence they often ally
 with orcs of the [Tarkhnarb Orc](/pages/Orc) tribe who
 ride them as [mounts](./Mount.md).
 
