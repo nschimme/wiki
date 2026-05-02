@@ -6,7 +6,7 @@ tags:
   - Body items
 ---
 The **sturdy chain mail hauberk** is a reinforced piece of chain mail
-equipment worn on the [body](./Body_items.md). It provides a
+equipment worn on the [body](./Body.md). It provides a
 considerable amount of damage absorption, and slightly decreases
 [offensive bonus](./Offensive_bonus.md). It is worth about 2
 [gold](./Gold.md), and is sold by most armourers.

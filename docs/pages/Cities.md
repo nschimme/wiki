@@ -1,9 +1,5 @@
 ---
-title: Cities
-tags:
-  - Places
-aliases: ["City"]
----
+
 title: Cities
 tags:
   - Places

@@ -4,7 +4,7 @@ description: 'The smooth black boots are worn on the feet. They'
 tags:
   - Feet items
 ---
-The **smooth black boots** are worn on the [feet](./Feet_items.md). They
+The **smooth black boots** are worn on the [feet](./Feet.md). They
 considerably reduce movement cost, but provide no damage absorption.
 They can be used as a sheath for [piercing
 weapons](./Piercing_weapon.md).

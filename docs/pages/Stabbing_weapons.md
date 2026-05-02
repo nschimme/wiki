@@ -1,10 +1,5 @@
 ---
-title: Stabbing weapons
-tags:
-  - Warrior skills
-  - Skills
-aliases: ["Stabbing"]
----
+
 title: Stabbing weapons
 description: 'The stabbing weapons skill is a'
 tags:

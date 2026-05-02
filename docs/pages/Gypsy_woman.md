@@ -14,7 +14,7 @@ cast it on Malardil and then herself when engaged in
 [combat](./Combat.md). She loads with 8
 silver, a [russet cloak](./Russet_cloak.md),
 a [belt](./Plain_leather_belt.md), [lantern](./Lantern.md),
-[ring](./Rings.md), and russet cloth equipment.
+[ring](./Ring.md), and russet cloth equipment.
 
 `An old, yet beautiful woman looks piercingly at you.`
 `>`**`examine woman`**

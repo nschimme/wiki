@@ -1,10 +1,5 @@
 ---
 title: Two-handed weapons
-tags:
-  - Warrior skills
-  - Skills
-aliases: ["Two-handed", "Two Handed Weapons", "Smiting"]
----
 description: 'Two-handed weapons is a warrior'
 tags:
   - Warrior skills

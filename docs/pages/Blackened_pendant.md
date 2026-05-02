@@ -5,7 +5,7 @@ tags:
   - Neck items
 ---
 The **blackened pendant** can be worn around the
-[neck](./Neck_items.md). It loads on some uruk-hai
+[neck](./Neck.md). It loads on some uruk-hai
 mobiles, and it can't be sold.
 
 `A blackened pendant lies on the ground.`

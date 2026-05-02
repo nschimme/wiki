@@ -6,7 +6,7 @@ tags:
   - Mail equipment
 ---
 **Fine chain mail gloves** are a lightweight piece of mail equipment
-worn on the [hands](./Hands_items.md). They can be bought from some
+worn on the [hands](./Hands.md). They can be bought from some
 armourers for around 1 [gold](./Gold.md).
 
 `A fine pair of chain mail gloves are lying here.`

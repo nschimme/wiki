@@ -6,7 +6,7 @@ tags:
   - Feet items
 ---
 **Black padded boots** are a piece of soft leather equipment worn on the
-[feet](./Feet_items.md). They provide a small amount of damage
+[feet](./Feet.md). They provide a small amount of damage
 absorption and considerably reduce movement cost. They are worth around
 2 silver.
 

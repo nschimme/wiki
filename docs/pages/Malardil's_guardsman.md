@@ -11,7 +11,7 @@ castle](/pages/Malardil). They load with 5
 silver, a [slashing
 weapon](./Slashing_weapon.md), a [shield](./Shield.md), a
 [belt](./Plain_leather_belt.md), [lantern](./Lantern.md) and
-[ring](./Rings.md), and some basic equipment, mostly cloth and
+[ring](./Ring.md), and some basic equipment, mostly cloth and
 leather with the occasional metal piece.
 
 `A sturdy guardsman is here, his weapon at the ready.`

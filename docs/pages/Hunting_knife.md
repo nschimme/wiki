@@ -7,7 +7,7 @@ tags:
 The **hunting knife** is a [piercing weapon](./Piercing_weapon.md)
 that can also be used to [butcher](./Butcher.md)
 [corpses](./Corpse.md) when [wielded](./Wield.md) or worn on
-a [belt](./Belts.md). It is worth around 3
+a [belt](./Belt.md). It is worth around 3
 silver and is sold by most weaponsmiths.
 
 `A small hunting knife lies on the ground.`

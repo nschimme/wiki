@@ -5,7 +5,7 @@ tags:
   - Cloth equipment
   - Belts
 ---
-The **plain silken sash** is a [belt](./Belts.md). It is worth
+The **plain silken sash** is a [belt](./Belt.md). It is worth
 around 7 silver and 50 copper, and is sold by most
 tailors. It can be dyed different colours.
 

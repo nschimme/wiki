@@ -3,7 +3,7 @@ title: Necklace
 description: 'For a list of all necklaces, see neck.'
 ---
 
-*For a list of all necklaces, see [neck](./Neck_items.md).*
+*For a list of all necklaces, see [neck](./Neck.md).*
 
 \> **look necklace**
 

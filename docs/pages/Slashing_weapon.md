@@ -5,7 +5,8 @@ tags:
   - Weapons
 ---
 **[Slashing weapons](./Slashing_weapons.md)** are one of the
-[weapon](./Weapon.md) types found in [MUME](./MUME.md).
+[weapon](./Weapon.md) types found in [MUME](./MUME.md). They
+usually have moderate strength requirements.
 
 ## Offensive
 
@@ -13,12 +14,18 @@ tags:
 - [longsword](./Longsword.md)
 - [bastard sword](./Bastard_sword.md)
 - [jagged-edged scimitar](./Jagged-edged_scimitar.md)
+- [scimitar](./Scimitar.md)
+- [broad scimitar](./Broad_scimitar.md)
+- [steel claymore](./Steel_claymore.md)
+- Dúnadan blade
+- fell blade
+- wightblade
 
 ## Defensive
 
 - [broadsword](./Broadsword.md)
 - [dark broadsword](./Dark_broadsword.md)
-- [engraved broadsword](./Engraved_broadsword.md) (EBS)
+- [engraved broadsword](./Engraved_broadsword.md)(EBS)
 
 ## Average
 
@@ -33,17 +40,17 @@ tags:
 
 ## Artefacts
 
-- [Silvery broadsword](./Weapon.md#Silvery_Broadsword) (Mithvegil)
-- [Broad elven blade](./Glamdring.md) (Glamdring,
+- [Silvery broadsword](./The_silvery_broadsword.md) (Mithvegil)
+- [Broad elven blade](./The_broad_Elven_blade.md) (Glamdring,
   Beater)
-- [Slender elven sword](./Orcrist.md) (Orcrist,
+- [Slender elven sword](./The_slender_Elven_sword.md) (Orcrist,
   Biter)
-- [Great black scimitar](./Weapon.md#Great_Black_Scimitar) (GBS,
+- [Great black scimitar](./The_great_black_scimitar.md) (GBS,
   ElfHewer, Hewer)
-- [Gleaming broadsword](./Weapon.md#Gleaming_broadsword)
-- [Black sword](./Weapon.md#Black_sword)
-- [Morgul blade](./Weapon.md#Morgul_blade)
-- [Black many-tailed whip](./Weapon.md#Black_many-tailed_whip)
+- [Gleaming broadsword](./The_gleaming_broadsword.md)
+- [Black sword](./The_black_sword.md)
+- [Morgul blade](./The_Morgul_blade.md)
+- [Black many-tailed whip](./The_black_many-tailed_whip.md)
 
 ## Identified Gear
 

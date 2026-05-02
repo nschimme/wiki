@@ -3,7 +3,7 @@ title: Two-handed weapon
 description: 'Two-handed weapons are one of the'
 ---
 
-**[Two-handed weapons](./Two-handed_weapons.md)** (also known as **Smiting weapons**) are one of the
+**[Two-handed weapons](./Two-handed_weapons.md)** are one of the
 [weapon](./Weapon.md) types found in [MUME](./MUME.md). They
 have high strength requirements and high damage, but slow attack speed
 and they cannot be wielded together with anything more than a buckler.
@@ -37,7 +37,7 @@ and they cannot be wielded together with anything more than a buckler.
 ## Artefacts
 
 - Axe of Durin
-- [Great black scimitar](./Weapon.md#Great_Black_Scimitar)
+- [Great black scimitar](./The_great_black_scimitar.md)
 - Huge flaming sword
 - Black runed sceptre
 

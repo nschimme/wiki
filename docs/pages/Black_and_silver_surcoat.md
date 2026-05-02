@@ -5,7 +5,7 @@ tags:
   - Cloaks
 ---
 The **black and silver surcoat** can be worn as a
-[cloak](./Cloaks.md). It provides some [dodge
+[cloak](./Cloak.md). It provides some [dodge
 bonus](./Dodge_bonus.md). It loads on the [ghost of
 Galerel](./Ghost_of_Galerel.md) and can also be bought at most
 tailors for around 19 silver.

@@ -1,9 +1,5 @@
 ---
-title: Language
-tags:
-  - Help files
-aliases: ["Adûnaic", "Arcanes", "Dunnish", "Entish", "Khuzdul", "Morbeth", "Orkish", "Rohirric", "Westron"]
----
+
 title: Language
 description: 'You can select which language you want to use when talking with other'
 tags:

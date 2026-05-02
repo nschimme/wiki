@@ -1,10 +1,5 @@
 ---
-title: FAQ
-tags:
-  - Help files
-  - Commands
-aliases: ["FAQS"]
----
+
 title: FAQ
 description: 'Command FAQ allows you to read the FAQ board'
 tags:

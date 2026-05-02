@@ -4,10 +4,10 @@ description: 'For a list of all rings, see ring.'
 tags:
   - Rings
 ---
-*For a list of all rings, see [ring](./Rings.md).*
+*For a list of all rings, see [ring](./Ring.md).*
 
 The **ring**, also known as an **Arda ring**, is a magical
-[ring](./Rings.md) that prevents the wearer from being
+[ring](./Ring.md) that prevents the wearer from being
 [summoned](./Summon.md) against their will. It is worth around 15
 copper and can be bought from most jewellers and
 general stores.

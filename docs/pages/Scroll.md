@@ -25,4 +25,31 @@ will be greatly increased.
 - a clear ivory scroll
 - a deep ebony scroll
 
+## Identified Gear
+
+::: details Spoiler
+
+### Scrolls
+
+| Object                           | Weight | Other                                                                                                 |
+|----------------------------------|--------|-------------------------------------------------------------------------------------------------------|
+| Azure scroll                     | 25     | Magic, Level 10 heal, Nosell                                                                          |
+| Black scroll                     | 20     | Magic, Level 20 heal, strength and energy drain                                                       |
+| Blue scroll                      | 25     | Magic, Level 20 heal, bless, Nosell                                                                   |
+| Purple scroll                    | 10     | Magic, Level 20 cure blindness, sanctuary, and poison, Nosell                                         |
+| Obsidian eye                     | 45     | Magic, Level 24 blindness, 3 charges, Nosell, Norent                                                  |
+| Vellum scroll                    | 45     | Bless, Level 25 protection from evil, bless, and breath of briskness                                  |
+| Scroll which reads "ysafg"       | 35     | Magic, Level 25 fear                                                                                  |
+| Ivory/Clear ivory/Ebony/Deep ebony | 25     | Magic, Level 20 #spell#, #spell#, #spell#, Nosell Note: Ivory+ebony scrolls have 1 main spell according to letter, and 2 random spells. All scrolls have same stats. |
+
+- Rune "E" Heal
+- Rune "I" Magic blast
+- Rune "M" Blindness
+- Rune "N" Call lightning
+- Rune "O" Breath of briskness
+- Rune "Q" Silence
+- Rune "Y" Sanctuary
+
+:::
+
 <!--@include: ../includes/Items.md-->

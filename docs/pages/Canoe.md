@@ -4,7 +4,7 @@ description: 'Canoes are the most common type of boat, often'
 tags:
   - Boats
 ---
-**Canoes** are the most common type of [boat](./Boats.md), often
+**Canoes** are the most common type of [boat](./Boat.md), often
 found near [waterways](./Waterways.md). They can also be bought
 from Captains for around 12
 [silver](./Gold.md). They are functionally identical to the

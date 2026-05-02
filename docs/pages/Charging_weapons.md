@@ -1,11 +1,5 @@
 ---
 title: Charging weapons
-tags:
-  - Warrior skills
-  - Skills
-  - Commands
-aliases: ["Charge"]
----
 description: 'Charge is a warrior skill'
 tags:
   - Warrior skills

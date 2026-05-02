@@ -6,7 +6,7 @@ tags:
   - Mail equipment
 ---
 **Fine chain mail leggings** are a lightweight piece of mail equipment
-worn on the [legs](./Legs_items.md). They can be bought from some
+worn on the [legs](./Legs.md). They can be bought from some
 armourers for around 2 [gold](./Gold.md).
 
 `A fine pair of chain mail leggings are lying here.`

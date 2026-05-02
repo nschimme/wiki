@@ -1,10 +1,5 @@
 ---
 title: Alias
-tags:
-  - Help files
-  - Commands
-
----
 description: 'The alias command allows you to define'
 tags:
   - Help files

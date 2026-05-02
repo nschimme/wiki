@@ -1,9 +1,5 @@
 ---
-title: Justice
-tags:
-  - Help files
-aliases: ["Complain"]
----
+
 title: Justice
 description: 'Command ''justice'' allows you to read the justice'
 tags:

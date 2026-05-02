@@ -11,7 +11,7 @@ castle](/pages/Malardil). They can
 [sneak](./Sneak.md) and [backstab](./Backstab.md). They load
 with 7 silver and 50 copper, a
 [piercing weapon](./Piercing_weapon.md), a
-[belt](./Plain_leather_belt.md), a [ring](./Rings.md) and
+[belt](./Plain_leather_belt.md), a [ring](./Ring.md) and
 some basic cloth equipment.
 
 `A scrawny, yet muscular man skulks around.`

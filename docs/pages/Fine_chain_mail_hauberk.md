@@ -6,7 +6,7 @@ tags:
   - Mail equipment
 ---
 The **fine chain mail hauberk** is a lightweight piece of chain mail
-armour worn on the [body](./Body_items.md). It provides a considerable
+armour worn on the [body](./Body.md). It provides a considerable
 amount of damage absorption and slightly decreases [offensive
 bonus](./Offensive_bonus.md). It is worth around 2
 [gold](./Gold.md) and 10 silver.

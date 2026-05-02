@@ -1,10 +1,5 @@
 ---
 title: Piercing weapons
-tags:
-  - Thief skills
-  - Skills
-aliases: ["Piercing"]
----
 description: 'Piercing weapons is a thief'
 tags:
   - Thief skills

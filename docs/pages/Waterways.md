@@ -34,7 +34,7 @@ water has become shallow enough to wade or in some places to
 Deep water makes up the majority of major rivers and other large bodies
 of water. While [ferries](./Ferry.md) or bridges exist along some
 of the major routes, less travelled routes can only be crossed by
-[swimming](./Swim.md), or using a small [craft](./Boats.md)
+[swimming](./Swim.md), or using a small [craft](./Boat.md)
 such as a [raft](./Raft.md),
 [boat](./Light_boat_of_reeds.md), or [canoe](./Canoe.md).
 Small craft like this can be bought and sold from shops near major

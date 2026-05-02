@@ -6,7 +6,7 @@ tags:
   - Mail equipment
 ---
 The **fine chain mail coif** is a lightweight piece of chain mail armour
-worn on the [head](./Head_items.md). It provides a considerable amount
+worn on the [head](./Head.md). It provides a considerable amount
 of damage absorption. It is worth around 1 [gold](./Gold.md) and
 15 silver.
 

@@ -1,10 +1,5 @@
 ---
 title: Lothlórien
-tags:
-  - Cities
-  - Locations
-aliases: ["Lorien", "Lórien", "Lóthlorien"]
----
 description: '''Lóthlorien, the hidden land between Celebrant and Anduin, where the'
 tags:
   - Cities

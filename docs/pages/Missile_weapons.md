@@ -4,8 +4,4 @@ tags:
   - Weapons
 aliases: ["Missile"]
 ---
-tags:
-  - Weapons
-aliases: ["Missile"]
----
 <!--@include: ../includes/Items.md-->

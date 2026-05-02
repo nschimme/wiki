@@ -8,7 +8,7 @@ tags:
 mobiles, found in the [Pipeweed Smuggler's
 Hideout](/pages/Shire) in the
 [Shire](./Shire.md). They can [sneak](./Sneak.md). They load
-with a [stiletto](./Stiletto.md), a [ring](./Rings.md) and
+with a [stiletto](./Stiletto.md), a [ring](./Ring.md) and
 some plain cloth equipment.
 
 `A suspicious-looking hobbit smuggler is here.`

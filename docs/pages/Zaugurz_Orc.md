@@ -1,9 +1,5 @@
 ---
-title: Zaugurz Orc
-tags:
-  - Playable races
-aliases: ["Uruk-Zaugurz"]
----
+
 title: Zaugurz Orc
 description: 'The Uruk-Zaugurz is a tribe on the rise from far north in the [Misty'
 tags:
