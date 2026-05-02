@@ -1,4 +1,16 @@
 services:
+  # Development server with live reload
+  dev:
+    image: node:22-alpine
+    working_dir: /app
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: sh -c "apk add --no-cache git && npm ci && npm run docs:dev -- --host"
+    ports:
+      - "5174:5173"
+
+  # Production build served via nginx (mirrors deployment)
   wiki:
     build:
       context: .

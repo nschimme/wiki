@@ -4,18 +4,18 @@ This wiki is built with [VitePress](https://vitepress.dev/) and hosted at https:
 
 ## Quick start (local dev)
 
+Use Docker — do not run `npm install` directly.
+
 ```bash
-npm install
-npm run docs:dev      # starts dev server at http://localhost:5173
-npm run docs:build    # production build → docs/.vitepress/dist/
-npm run docs:preview  # preview the production build locally
+docker compose up dev        # dev server at http://localhost:5174 (hot reload)
+docker compose up --build wiki   # production build at http://localhost:4173
 ```
 
-To reproduce the CI environment exactly (Node 22, same `npm ci` + build flags):
+To update packages:
 
 ```bash
-docker compose up --build   # or: podman compose up --build
-# site served at http://localhost:4173
+docker run --rm -v "$(pwd):/app" -w /app node:22 npm install <package>
+# then commit package.json and package-lock.json
 ```
 
 ## Adding or editing pages

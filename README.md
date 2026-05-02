@@ -13,22 +13,33 @@ Community wiki and guide to [Multi-Users in Middle-earth](https://mume.org/) —
 
 ### Coders (local development)
 
-```bash
-npm install
-npm run docs:dev      # dev server at http://localhost:5173 (hot reload)
-npm run docs:build    # production build — must exit 0 before opening a PR
-```
+> **Use Docker.** All development should be done via Docker to keep the environment consistent with CI.
 
-#### Exact CI parity (Docker / Podman)
-
-To reproduce the GitHub Actions environment exactly before pushing:
+Dev server with live reload:
 
 ```bash
-docker compose up --build   # or: podman compose up --build
-# site served at http://localhost:4173
+docker compose up dev
 ```
 
-This runs Node 22-alpine, `npm ci`, and `npm run docs:build` — the same steps as the deploy workflow.
+The site will be available at [http://localhost:5174](http://localhost:5174).
+
+Production build (mirrors CI exactly):
+
+```bash
+docker compose up --build wiki
+```
+
+The site will be available at [http://localhost:4173](http://localhost:4173).
+
+#### Updating dependencies
+
+Always update packages inside the container so the lock file stays CI-compatible:
+
+```bash
+docker run --rm -v "$(pwd):/app" -w /app node:22 npm install <package>
+git add package.json package-lock.json
+git commit -m "chore: update dependencies"
+```
 
 ## Tech stack
 
