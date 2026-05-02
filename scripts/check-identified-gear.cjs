@@ -94,7 +94,8 @@ for (const [section, mainCount] of Object.entries(mainSections)) {
       warnings++;
     } else {
       if (verbose) {
-        console.log(`\x1b[32m[OK]\x1b[0m        ### ${section}: ${totalRows} rows in ${fileList}`);
+        const delta = totalRows > mainCount ? ` (+${totalRows - mainCount} new)` : '';
+        console.log(`\x1b[32m[OK]\x1b[0m        ### ${section}: ${mainCount} → ${totalRows} rows in ${fileList}${delta}`);
       }
       passed++;
     }
