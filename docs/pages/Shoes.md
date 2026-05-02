@@ -5,7 +5,7 @@ tags:
   - Cloth equipment
   - Feet items
 ---
-*For a list of all shoes, see [feet](./Feet.md).*
+*For a list of all shoes, see [feet](./Feet_items.md).*
 
 \> **look shoes**
 

@@ -1,6 +1,6 @@
 ---
 title: Two-handed weapon
-description: 'Two-handed weapons are one of the'
+description: 'Two-handed weapons in MUME include greatswords, spears, hammers, and staves requiring high strength. High damage but slow attack speed; cannot be wielded with more than a buckler.'
 ---
 
 **[Two-handed weapons](./Two-handed_weapons.md)** are one of the
@@ -37,7 +37,7 @@ and they cannot be wielded together with anything more than a buckler.
 ## Artefacts
 
 - Axe of Durin
-- [Great black scimitar](./The_great_black_scimitar.md)
+- [Great black scimitar](./Weapon.md#Great_Black_Scimitar)
 - Huge flaming sword
 - Black runed sceptre
 

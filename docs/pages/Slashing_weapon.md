@@ -1,6 +1,6 @@
 ---
 title: Slashing weapon
-description: 'Slashing weapons are one of the'
+description: 'Slashing weapons in MUME include swords, scimitars, and blades with moderate strength requirements. Powerful artefacts include Glamdring, Orcrist, and the Black Sword.'
 tags:
   - Weapons
 ---
@@ -40,17 +40,17 @@ usually have moderate strength requirements.
 
 ## Artefacts
 
-- [Silvery broadsword](./The_silvery_broadsword.md) (Mithvegil)
-- [Broad elven blade](./The_broad_Elven_blade.md) (Glamdring,
+- [Silvery broadsword](./Weapon.md#Silvery_Broadsword) (Mithvegil)
+- [Broad elven blade](./Glamdring.md) (Glamdring,
   Beater)
-- [Slender elven sword](./The_slender_Elven_sword.md) (Orcrist,
+- [Slender elven sword](./Orcrist.md) (Orcrist,
   Biter)
-- [Great black scimitar](./The_great_black_scimitar.md) (GBS,
+- [Great black scimitar](./Weapon.md#Great_Black_Scimitar) (GBS,
   ElfHewer, Hewer)
-- [Gleaming broadsword](./The_gleaming_broadsword.md)
-- [Black sword](./The_black_sword.md)
-- [Morgul blade](./The_Morgul_blade.md)
-- [Black many-tailed whip](./The_black_many-tailed_whip.md)
+- [Gleaming broadsword](./Weapon.md#Gleaming_broadsword)
+- [Black sword](./Weapon.md#Black_sword)
+- [Morgul blade](./Weapon.md#Morgul_blade)
+- [Black many-tailed whip](./Weapon.md#Black_many-tailed_whip)
 
 ## Identified Gear
 

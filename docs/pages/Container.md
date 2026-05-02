@@ -1,6 +1,6 @@
 ---
 title: Container
-description: 'A list of containers found in MUME.'
+description: 'Containers in MUME include pouches, backpacks, quivers, and drink containers. Lists weights and capacities for all container types that can carry items or liquids.'
 ---
 
 A list of **containers** found in [MUME](./MUME.md).

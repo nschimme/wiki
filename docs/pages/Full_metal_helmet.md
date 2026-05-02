@@ -6,7 +6,7 @@ tags:
   - Head items
 ---
 The **full metal helmet** is a piece of metal
-[armour](./Armour.md) worn on the [head](./Head.md). It
+[armour](./Armour.md) worn on the [head](./Head_items.md). It
 provides a large amount of damage absorption,
 and reduces [offensive bonus](./Offensive_bonus.md) slightly. It
 loads in the Wight-Captain's crypt, and is also sold by some armourers.

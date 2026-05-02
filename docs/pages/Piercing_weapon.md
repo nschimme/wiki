@@ -1,6 +1,6 @@
 ---
 title: Piercing weapon
-description: 'Piercing weapons are one of the'
+description: 'Piercing weapons in MUME include daggers, fangs, and shortswords. Used primarily by thieves for their low strength requirements, good parry, and high offensive bonus.'
 ---
 **[Piercing weapons](./Piercing_weapons.md)** are one of the
 weapon types found in [MUME](./MUME.md). These weapons usually
@@ -47,7 +47,7 @@ used by [thieves](./Thief.md).
 ## Artifacts
 
 - [the Elven shortsword with a runic
-  inscription](./The_Elven_shortsword_with_a_runic_inscription.md)
+  inscription](./Sting.md)
   ([Sting](./Sting.md))
 
 ## Identified Gear
