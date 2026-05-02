@@ -5,7 +5,7 @@ tags:
   - Neck items
   - Miscellaneous equipment
 ---
-The **red ruby** can be worn around the [neck](./Neck.md) or on a
+The **red ruby** can be worn around the [neck](./Neck_items.md) or on a
 [belt](./Belt.md). It functions as a light source that does not
 require fuel. Red rubies can be bought at jeweller's for around 52
 [gold](./Gold.md).

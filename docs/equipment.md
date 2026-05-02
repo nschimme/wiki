@@ -13,7 +13,14 @@ Most players are looking for these "Identified Gear" tables:
 
 - [**Weapon List**](./pages/Weapon.md) — Stats for swords, axes, bows, and more.
 - [**Armour List**](./pages/Armour.md) — Detailed protection values for all slots.
-- [**Jewelry & Tools**](./pages/Other_equipment.md) — Rings, amulets, lights, and containers.
+- [**Rings**](./pages/Rings.md) — Stats for all rings.
+- [**Wrist Items**](./pages/Wrist_items.md) — Wristbands with stats.
+- [**Amulets & Neck**](./pages/Neck_items.md) — Amulets, collars, and pendants.
+- [**Scrolls**](./pages/Scroll.md) — Scroll types and rune mappings.
+- [**Lights**](./pages/Light.md) — Light sources.
+- [**Containers**](./pages/Container.md) — Pouches, backpacks, and drink containers.
+- [**Miscellaneous**](./pages/Miscellaneous_equipment.md) — Consumables, sheaths, treasure, and more.
+- [**Equipment Terminology**](./pages/Other_equipment.md) — Explanation of flags like Magic, Nosell, Eff vs.
 
 ## Mechanics & Stats
 
@@ -28,17 +35,17 @@ Understanding how your gear works:
 
 | Slot | Examples |
 |------|---------|
-| [**Head**](./pages/Head.md) | Helmets, hoods, circlets |
-| [**Neck**](./pages/Neck.md) | Amulets, pendants, collars |
-| [**Body**](./pages/Body.md) | Armour, robes, mail |
-| [**Arms**](./pages/Arms.md) | Vambraces, sleeves |
-| [**Hands**](./pages/Hands.md) | Gloves, gauntlets |
-| [**Legs**](./pages/Legs.md) | Trousers, greaves |
-| [**Feet**](./pages/Feet.md) | Boots, sandals |
+| [**Head**](./pages/Head_items.md) | Helmets, hoods, circlets |
+| [**Neck**](./pages/Neck_items.md) | Amulets, pendants, collars |
+| [**Body**](./pages/Body_items.md) | Armour, robes, mail |
+| [**Arms**](./pages/Arms_items.md) | Vambraces, sleeves |
+| [**Hands**](./pages/Hands_items.md) | Gloves, gauntlets |
+| [**Legs**](./pages/Legs_items.md) | Trousers, greaves |
+| [**Feet**](./pages/Feet_items.md) | Boots, sandals |
 | [**Shield**](./pages/Shield.md) | All shields |
 | [**Back**](./pages/Cloaks.md) | Cloaks, capes |
 | [**Waist**](./pages/Belts.md) | Belts, girdles |
-| [**Wrist**](./pages/Wrist.md) | Wristbands, bracers |
+| [**Wrist**](./pages/Wrist_items.md) | Wristbands, bracers |
 | [**Finger**](./pages/Rings.md) | Rings |
 | [**Light**](./pages/Light.md) | Torches, lanterns |
 

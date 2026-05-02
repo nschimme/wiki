@@ -1,11 +1,14 @@
 ---
-title: Arms
-description: 'A list of equipment worn on the arms.'
+title: Arms items
+description: 'Arm armour in MUME, including metal vambraces, chain mail sleeves, leather sleeves, and cloth wrappings sorted by material type.'
+tags:
+  - Equipment by slot
+aliases: ["Arms"]
 ---
 
 A list of equipment worn on the **arms**.
 
-# Metal
+## Metal
 
 - crimson metal vambraces
 - [fine metal vambraces](./Fine_metal_vambraces.md)
@@ -13,7 +16,7 @@ A list of equipment worn on the **arms**.
 - plate vambraces
 - sturdy metal vambraces
 
-# Mail
+## Mail
 
 - [fine chain mail sleeves](./Fine_chain_mail_sleeves.md)
 - [chain mail sleeves](./Chain_mail_sleeves.md)
@@ -21,7 +24,7 @@ A list of equipment worn on the **arms**.
 - white chain mail sleeves
 - sturdy chain mail sleeves
 
-# Leather
+## Leather
 
 - [fine rigid leather sleeves](./Fine_rigid_leather_sleeves.md)
 - [fine soft leather sleeves](./Fine_soft_leather_sleeves.md)
@@ -31,7 +34,7 @@ A list of equipment worn on the **arms**.
   sleeves](./Sturdy_rigid_leather_sleeves.md)
 - [sturdy soft leather sleeves](./Sturdy_soft_leather_sleeves.md)
 
-# Cloth
+## Cloth
 
 - [plain sleeves](./Plain_sleeves.md)
 - [black arm wrappings](./Black_arm_wrappings.md)

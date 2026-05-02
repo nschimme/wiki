@@ -6,7 +6,7 @@ tags:
   - Mail equipment
 ---
 **Fine chain mail sleeves** are a lightweight piece of mail equipment
-worn on the [arms](./Arms.md). They can be bought from some
+worn on the [arms](./Arms_items.md). They can be bought from some
 armourers for around 2 [gold](./Gold.md).
 
 `A fine pair of chain mail sleeves lies here.`

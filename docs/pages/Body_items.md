@@ -1,11 +1,14 @@
 ---
-title: Body
-description: 'A list of items worn on the body.'
+title: Body items
+description: 'Body armour in MUME, including metal breastplates, chain hauberks, leather jerkins, and cloth robes sorted by material type.'
+tags:
+  - Equipment by slot
+aliases: ["Body"]
 ---
 
 A list of items worn on the **body**.
 
-# Metal
+## Metal
 
 - blood-encrusted breastplate
 - crimson metal breastplate
@@ -15,7 +18,7 @@ A list of items worn on the **body**.
 - [sturdy, rigid metal
   breasplate](/pages/Fine_metal_breastplate)
 
-# Mail
+## Mail
 
 - [chain mail hauberk](./Chain_mail_hauberk.md)
 - [fine chain mail hauberk](./Fine_chain_mail_hauberk.md)
@@ -23,7 +26,7 @@ A list of items worn on the **body**.
 - white chain mail jerkin
 - scale shirt
 
-# Leather
+## Leather
 
 - [rigid leather breastplate](./Rigid_leather_breastplate.md)
 - [fine, soft leather jerkin](./Fine,_soft_leather_jerkin.md)
@@ -34,7 +37,7 @@ A list of items worn on the **body**.
 - [sturdy, rigid leather
   breastplate](./Sturdy,_rigid_leather_breastplate.md)
 
-# Cloth
+## Cloth
 
 - [ashen grey shirt](./Ashen_grey_shirt.md)
 - black and red robe

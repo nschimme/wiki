@@ -27,4 +27,3 @@ NOTE: This skill is considered useless.
   Missile, Piercing,
   Slashing, Stabbing,
   Two-handed
- 

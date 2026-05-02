@@ -1,11 +1,14 @@
 ---
-title: Head
-description: 'A list of equipment worn on the head.'
+title: Head items
+description: 'Head armour and helms in MUME, including metal helmets, chain coifs, leather helmets, and cloth hats sorted by material type.'
+tags:
+  - Equipment by slot
+aliases: ["Head"]
 ---
 
 A list of equipment worn on the **head**.
 
-# Metal
+## Metal
 
 - Dragonhelm - effective vs fire, no malluses
 - ancient, jewelled helmet - foci
@@ -24,14 +27,14 @@ A list of equipment worn on the **head**.
   darkness, ineff. vs fire/light, night vision
 - [S-rune helmet](./S-rune_helmet.md)
 
-# Mail
+## Mail
 
 - [chain mail coif](./Chain_mail_coif.md)
 - [fine chain mail coif](./Fine_chain_mail_coif.md)
 - [sturdy chain mail coif](./Sturdy_chain_mail_coif.md)
 - white chain mail coif
 
-# Leather
+## Leather
 
 - fine leather helmet
 - [fine reinforced leather
@@ -42,7 +45,7 @@ A list of equipment worn on the **head**.
 - [sturdy reinforced leather
   helmet](./Sturdy_reinforced_leather_helmet.md)
 
-# Cloth
+## Cloth
 
 - [grey wool hat](./Grey_wool_hat.md)
 - [feathered hat](./Feathered_hat.md)

@@ -64,4 +64,3 @@ will see a message 'The trees confuse you' when trying to enter the
 area.
 
 <!--@include: ../includes/Place.md-->
- 

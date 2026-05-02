@@ -1,11 +1,14 @@
 ---
-title: Legs
-description: 'A list of equipment worn on the legs.'
+title: Legs items
+description: 'Leg armour in MUME, including metal greaves, chain leggings, leather trousers, and cloth pants sorted by material type.'
+tags:
+  - Equipment by slot
+aliases: ["Legs"]
 ---
 
 A list of equipment worn on the **legs**.
 
-# Metal
+## Metal
 
 - black metal greaves
 - crimson greaves
@@ -14,7 +17,7 @@ A list of equipment worn on the **legs**.
 - plate greaves
 - sturdy metal greaves
 
-# Mail
+## Mail
 
 - [fine chain mail leggings](./Fine_chain_mail_leggings.md)
 - [chain mail leggings](./Chain_mail_leggings.md)
@@ -22,7 +25,7 @@ A list of equipment worn on the **legs**.
 - white chain mail leggings
 - sturdy chain mail leggings
 
-# Leather
+## Leather
 
 - [fine soft leather trousers](./Fine_soft_leather_trousers.md)
 - [hard leather trousers](./Hard_leather_trousers.md)
@@ -33,7 +36,7 @@ A list of equipment worn on the **legs**.
 - [sturdy soft leather
   trousers](./Sturdy_soft_leather_trousers.md)
 
-# Cloth
+## Cloth
 
 - [plain flowing skirt](./Plain_flowing_skirt.md)
 - [plain pants](./Plain_pants.md)

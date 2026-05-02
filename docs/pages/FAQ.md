@@ -26,4 +26,3 @@ The following FAQ files for new players are also available:
 
 See also: Newbie, Basics,
 [Advanced](./Advanced.md), Features
- 

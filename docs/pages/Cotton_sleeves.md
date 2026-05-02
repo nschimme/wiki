@@ -6,7 +6,7 @@ tags:
   - Cloth equipment
 ---
 **Cotton sleeves** are a piece of cloth
-equipment worn on the [arms](./Arms.md).
+equipment worn on the [arms](./Arms_items.md).
 They are worth around 1 [silver](./Gold.md) 70 copper.
 
 `A pair of thin cotton sleeves are lying here.`
