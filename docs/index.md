@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: MUME Wiki
-  text: Multi-Users in Middle-earth
-  tagline: The definitive guide to the oldest Tolkien-based MUD (est. 1991).
+  name: Multi-Users in Middle-earth Wiki
+  tagline: Your complete guide to surviving in Middle-earth
   image:
     src: /img/Main_Gandalf.png
     alt: Gandalf
