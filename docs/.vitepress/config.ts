@@ -4,7 +4,7 @@ import path from 'path'
 
 let pagesMeta = { terms: {}, paths: [] }
 try {
-  pagesMeta = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'pages-meta.json'), 'utf-8'))
+  pagesMeta = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../public/pages-meta.json'), 'utf-8'))
 } catch (e) {}
 const sortedTerms = Object.keys(pagesMeta.terms || {}).sort((a, b) => b.length - a.length)
 const validPaths = new Set(pagesMeta.paths || [])

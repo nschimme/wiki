@@ -1,7 +1,7 @@
 ---
 title: Fangorn
-aliases: ["Ancient oak", "Black alder", "Birch tree", "Haughty elm", "Mature linden tree", "Tall ash tree", "Tall scots pine", "Slender hornbeam"]
-description: 'Fangorn is the home of the Ents. It is a large'
+aliases: ["Ancient oak", "Black alder", "Birch tree", "Haughty elm", "Mature linden tree", "Tall ash tree", "Tall Scots pine", "Slender hornbeam"]
+description: 'Fangorn is the home of the Ents. It is a large forested area populated by trees like the tall Scots pine.'
 tags:
   - Locations
 ---
@@ -45,7 +45,7 @@ Many varieties of [Ents](./Ent.md) and huorns inhabit the forest, including:
 - [Imposing beech tree](./Imposing_beech_tree.md)
 - **Mature linden tree**: A mature linden tree.
 - **Tall ash tree**: A tall ash tree.
-- **Tall scots pine**: A tall scots pine tree.
+- **Tall Scots pine**: A tall Scots pine tree.
 - **Slender hornbeam**: A slender hornbeam tree.
 
 ### Plants
