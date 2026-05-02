@@ -114,8 +114,8 @@ This file (`AGENTS.md`) is read automatically by Claude Code, OpenAI Codex, Gemi
 Key facts for agents:
 - All wiki content is in `docs/pages/*.md` — edit there, not in `_pages/` (legacy source)
 - Images live in `docs/public/img/` and are referenced as `/img/filename`
-- Build command: `npm run docs:build`
-- Dev server: `npm run docs:dev`
+- Dev server: `docker compose up dev` (port 5174)
+- Build command: `docker compose up --build wiki` (port 4173); or `npm run docs:build` inside the container
 - No test suite — verify with `npm run docs:build` (must exit 0)
 - `ignoreDeadLinks: false` in VitePress config — dead links cause the build to fail; fix them, don't disable the check
 - CI environment: Node 22, `git` required (VitePress uses it for last-modified dates); use `Dockerfile`/`docker-compose.yml` to replicate locally
