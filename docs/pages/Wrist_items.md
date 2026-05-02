@@ -18,9 +18,10 @@ A list of items worn on the **wrist**.
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Wristbands
+
+::: details Spoiler
 
 | Object                     | Weight | Other                                                                                             |
 |----------------------------|--------|---------------------------------------------------------------------------------------------------|

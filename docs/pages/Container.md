@@ -7,9 +7,10 @@ A list of **containers** found in [MUME](./MUME.md).
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Containers
+
+::: details Spoiler
 
 | Object                 | Weight | Other                                         |
 |------------------------|--------|-----------------------------------------------|
@@ -37,7 +38,11 @@ A list of **containers** found in [MUME](./MUME.md).
 | Quiver                 | 175    | Container; Arrows quiver                      |
 | Rough, large quiver    | 395    | Container; Arrows quiver                      |
 
+:::
+
 ### Liquid Containers
+
+::: details Spoiler
 
 | Object                 | Weight | Other                       |
 |------------------------|--------|-----------------------------|

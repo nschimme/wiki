@@ -9,9 +9,10 @@ tags:
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Boats
+
+::: details Spoiler
 
 | Object                 | Weight | Other |
 |------------------------|--------|-------|

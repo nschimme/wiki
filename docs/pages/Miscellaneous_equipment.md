@@ -7,9 +7,10 @@ A list of **miscellaneous equipment** found in [MUME](./MUME.md).
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Consumable
+
+::: details Spoiler
 
 | Object                | Weight | Other                                         |
 |-----------------------|--------|-----------------------------------------------|
@@ -23,7 +24,11 @@ A list of **miscellaneous equipment** found in [MUME](./MUME.md).
 | Pale orb              | 90     | Magic, Nosell, Part of 'watch room' kit |
 | Small marcasite pendant | 45   | Magic, Nosell, Part of 'watch room' kit |
 
+:::
+
 ### Miscellaneous
+
+::: details Spoiler
 
 | Object                            | Weight | Other                                                             |
 |-----------------------------------|--------|-------------------------------------------------------------------|
@@ -54,7 +59,11 @@ A list of **miscellaneous equipment** found in [MUME](./MUME.md).
 | Fishing net                       | 19     | For fishing                                                       |
 | Scalp                             | 3      |                                                                   |
 
+:::
+
 ### Quest
+
+::: details Spoiler
 
 | Object                  | Weight | Other                    |
 |-------------------------|--------|--------------------------|
@@ -62,7 +71,11 @@ A list of **miscellaneous equipment** found in [MUME](./MUME.md).
 | Black journal           | 265    | Book, Nosell             |
 | Grey leather-bound book | 45     | Book, Nosell             |
 
+:::
+
 ### Sheath
+
+::: details Spoiler
 
 | Object                | Weight | Other                                   |
 |-----------------------|--------|-----------------------------------------|
@@ -74,7 +87,11 @@ A list of **miscellaneous equipment** found in [MUME](./MUME.md).
 | Ornate scabbard       | 130    | Sheath (for blades)                     |
 | Leather baldric       | 130    | Sheath (for slashing/stabbing)          |
 
+:::
+
 ### Treasure
+
+::: details Spoiler
 
 | Object                                       | Weight | Other                                                  |
 |----------------------------------------------|--------|--------------------------------------------------------|

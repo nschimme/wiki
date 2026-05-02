@@ -43,9 +43,10 @@ and they cannot be wielded together with anything more than a buckler.
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Two Handed Weapons
+
+::: details Spoiler
 
 | Weapon                          | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                                                                 |
 |---------------------------------|--------|-----|-----|--------|---------|-------------|-------------------------------------------------------------------------------------------------------|

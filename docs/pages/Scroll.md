@@ -27,9 +27,10 @@ will be greatly increased.
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Scrolls
+
+::: details Spoiler
 
 | Object                           | Weight | Other                                                                                                 |
 |----------------------------------|--------|-------------------------------------------------------------------------------------------------------|

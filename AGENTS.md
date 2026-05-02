@@ -4,18 +4,18 @@ This wiki is built with [VitePress](https://vitepress.dev/) and hosted at https:
 
 ## Quick start (local dev)
 
+Use Docker — do not run `npm install` directly.
+
 ```bash
-npm install
-npm run docs:dev      # starts dev server at http://localhost:5173
-npm run docs:build    # production build → docs/.vitepress/dist/
-npm run docs:preview  # preview the production build locally
+docker compose up dev        # dev server at http://localhost:5174 (hot reload)
+docker compose up --build wiki   # production build at http://localhost:4173
 ```
 
-To reproduce the CI environment exactly (Node 22, same `npm ci` + build flags):
+To update packages:
 
 ```bash
-docker compose up --build   # or: podman compose up --build
-# site served at http://localhost:4173
+docker run --rm -v "$(pwd):/app" -w /app node:22 npm install <package>
+# then commit package.json and package-lock.json
 ```
 
 ## Adding or editing pages
@@ -114,8 +114,8 @@ This file (`AGENTS.md`) is read automatically by Claude Code, OpenAI Codex, Gemi
 Key facts for agents:
 - All wiki content is in `docs/pages/*.md` — edit there, not in `_pages/` (legacy source)
 - Images live in `docs/public/img/` and are referenced as `/img/filename`
-- Build command: `npm run docs:build`
-- Dev server: `npm run docs:dev`
+- Dev server: `docker compose up dev` (port 5174)
+- Build command: `docker compose up --build wiki` (port 4173); or `npm run docs:build` inside the container
 - No test suite — verify with `npm run docs:build` (must exit 0)
 - `ignoreDeadLinks: false` in VitePress config — dead links cause the build to fail; fix them, don't disable the check
 - CI environment: Node 22, `git` required (VitePress uses it for last-modified dates); use `Dockerfile`/`docker-compose.yml` to replicate locally

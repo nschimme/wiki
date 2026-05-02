@@ -54,9 +54,10 @@ usually have moderate strength requirements.
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Slashing Weapons
+
+::: details Spoiler
 
 | Weapon                                            | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                            |
 |---------------------------------------------------|--------|-----|-----|--------|---------|-------------|------------------------------------------------------------------|

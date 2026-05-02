@@ -91,10 +91,11 @@ parts.
 ## Identified Gear
 
 
-::: details Spoiler
 Fine metal = crimson, black, green and white metal
 
 ### Shields
+
+::: details Spoiler
 
 | Shield                    | Weight | PB  | Other                                             |
 |---------------------------|--------|-----|---------------------------------------------------|
@@ -132,7 +133,11 @@ Fine metal = crimson, black, green and white metal
 | Wooden shield             | 310    | 8   |                                                   |
 | Small wooden shield       | 265    | 6   |                                                   |
 
+:::
+
 ### Bucklers
+
+::: details Spoiler
 
 | Shield                     | Weight | PB  | Other                                                |
 |----------------------------|--------|-----|------------------------------------------------------|
@@ -143,7 +148,11 @@ Fine metal = crimson, black, green and white metal
 | Spiked horsehide buckler   | 395    | 3   | OB +3                                                |
 | Small wooden target shield | 175    | 3   |                                                      |
 
+:::
+
 ### Head
+
+::: details Spoiler
 
 | Object                           | Weight | OB  | DB  | Abs. | to  | Other                                                             |
 |----------------------------------|--------|-----|-----|------|-----|-------------------------------------------------------------------|
@@ -189,7 +198,11 @@ Fine metal = crimson, black, green and white metal
 | Raccoon fur hat                  | 90     |     | 1   |      |     |                                                                   |
 | Grey wool hat                    | 22     |     |     |      |     |                                                                   |
 
+:::
+
 ### Neck
+
+::: details Spoiler
 
 | Object                 | Weight | OB  | DB  | Abs. | to  | Other           |
 |------------------------|--------|-----|-----|------|-----|-----------------|
@@ -198,7 +211,11 @@ Fine metal = crimson, black, green and white metal
 | Studded leather collar | 45     |     |     |      |     |                 |
 | Spiked collar          | 130    |     |     |      |     |                 |
 
+:::
+
 ### Body
+
+::: details Spoiler
 
 | Object                           | Weight | OB  | DB  | Abs. | to  | Other                                            |
 |----------------------------------|--------|-----|-----|------|-----|--------------------------------------------------|
@@ -245,7 +262,11 @@ Fine metal = crimson, black, green and white metal
 | Black robe                       | 90     |     |     |      |     |                                                  |
 | Daedeltiri robes                 | 90     |     |     |      |     |                                                  |
 
+:::
+
 ### About body
+
+::: details Spoiler
 
 | Object                    | Weight | OB  | DB  | Abs. | to  | Other                                             |
 |---------------------------|--------|-----|-----|------|-----|---------------------------------------------------|
@@ -287,7 +308,11 @@ Fine metal = crimson, black, green and white metal
 | Heavy wool coat           | 220    |     |     |      |     | Eff vs cold                                       |
 | Soft, thick white fur     | 970    |     |     |      |     |                                                   |
 
+:::
+
 ### Arms
+
+::: details Spoiler
 
 | Object                       | Weight | OB  | DB  | Abs. | to  | Other                |
 |------------------------------|--------|-----|-----|------|-----|----------------------|
@@ -312,7 +337,11 @@ Fine metal = crimson, black, green and white metal
 | Plain sleeves                | 45     |     | 1   |      |     |                      |
 | Black arm wrapping           | 10     |     |     |      |     | Magic, Eff vs poison |
 
+:::
+
 ### Hands
+
+::: details Spoiler
 
 | Object                      | Weight | OB  | DB  | Abs. | to  | Other       |
 |-----------------------------|--------|-----|-----|------|-----|-------------|
@@ -333,7 +362,11 @@ Fine metal = crimson, black, green and white metal
 | Warm wool gloves            | 35     |     |     |      |     | Eff vs cold |
 | Supple leather gloves       | 30     | 2   | 2   | 60%  | 5   |             |
 
+:::
+
 ### Legs
+
+::: details Spoiler
 
 | Object                       | Weight | OB  | DB  | Abs. | to  | Other        |
 |------------------------------|--------|-----|-----|------|-----|--------------|
@@ -361,7 +394,11 @@ Fine metal = crimson, black, green and white metal
 | Plain trousers               | 132    |     | 2   |      |     |              |
 | Guardsman's pants            | 90     |     |     |      |     |              |
 
+:::
+
 ### Feet
+
+::: details Spoiler
 
 | Object                          | Weight | OB  | DB  | Abs. | to  | Other                          |
 |---------------------------------|--------|-----|-----|------|-----|--------------------------------|
@@ -386,7 +423,11 @@ Fine metal = crimson, black, green and white metal
 | Snowshoes                       | 90     |     | -5  |      |     | Move cost +4%, Eff vs cold     |
 | Soft, sequinned slippers        | 45     |     |     |      |     |                                |
 
+:::
+
 ### Belts
+
+::: details Spoiler
 
 | Object                      | Weight | OB  | DB  | Abs. | to  | Other                                  |
 |-----------------------------|--------|-----|-----|------|-----|----------------------------------------|
@@ -400,6 +441,7 @@ Fine metal = crimson, black, green and white metal
 | Plain leather belt          | 25     |     |     |      |     |                                        |
 | Studded leather belt        | 90     |     |     |      |     |                                        |
 | Broad girdle                | 90     |     |     |      |     |                                        |
+
 :::
 
 

@@ -26,27 +26,45 @@ you've got.
 ## Identified Gear
 
 
-::: details Spoiler
+
 ### Enchant
+
+::: details Spoiler
 
 If weapon is neither Magic nor non-enchantable - list contains stats of
 MAXENCHANTED weapon (+10 OB, +2 damage).
 
 Enchanted arrows are non-breakable.
 
+:::
+
 ### Required Strength
+
+::: details Spoiler
 
 Minimum STR needed to wield: for 1H - weight/15, for 2H - weight/22.5
 
+:::
+
 ### Effectiveness
+
+::: details Spoiler
 
 Eff vs adds 25% damage
 
+:::
+
 ### Relative Damage
+
+::: details Spoiler
 
 Rel. - relative damage (damage per time = damage/delay\*100%)
 
+:::
+
 ### Two Handed Weapons
+
+::: details Spoiler
 
 | Weapon                          | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                                                                 |
 |---------------------------------|--------|-----|-----|--------|---------|-------------|-------------------------------------------------------------------------------------------------------|
@@ -78,7 +96,11 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Black metal staff               | 220    | 10  | 25  | 5      | 100     | 5.0         | Magic, Eff vs spell                                                                                   |
 | Rough staff                     | 485    | 5   | 10  | 7      | 150     | 4.7         | Eff vs spirit (not enchanted)                                                                         |
 
+:::
+
 ### Slashing Weapons
+
+::: details Spoiler
 
 | Weapon                                            | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                            |
 |---------------------------------------------------|--------|-----|-----|--------|---------|-------------|------------------------------------------------------------------|
@@ -113,7 +135,11 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Broad-bladed knife                                | 15     | 10  | -5  | 5.1    | 70      | 7.3         |                                                                  |
 | Sickle                                            | 90     | 15  | -5  | 6.1    | 100     | 6.1         |                                                                  |
 
+:::
+
 ### Cleaving Weapons
+
+::: details Spoiler
 
 | Weapon                | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                               |
 |-----------------------|--------|-----|-----|--------|---------|-------------|-----------------------------------------------------|
@@ -131,7 +157,11 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Hatchet               | 130    | 15  | -5  | 7.2    | 90      | 8.0         |                                                     |
 | Butcher's cleaver     | 45     | -5  | -5  | 5.2    | 80      | 6.5         | Non-enchantable                                     |
 
+:::
+
 ### Crushing Weapons
+
+::: details Spoiler
 
 | Weapon                           | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                                            |
 |----------------------------------|--------|-----|-----|--------|---------|-------------|----------------------------------------------------------------------------------|
@@ -161,7 +191,11 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Pry-bar                          | 175    | 5   | -10 | 4.9    | 100     | 4.9         | Eff vs metal, Nosell, key for Amon Othar tombstone                               |
 | Pick                             | 90     | 0   | -5  | 4.8    | 100     | 4.8         | Eff vs metal, Non-enchantable                                                    |
 
+:::
+
 ### Piercing Weapons
+
+::: details Spoiler
 
 | Weapon                                           | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                         |
 |--------------------------------------------------|--------|-----|-----|--------|---------|-------------|---------------------------------------------------------------|
@@ -193,7 +227,11 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Butcher knife                                    | 6      | 5   | 0   | 3      | 100     | 3.0         | Non-enchantable                                               |
 | Hunting knife                                    | 6      | 0   | -5  | 3      | 100     | 3.0         | Non-enchantable                                               |
 
+:::
+
 ### Stabbing Weapons
+
+::: details Spoiler
 
 | Weapon                 | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                     |
 |------------------------|--------|-----|-----|--------|---------|-------------|-------------------------------------------|
@@ -211,14 +249,22 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Pitchfork              | 130    | 10  | -10 | 8.1    | 110     | 7.3         | Eff vs riding                             |
 | Orkish battle-standard | 130    | 15  | 5   | 7.1    | 100     | 7.1         | Eff vs riding, Evil, Anti-good, Nosell    |
 
+:::
+
 ### Charging Weapons
+
+::: details Spoiler
 
 | Weapon             | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other         |
 |--------------------|--------|-----|-----|--------|---------|-------------|---------------|
 | Steel-tipped lance | 130    | 17  | -3  | 7      | 100     | 7.0         | Eff vs riding |
 | Lance              | 220    | 10  | -5  | 6      | 100     | 6.0         | Eff vs riding |
 
+:::
+
 ### Other Melee Weapons
+
+::: details Spoiler
 
 | Weapon                 | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                      |
 |------------------------|--------|-----|-----|--------|---------|-------------|------------------------------------------------------------|
@@ -226,7 +272,11 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Scourge                | 90     | 25  | -10 | 5      | 80      | 6.3         |                                                            |
 | Whip                   | 90     | 25  | -10 | 4      | 75      | 5.3         |                                                            |
 
+:::
+
 ### Missile Weapons
+
+::: details Spoiler
 
 | Weapon                        | Weight | OB  | Delay % | Rel. Damage | Other               |
 |-------------------------------|--------|-----|---------|-------------|---------------------|
@@ -242,7 +292,11 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Shortbow                      | 130    | 10  | 60      | dmg\*1.1 +2 |                     |
 | Sling                         | 20     | 5   | 40      | dmg\*1.0 +2 |                     |
 
+:::
+
 ### Missiles
+
+::: details Spoiler
 
 | Weapon               | Weight | OB  | Damage | Other                                     |
 |----------------------|--------|-----|--------|-------------------------------------------|
@@ -257,6 +311,7 @@ Rel. - relative damage (damage per time = damage/delay\*100%)
 | Blackened bolt       | 3      | 15  | 7      | Eff vs spirit/dwarf/elf                   |
 | Slingstone           | 5      | 10  | 5      |                                           |
 | Round stone          | 3      | 5   | 4      |                                           |
+
 :::
 
 
