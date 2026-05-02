@@ -32,9 +32,10 @@ neck provide the user with some protection against magic.
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Neck
+
+::: details Spoiler
 
 | Object                 | Weight | OB  | DB  | Abs. | to  | Other           |
 |------------------------|--------|-----|-----|------|-----|-----------------|
@@ -43,7 +44,11 @@ neck provide the user with some protection against magic.
 | Studded leather collar | 45     |     |     |      |     |                 |
 | Spiked collar          | 130    |     |     |      |     |                 |
 
+:::
+
 ### Amulets
+
+::: details Spoiler
 
 | Object                   | Weight | Other                                                                                                 |
 |--------------------------|--------|-------------------------------------------------------------------------------------------------------|

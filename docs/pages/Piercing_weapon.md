@@ -52,9 +52,10 @@ used by [thieves](./Thief.md).
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Piercing Weapons
+
+::: details Spoiler
 
 | Weapon                                           | Weight | OB  | PB  | Damage | Delay % | Rel. Damage | Other                                                         |
 |--------------------------------------------------|--------|-----|-----|--------|---------|-------------|---------------------------------------------------------------|

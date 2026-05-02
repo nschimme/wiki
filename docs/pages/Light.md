@@ -7,9 +7,10 @@ A list of **light sources** found in [MUME](./MUME.md).
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Lights
+
+::: details Spoiler
 
 | Object               | Weight | Other         |
 |----------------------|--------|---------------|

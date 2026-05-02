@@ -14,9 +14,10 @@ description: 'Food and drink items in MUME.'
 
 ## Identified Gear
 
-::: details Spoiler
 
 ### Consumable
+
+::: details Spoiler
 
 | Object            | Weight | Other                                            |
 |-------------------|--------|--------------------------------------------------|
@@ -30,7 +31,11 @@ description: 'Food and drink items in MUME.'
 | Chunk of salt     | 90     | Spice                                            |
 | Sack of pepper    | 175    | Spice                                            |
 
+:::
+
 ### Potion
+
+::: details Spoiler
 
 <table>
 <thead>

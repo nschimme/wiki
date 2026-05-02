@@ -7,31 +7,11 @@ description: All items and equipment in MUME organized by slot, type, and materi
 
 MUME features a vast array of equipment. Use this hub to find specific items or understand the mechanics behind your gear.
 
-## Core Equipment Lists
+## Armour
 
-Most players are looking for these "Identified Gear" tables:
+Full identified stats and mechanics: [**Armour List**](./pages/Armour.md)
 
-- [**Weapon List**](./pages/Weapon.md) — Stats for swords, axes, bows, and more.
-- [**Armour List**](./pages/Armour.md) — Detailed protection values for all slots.
-- [**Rings**](./pages/Rings.md) — Stats for all rings.
-- [**Wrist Items**](./pages/Wrist_items.md) — Wristbands with stats.
-- [**Amulets & Neck**](./pages/Neck_items.md) — Amulets, collars, and pendants.
-- [**Scrolls**](./pages/Scroll.md) — Scroll types and rune mappings.
-- [**Lights**](./pages/Light.md) — Light sources.
-- [**Containers**](./pages/Container.md) — Pouches, backpacks, and drink containers.
-- [**Miscellaneous**](./pages/Miscellaneous_equipment.md) — Consumables, sheaths, treasure, and more.
-- [**Equipment Terminology**](./pages/Other_equipment.md) — Explanation of flags like Magic, Nosell, Eff vs.
-
-## Mechanics & Stats
-
-Understanding how your gear works:
-
-- [**Armour Mechanics**](./pages/Armour.md) — How Absorb and Max work.
-- [**Weapon Mechanics**](./pages/Weapon.md) — Strength requirements and effectiveness.
-- [**Condition**](./pages/Whet.md) — Keeping your weapons sharp and gear repaired.
-- [**Enchanting**](./pages/Enchant.md) — Improving your equipment via magic.
-
-## Browse by Slot
+### By Slot
 
 | Slot | Examples |
 |------|---------|
@@ -49,14 +29,18 @@ Understanding how your gear works:
 | [**Finger**](./pages/Rings.md) | Rings |
 | [**Light**](./pages/Light.md) | Torches, lanterns |
 
-## Browse by Material
+### By Material
 
 - [**Metal Armour**](./pages/Metal_equipment.md) — Highest protection, heavy weight.
 - [**Mail Armour**](./pages/Mail_equipment.md) — Medium protection, moderate weight.
 - [**Leather Armour**](./pages/Leather_equipment.md) — Light weight, preferred by thieves and scouts.
 - [**Cloth**](./pages/Cloth_equipment.md) — Often features magical bonuses for casters.
 
-## Weapons by Type
+## Weapons
+
+Full identified stats and mechanics: [**Weapon List**](./pages/Weapon.md)
+
+### By Type
 
 | Type | Examples |
 |------|---------|
@@ -68,11 +52,21 @@ Understanding how your gear works:
 | [**Concussion**](./pages/Concussion_weapons.md) | Maces, warhammers |
 | [**Ranged**](./pages/Ranged_weapons.md) | Bows, arrows, crossbows |
 
+## Items & Consumables
+
+- [**Scrolls**](./pages/Scroll.md) — Scroll types and rune mappings.
+- [**Containers**](./pages/Container.md) — Pouches, backpacks, and drink containers.
+- [**Plants & Herbs**](./pages/Herb.md)
+- [**Food & Drink**](./pages/Food_&_Drink.md)
+- [**Miscellaneous**](./pages/Miscellaneous_equipment.md) — Consumables, sheaths, treasure, and more.
+
 ## Special Equipment
 
 - [**Quest Items**](./pages/Quest_items.md)
 - [**Legend Equipment**](./pages/Legend_Home_Equipment.md)
-- [**Containers**](./pages/Container.md)
-- [**Plants & Herbs**](./pages/Herb.md)
-- [**Food & Drink**](./pages/Food_&_Drink.md)
 
+## Mechanics & Reference
+
+- [**Condition**](./pages/Whet.md) — Keeping your weapons sharp and gear repaired.
+- [**Enchanting**](./pages/Enchant.md) — Improving your equipment via magic.
+- [**Equipment Terminology**](./pages/Other_equipment.md) — Explanation of flags like Magic, Nosell, Eff vs.
