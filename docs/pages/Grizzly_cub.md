@@ -12,6 +12,8 @@ Their [corpses](./Corpse.md) can be
 
 `A grizzly cub is here, snarling loudly.`
 `>`**`examine cub`**
-`You have never seen such an aggressive small bear, and this one is just a cub!`
-`The white foam of rage bursts from her mouth, spilling down the newly formed`
-`hairs. A small but significant snarling can be heard.`
+<div class="wiki-block">
+
+You have never seen such an aggressive small bear, and this one is just a cub!<br>The white foam of rage bursts from her mouth, spilling down the newly formed<br>hairs. A small but significant snarling can be heard.
+
+</div>

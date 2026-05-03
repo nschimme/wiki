@@ -11,10 +11,11 @@ typing.
 
 Usage:
 
-` alias                                list aliases`
-` alias `&lt;word&gt;`                         delete alias`
-` alias `&lt;word&gt;` `&lt;expansion&gt;`             define alias`
-` alias please remove all of them      (sic!) delete all aliases`
+<div class="wiki-block">
+
+ alias                                list aliases<br> alias `&lt;word&gt;`                         delete alias<br> alias `&lt;word&gt;` `&lt;expansion&gt;`             define alias<br> alias please remove all of them      (sic!) delete all aliases
+
+</div>
 
 You cannot define "alias", or any of its abbreviations except "a" as an
 alias.
@@ -40,14 +41,8 @@ with "%".
 
 Examples:
 
-`> alias dw drink water`
-`> dw               -> drink water`
-`> alias ko kill &.orc`
-`> ko 2             -> kill 2.orc`
-`> alias rb ride behind`
-`> rb gandalf       -> ride behind gandalf`
-`> alias %o orc`
-`> kill o           -> kill orc`
-`> alias %sword longsword`
-`> wield sword      -> wield longsword`
-`> wield %sword     -> wield sword`
+<div class="wiki-block">
+
+\> alias dw drink water<br>\> dw               -> drink water<br>\> alias ko kill &.orc<br>\> ko 2             -> kill 2.orc<br>\> alias rb ride behind<br>\> rb gandalf       -> ride behind gandalf<br>\> alias %o orc<br>\> kill o           -> kill orc<br>\> alias %sword longsword<br>\> wield sword      -> wield longsword<br>\> wield %sword     -> wield sword
+
+</div>

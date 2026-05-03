@@ -38,12 +38,11 @@ one pieces of a particular item in the shop inventory, you can get an
 itemized list of those pieces by using the &lt;number&gt; parameter. You can
 also try these:
 
-` list worn {head|body|on body|about body|...}`
-` list weapons that {slash|pierce|crush|cleave|...}`
-` list wielded {with one hand|with two hands|dual}`
-` list edible`
-` list containers`
-` list filter {[-]keyword} worn {head|body|on body|about body|...} (*)`
+<div class="wiki-block">
+
+ list worn {head|body|on body|about body|...}<br> list weapons that {slash|pierce|crush|cleave|...}<br> list wielded {with one hand|with two hands|dual}<br> list edible<br> list containers<br> list filter {[-]keyword} worn {head|body|on body|about body|...} (*)
+
+</div>
 
 (\*) Note: The filter sub-command only allows one keyword.
 
@@ -62,15 +61,11 @@ Value syntax:
 
 Examples:
 
-` > show 43      `
-` > buy a dozen war arrows `
-` > sell all.metal`
-` > list worn on legs`
-` > list wall shield`
-` > dye shirt black`
-` > value eket`
-` > resize 1.breastplate`
-` > buy horse Shadowfax       (to name your horse, for use in pet-shops)`
+<div class="wiki-block">
+
+ \> show 43      <br> \> buy a dozen war arrows <br> \> sell all.metal<br> \> list worn on legs<br> \> list wall shield<br> \> dye shirt black<br> \> value eket<br> \> resize 1.breastplate<br> \> buy horse Shadowfax       (to name your horse, for use in pet-shops)
+
+</div>
 
 See also: [Shop](./Shop.md), [Mend](./Mend.md),
 [Citizen](./Citizen.md)

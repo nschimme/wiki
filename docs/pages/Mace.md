@@ -12,9 +12,10 @@ weaponsmiths.
 `This mace bears several iron studs driven into a stout wooden handle.`
 
 `>`**`consider mace`**
-`It is a mace.`
-`This crushing weapon can be wielded one-handed.`
-`It is poor while attacking and average while defending; its speed is average, and it inflicts little damage upon hitting.`
-`It weighs four pounds.`
+<div class="wiki-block">
+
+It is a mace.<br>This crushing weapon can be wielded one-handed.<br>It is poor while attacking and average while defending; its speed is average, and it inflicts little damage upon hitting.<br>It weighs four pounds.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

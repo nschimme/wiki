@@ -11,8 +11,8 @@ mobiles found in various locations around
 
 `A brown fox is here, looking for some rabbits to chew up.`
 `>`**`examine fox`**
-`This reddish-brown fox is about thirty inches long from head to body, with a`
-`fifteen-inch long white-tipped tail. The animal has a reputation for cunning`
-`and intelligence, as it has well developed senses of sight, smell and`
-`hearing. It is an omnivorous creature, feeding on birds, squirrels, insects,`
-`hares and vegetation; voles appear to be its preferred nourishment.`
+<div class="wiki-block">
+
+This reddish-brown fox is about thirty inches long from head to body, with a<br>fifteen-inch long white-tipped tail. The animal has a reputation for cunning<br>and intelligence, as it has well developed senses of sight, smell and<br>hearing. It is an omnivorous creature, feeding on birds, squirrels, insects,<br>hares and vegetation; voles appear to be its preferred nourishment.
+
+</div>

@@ -11,9 +11,11 @@ weapons](./Piercing_weapon.md).
 
 `A pair of smooth boots lie on the ground.`
 `>`**`look boots`**
-`These boots are dark black and smooth on the surface. One of them has a small`
-`sheath sewn on the outer side, serving as a holder for a dagger or another`
-`equally small weapon.`
+<div class="wiki-block">
+
+These boots are dark black and smooth on the surface. One of them has a small<br>sheath sewn on the outer side, serving as a holder for a dagger or another<br>equally small weapon.
+
+</div>
 
 `>`**`consider boots`**
 `They are a pair of smooth, black boots.`

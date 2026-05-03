@@ -14,10 +14,11 @@ any mobiles that player has
 
 Syntax:
 
-`ignore `&lt;player&gt;`        - toggles ignoring that player on/off`
-`ignore `&lt;player&gt;` yes|on - ignore player`
-`ignore `&lt;player&gt;` no|off - stop ignoring a player`
-`ignore                 - shows a list of players you are ignoring`
+<div class="wiki-block">
+
+ignore `&lt;player&gt;`        - toggles ignoring that player on/off<br>ignore `&lt;player&gt;` yes|on - ignore player<br>ignore `&lt;player&gt;` no|off - stop ignoring a player<br>ignore                 - shows a list of players you are ignoring
+
+</div>
 
 NOTE: Players you ignore cannot tell that you are ignoring them.
 

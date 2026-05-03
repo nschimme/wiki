@@ -10,13 +10,17 @@ weaponsmiths.
 
 `A scimitar has been left here.`
 `>`**`examine scimitar`**
-`This is a thin and razor-sharp sword. It curves backward and bears a sharp`
-`point. The handle and the fashioning of the blade are indicative of the Men of`
-`the south.`
+<div class="wiki-block">
+
+This is a thin and razor-sharp sword. It curves backward and bears a sharp<br>point. The handle and the fashioning of the blade are indicative of the Men of<br>the south.
+
+</div>
 
 `>`**`consider scimitar`**
-`This slashing weapon can be wielded one-handed.`
-`It is average while attacking and average while defending; its speed is average, and it inflicts little damage upon hitting.`
-`It weighs four pounds.`
+<div class="wiki-block">
+
+This slashing weapon can be wielded one-handed.<br>It is average while attacking and average while defending; its speed is average, and it inflicts little damage upon hitting.<br>It weighs four pounds.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

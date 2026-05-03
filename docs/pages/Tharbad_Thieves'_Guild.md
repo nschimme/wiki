@@ -11,9 +11,11 @@ shop](./Tharbad_Weaponsmith.md).
 
 `A thief is waiting here to teach his art.`
 `>`**`examine thief`**
-`He is a thief who has specialized in killing others as effectively as possible,`
-`using all sorts of weapons.  His superior knowledge of how and where to use`
-`them combined with his extraordinary stealth makes him a deadly opponent.`
+<div class="wiki-block">
+
+He is a thief who has specialized in killing others as effectively as possible,<br>using all sorts of weapons.  His superior knowledge of how and where to use<br>them combined with his extraordinary stealth makes him a deadly opponent.
+
+</div>
 
 ## Skill list
 

@@ -11,6 +11,8 @@ to 6pm and trades in all kinds of [armour](./Armour.md) and
 
 `Gildor the blacksmith is here, busy forging a sword.`
 `>`**`examine gildor`**
-`A strong looking elven blacksmith, busy forging weapons and armour. He is`
-`not disheartened by the fact that his shop does not have the same patronage`
-`as the larger one in Harlond.`
+<div class="wiki-block">
+
+A strong looking elven blacksmith, busy forging weapons and armour. He is<br>not disheartened by the fact that his shop does not have the same patronage<br>as the larger one in Harlond.
+
+</div>

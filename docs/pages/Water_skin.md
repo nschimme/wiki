@@ -12,9 +12,11 @@ grocers.
 
 `There is a water skin lying on the ground.`
 `>`**`look at skin`**
-`This is a piece of thin leather which has been shaped and sewn tightly so`
-`as to hold over a quart of water. It can be filled or drunk from using`
-`an opening which can be drawn shut and fastened with a lace.`
+<div class="wiki-block">
+
+This is a piece of thin leather which has been shaped and sewn tightly so<br>as to hold over a quart of water. It can be filled or drunk from using<br>an opening which can be drawn shut and fastened with a lace.
+
+</div>
 
 `>`**`consider skin`**
 `It is a water skin.`

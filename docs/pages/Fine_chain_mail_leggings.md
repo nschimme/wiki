@@ -11,9 +11,11 @@ armourers for around 2 [gold](./Gold.md).
 
 `A fine pair of chain mail leggings are lying here.`
 `>`**`examine leggings`**
-`Each of the thousands of rings seems to resemble its neighbour, all rings are`
-`perfectly round and of a very hard steel; they form a tight, yet very flexible`
-`pattern. The rings are soldered at their ends and thus do not break easily.`
+<div class="wiki-block">
+
+Each of the thousands of rings seems to resemble its neighbour, all rings are<br>perfectly round and of a very hard steel; they form a tight, yet very flexible<br>pattern. The rings are soldered at their ends and thus do not break easily.
+
+</div>
 
 `>`**`consider leggings`**
 `They are a fine pair of chain mail leggings.`

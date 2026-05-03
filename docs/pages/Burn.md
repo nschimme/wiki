@@ -20,9 +20,11 @@ When you set fire, a message is seen in the adjacent rooms, like when a
 
 Example:
 
-` > burn corpse`
-` > burn 2.corpse`
-` > burn all.corpse`
+<div class="wiki-block">
+
+ \> burn corpse<br> \> burn 2.corpse<br> \> burn all.corpse
+
+</div>
 
 See also: [Bury](./Bury.md), [Decapitate](./Decapitate.md),
 [Drag](./Drag.md), [Drain](./Drain.md),

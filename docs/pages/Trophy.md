@@ -23,6 +23,8 @@ through the entire trophy list.
 Also, you can specify a string to only display entries whose names
 contain that string. For example:
 
-`trophy wolf`
-`trophy elrond`
-`trophy #      <- display all killed player characters`
+<div class="wiki-block">
+
+trophy wolf<br>trophy elrond<br>trophy #      <- display all killed player characters
+
+</div>

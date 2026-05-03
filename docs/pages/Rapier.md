@@ -10,14 +10,17 @@ weaponsmiths.
 
 `A rapier is on the ground.`
 `>`**`examine rapier`**
-`This sword is short and is very thin, with little to its cutting edge.`
-`A crossguard covers the wielder's hand. The weapon is light and meant for`
-`thrusting. `
+<div class="wiki-block">
+
+This sword is short and is very thin, with little to its cutting edge.<br>A crossguard covers the wielder's hand. The weapon is light and meant for<br>thrusting.
+
+</div>
 
 `>`**`consider rapier`**
-`It is a rapier.`
-`This piercing weapon can be wielded one-handed.`
-`It is poor while attacking and good while defending; its speed is very fast, and it inflicts little damage upon hitting.`
-`It weighs a couple of pounds.`
+<div class="wiki-block">
+
+It is a rapier.<br>This piercing weapon can be wielded one-handed.<br>It is poor while attacking and good while defending; its speed is very fast, and it inflicts little damage upon hitting.<br>It weighs a couple of pounds.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

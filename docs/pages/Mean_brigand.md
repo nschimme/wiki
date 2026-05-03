@@ -16,8 +16,8 @@ from any [corpses](./Corpse.md) they come across.
 
 `> A brigand, looking at your nice purse, is sneaking here.`
 `> `**`look brigand`**
-`This tall man stares back at you, waiting for a chance to make his move.`
-`He has long, slender fingers and he seems to be very adept at using them`
-`to relieve you of your valuables. Out of the corner of your eye, you`
-`notice a rather large scar running down his neck, partially hidden by`
-`his clothing.`
+<div class="wiki-block">
+
+This tall man stares back at you, waiting for a chance to make his move.<br>He has long, slender fingers and he seems to be very adept at using them<br>to relieve you of your valuables. Out of the corner of your eye, you<br>notice a rather large scar running down his neck, partially hidden by<br>his clothing.
+
+</div>

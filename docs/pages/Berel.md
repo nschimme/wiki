@@ -11,6 +11,8 @@ Lorien. She is looking for somebody to
 
 `A small woman is here, appearing thin and malnourished.`
 `> `**`look at Berel`**
-`Her hair is dirty and matted from going days without being cared for. But`
-`beneath the rough exterior her eyes gleam showing that she has not lost her`
-`spirit.`
+<div class="wiki-block">
+
+Her hair is dirty and matted from going days without being cared for. But<br>beneath the rough exterior her eyes gleam showing that she has not lost her<br>spirit.
+
+</div>

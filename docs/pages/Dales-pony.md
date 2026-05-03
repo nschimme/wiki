@@ -13,8 +13,8 @@ best [mounts](./Mount.md) for [dwarves](./Dwarf.md) and
 
 `A strong and agile dales-pony is standing here.`
 `>`**`examine pony`**
-`At first glance, this animal appears to be exceptionally strong, muscular and`
-`spirited. Further examination reveals that its hoofs are broad and large and`
-`its eyes are bright and alert. This courageous, intelligent and kind animal`
-`runs clean, straight and true - an exceptional mount but for its diminutive`
-`size.`
+<div class="wiki-block">
+
+At first glance, this animal appears to be exceptionally strong, muscular and<br>spirited. Further examination reveals that its hoofs are broad and large and<br>its eyes are bright and alert. This courageous, intelligent and kind animal<br>runs clean, straight and true - an exceptional mount but for its diminutive<br>size.
+
+</div>

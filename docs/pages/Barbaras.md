@@ -13,6 +13,8 @@ mob. He loads 1 [gold](./Gold.md),
 
 `The mean bandit leader Barbaras grins at you and draws his sword.`
 `> `**`look barbaras`**
-`He has an ugly scar across his cheek, and glaring madly at you he licks his`
-`lips, eager to let his blade taste your blood. He cackles and lets you know`
-`that you will provide him with his next loot.`
+<div class="wiki-block">
+
+He has an ugly scar across his cheek, and glaring madly at you he licks his<br>lips, eager to let his blade taste your blood. He cackles and lets you know<br>that you will provide him with his next loot.
+
+</div>

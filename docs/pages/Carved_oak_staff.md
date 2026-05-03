@@ -14,16 +14,17 @@ crystal](./Blue_crystal.md) to [focus](./Focus.md) it.
 
 `A polished oaken staff lies here.`
 `>`**`examine staff`**
-`About six feet long, this staff was crafted from a perfect branch of oak`
-`by a master woodworker. Runes are carved on its sides, and its surface`
-`is smoothly polished. Truly this is a masterwork of carpentry.`
-` `
+<div class="wiki-block">
+
+About six feet long, this staff was crafted from a perfect branch of oak<br>by a master woodworker. Runes are carved on its sides, and its surface<br>is smoothly polished. Truly this is a masterwork of carpentry.<br>
+
+</div>
 `>`**`consider staff`**
-`It is a carved oak staff.`
-`This striking weapon can be wielded two-handed.`
-`It is poor while attacking and excellent while defending; its speed is very slow, and it inflicts`
-`little damage upon hitting.`
-`It weighs eleven pounds.`
+<div class="wiki-block">
+
+It is a carved oak staff.<br>This striking weapon can be wielded two-handed.<br>It is poor while attacking and excellent while defending; its speed is very slow, and it inflicts<br>little damage upon hitting.<br>It weighs eleven pounds.
+
+</div>
 
 ## Focus
 
@@ -37,12 +38,11 @@ list of items is as follows:
 
 **`Item`**`                   `**`Effect`**`              `**`Description when embedded`**
 [`Iron bar`](./Bar_of_iron.md)`               +`[`ob`](./Offensive_bonus.md)` and `[`pb`](./Parry_bonus.md)`          its foot is shod with iron`
-`Huge silver bracer``     +ob and pb          silvery bands encircle it from top to bottom`
-`Chunk of metal``         +ob and pb          an orb of black metal surrounds its tip`
-`Lustrous opal``          +attack spell power lustrous fire opal has been inlaid in it`
-`Corberyl``               +attack spell power a shining gemstone embedded near its top shimmers with many colours`
-`Star sapphire``          -spell save         a six-rayed star shines from the middle of a blue stone set in the staff`
-`Brilliant adamant``      -spell save`
+<div class="wiki-block">
+
+Huge silver bracer``     +ob and pb          silvery bands encircle it from top to bottom<br>Chunk of metal``         +ob and pb          an orb of black metal surrounds its tip<br>Lustrous opal``          +attack spell power lustrous fire opal has been inlaid in it<br>Corberyl``               +attack spell power a shining gemstone embedded near its top shimmers with many colours<br>Star sapphire``          -spell save         a six-rayed star shines from the middle of a blue stone set in the staff<br>Brilliant adamant``      -spell save
+
+</div>
 
 Up to three items can be embedded, and they all have to be different. An
 embedded item can't be removed. Depending on what items are embedded,

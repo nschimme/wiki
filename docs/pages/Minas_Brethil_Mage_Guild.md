@@ -10,9 +10,11 @@ Brethil](./Minas_Brethil.md).
 
 `A sorcerer is waiting here to teach his art.`
 `>`**`examine sorcerer`**
-`He is an experienced mage who has specialized in the field of Combat Magic.`
-`He is here to guard the Mage's Guild and his superior knowledge of offensive as`
-`well as defensive spells make him a deadly opponent.`
+<div class="wiki-block">
+
+He is an experienced mage who has specialized in the field of Combat Magic.<br>He is here to guard the Mage's Guild and his superior knowledge of offensive as<br>well as defensive spells make him a deadly opponent.
+
+</div>
 
 ## Spell list
 

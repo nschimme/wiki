@@ -49,50 +49,11 @@ newbie kits.
 
 ## **Tower Hills**
 
-`                      _________________        ____________________`
-`                     /                 ______/                    \`
-`                    /           Farms               Druid           |`
-`                    |                                               |`
-`                    |              Ranger  _  BLACK HILL       +++_/`
-`                    /               |_|   / \  VILLAGE    .++++'  |`
-`                 __/                      |V|     .++++++++       |`
-`                /                          +    .++ Hunter        \`
-`               /                           +   ++    |_|           |`
-`            __/                            ++++'          Old      /`
-`        ___/         hills               .++    |         Mine    |`
-`    ___/                              .+++    | |                 \`
-`   /              Valley            .++ ______| |_/    fields      |`
-`  |                                .+    ___Canyon___           r  |`
-`  |                               ++                         /\ u  |`
-`  | THE BLUE               WAGON++'                          || i  |`
-`  | MOUNTAINS              TRAIL                                n  |`
-`  | <---        Way    .+++++               forest                /`
-`  | ++++.     Station ++                               fields    /`
-`  |     +++++.   +++++'        hills         .^.                 |`
-`   \      +  ++++'                           |0|   Pony-         |`
-`    |     +                            Tower | |   Breeder        \`
-`    |     +.                                _|I|_   |_|      f     \`
-`    |      +               Dry                +              o  +++ |`
-`    |    WORN    hills    Gulch               ++.        +++ r +'   |`
-`     \   TRAIL                                 ++++.  +++'   e      /`
-`     /     +                              +++++'   +++'      s     |`
-`    /      +                hills       ++'                  t    /`
-`   |      +'                         FADED                       |`
-`   |     .+                          TRAIL                        |`
-`  /      +               Plateau  .+++      fields              /`
-` /       +                      +++                            |`
-` |       +               +++++++.                              |`
-` | ========-            +'           Elven                    /`
-` |         ROAD TO THE GREY          Camp                     |`
-` /             HAVENS    =-                                   |`
-`|  <--                    ======-       swamp                  \`
-`|  THE GREY                    -====-             -=====-       |`
-` \  HAVENS                         -====-  -=======     ======= |  `
-`  |                                    -====-  THE SHIRE -->   /`
-`   ___                                        BREE --->      /`
-`       \                      __________                     /`
-`        ______           ___/          ___________________/`
-`               _________/`
+<div class="wiki-block">
+
+&nbsp;                     _________________        ____________________<br>&nbsp;                    /                 ______/                    \<br>&nbsp;                   /           Farms               Druid           |<br>&nbsp;                   |                                               |<br>&nbsp;                   |              Ranger  _  BLACK HILL       +++_/<br>&nbsp;                   /               |_|   / \  VILLAGE    .++++'  |<br>&nbsp;                __/                      |V|     .++++++++       |<br>&nbsp;               /                          +    .++ Hunter        \<br>&nbsp;              /                           +   ++    |_|           |<br>&nbsp;           __/                            ++++'          Old      /<br>&nbsp;       ___/         hills               .++    |         Mine    |<br>&nbsp;   ___/                              .+++    | |                 \<br>   /              Valley            .++ ______| |_/    fields      |<br>  |                                .+    ___Canyon___           r  |<br>  |                               ++                         /\ u  |<br>  | THE BLUE               WAGON++'                          || i  |<br>  | MOUNTAINS              TRAIL                                n  |<br>  | <---        Way    .+++++               forest                /<br>  | ++++.     Station ++                               fields    /<br>  |     +++++.   +++++'        hills         .^.                 |<br>   \      +  ++++'                           |0|   Pony-         |<br>&nbsp;   |     +                            Tower | |   Breeder        \<br>&nbsp;   |     +.                                _|I|_   |_|      f     \<br>&nbsp;   |      +               Dry                +              o  +++ |<br>&nbsp;   |    WORN    hills    Gulch               ++.        +++ r +'   |<br>&nbsp;    \   TRAIL                                 ++++.  +++'   e      /<br>&nbsp;    /     +                              +++++'   +++'      s     |<br>&nbsp;   /      +                hills       ++'                  t    /<br>   |      +'                         FADED                       |<br>   |     .+                          TRAIL                        |<br>  /      +               Plateau  .+++      fields              /<br> /       +                      +++                            |<br> |       +               +++++++.                              |<br> | ========-            +'           Elven                    /<br> |         ROAD TO THE GREY          Camp                     |<br> /             HAVENS    =-                                   |<br>|  <--                    ======-       swamp                  \<br>|  THE GREY                    -====-             -=====-       |<br> \  HAVENS                         -====-  -=======     ======= |  <br>  |                                    -====-  THE SHIRE -->   /<br>   ___                                        BREE --->      /<br>&nbsp;      \                      __________                     /<br>&nbsp;       ______           ___/          ___________________/<br>&nbsp;              _________/
+
+</div>
 
 ## **Shire**
 

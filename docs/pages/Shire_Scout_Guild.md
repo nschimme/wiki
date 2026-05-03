@@ -10,10 +10,11 @@ usually be found wandering around in Hobbiton and the fields nearby.
 
 `A lean and well-travelled hobbit stands here, while resting his legs.`
 `>`**`examine hobbit`**
-`He is lean and in excellent shape for a Hobbit; his hair-covered feet have`
-`carried him many miles. His eyes look wistfully far away, recounting the many`
-`sights he has seen. The knowledge that he has garnered he seems willing to pass`
-`on to others.`
+<div class="wiki-block">
+
+He is lean and in excellent shape for a Hobbit; his hair-covered feet have<br>carried him many miles. His eyes look wistfully far away, recounting the many<br>sights he has seen. The knowledge that he has garnered he seems willing to pass<br>on to others.
+
+</div>
 
 ## Skill list
 

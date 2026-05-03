@@ -13,7 +13,8 @@ butchered to produce a [fine pelt](./Fine_pelt.md) and some
 
 `A roe deer is standing here, watching the terrain while chewing the vegetation.`
 `>`**`examine deer`**
-`Slightly larger and less skittish than the fallow deer, the roe deer is still a`
-`cautious beast. Its flanks are a russet colour, but its underbelly is lighter`
-`in colour. Small horns sprout from behind the ears, but it is said both buck`
-`and doe have these.`
+<div class="wiki-block">
+
+Slightly larger and less skittish than the fallow deer, the roe deer is still a<br>cautious beast. Its flanks are a russet colour, but its underbelly is lighter<br>in colour. Small horns sprout from behind the ears, but it is said both buck<br>and doe have these.
+
+</div>

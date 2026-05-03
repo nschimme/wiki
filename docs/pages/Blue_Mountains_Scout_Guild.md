@@ -9,9 +9,11 @@ at the **Scout Guild** in [Blue Mountains](./Blue_Mountains.md).
 
 `A dwarf trains scouts in the arts of stealth.`
 `>`**`examine Vestri`**
-`He is a thin, sneaky-looking dwarf. He seems willing to`
-`teach you many of the skills dwarven battle-scouts must`
-`master - sneaking, hiding, escaping, and the like.`
+<div class="wiki-block">
+
+He is a thin, sneaky-looking dwarf. He seems willing to<br>teach you many of the skills dwarven battle-scouts must<br>master - sneaking, hiding, escaping, and the like.
+
+</div>
 
 ## Skill list
 

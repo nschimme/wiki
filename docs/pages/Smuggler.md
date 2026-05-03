@@ -13,6 +13,8 @@ some cloth equipment.
 
 `A smuggler is here, angry at having been seen.`
 `>`**`examine smuggler`**
-`This man looks very skilled at his profession.  His lean body, all dressed in`
-`black, looks strong and lithe.  He looks quite dangerous, and you think he is`
-`on his way either to Tharbad or Bree with some goods, or money from a sale.`
+<div class="wiki-block">
+
+This man looks very skilled at his profession.  His lean body, all dressed in<br>black, looks strong and lithe.  He looks quite dangerous, and you think he is<br>on his way either to Tharbad or Bree with some goods, or money from a sale.
+
+</div>

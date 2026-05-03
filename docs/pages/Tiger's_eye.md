@@ -6,9 +6,11 @@ tags:
 ---
 `A polished tiger's eye lies discarded here.`
 `>`**`examine eye`**
-`The gemstone is golden to red-brown with a silky lustre. It is chatoyant, as a`
-`few sharply defined bands of light show across the stone due to aligned`
-`inclusions.`
+<div class="wiki-block">
+
+The gemstone is golden to red-brown with a silky lustre. It is chatoyant, as a<br>few sharply defined bands of light show across the stone due to aligned<br>inclusions.
+
+</div>
 
 `>`**`consider eye`**
 `It is a tiger's eye.`

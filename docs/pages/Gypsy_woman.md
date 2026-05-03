@@ -18,7 +18,9 @@ a [belt](./Plain_leather_belt.md), [lantern](./Lantern.md),
 
 `An old, yet beautiful woman looks piercingly at you.`
 `>`**`examine woman`**
-`Though quite old, this woman has a strange, compelling beauty, perhaps`
-`because of her startlingly clear and piercing hazel eyes. Her long hair,`
-`though showing strands of grey remains lustrous, and her figure trim.`
+<div class="wiki-block">
+
+Though quite old, this woman has a strange, compelling beauty, perhaps<br>because of her startlingly clear and piercing hazel eyes. Her long hair,<br>though showing strands of grey remains lustrous, and her figure trim.
+
+</div>
  

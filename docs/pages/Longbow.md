@@ -10,8 +10,10 @@ tags:
 `taut string tied with knots on both ends and a sturdy grip in the middle.`
 
 `>`**`consider bow`**
-`It is a longbow.`
-`Its accuracy is excellent, its speed fast, and it causes average damage.`
-`It weighs four pounds.`
+<div class="wiki-block">
+
+It is a longbow.<br>Its accuracy is excellent, its speed fast, and it causes average damage.<br>It weighs four pounds.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

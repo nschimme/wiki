@@ -12,9 +12,11 @@ collar](./Studded_leather_collar.md).
 
 `A strong bulldog, with sharp teeth, growls at strangers.`
 `>`**`examine dog`**
-`The dog is substantial and shows nothing but muscles. It has long,`
-`very sharp teeth in its jaw, and it foams at the mouth a little as`
-`it bares its teeth and glares at you.`
+<div class="wiki-block">
+
+The dog is substantial and shows nothing but muscles. It has long,<br>very sharp teeth in its jaw, and it foams at the mouth a little as<br>it bares its teeth and glares at you.
+
+</div>
 
 .
  

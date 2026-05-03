@@ -11,10 +11,11 @@ armourers for around 1 [gold](./Gold.md).
 
 `A fine pair of chain mail gloves are lying here.`
 `>`**`examine gloves`**
-`Countless very small rings of hard steel have been used to create this armour.`
-`Around the wrists the gloves consist of two layers of mail, while the fingers`
-`are formed by many complicated patterns, which nearly offer as much feeling and`
-`control as a piece of chainmail can.`
+<div class="wiki-block">
+
+Countless very small rings of hard steel have been used to create this armour.<br>Around the wrists the gloves consist of two layers of mail, while the fingers<br>are formed by many complicated patterns, which nearly offer as much feeling and<br>control as a piece of chainmail can.
+
+</div>
 
 `>`**`consider gloves`**
 `They are a fine pair of chain mail gloves.`

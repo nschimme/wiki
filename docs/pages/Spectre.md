@@ -12,8 +12,9 @@ he's alive.
 
 `A frightful spectre comes to you, extending his unnatural arms.`
 `>`**`examine spectre`**
-`The ghost is dressed like some sort of ancient priest, its face pale`
-`and expressionless. From the head and down its substance slowly fades`
-`away to become totally transparent near the feet, making the ghost`
-`float softly above the ground.`
+<div class="wiki-block">
+
+The ghost is dressed like some sort of ancient priest, its face pale<br>and expressionless. From the head and down its substance slowly fades<br>away to become totally transparent near the feet, making the ghost<br>float softly above the ground.
+
+</div>
  

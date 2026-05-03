@@ -10,6 +10,8 @@ various locations around [Arda](./Arda.md).
 
 `A giant, strange looking green fungus is here, ready to devour you in seconds.`
 `>`**`examine fungus`**
-`This giant green fungus is a rare but deadly species of giant fungus. Able`
-`to animate itself it considers you its next meal upon which to lay new`
-`fungal filaments and derive nourishment.`
+<div class="wiki-block">
+
+This giant green fungus is a rare but deadly species of giant fungus. Able<br>to animate itself it considers you its next meal upon which to lay new<br>fungal filaments and derive nourishment.
+
+</div>

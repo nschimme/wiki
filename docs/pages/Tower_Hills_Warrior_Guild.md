@@ -10,12 +10,11 @@ Hill](./Black_Hill.md).
 
 `An old, retired warrior is waiting here, eager to share his knowledge.`
 `> `**`examine warrior`**
-`Clad in soft leather armour, this old warrior slowly practices his fighting`
-`techniques. A casual observer might think this old man's tanned face and`
-`furrowed brow belong to a tired soldier but despite his advanced age, he`
-`seems alert and ready for danger. He bears a red scar that runs down the`
-`side of his neck and onto his shoulder, a lasting reminder of a wound`
-`sustained in battle long ago.`
+<div class="wiki-block">
+
+Clad in soft leather armour, this old warrior slowly practices his fighting<br>techniques. A casual observer might think this old man's tanned face and<br>furrowed brow belong to a tired soldier but despite his advanced age, he<br>seems alert and ready for danger. He bears a red scar that runs down the<br>side of his neck and onto his shoulder, a lasting reminder of a wound<br>sustained in battle long ago.
+
+</div>
 
 ## Skill list
 

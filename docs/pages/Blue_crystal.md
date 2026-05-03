@@ -11,9 +11,11 @@ Willow](./Old_Man_Willow.md). It is worth about 35
 
 `A blue crystal has been left here.`
 `>`**`examine crystal`**
-`The crystal is a deep blue and has many facets. It looks to have been cut by an`
-`expert and looks flawless. Upon closer examination, it seems to have an inner`
-`light, pale and only very faintly glowing.`
+<div class="wiki-block">
+
+The crystal is a deep blue and has many facets. It looks to have been cut by an<br>expert and looks flawless. Upon closer examination, it seems to have an inner<br>light, pale and only very faintly glowing.
+
+</div>
 
 `>`**`consider crystal`**
 `It is a blue crystal.`

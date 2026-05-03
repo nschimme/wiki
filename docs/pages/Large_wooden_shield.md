@@ -10,9 +10,11 @@ its weight. It is worth around 10 silver, and is
 sold by most armourers.
 
 `>`**`examine shield`**
-`This large shield is made of many long pieces of wood, held together`
-`side by side by three metal bands. It is a very simple construction;`
-`yet it seems to be very effective.`
+<div class="wiki-block">
+
+This large shield is made of many long pieces of wood, held together<br>side by side by three metal bands. It is a very simple construction;<br>yet it seems to be very effective.
+
+</div>
 
 `>`**`consider shield`**
 `It is a large wooden shield.`

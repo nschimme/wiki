@@ -24,18 +24,11 @@ Example:
 Consider lets you estimate the target's level range:
 
 **`Consider result`**`                          `**`Target's level`**
-`Now where did that chicken go?           six or more levels below you`
-`You could do it with a needle!           four or five  "      "    "`
-`Easy                                     two  or three "      "    "`
-`Fairly easy                              one           "      "    "`
-`The perfect match!                       Your level, of course`
-`You would need some luck!                Your level plus one`
-`You would need a lot of luck!            Your level plus two`
-`You would need a lot of luck and`
-`    great equipment!                     Your level plus three`
-`Do you feel lucky, punk?                 "    "     "    four or five`
-`Are you mad?!                            "    "     "    six or seven`
-`  You ARE mad!!                            "    "     "    eight or more`
+<div class="wiki-block">
+
+Now where did that chicken go?           six or more levels below you<br>You could do it with a needle!           four or five  "      "    "<br>Easy                                     two  or three "      "    "<br>Fairly easy                              one           "      "    "<br>The perfect match!                       Your level, of course<br>You would need some luck!                Your level plus one<br>You would need a lot of luck!            Your level plus two<br>You would need a lot of luck and<br>&nbsp;   great equipment!                     Your level plus three<br>Do you feel lucky, punk?                 "    "     "    four or five<br>Are you mad?!                            "    "     "    six or seven<br>  You ARE mad!!                            "    "     "    eight or more
+
+</div>
 
 See also: [Hit](./Hit.md), [Shoot](./Shoot.md),
 [Cast](./Cast.md)

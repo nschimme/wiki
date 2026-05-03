@@ -18,9 +18,11 @@ blackscroll/bluescroll as keywords.
 
 Examples:
 
-`> recite purple           (recite a purple scroll on yourself)`
-`> recite purplescroll     (same effect)`
-`> recite blackscroll trix (recite a black scroll on trix)`
+<div class="wiki-block">
+
+\> recite purple           (recite a purple scroll on yourself)<br>\> recite purplescroll     (same effect)<br>\> recite blackscroll trix (recite a black scroll on trix)
+
+</div>
 
 See also: [Cast](./Cast.md)
  

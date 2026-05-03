@@ -10,10 +10,11 @@ Galadhon](/pages/Lothlórien).
 
 `Haldir the Elf is here.`
 `>`**`examine Haldir`**
-`Eyes the colour of deep grey shadows that lie among the mellyrn on a starlit `
-`night watch out carefully from beneath a grey cloak. A longbow on his back, a `
-`broad-bladed knife on his belt, Haldir, the Chief of Guard, stands in front of`
-`you, his posture indicating a strength of both body and mind.`
+<div class="wiki-block">
+
+Eyes the colour of deep grey shadows that lie among the mellyrn on a starlit <br>night watch out carefully from beneath a grey cloak. A longbow on his back, a <br>broad-bladed knife on his belt, Haldir, the Chief of Guard, stands in front of<br>you, his posture indicating a strength of both body and mind.
+
+</div>
 
 ## Skill list
 

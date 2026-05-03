@@ -10,9 +10,11 @@ A **veteran Dúnadan scout** teaches [scout](./Thief.md)
 
 `A Dúnadan stands here, dressed in the garb of a woodsman.`
 `>`**`examine scout`**
-`He seems slightly uncomfortable inside; his eyes looking for the wilderness`
-`in which he's at home. His clothes are all green or brown, designed to`
-`blend in with the foliage.`
+<div class="wiki-block">
+
+He seems slightly uncomfortable inside; his eyes looking for the wilderness<br>in which he's at home. His clothes are all green or brown, designed to<br>blend in with the foliage.
+
+</div>
 
 ## Skill list
 

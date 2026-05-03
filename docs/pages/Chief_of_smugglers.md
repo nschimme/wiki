@@ -17,7 +17,9 @@ shield](./Large_metal_full_shield.md).
 
 `The chief of smugglers is here, planning his next move.`
 `>`**`examine smuggler`**
-`This is probably one of the many criminals that creep out of Tharbad.  He is`
-`dressed in black, from head to toe.  He moves with fluid stealth and dexterity.`
-`He attacks you fast as lightning.`
+<div class="wiki-block">
+
+This is probably one of the many criminals that creep out of Tharbad.  He is<br>dressed in black, from head to toe.  He moves with fluid stealth and dexterity.<br>He attacks you fast as lightning.
+
+</div>
  

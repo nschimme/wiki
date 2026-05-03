@@ -10,10 +10,11 @@ corner of [Tharbad](./Tharbad.md).
 
 `A haggard man dressed in tattered robes is here, willing to teach his art.`
 `>`**`examine priest`**
-`This man has the appearance of a fragile old priest. Yet under his thin`
-`robes, sinewy muscles attest to his past strength. His eyes appear `
-`undisturbed by your presence, as if he feels confident you could not be a `
-`threat to him.`
+<div class="wiki-block">
+
+This man has the appearance of a fragile old priest. Yet under his thin<br>robes, sinewy muscles attest to his past strength. His eyes appear <br>undisturbed by your presence, as if he feels confident you could not be a <br>threat to him.
+
+</div>
 
 ## Spell list
 

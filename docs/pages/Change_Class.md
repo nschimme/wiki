@@ -21,15 +21,10 @@ if the one you selected earlier doesn't fit you anymore.
 
 For example:
 
-`>change class`
-`You may choose among the following titles:`
-`  Priest`
-`  Scholar`
-`  Rider`
-`  Healer`
-`  Master Healer`
-`  ...`
-`>change class healer`
-`Ok.`
+<div class="wiki-block">
+
+\>change class<br>You may choose among the following titles:<br>  Priest<br>  Scholar<br>  Rider<br>  Healer<br>  Master Healer<br>  ...<br>\>change class healer<br>Ok.
+
+</div>
 
 See Also: [Class](./Class.md)

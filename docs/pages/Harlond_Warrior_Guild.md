@@ -11,9 +11,11 @@ Harlond. He is permanently under the effect of the
 
 `An impressive elven knight stands watch here (glowing).`
 `>`**`examine knight`**
-`Tall, and bulky as elves go, this warrior has seen combat throughout`
-`the history of Arda. Even though elves do not scar, the toll of battle`
-`can be seen in his steel grey eyes.`
+<div class="wiki-block">
+
+Tall, and bulky as elves go, this warrior has seen combat throughout<br>the history of Arda. Even though elves do not scar, the toll of battle<br>can be seen in his steel grey eyes.
+
+</div>
 
 ## Skill list
 

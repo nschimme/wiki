@@ -13,9 +13,11 @@ Havens](./Grey_Havens.md).
 
 `A crumpled piece of mud-smeared paper lies here.`
 `>`**`examine paper`**
-`The names of local merchants are scribbled on this piece of dirty, mud-smeared`
-`paper. Next to the names there are descriptive terms documenting their physique`
-`and clothing, along with thorough details of the times and routes they take.`
+<div class="wiki-block">
+
+The names of local merchants are scribbled on this piece of dirty, mud-smeared<br>paper. Next to the names there are descriptive terms documenting their physique<br>and clothing, along with thorough details of the times and routes they take.
+
+</div>
 
 `>`**`consider paper`**
 `It is a crumpled, mud-smeared piece of paper.`

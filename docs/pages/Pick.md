@@ -18,7 +18,9 @@ chances at picking.
 
 Examples:
 
-`  > pick door north`
-`  > pick oakdoor`
-`  > pick hiddensafe`
+<div class="wiki-block">
+
+  \> pick door north<br>  \> pick oakdoor<br>  \> pick hiddensafe
+
+</div>
   

@@ -6,9 +6,11 @@ tags:
 ---
 `A wooden wall shield rests on the ground.`
 `>`**`examine wooden`**
-`Crafted from sturdy oak, this wall shield offers you a moderate range of`
-`protection. Leather straps riveted to the inside provide you with a sturdy`
-`grip, allowing you to lift the shield.`
+<div class="wiki-block">
+
+Crafted from sturdy oak, this wall shield offers you a moderate range of<br>protection. Leather straps riveted to the inside provide you with a sturdy<br>grip, allowing you to lift the shield.
+
+</div>
 
 `>`**`consider shield`**
 `It is a wooden wall shield.`

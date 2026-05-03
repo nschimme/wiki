@@ -13,10 +13,11 @@ silver.
 
 `A shield bearing the markings of Arthedain lies here.`
 `>`**`examine shield`**
-`Seven shining stars adorn the front of this kite shield. Thick leather straps`
-`line the inside allowing you to get a firm grip on the handle, affording you`
-`good mobility and protection. It will take an impressive blow for this shield`
-`to break asunder.`
+<div class="wiki-block">
+
+Seven shining stars adorn the front of this kite shield. Thick leather straps<br>line the inside allowing you to get a firm grip on the handle, affording you<br>good mobility and protection. It will take an impressive blow for this shield<br>to break asunder.
+
+</div>
 
 `>`**`consider shield`**
 `It is a shield of Arthedain.`

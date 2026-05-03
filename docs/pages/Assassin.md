@@ -13,6 +13,8 @@ equipment.
 
 `An assassin is here looking for fresh blood and shining coins.`
 `>`**`examine assassin`**
-`This slender, limber-looking man has dark hair and a calm expression.  He`
-`moves silently, not attracting attention to himself.  If you blink your`
-`eyes, you may find that he has vanished from sight.`
+<div class="wiki-block">
+
+This slender, limber-looking man has dark hair and a calm expression.  He<br>moves silently, not attracting attention to himself.  If you blink your<br>eyes, you may find that he has vanished from sight.
+
+</div>

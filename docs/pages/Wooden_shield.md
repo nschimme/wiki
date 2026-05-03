@@ -6,10 +6,11 @@ tags:
 ---
 `A wooden shield is on the ground.`
 `>`**`examine shield`**
-`A single, large oaken plank has been skilfully cut and carved to form this`
-`wooden shield. Two metal bands are pinched to the inner part, allowing a`
-`firm grip on the shield. A couple of large steel nails are inserted in the`
-`sides, reinforcing the shield and making it very strong.`
+<div class="wiki-block">
+
+A single, large oaken plank has been skilfully cut and carved to form this<br>wooden shield. Two metal bands are pinched to the inner part, allowing a<br>firm grip on the shield. A couple of large steel nails are inserted in the<br>sides, reinforcing the shield and making it very strong.
+
+</div>
 
 `>`**`consider shield`**
 `It is a wooden shield.`

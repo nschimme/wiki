@@ -11,6 +11,8 @@ by [small termites](./Small_termite.md).
 
 `A giant termite is here, crushing skulls and bones.`
 `>`**`examine termite`**
-`This termite is huge. Its mandibles seem to have been made to crush bones as`
-`easily as they might chew through wood. It is a dangerous creature, and works`
-`steadily, crushing the skulls and bones of its victims.`
+<div class="wiki-block">
+
+This termite is huge. Its mandibles seem to have been made to crush bones as<br>easily as they might chew through wood. It is a dangerous creature, and works<br>steadily, crushing the skulls and bones of its victims.
+
+</div>

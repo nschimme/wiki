@@ -10,10 +10,11 @@ tags:
 
 `A surprisingly tall Beorning woman stands here.`
 `>`**`examine Katerine`**
-`This woman is very unlike her kind. She is tall, fair skinned with deep`
-`blue eyes and bright red hair. She is well-muscled and sports quite a few`
-`thick scars. Her mannerisms and movement are quick and decisive and behind`
-`her eyes burns a bright flame.`
+<div class="wiki-block">
+
+This woman is very unlike her kind. She is tall, fair skinned with deep<br>blue eyes and bright red hair. She is well-muscled and sports quite a few<br>thick scars. Her mannerisms and movement are quick and decisive and behind<br>her eyes burns a bright flame.
+
+</div>
 
 ## Skill list
 

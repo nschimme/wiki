@@ -11,12 +11,11 @@ An **old gentleman** teaches [thief](./Thief.md)
 
 `An old gentleman is here, watching you.`
 `>`**`examine man`**
-`The old man's shrivelled face is obscured by a great quantity of matted`
-`red hair, and his dark eyes look eagerly from under his bushy red eyebrows.`
-`His clothes are inexpensive and not very new, but a fine silken`
-`handkerchief hangs out of his pocket. If not for a sudden fierce scowl`
-`that sometimes distorts his face, his appearance would be completely`
-`peaceful and ordinary.`
+<div class="wiki-block">
+
+The old man's shrivelled face is obscured by a great quantity of matted<br>red hair, and his dark eyes look eagerly from under his bushy red eyebrows.<br>His clothes are inexpensive and not very new, but a fine silken<br>handkerchief hangs out of his pocket. If not for a sudden fierce scowl<br>that sometimes distorts his face, his appearance would be completely<br>peaceful and ordinary.
+
+</div>
 
 ## Skill list
 

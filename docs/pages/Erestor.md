@@ -9,10 +9,11 @@ at **The Great Library** in [Rivendell](./Rivendell.md).
 
 `Erestor the High Mage of Rivendell is studying here.`
 `>`**`examine Erestor`**
-`A scholarly Noldor elf with striking silver hair, Erestor is Elrond's chief`
-`counsellor. Students of rare magic come to him from faraway lands for his`
-`wisdom in the magical realm is unparalleled. But it is also said that`
-`only the most powerful may learn his art.`
+<div class="wiki-block">
+
+A scholarly Noldor elf with striking silver hair, Erestor is Elrond's chief<br>counsellor. Students of rare magic come to him from faraway lands for his<br>wisdom in the magical realm is unparalleled. But it is also said that<br>only the most powerful may learn his art.
+
+</div>
 
 ## Spell list
 

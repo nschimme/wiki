@@ -15,12 +15,11 @@ Example:
 
 Some abbreviations used in the dictionaries:
 
-`Ad.     Adúnaic`
-`K.      Khuzdul`
-`Q.      Quenya`
-`S.      Sindarin`
-`sing.   singular`
-`plur.   plural`
+<div class="wiki-block">
+
+Ad.     Adúnaic<br>K.      Khuzdul<br>Q.      Quenya<br>S.      Sindarin<br>sing.   singular<br>plur.   plural
+
+</div>
 
 Note: the dictionary is very far from complete right now
  

@@ -11,11 +11,11 @@ unlock the hidden wall to the east of the
 
 `A small twisted root is sticking out of the ground here.`
 `>`**`examine root`**
-`The small root is extremely twisted; its arms are closely knit into themselves`
-`creating a strange, fascinating pattern. It has been cleaned for loose dirt, so`
-`you can really admire the artwork of nature. The short, thin piece of trunk on`
-`it has been shaped into a strange, rectangular pattern. It looks like someone`
-`has put some work into this root to keep it as a work of art or something.`
+<div class="wiki-block">
+
+The small root is extremely twisted; its arms are closely knit into themselves<br>creating a strange, fascinating pattern. It has been cleaned for loose dirt, so<br>you can really admire the artwork of nature. The short, thin piece of trunk on<br>it has been shaped into a strange, rectangular pattern. It looks like someone<br>has put some work into this root to keep it as a work of art or something.
+
+</div>
 
 `>`**`consider root`**
 `It is a small twisted root.`

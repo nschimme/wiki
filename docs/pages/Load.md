@@ -14,14 +14,11 @@ if a crossbow is loaded by looking at it.
 
 Some examples:
 
-`>load 2.crossbow`
-`You load a bolt into your crossbow.`
-`>load                                 (loads the crossbow you're wielding)`
-`But your crossbow is already loaded!`
-`>look in crossbow`
-`It is loaded with a bolt.`
-`>unload`
-`You recover a bolt from a crossbow.`
+<div class="wiki-block">
+
+\>load 2.crossbow<br>You load a bolt into your crossbow.<br>\>load                                 (loads the crossbow you're wielding)<br>But your crossbow is already loaded!<br>\>look in crossbow<br>It is loaded with a bolt.<br>\>unload<br>You recover a bolt from a crossbow.
+
+</div>
 
 See also: [Shoot](./Shoot.md), [Archery](./Archery.md),
 [Recover](./Recover.md), Missile

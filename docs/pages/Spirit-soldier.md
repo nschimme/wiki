@@ -11,7 +11,8 @@ Fornost](./Old_Fornost.md). They are incorporeal. They load with a
 
 `An ancient spirit, dressed in the arms of a soldier, challenges you.`
 `>`**`examine spirit`**
-`Standing alert here, this soldier raises his weapon against you. The armour`
-`he wears is quite visible, however, the skin underneath is nearly transparent.`
-`His ancient and grizzled face seems full of unquenchable hunger...hunger`
-`for death, hunger for life, hunger for vengeance.`
+<div class="wiki-block">
+
+Standing alert here, this soldier raises his weapon against you. The armour<br>he wears is quite visible, however, the skin underneath is nearly transparent.<br>His ancient and grizzled face seems full of unquenchable hunger...hunger<br>for death, hunger for life, hunger for vengeance.
+
+</div>

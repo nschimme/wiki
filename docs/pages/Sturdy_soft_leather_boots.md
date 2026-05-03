@@ -12,9 +12,11 @@ copper and can be bought from most armourers.
 
 `A sturdy pair of soft leather boots are on the ground.`
 `> `**`look boots`**
-`These boots are of calf-high length and have been crafted from brown leather,`
-`lined with a soft gentle fur. The boots look as though they might offer some`
-`protection from the elements.`
+<div class="wiki-block">
+
+These boots are of calf-high length and have been crafted from brown leather,<br>lined with a soft gentle fur. The boots look as though they might offer some<br>protection from the elements.
+
+</div>
 
 `> `**`consider boots`**
 `They are a sturdy pair of soft leather boots.`

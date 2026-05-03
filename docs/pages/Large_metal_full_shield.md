@@ -11,10 +11,11 @@ most armourers.
 
 `A large metal full shield is on the ground.`
 `>`**`look shield`**
-`This large, rectangular shield is forged out of pure steel. A picture of two`
-`warriors engaged in battle has been affixed on the front plate. The sides are`
-`reinforced with large bands of iron that are attached by nails. Two leather`
-`strips are pinched onto the shield, preventing it from slipping off the arm.`
+<div class="wiki-block">
+
+This large, rectangular shield is forged out of pure steel. A picture of two<br>warriors engaged in battle has been affixed on the front plate. The sides are<br>reinforced with large bands of iron that are attached by nails. Two leather<br>strips are pinched onto the shield, preventing it from slipping off the arm.
+
+</div>
 
 `>`**`consider shield`**
 `It is a large metal full shield.`

@@ -10,10 +10,11 @@ Forlond.
 
 `A grey haired elf is standing here, ready to share his knowledge.`
 `>`**`examine elf`**
-`He is a tall, elderly elf, with grey hair and grey eyes. This experienced`
-`magician has travelled all over Arda, learning the most exotic spells and`
-`incantations. He can teach you many formidable spells, if you are willing to`
-`learn them.`
+<div class="wiki-block">
+
+He is a tall, elderly elf, with grey hair and grey eyes. This experienced<br>magician has travelled all over Arda, learning the most exotic spells and<br>incantations. He can teach you many formidable spells, if you are willing to<br>learn them.
+
+</div>
 
 ## Spell list
 

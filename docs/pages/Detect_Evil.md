@@ -11,15 +11,11 @@ that shows you a red aura around [evil](./Alignment.md) creatures.
 Though it can give you an idea which mobiles you
 can kill to improve your alignment, it is overall not very useful.
 
-`Syntax      : cast 'detect evil' [self-only]`
-`Type        : Detection`
-`Accumulative: No`
-`Duration    : Yes`
-`Casting     : Normal`
-`Position    : Standing`
-`Level       : Level 1`
-`Class       : Cleric`
-`Min. Mana   : 5`
+<div class="wiki-block">
+
+Syntax      : cast 'detect evil' [self-only]<br>Type        : Detection<br>Accumulative: No<br>Duration    : Yes<br>Casting     : Normal<br>Position    : Standing<br>Level       : Level 1<br>Class       : Cleric<br>Min. Mana   : 5
+
+</div>
 
 `Example:`
 

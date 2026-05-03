@@ -22,30 +22,22 @@ Several options exist in order to view specific things:
 
 These maps have the following key:
 
-` A  Ingrove                      T  Tharbad`
-` B  Bree                         W  Troll Warrens`
-` C  Caras Galadhon               X  Your current location`
-` D  Dwarven Homes                Z  Zaugurz Outpost`
-` E  Edoras                       `
-` F  Fornost                      %  Swamps`
-` G  The Grey Havens              *  Forest`
-` H  Helm's Deep                  :  Plains, Fields`
-` I  Isengard                     =  Bridge`
-` M  Moria                        ?  Zone under construction`
-` N  Dol Guldur                   ^  Mountains`
-` O  Orc Caves                    ~  Hills`
-` R  Rivendell`
+<div class="wiki-block">
+
+ A  Ingrove                      T  Tharbad<br> B  Bree                         W  Troll Warrens<br> C  Caras Galadhon               X  Your current location<br> D  Dwarven Homes                Z  Zaugurz Outpost<br> E  Edoras                       <br> F  Fornost                      %  Swamps<br> G  The Grey Havens              *  Forest<br> H  Helm's Deep                  :  Plains, Fields<br> I  Isengard                     =  Bridge<br> M  Moria                        ?  Zone under construction<br> N  Dol Guldur                   ^  Mountains<br> O  Orc Caves                    ~  Hills<br> R  Rivendell
+
+</div>
 
 'map darkness' shows the influence of [Sauron](./Sauron.md) in
 nearby zones.
 
 This map has the following key:
 
-` +   Good zone. Sauron's influence is actively repelled`
-` .   Neutral zone`
-` -   Evil zone. Sauron's minions are most often encountered here`
-` =   Zone under the influence of Sauron's Darkness (treated as`
-`     an evil zone, until the darkness dissolves)`
+<div class="wiki-block">
+
+ \+   Good zone. Sauron's influence is actively repelled<br> .   Neutral zone<br> \-   Evil zone. Sauron's minions are most often encountered here<br> =   Zone under the influence of Sauron's Darkness (treated as<br>&nbsp;    an evil zone, until the darkness dissolves)
+
+</div>
 
 Notes:
 
@@ -56,9 +48,11 @@ Notes:
 
 Examples:
 
-`> map r       Map rooms.`
-`> map g d     Shows a global map of Sauron's influence.`
-`> map g w     Shows a global map of the weather on Arda.`
+<div class="wiki-block">
+
+\> map r       Map rooms.<br>\> map g d     Shows a global map of Sauron's influence.<br>\> map g w     Shows a global map of the weather on Arda.
+
+</div>
 
 There are also external client applications (called 'mapper') that can
 help you in creating maps. See [mappers](./Mapper.md) and [Rules

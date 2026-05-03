@@ -49,23 +49,11 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Forest green cloak\*\*
 
-` *Eoghha `
-` *Elven hunters near Rivendell `
-` *Spirit northeast of ``Morthan``, under hidden 'cairn' and 'stoneblock' `
-` *Chest 2u, s from secret 'chest' northeast from Grey Havens (unsized)`
-` *In skeleton at Mrak (unsized)`
-` *``BBT`` entrance (unsized)`
-` *On the experienced trapper near ``Malardil`
-` *On the gnarled old man behind the hidden 'treedoor' near the dunland oak tree`
-` *On Cinard`
-` *On Ilyne the Ranger of Ingrove`
-` *In Lorien in the zone all west from the city, in room all west and up in a chest (unsized)`
-` *In corpse under stoneslab at boulders south of Brolg`
-` *Inside husk at Frychra (sometimes)`
-` *Crumbling cavern in Emyn-nu-Fuin (unsized)`
-` *rarely loads on Bill Ferny`
-` *quest reward for 'Dye Quest' just south of GH`
-` *quest reward for 'Shopkeepers Daughter' after rescued in the Shire`
+<div class="wiki-block">
+
+ \*Eoghha <br> \*Elven hunters near Rivendell <br> \*Spirit northeast of ``Morthan``, under hidden 'cairn' and 'stoneblock' <br> \*Chest 2u, s from secret 'chest' northeast from Grey Havens (unsized)<br> \*In skeleton at Mrak (unsized)<br> \*``BBT`` entrance (unsized)<br> \*On the experienced trapper near ``Malardil<br> \*On the gnarled old man behind the hidden 'treedoor' near the dunland oak tree<br> \*On Cinard<br> \*On Ilyne the Ranger of Ingrove<br> \*In Lorien in the zone all west from the city, in room all west and up in a chest (unsized)<br> \*In corpse under stoneslab at boulders south of Brolg<br> \*Inside husk at Frychra (sometimes)<br> \*Crumbling cavern in Emyn-nu-Fuin (unsized)<br> \*rarely loads on Bill Ferny<br> \*quest reward for 'Dye Quest' just south of GH<br> \*quest reward for 'Shopkeepers Daughter' after rescued in the Shire
+
+</div>
 
 - - Russet cloak\*\*
 
@@ -74,10 +62,11 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Ragged, blackened cloak\*\*
 
-` *Thena, at ``Morthan`
-` *Urgorl's chest (unsized)`
-` *Ushurg's chest (unsized)`
-` *Dark cave in Emyn-nu-Fuin (unsized)`
+<div class="wiki-block">
+
+ \*Thena, at ``Morthan<br> \*Urgorl's chest (unsized)<br> \*Ushurg's chest (unsized)<br> \*Dark cave in Emyn-nu-Fuin (unsized)
+
+</div>
 
 - - Huge black bear fur\*\*
 
@@ -85,13 +74,11 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Black warg fur\*\*
 
-` *A warg pack-leader in pine forest south of the Dark Tower`
-` *A huge stone troll (one of the 3) at cave just east of the Dark Tower`
-` *On ``Shaghosh`
-` *Down from hidden 'secretstair' in ``Shaghosh`
-` *A huge stone giant behind hidden exit brush bit northeast of Nagash`
-` *Inside husk at Frychra (sometimes)`
-` *Inside skeleton underneath Dol Guldur guarded by 4 bats`
+<div class="wiki-block">
+
+ \*A warg pack-leader in pine forest south of the Dark Tower<br> \*A huge stone troll (one of the 3) at cave just east of the Dark Tower<br> \*On ``Shaghosh<br> \*Down from hidden 'secretstair' in ``Shaghosh<br> \*A huge stone giant behind hidden exit brush bit northeast of Nagash<br> \*Inside husk at Frychra (sometimes)<br> \*Inside skeleton underneath Dol Guldur guarded by 4 bats
+
+</div>
 
 - - Imposing, golden mantle\*\*
 
@@ -104,26 +91,19 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Buttoned cassock\*\*
 
-` *``Bill Ferny`
-` *Ranger near Woodhall, in Eregion`
-` *Wealthy widower in Ingrove`
+<div class="wiki-block">
+
+ \*``Bill Ferny<br> \*Ranger near Woodhall, in Eregion<br> \*Wealthy widower in Ingrove
+
+</div>
 
 - - Mottled cloak\*\*
 
-` *On ``Tall orc`
-` *Behind hidden 'grasses' southeast of tall orc`
-` *On Ohurk-uai chief.`
-` *On Brolg`
-` *On the ``Bloodwight`
-` *On the ``Necromancer`
-` *On Mordrath the Uroth-Ghásh in the ``Dunland Orc Caves`
-` *On the goblin shaman in the goblin caves west of NOC`
-` *On liche in Dunland`
-` *On ``Bloodwight`` `
-` *On Thrakghash of the Mordor in western part of NOC`
-` *On heavily scarred orc, the ranger GM in NOC`
-` *On Narag, the scout GM in ZOC`
-` *At backway of Mrak`
+<div class="wiki-block">
+
+ \*On ``Tall orc<br> \*Behind hidden 'grasses' southeast of tall orc<br> \*On Ohurk-uai chief.<br> \*On Brolg<br> \*On the ``Bloodwight<br> \*On the ``Necromancer<br> \*On Mordrath the Uroth-Ghásh in the ``Dunland Orc Caves<br> \*On the goblin shaman in the goblin caves west of NOC<br> \*On liche in Dunland<br> \*On ``Bloodwight`` <br> \*On Thrakghash of the Mordor in western part of NOC<br> \*On heavily scarred orc, the ranger GM in NOC<br> \*On Narag, the scout GM in ZOC<br> \*At backway of Mrak
+
+</div>
 
 - - Sacred Cloak\*\*
 
@@ -144,9 +124,11 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Black hooded cloak\*\*
 
-` *Sage (kill or for darkies as a reward)`
-` *Adrahar (See quest: Ithildir and Annariel)`
-` *Eblees`
+<div class="wiki-block">
+
+ \*Sage (kill or for darkies as a reward)<br> \*Adrahar (See quest: Ithildir and Annariel)<br> \*Eblees
+
+</div>
 
 - - Fine white cloak\*\*
 
@@ -202,20 +184,19 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Opal\*\*
 
-` *In chest at statues in Woodhall, in Eregion`
-` *Ancient warg near Khuzur (butcher corpse to get)`
-` *On the crooked, long-armed creature in southeastern Lorien`
-` *``Amon Othar`
-` *``Shaghosh`
-` *``Bulag`
+<div class="wiki-block">
+
+ \*In chest at statues in Woodhall, in Eregion<br> \*Ancient warg near Khuzur (butcher corpse to get)<br> \*On the crooked, long-armed creature in southeastern Lorien<br> \*``Amon Othar<br> \*``Shaghosh<br> \*``Bulag
+
+</div>
 
 - - Emerald\*\*
 
-` *In the Moria circlet chest`
-` *2d, open wellrocks, e, u, n from the water-drake in Moria (need ``Balrog`` keys)`
-` *``Shaghosh`
-` *On animated uruks in Unqalome area (rarely)`
-` *``Scaly beast`` (butcher corpse to get, extremely rare)`
+<div class="wiki-block">
+
+ \*In the Moria circlet chest<br> \*2d, open wellrocks, e, u, n from the water-drake in Moria (need ``Balrog`` keys)<br> \*``Shaghosh<br> \*On animated uruks in Unqalome area (rarely)<br> \*``Scaly beast`` (butcher corpse to get, extremely rare)
+
+</div>
 
 - - Adamant\*\*
 
@@ -223,26 +204,27 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Star sapphire\*\*
 
-` *On the ``Ghostly Captain`
-` *``Scaly beast`` (butcher corpse to get, extremely rare)`
-` *Inside husk at Frychra (sometimes)`
+<div class="wiki-block">
+
+ \*On the ``Ghostly Captain<br> \*``Scaly beast`` (butcher corpse to get, extremely rare)<br> \*Inside husk at Frychra (sometimes)
+
+</div>
 
 - - Diamond\*\*
 
-` *Shops`
-` *``Balrog`
-` *On animated uruks in ``Unqalome`` area (rarely)`
-` *``Scaly beast`` (butcher corpse to get, extremely rare)`
+<div class="wiki-block">
+
+ \*Shops<br> \*``Balrog<br> \*On animated uruks in ``Unqalome`` area (rarely)<br> \*``Scaly beast`` (butcher corpse to get, extremely rare)
+
+</div>
 
 - - Amethyst\*\*
 
-` *Lorien: in manacup room (`[`Dagnir's Ghost quest`](/pages/Quest#dagnir's_ghost's_quest.md)`)`
-` *In the chest behind hidden 'carpet' under Cinard, Eregion`
-` *In OiE, from dispelling the statues that guard the forge`
-` *``Bulag`
-` *In the chest west of the orkish chieftain in Dunland`
-` *In the pouch worn by Malardil`
-` *east of elf trapper, north of Forlond, above underground river, open brokenlimestone. Loads on green fungus`
+<div class="wiki-block">
+
+ \*Lorien: in manacup room (`[`Dagnir's Ghost quest`](/pages/Quest#dagnir's_ghost's_quest.md)`)<br> \*In the chest behind hidden 'carpet' under Cinard, Eregion<br> \*In OiE, from dispelling the statues that guard the forge<br> \*``Bulag<br> \*In the chest west of the orkish chieftain in Dunland<br> \*In the pouch worn by Malardil<br> \*east of elf trapper, north of Forlond, above underground river, open brokenlimestone. Loads on green fungus
+
+</div>
 
 - - Fine silver bracelet\*\*
 
@@ -275,11 +257,11 @@ description: 'Given by the Sage for a pale blue stone'
 
 - - Huge silvery bracer\*\*
 
-` *On the huge stone giant which loads: 2w s d e 2s e n from the half-elven cutthroat`
-` *On the huge stone giant which loads bit east of way/slide between ZOC and NOC, behind hidden exit "quarry".`
-` *On the huge stone giant which loads: d e s 3w open bushes d s open stones s w n from Moria's east gate`
-` *On the huge stone giant which loads: bit se of NOC roots behindhidden brush  /Griand`
-` *On any stone statue (behind 'dwarfdoor' in Moria; in `[`Amon Othar``; in Woodhall; under 'tombstone' on ABR, in Dunland vellum loading spot)`
+<div class="wiki-block">
+
+ \*On the huge stone giant which loads: 2w s d e 2s e n from the half-elven cutthroat<br> \*On the huge stone giant which loads bit east of way/slide between ZOC and NOC, behind hidden exit "quarry".<br> \*On the huge stone giant which loads: d e s 3w open bushes d s open stones s w n from Moria's east gate<br> \*On the huge stone giant which loads: bit se of NOC roots behindhidden brush  /Griand<br> \*On any stone statue (behind 'dwarfdoor' in Moria; in `[`Amon Othar``; in Woodhall; under 'tombstone' on ABR, in Dunland vellum loading spot)
+
+</div>
 
 ##### Necklaces
 
@@ -321,10 +303,11 @@ description: 'Given by the Sage for a pale blue stone'
 
 `  *Is composed of opaque amulet and gleaming stone (put stone amulet to assemble it). Opaque amulet loads in Urumurk in chest.`
 
-`  *Gleaming stone loads on 3 places (1 at a time):`
-`   - Skeleton in troll cave near warty trolls`
-`   - Corpse n of misty swamp guarded by tarantula/hideous spiders`
-`   - In corpse (or maybe it was skeleton, not sure) behind delayed exit at brood mother`
+<div class="wiki-block">
+
+  \*Gleaming stone loads on 3 places (1 at a time):<br>   \- Skeleton in troll cave near warty trolls<br>   \- Corpse n of misty swamp guarded by tarantula/hideous spiders<br>   \- In corpse (or maybe it was skeleton, not sure) behind delayed exit at brood mother
+
+</div>
 
 ##### Rings
 
@@ -408,15 +391,19 @@ time.
 
 - - Engraved broadsword\*\*
 
-` *``Bloodwight`
-` *Glorfindel`
-` *``Eblees`
+<div class="wiki-block">
+
+ \*``Bloodwight<br> \*Glorfindel<br> \*``Eblees
+
+</div>
 
 - - Dunadan blade\*\*
 
-` *``Kraken`
-` *``Eblees`
-` *Inside husk at Frychra (sometimes)`
+<div class="wiki-block">
+
+ \*``Kraken<br> \*``Eblees<br> \*Inside husk at Frychra (sometimes)
+
+</div>
 
 - - Wightblade\*\*
 
@@ -429,11 +416,11 @@ time.
 
 - - Bastard sword\*\*
 
-` *In the chest guarded by ghost in Harlond area`
-` *On the western evil priest`
-` *On the Outcast`
-` *In rack in secretplace northeast of Wuda`
-` *In the chest behind hidden 'fireplace' in ``Dead Knight`` area`
+<div class="wiki-block">
+
+ \*In the chest guarded by ghost in Harlond area<br> \*On the western evil priest<br> \*On the Outcast<br> \*In rack in secretplace northeast of Wuda<br> \*In the chest behind hidden 'fireplace' in ``Dead Knight`` area
+
+</div>
 
 - - Jagged-edged scimitar\*\*
 
@@ -442,17 +429,11 @@ time.
 
 - - Dark broadsword\*\*
 
-` *On the wraiths in the tower just west of the Canyon Trail`
-` *On Brolg`
-` *On the ``Bloodwight`
-` *On the ``Dead Knight`
-` *On wraith just outside Old Fornost`
-` *Shade in tower east of Thorns between Khuzur and ABR`
-` *Shade north of Vale village`
-` *At bald orc south of Old Forest Road in a rack`
-` *On wraiths at entrance to strange black helmet place`
-` *On wraiths guarding entrance to ``Ghostly Captain`
-` *On wraiths east of Rivendell in area where GCM pops`
+<div class="wiki-block">
+
+ \*On the wraiths in the tower just west of the Canyon Trail<br> \*On Brolg<br> \*On the ``Bloodwight<br> \*On the ``Dead Knight<br> \*On wraith just outside Old Fornost<br> \*Shade in tower east of Thorns between Khuzur and ABR<br> \*Shade north of Vale village<br> \*At bald orc south of Old Forest Road in a rack<br> \*On wraiths at entrance to strange black helmet place<br> \*On wraiths guarding entrance to ``Ghostly Captain<br> \*On wraiths east of Rivendell in area where GCM pops
+
+</div>
 
 #### Piercing Weapons
 
@@ -474,10 +455,11 @@ time.
 
 - - Elven dagger\*\*
 
-` *Elven scout sw of Ingrove`
-` *Forest sw of Ingrove with trolls`
-` *Inside husk at Frychra (sometimes)`
-` *Wood elf from Mirkwood (wields it after he is rescued from the prison)`
+<div class="wiki-block">
+
+ \*Elven scout sw of Ingrove<br> \*Forest sw of Ingrove with trolls<br> \*Inside husk at Frychra (sometimes)<br> \*Wood elf from Mirkwood (wields it after he is rescued from the prison)
+
+</div>
 
 - - nimble blade\*\*
 
@@ -485,11 +467,11 @@ time.
 
 - - Gem-inlaid knife\*\*
 
-` *Gaunt man (BN Ranger guildmaster)`
-` *Cinard the Master-Thief`
-` *``Dunland vellum place`
-` *Bear Statue east of Lothlorien`
-` *Inside husk at Frychra (sometimes)`
+<div class="wiki-block">
+
+ \*Gaunt man (BN Ranger guildmaster)<br> \*Cinard the Master-Thief<br> \*``Dunland vellum place<br> \*Bear Statue east of Lothlorien<br> \*Inside husk at Frychra (sometimes)
+
+</div>
 
 - - Sharp thorn\*\*
 
@@ -498,9 +480,11 @@ time.
 
 - - Sacrificial knife\*\*
 
-` *On the goblin shaman in the goblin caves west of NOC`
-` *On Brolg`
-` *On ``Nagash`
+<div class="wiki-block">
+
+ \*On the goblin shaman in the goblin caves west of NOC<br> \*On Brolg<br> \*On ``Nagash
+
+</div>
 
 - - Barbed fang\*\*
 
@@ -508,12 +492,11 @@ time.
 
 - - Nasty orkish fang\*\*
 
-` *On the ``Necromancer`
-` *Behind hidden 'grasses' southeast of tall orc`
-` *In the chest east of the ``Necromancer`
-` *On Lurg leaders and expelled orc in Moria.`
-` *Mordrath the Uroth-Ghásh in the ``Dunland Orc Caves`
-` *On the Orkish Assassin behind trapdoor in wnoc`
+<div class="wiki-block">
+
+ \*On the ``Necromancer<br> \*Behind hidden 'grasses' southeast of tall orc<br> \*In the chest east of the ``Necromancer<br> \*On Lurg leaders and expelled orc in Moria.<br> \*Mordrath the Uroth-Ghásh in the ``Dunland Orc Caves<br> \*On the Orkish Assassin behind trapdoor in wnoc
+
+</div>
 
 #### Concussion Weapons
 
@@ -548,9 +531,11 @@ time.
 
 - - Heavy morningstar\*\*
 
-` *``Wight Lord`
-` *Orkish chieftain in NOC`
-` *Sodmat olog`
+<div class="wiki-block">
+
+ \*``Wight Lord<br> \*Orkish chieftain in NOC<br> \*Sodmat olog
+
+</div>
 
 - - Cruelly spiked mace\*\*
 
@@ -573,9 +558,11 @@ time.
 
 - - War mattock\*\*
 
-` *``Mezagor`
-` *On the stationary black uruk patrol in Moria (loads on troll)`
-` *Inside husk at Frychra (sometimes)`
+<div class="wiki-block">
+
+ \*``Mezagor<br> \*On the stationary black uruk patrol in Moria (loads on troll)<br> \*Inside husk at Frychra (sometimes)
+
+</div>
 
 - - Heavy warhammer\*\*
 
@@ -621,9 +608,11 @@ time.
 
 - - Mighty dwarven axe\*\*
 
-` *``Overseer`
-` *``Amon Othar`
-` *In a dwarven skeleton, behind the Moria Kraken`
+<div class="wiki-block">
+
+ \*``Overseer<br> \*``Amon Othar<br> \*In a dwarven skeleton, behind the Moria Kraken
+
+</div>
 
 #### Charging Weapons
 
@@ -654,11 +643,11 @@ time.
 
 - - Black horn shortbow\*\*
 
-` *NOOC (orkish caves in Dunland), in rack guarded by chieftain. Chieftain blocks exit to bhsb, but he is a wimp, he shoots and flees around, so just lure him away if you can't kill him.`
-` *In the skeleton where The (not "a") Dwarven Statue loads, in Dunland`
-` *On experienced explorers (one near elven camp, ABR - another, Fangorn) - actually I believe these are the same, he just wanders a lot and loads randomly`
-` *In corpse behind hidden 'stone' guarded by cavebear southwest from Isengard.`
-` *On dunlending trappers (extremely rare)`
+<div class="wiki-block">
+
+ \*NOOC (orkish caves in Dunland), in rack guarded by chieftain. Chieftain blocks exit to bhsb, but he is a wimp, he shoots and flees around, so just lure him away if you can't kill him.<br> \*In the skeleton where The (not "a") Dwarven Statue loads, in Dunland<br> \*On experienced explorers (one near elven camp, ABR - another, Fangorn) - actually I believe these are the same, he just wanders a lot and loads randomly<br> \*In corpse behind hidden 'stone' guarded by cavebear southwest from Isengard.<br> \*On dunlending trappers (extremely rare)
+
+</div>
 
 - - Elven shortbow\*\*
 
@@ -666,9 +655,11 @@ time.
 
 - - Orkish shortbow\*\*
 
-` *Dark orkish archers inside Moria's east gate`
-` *In the corpse at vultures NW of Khuzur`
-` *Hidden in "Smelly Cave" SE corner of the zone south of Lorien, guarded by Mottled snake.`
+<div class="wiki-block">
+
+ \*Dark orkish archers inside Moria's east gate<br> \*In the corpse at vultures NW of Khuzur<br> \*Hidden in "Smelly Cave" SE corner of the zone south of Lorien, guarded by Mottled snake.
+
+</div>
 
 #### Projectiles
 
@@ -687,9 +678,11 @@ time.
 
 - - Metal-cased bolts\*\*
 
-` *Dunland Orc-Chieftain`
-` *DT Captain (x3)`
-` *BM weaponsmith`
+<div class="wiki-block">
+
+ \*Dunland Orc-Chieftain<br> \*DT Captain (x3)<br> \*BM weaponsmith
+
+</div>
 
 - - Darkened bolts\*\*
 
@@ -719,12 +712,11 @@ time.
 
 - - Great helm\*\*
 
-` *On the Death Knight`
-` *On the Spirit Knight`
-` *On ``Muranog`
-` *On one of the trolls at the entrance to ``Ghostly Captain`
-` *Hidden 1s of 'stoneblock' (hidden exit) in boulders area.`
-` *On olog in Icedoor area.`
+<div class="wiki-block">
+
+ \*On the Death Knight<br> \*On the Spirit Knight<br> \*On ``Muranog<br> \*On one of the trolls at the entrance to ``Ghostly Captain<br> \*Hidden 1s of 'stoneblock' (hidden exit) in boulders area.<br> \*On olog in Icedoor area.
+
+</div>
 
 - - Horse-crested helm\*\*
 
@@ -750,10 +742,11 @@ time.
 
 - - Fine chain coif\*\*
 
-` *Spirit-soldiers in ``Ghostly Captain`
-` *``Orkish Chieftain`` in Dunland`
-` *LBF when dark`
-` *Caravan in DG(need 2)`
+<div class="wiki-block">
+
+ \*Spirit-soldiers in ``Ghostly Captain<br> \*``Orkish Chieftain`` in Dunland<br> \*LBF when dark<br> \*Caravan in DG(need 2)
+
+</div>
 
 - - Finely woven hood\*\*
 
@@ -777,19 +770,19 @@ time.
 
 - - White chain mail jerkin\*\*
 
-` *Commanding orc inside the west gate of Moria`
-` *On the brown-skinned orcs when the Last Bridge fort is popped dark`
-` *On Glorfindel`
+<div class="wiki-block">
+
+ \*Commanding orc inside the west gate of Moria<br> \*On the brown-skinned orcs when the Last Bridge fort is popped dark<br> \*On Glorfindel
+
+</div>
 
 - - Fine metal breastplate\*\*
 
-` *``Overseer`
-` *Old Wight`
-` *``Muranog`
-` *On the ``Ghostly Captain`
-` *On Gumak.`
-` *Throulhuk chest`
-` *3x wraith near GCM`
+<div class="wiki-block">
+
+ \*``Overseer<br> \*Old Wight<br> \*``Muranog<br> \*On the ``Ghostly Captain<br> \*On Gumak.<br> \*Throulhuk chest<br> \*3x wraith near GCM
+
+</div>
 
 - - Fine metal boots\*\*
 
@@ -797,14 +790,11 @@ time.
 
 - - Fine chain hauberk\*\*
 
-` *Men before Magus in DG`
-` *Ohurk-hai chief?(didn't load)`
-` *The gatekeeper at Wulfston (Broghha's village)`
-` *3.orc in Ancient Tower south or Brolg when popped Dark`
-` *On one of the goblin warriors following Goblin Shaman in Goblin Caves near DT`
-` *3.elite following Rilhir the captain if DT is popped white`
-` *LBF when dark`
-` *Caravan in DG(need 2)`
+<div class="wiki-block">
+
+ \*Men before Magus in DG<br> \*Ohurk-hai chief?(didn't load)<br> \*The gatekeeper at Wulfston (Broghha's village)<br> \*3.orc in Ancient Tower south or Brolg when popped Dark<br> \*On one of the goblin warriors following Goblin Shaman in Goblin Caves near DT<br> \*3.elite following Rilhir the captain if DT is popped white<br> \*LBF when dark<br> \*Caravan in DG(need 2)
+
+</div>
 
 - - grey tunic\*\*
 
@@ -826,9 +816,11 @@ time.
 
 - - White chain mail sleeves\*\*
 
-` *``Mezagor`
-` *Spectyre sarcophagus s from where the fine silvery morningstar loads`
-` *On Glorfindel`
+<div class="wiki-block">
+
+ \*``Mezagor<br> \*Spectyre sarcophagus s from where the fine silvery morningstar loads<br> \*On Glorfindel
+
+</div>
 
 - - Fine vambraces\*\*
 
@@ -842,14 +834,11 @@ time.
 
 - - Fine chain sleeves\*\*
 
-` *Men before Magus in DG`
-` *On Broghha`
-` *On Gumak in OOC`
-` *1.orc in Ancient Tower south of Brolg when popped Dark`
-` *3.Bodyguard at Guardian NOC`
-` *DT captain room when dark`
-` *LBF`
-` *Caravan in DG(need 2)`
+<div class="wiki-block">
+
+ \*Men before Magus in DG<br> \*On Broghha<br> \*On Gumak in OOC<br> \*1.orc in Ancient Tower south of Brolg when popped Dark<br> \*3.Bodyguard at Guardian NOC<br> \*DT captain room when dark<br> \*LBF<br> \*Caravan in DG(need 2)
+
+</div>
 
 - - Black arm wrapping\*\* (eff vs poison)
 
@@ -863,23 +852,27 @@ time.
 
 - - Fine metal gauntlets\*\*
 
-` *``Umuk`
-` *``Muranog`
-` *On the ``Ghostly Captain`
+<div class="wiki-block">
+
+ \*``Umuk<br> \*``Muranog<br> \*On the ``Ghostly Captain
+
+</div>
 
 - - Fine chain gloves\*\*
 
-` *Blood-drenched orc, Moria (part of patrol, the one that doesn't move, wws from armoury)`
-` *1.Bodyguard at Guardian NOC`
-` *3.elite following Rilhir the captain if DT is popped white`
-` *DT captain room when dark`
-` *Caravan in DG(need 2)`
+<div class="wiki-block">
+
+ \*Blood-drenched orc, Moria (part of patrol, the one that doesn't move, wws from armoury)<br> \*1.Bodyguard at Guardian NOC<br> \*3.elite following Rilhir the captain if DT is popped white<br> \*DT captain room when dark<br> \*Caravan in DG(need 2)
+
+</div>
 
 - - fine soft leather gloves\*\* (+3 ob gloves)
 
-` *rarely on Cinard`
-` *randomly on some of the Dunland Captains`
-` *Luxzum peg`
+<div class="wiki-block">
+
+ \*rarely on Cinard<br> \*randomly on some of the Dunland Captains<br> \*Luxzum peg
+
+</div>
 
 #### Leg Armour
 
@@ -894,41 +887,45 @@ time.
 
 - - White chain mail leggings\*\*
 
-` *On ``Bulag`
-` *``Mezagor`
-` *Recess in Moria where jade bracelet loads`
-` *In a dwarven skeleton, behind the Moria Kraken`
-` *On Glorfindel`
+<div class="wiki-block">
+
+ \*On ``Bulag<br> \*``Mezagor<br> \*Recess in Moria where jade bracelet loads<br> \*In a dwarven skeleton, behind the Moria Kraken<br> \*On Glorfindel
+
+</div>
 
 - - Fine greaves\*\*
 
-` *In the skeleton at lever on the way out of ``Unqalome`
-` *``Muranog`
-` *On the ``Ghostly Captain`` (unless plate greaves load)`
-` *On ohurk chief`
-` *Hidden 1s of 'stoneblock' (hidden exit) in boulders area.`
+<div class="wiki-block">
+
+ \*In the skeleton at lever on the way out of ``Unqalome<br> \*``Muranog<br> \*On the ``Ghostly Captain`` (unless plate greaves load)<br> \*On ohurk chief<br> \*Hidden 1s of 'stoneblock' (hidden exit) in boulders area.
+
+</div>
 
 - - Plate greaves\*\*
 
-` *On ``Shaghosh`
-` *On the ``Bloodwight`
-` *``Bulag`
+<div class="wiki-block">
+
+ \*On ``Shaghosh<br> \*On the ``Bloodwight<br> \*``Bulag
+
+</div>
 
 - - Fine chain leggings\*\*
 
-` *Blood-drenched orc, Moria`
-` *Crazed Dwarf, around wgate Moria`
-` *3.elite following Rilhir the captain if DT is popped white`
-` *Luxzum peg`
-` *Caravan in DG(need 2)`
+<div class="wiki-block">
+
+ \*Blood-drenched orc, Moria<br> \*Crazed Dwarf, around wgate Moria<br> \*3.elite following Rilhir the captain if DT is popped white<br> \*Luxzum peg<br> \*Caravan in DG(need 2)
+
+</div>
 
 #### Foot Armour
 
 - - Fine metal boots\*\*
 
-` *``Muranog`
-` *On ``Shaghosh`
-` *On the ``Ghostly Captain`
+<div class="wiki-block">
+
+ \*``Muranog<br> \*On ``Shaghosh<br> \*On the ``Ghostly Captain
+
+</div>
 
 - - Soft padded boots (notrack boots)\*\*
 
@@ -936,9 +933,11 @@ time.
 
 - - Black padded boots\*\*
 
-` *Bloodthirsty orcs in Eregion`
-` *Orc assassin in west NOC`
-` *Wary man in the Tharbad sewers (thief guildmaster)`
+<div class="wiki-block">
+
+ \*Bloodthirsty orcs in Eregion<br> \*Orc assassin in west NOC<br> \*Wary man in the Tharbad sewers (thief guildmaster)
+
+</div>
 
 - - Smooth black boots\*\*
 
@@ -952,10 +951,11 @@ time.
 
 - - Smelly piece of worm hide\*\*
 
-` *Given by the Sage to any darkie who brings him:`
-`   *A glowsword (Sting, preferably)`
-`   *A focused staff`
-`   *The fine silvery morningstar`
+<div class="wiki-block">
+
+ \*Given by the Sage to any darkie who brings him:<br>   \*A glowsword (Sting, preferably)<br>   \*A focused staff<br>   \*The fine silvery morningstar
+
+</div>
 
 - - Ancient dwarven shield\*\*
 
@@ -984,10 +984,11 @@ time.
 
 - - Metal wall shield\*\*
 
-` *In the chest behind hidden 'fireplace' in ``Dead Knight`` area`
-` *Loads hidden, from the southern-most 'road' room on ABR: s 3e n 3e n`
-` *Behind door in Filthy Caves`
-` *On the goblin leader, in the goblin caves west of NOC`
+<div class="wiki-block">
+
+ \*In the chest behind hidden 'fireplace' in ``Dead Knight`` area<br> \*Loads hidden, from the southern-most 'road' room on ABR: s 3e n 3e n<br> \*Behind door in Filthy Caves<br> \*On the goblin leader, in the goblin caves west of NOC
+
+</div>
 
 - - Large wooden wall shield\*\*
 
@@ -1031,10 +1032,11 @@ time.
 
 - - A web\*\*
 
-` *Where the monstrous black spider loads in Fangorn (part of `[`Treebeard's forest quest`](/pages/Quest#treebeard's_forest_quest.md)`), on the ground`
-` *On ground near Grey spider in Mirkwood`
-` *On the ground under brown bears north of Anduin Vale`
-` *In the area under Broghha`
+<div class="wiki-block">
+
+ \*Where the monstrous black spider loads in Fangorn (part of `[`Treebeard's forest quest`](/pages/Quest#treebeard's_forest_quest.md)`), on the ground<br> \*On ground near Grey spider in Mirkwood<br> \*On the ground under brown bears north of Anduin Vale<br> \*In the area under Broghha
+
+</div>
 
 - - silvan satchel\*\*
 
@@ -1078,18 +1080,11 @@ time.
 - - Flask of miruvor\*\*
 
 ` *Reward for the `[`Elven scout camp quest`](/pages/Quest#elven_scout_camp_quest.md)
-` *Reward for giving an elven dagger back to its owner which is an elven scout. (rarely)`
-` *Can be given to any whitie who brings and gives to Erestor or Ecthelion any of the following:`
-`   *Twisted crown`
-`   *Old length of iron chain`
-`   *Black amulet`
-`   *Wightblade`
-`   *Crude orkish horn`
-`   *Sacrificial knife`
-`   *Defiled dwarven shield`
-`   *Fell blade`
-`   *Darkened orkish axe`
-`   *Any evil artefact (not black sheath)`
+<div class="wiki-block">
+
+ \*Reward for giving an elven dagger back to its owner which is an elven scout. (rarely)<br> \*Can be given to any whitie who brings and gives to Erestor or Ecthelion any of the following:<br>   \*Twisted crown<br>   \*Old length of iron chain<br>   \*Black amulet<br>   \*Wightblade<br>   \*Crude orkish horn<br>   \*Sacrificial knife<br>   \*Defiled dwarven shield<br>   \*Fell blade<br>   \*Darkened orkish axe<br>   \*Any evil artefact (not black sheath)
+
+</div>
 
 //Does anyone know around what percent chance you have to get miruvor
 for each item? Gray's old info said 20-25% chance regardless of item,
@@ -1109,11 +1104,11 @@ miruvor than Ecthelion. - Staub//
 
 - - Flask of orkish draught\*\*
 
-` *In NOOC`
-` *In Brolg's belt pouch`
-` *In the backpack that loads on the ground in the cellar of Brolg's tower`
-` *On great black orcs down from mustering stairs, in Moria`
-` *In chest in Orkish Chieftain area Dunland. -Macabre`
+<div class="wiki-block">
+
+ \*In NOOC<br> \*In Brolg's belt pouch<br> \*In the backpack that loads on the ground in the cellar of Brolg's tower<br> \*On great black orcs down from mustering stairs, in Moria<br> \*In chest in Orkish Chieftain area Dunland. -Macabre
+
+</div>
 
 - - A strange flask\*\*
 
@@ -1126,32 +1121,27 @@ miruvor than Ecthelion. - Staub//
 
 - - Bottle of antidote\*\*
 
-` *On hunter near Woodhall`
-` *On Hillman Chief`
-` *``East Priest`
-` *``Tall Orc`
-` *On Eoghha (June07) `
-` *Farmer Maggot , also loads 'small green bottle' for purging diseases`
-` *loads in chest east of BM, nw of crazed dwarf`
+<div class="wiki-block">
+
+ \*On hunter near Woodhall<br> \*On Hillman Chief<br> \*``East Priest<br> \*``Tall Orc<br> \*On Eoghha (June07) <br> \*Farmer Maggot , also loads 'small green bottle' for purging diseases<br> \*loads in chest east of BM, nw of crazed dwarf
+
+</div>
 
 - - Herbal kit\*\*
 
-` *Hillman chief`
-` *Wuda`
-` *loads behind secretdoor 'stump' s of BM, ne of Carpenter`
+<div class="wiki-block">
+
+ \*Hillman chief<br> \*Wuda<br> \*loads behind secretdoor 'stump' s of BM, ne of Carpenter
+
+</div>
 
 - - Whetstones\*\*
 
-` *At the cliff room some se of the lodge in the Blue Mountains you can reveal a stone.`
-` *down a well se of Aldereon's village, just nw of Nagrorh, adjacent to forest with many wolves`
-` *quest reward for doing Bree weaponsmith quest, return lost dagger to him`
-` *In area below bench in Ruined Chappel south of Bree, 2 rooms ONLY HOBBITS can enter`
-` *In the pile of rocks north of rockwall at Mrak on the Ancient Broken Road.`
-` *Behind mosswall on the river NW of Tharbad in area with salamanders.`
-` *loads in side of metaldoor, go n when doing Spirit Knight`
-` *In rock pile south east of Tall Orc's backexit.`
-` *In area under the Road of the Smiths, west of the Causeway, north of the lions`
-` *In chest, sw of slag, wssw from mountain troll, swim needed`
+<div class="wiki-block">
+
+ \*At the cliff room some se of the lodge in the Blue Mountains you can reveal a stone.<br> \*down a well se of Aldereon's village, just nw of Nagrorh, adjacent to forest with many wolves<br> \*quest reward for doing Bree weaponsmith quest, return lost dagger to him<br> \*In area below bench in Ruined Chappel south of Bree, 2 rooms ONLY HOBBITS can enter<br> \*In the pile of rocks north of rockwall at Mrak on the Ancient Broken Road.<br> \*Behind mosswall on the river NW of Tharbad in area with salamanders.<br> \*loads in side of metaldoor, go n when doing Spirit Knight<br> \*In rock pile south east of Tall Orc's backexit.<br> \*In area under the Road of the Smiths, west of the Causeway, north of the lions<br> \*In chest, sw of slag, wssw from mountain troll, swim needed
+
+</div>
 
 - - Fine Elven Rope\*\*
 
@@ -1166,16 +1156,19 @@ do this."//
 
 - - Black Candle\*\*
 
-` *In area below bench in Ruined Chappel south of Bree`
-` *In eastern Evil Priest on spirit`
-` *On liche in Dunland`
+<div class="wiki-block">
+
+ \*In area below bench in Ruined Chappel south of Bree<br> \*In eastern Evil Priest on spirit<br> \*On liche in Dunland
+
+</div>
 
 - - Infusion\*\*
 
-` *Loads on woman in hillmen village.`
-` *Farmer Maggot, on the ground.`
-` *In Thrain's kitchen in Shire.`
-` *East of Pawn Shop, At the hobbit herblore sage in the shire, behind 'stalks'. `
+<div class="wiki-block">
+
+ \*Loads on woman in hillmen village.<br> \*Farmer Maggot, on the ground.<br> \*In Thrain's kitchen in Shire.<br> \*East of Pawn Shop, At the hobbit herblore sage in the shire, behind 'stalks'.
+
+</div>
 
 - - Deep Black Orb\*\*
 

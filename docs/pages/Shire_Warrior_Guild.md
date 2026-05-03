@@ -10,10 +10,11 @@ The **old Shirriff** teaches [warrior](./Warrior.md)
 
 `An old, and slightly overweight Shirriff sits in a chair.`
 `>`**`examine shirriff`**
-`This aged hobbit was once an active Shirriff, by his garb and his feathered`
-`hat, but now has taken up training younger Hobbits in the ways of fighting.`
-`His paunchy stomach makes him appear sluggish, but his movements are deft.`
-`The old Shirriff is in an excellent condition.`
+<div class="wiki-block">
+
+This aged hobbit was once an active Shirriff, by his garb and his feathered<br>hat, but now has taken up training younger Hobbits in the ways of fighting.<br>His paunchy stomach makes him appear sluggish, but his movements are deft.<br>The old Shirriff is in an excellent condition.
+
+</div>
 
 ## Skill list
 

@@ -18,9 +18,9 @@ be [bashed](./Bash.md) unless he happens to load wearing a
 
 `The darkened figure of a once noble being lingers here.`
 `>`**`examine ghost`**
-`This must be the man who once inhabited this place. Still clad in the`
-`exquisite clothes he wore at his demise, the bleak dark figure emits`
-`an aura of nobility and stature. The fashion of his clothes and his`
-`lineaments suggest he was Arthedain while alive. Now and then he waves`
-`and paces, seemingly giving a speech to an invisible crowd.`
+<div class="wiki-block">
+
+This must be the man who once inhabited this place. Still clad in the<br>exquisite clothes he wore at his demise, the bleak dark figure emits<br>an aura of nobility and stature. The fashion of his clothes and his<br>lineaments suggest he was Arthedain while alive. Now and then he waves<br>and paces, seemingly giving a speech to an invisible crowd.
+
+</div>
  

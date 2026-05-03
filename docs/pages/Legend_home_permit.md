@@ -22,12 +22,11 @@ A response will be posted within 14 RL days.
 Once paid in full post your construction instructions, this must
 include:
 
-`  o Room descriptions, door names, list of upgrades that have been paid for.`
-`  o Descriptions for each room must be, four lines in length, 79 chars per line`
-`  o They must fit in the surroundings, no magical towers in the Shire or`
-`    bloody dungeons dug underground in Rivendell, please give this thought.`
-`  o They should be checked for typos and spelling errors and be your best effort.`
-`  o If denied you read the reasons carefully and post new descriptions`
+<div class="wiki-block">
+
+  o Room descriptions, door names, list of upgrades that have been paid for.<br>  o Descriptions for each room must be, four lines in length, 79 chars per line<br>  o They must fit in the surroundings, no magical towers in the Shire or<br>&nbsp;   bloody dungeons dug underground in Rivendell, please give this thought.<br>  o They should be checked for typos and spelling errors and be your best effort.<br>  o If denied you read the reasons carefully and post new descriptions
+
+</div>
 
 Existing Home Requests and Upgrades:
 

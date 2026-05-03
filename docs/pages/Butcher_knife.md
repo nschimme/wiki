@@ -15,9 +15,10 @@ silver and is sold by most weaponsmiths.
 `splitting, stripping and cutting meat.`
 
 `>`**`consider knife`**
-`It is a butcher knife.`
-`This piercing weapon can be wielded one-handed.`
-`It is poor while attacking and average while defending; its speed is very fast, and it inflicts very little damage upon hitting.`
-`It weighs a couple of ounces.`
+<div class="wiki-block">
+
+It is a butcher knife.<br>This piercing weapon can be wielded one-handed.<br>It is poor while attacking and average while defending; its speed is very fast, and it inflicts very little damage upon hitting.<br>It weighs a couple of ounces.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

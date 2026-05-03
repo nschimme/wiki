@@ -19,9 +19,11 @@ For both commands, the [direction](./Direction.md) (north, east,
 
 Door information can be one of the following:
 
-` [...]   - A closed 'doorname'`
-` (...)   - (doorname) Room Name        open door`
-` #...#   - (doorname) Room Name        broken door`
+<div class="wiki-block">
+
+ [...]   - A closed 'doorname'<br> (...)   - (doorname) Room Name        open door<br> \#...#   - (doorname) Room Name        broken door
+
+</div>
 ` {...}   - Room Name                   `[`portal`](./Portal.md)
 ` /...\   - Room Name                   upward `[`climb`](./Climb.md)
 ` \.../   - Room Name                   downward climb`

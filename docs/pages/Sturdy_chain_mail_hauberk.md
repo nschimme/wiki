@@ -13,10 +13,11 @@ considerable amount of damage absorption, and slightly decreases
 
 `A sturdy chain mail hauberk is on the ground.`
 `>`**`examine hauberk`**
-`This hauberk is composed of small, interlinked iron rings. Roughly half of the`
-`rings are soldered solid at their ends while the other half was riveted. They`
-`are interwoven tightly in a sturdy four-to-one pattern which leaves only little`
-`space between the rings.`
+<div class="wiki-block">
+
+This hauberk is composed of small, interlinked iron rings. Roughly half of the<br>rings are soldered solid at their ends while the other half was riveted. They<br>are interwoven tightly in a sturdy four-to-one pattern which leaves only little<br>space between the rings.
+
+</div>
 
 `>`**`consider hauberk`**
 `It is a sturdy chain mail hauberk.`

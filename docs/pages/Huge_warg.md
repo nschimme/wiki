@@ -12,7 +12,8 @@ fur](./Warg_fur.md).
 
 `A huge warg is here, moving in for the kill.`
 `>`**`look warg`**
-`Over six feet long, this evil wolf-spirit dwarfs most of its common kin.`
-`Its coarse fur of dark fur covers a strong skeleton, framed by rippling`
-`muscles. Allied with the orcs, this monster is more than a match for many an`
-`elf or dwarf warrior.`
+<div class="wiki-block">
+
+Over six feet long, this evil wolf-spirit dwarfs most of its common kin.<br>Its coarse fur of dark fur covers a strong skeleton, framed by rippling<br>muscles. Allied with the orcs, this monster is more than a match for many an<br>elf or dwarf warrior.
+
+</div>

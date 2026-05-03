@@ -10,9 +10,11 @@ Using the **friends** command, the master of a
 [house](./Legend_Homes.md) can instruct his guards and gatekeeper
 about which other people are to be welcomed into the house.
 
-`friends list                       - Display current friends`
-`friends add `&lt;name1&gt;` `&lt;name2&gt;` ...    - Give someone free access to the house`
-`friends remove `&lt;name1&gt;` `&lt;name2&gt;` ... - Remove the welcome status`
+<div class="wiki-block">
+
+friends list                       - Display current friends<br>friends add `&lt;name1&gt;` `&lt;name2&gt;` ...    - Give someone free access to the house<br>friends remove `&lt;name1&gt;` `&lt;name2&gt;` ... - Remove the welcome status
+
+</div>
 
 These commands must be used while in the same room as your valet or
 guards.

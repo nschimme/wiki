@@ -66,57 +66,11 @@ started their journeys here.
 
 1\. Harlond
 
-`                                                        +----+`
-`  Map prepared for                                       |pier|`
-`Cirdan the Shipwright,                            +----+ |    |`
-`  Lord of Lindon and                        ____  |crag| |    |`
-`   Guardian of the         ________________/    _|    +-+    |             +-+`
-`     Grey Havens          /        Spider  ship          rocky|             |a|`
-`   by his kinswoman      | Fish    Garden   yard         shore|             |t|`
-`     and servant         | quay ___________     +-------+     +-------------+o|`
-`   Roanen Alkariel        \    /"""""""""""|   /""""""""|     Cobblestone   |p|`
-`                          _\  /_"""""""""""|   |"| Elven        Street        |`
-`          +--------------/      \""""""+---+   |"| village   +----------+   |w|`
-`          |       Fish    Fish-  +----+|thief  |"+-+   +-+   |""""""""""| R |a|`
-`          |Ferry  quay   market _ Inn ||guild  |"""|   |"|   +-------+""| a |l|`
-`          |dock  +--------+    |"|    |+---+   |"""+---+"|    cleric |""| m |l|`
-`          +-+    |""""""""|    |"+----+""""|   |"""""""""|     guild |""| p +-+`
-`            |    |""""""""|    |"""""""""""|   |"""""""""|   +-------+""| a |`
-`            |    +--------+  R +----------+|   +---++----+   |""""""""""| r |`
-`            |     Herbalist  o weaponsmith||  Star-||Mage    +----------+ t |`
-`            |                p  (Faldor's)||  light||Guild      orchard     |`
-`            |Herb+--------+  e +----------+| Garden|+----+   +----------+ R +-+`
-`            |quay|""""""""|  m |"""""""""""|   +---+"""""|   |""""""""""| d.|t|`
-`            |    |""""""""|  a |"+----+""""| C |"+-------+   |"+--------+   |o|`
-`            |    |""""""""|  k |"|yard|""""| e |"|Library    |"|guardpost    w|`
-`            |    |""""""""|  e |"|    |""""| n |"+------+    |"+--------+   |e|`
-`   +--------+    +--+"+---+  r |"|    |""""| t |""""""""|    |"+""""""+"|   |r|`
-`   |  Pier     Sail |"|Rope  s |"|    +----+ r +------+"|    |"|bakery|"|   +-+`
-`   |of Grey   makers|"|works   |"|  Crab     a Warrior|"/    +-+      +-+   |_`
-`   | Havens         |"|      S |"|   Alley   l  Guild |"|Fountain          Main`
-`   +--------+   +---+"+---+  t.|"|  +------+   +------+"| Square           Gate`
-`            |   |"""""""""|    |"|  |""""""| S |""""""""\    +-+      +-+   +-`
-`        +---+   |"+-------+    +-+  |"+----+ t.+-----+"""|   |"|      |"| R |`
-`        | Grand |"|Seagull Osse's   |"|tailor  armour|"""| M |"|grocer|"| a |`
-`        |   Quay|"| Inn     Well    |"| shop    shop |"""| a |"+------+"| m |`
-`        |P  +---+"|reception   +----+"+----+   +-----+"""| i |""""""""""| p |`
-`        |e  |"""""+--------+   |"""""""""""|   |"""""""""| n |""""""""""| a |`
-`        |l Q|"| s |""""""""|   |"""""""""""|   |"""""""""|   |""""""""""| r |`
-`+-----+ |a u|"| t |""""""""|   |""""+------+   +-------+"| R +----------+ t |`
-`|light| |r a|"| a +------+"|   |""""| park      Courier|"| d.|          |   |`
-`|house| |g y|"| b   Pet  |"|   |""""+------+    Service|"|     Ranger's | R |`
-` \   /  |i  |"| l   shop |"|   |"""""""""""|   +-------+"|       home   / d.|`
-` |   |  |r  |"| e        |"|   |"""""""""""|   |"""""""""|   |              |`
-`++   +--+   +-+-----     +-+   +-----------+   +---------+   |___    _/     |`
-`|Light    Light           Valinor                                           |`
-`| Jetty    Court            Street          Main Road                 Havens|`
-`+-------------------------+-   -+---------+    +---+    ++   +-----+   Park |`
-`                          |watch|        /     |"""/    ||   \      _______|`
-`                          |tower|  +----+ grove|+-+     ||    +---+  `
-`                          +-----+  |vine-      ||Guards'||Cirdan's|`
-`                                   | yards     || Halls ||  home  |`
-`                                   +-----------++-------++--------+`
-``
+<div class="wiki-block">
+
+&nbsp;                                                       \+----+<br>  Map prepared for                                       |pier|<br>Cirdan the Shipwright,                            +----+ |    |<br>  Lord of Lindon and                        ____  |crag| |    |<br>   Guardian of the         ________________/    _|    +-+    |             +-+<br>&nbsp;    Grey Havens          /        Spider  ship          rocky|             |a|<br>   by his kinswoman      | Fish    Garden   yard         shore|             |t|<br>&nbsp;    and servant         | quay ___________     +-------+     +-------------+o|<br>   Roanen Alkariel        \    /"""""""""""|   /""""""""|     Cobblestone   |p|<br>&nbsp;                         _\  /_"""""""""""|   |"| Elven        Street        |<br>&nbsp;         \+--------------/      \""""""+---+   |"| village   +----------+   |w|<br>&nbsp;         |       Fish    Fish-  +----+|thief  |"+-+   +-+   |""""""""""| R |a|<br>&nbsp;         |Ferry  quay   market _ Inn ||guild  |"""|   |"|   +-------+""| a |l|<br>&nbsp;         |dock  +--------+    |"|    |+---+   |"""+---+"|    cleric |""| m |l|<br>&nbsp;         \+-+    |""""""""|    |"+----+""""|   |"""""""""|     guild |""| p +-+<br>&nbsp;           |    |""""""""|    |"""""""""""|   |"""""""""|   +-------+""| a |<br>&nbsp;           |    +--------+  R +----------+|   +---++----+   |""""""""""| r |<br>&nbsp;           |     Herbalist  o weaponsmith||  Star-||Mage    +----------+ t |<br>&nbsp;           |                p  (Faldor's)||  light||Guild      orchard     |<br>&nbsp;           |Herb+--------+  e +----------+| Garden|+----+   +----------+ R +-+<br>&nbsp;           |quay|""""""""|  m |"""""""""""|   +---+"""""|   |""""""""""| d.|t|<br>&nbsp;           |    |""""""""|  a |"+----+""""| C |"+-------+   |"+--------+   |o|<br>&nbsp;           |    |""""""""|  k |"|yard|""""| e |"|Library    |"|guardpost    w|<br>&nbsp;           |    |""""""""|  e |"|    |""""| n |"+------+    |"+--------+   |e|<br>   \+--------+    +--+"+---+  r |"|    |""""| t |""""""""|    |"+""""""+"|   |r|<br>   |  Pier     Sail |"|Rope  s |"|    +----+ r +------+"|    |"|bakery|"|   +-+<br>   |of Grey   makers|"|works   |"|  Crab     a Warrior|"/    +-+      +-+   |_<br>   | Havens         |"|      S |"|   Alley   l  Guild |"|Fountain          Main<br>   \+--------+   +---+"+---+  t.|"|  +------+   +------+"| Square           Gate<br>&nbsp;           |   |"""""""""|    |"|  |""""""| S |""""""""\    +-+      +-+   +-<br>&nbsp;       \+---+   |"+-------+    +-+  |"+----+ t.+-----+"""|   |"|      |"| R |<br>&nbsp;       | Grand |"|Seagull Osse's   |"|tailor  armour|"""| M |"|grocer|"| a |<br>&nbsp;       |   Quay|"| Inn     Well    |"| shop    shop |"""| a |"+------+"| m |<br>&nbsp;       |P  +---+"|reception   +----+"+----+   +-----+"""| i |""""""""""| p |<br>&nbsp;       |e  |"""""+--------+   |"""""""""""|   |"""""""""| n |""""""""""| a |<br>&nbsp;       |l Q|"| s |""""""""|   |"""""""""""|   |"""""""""|   |""""""""""| r |<br>\+-----+ |a u|"| t |""""""""|   |""""+------+   +-------+"| R +----------+ t |<br>|light| |r a|"| a +------+"|   |""""| park      Courier|"| d.|          |   |<br>|house| |g y|"| b   Pet  |"|   |""""+------+    Service|"|     Ranger's | R |<br> \   /  |i  |"| l   shop |"|   |"""""""""""|   +-------+"|       home   / d.|<br> |   |  |r  |"| e        |"|   |"""""""""""|   |"""""""""|   |              |<br>\++   +--+   +-+-----     +-+   +-----------+   +---------+   |___    _/     |<br>|Light    Light           Valinor                                           |<br>| Jetty    Court            Street          Main Road                 Havens|<br>\+-------------------------+-   -+---------+    +---+    ++   +-----+   Park |<br>&nbsp;                         |watch|        /     |"""/    ||   \      _______|<br>&nbsp;                         |tower|  +----+ grove|+-+     ||    +---+  <br>&nbsp;                         \+-----+  |vine-      ||Guards'||Cirdan's|<br>&nbsp;                                  | yards     || Halls ||  home  |<br>&nbsp;                                  \+-----------++-------++--------+<br>
+
+</div>
 
 2\. Forlond
 

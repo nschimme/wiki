@@ -6,9 +6,11 @@ tags:
 ---
 `A delicate and beautiful crystal glass sits on the ground.`
 `>`**`look at glass`**
-`This has been made of the finest crystal, with intricate and beautiful`
-`engravings. It stands about eight inches tall, with the fragile stem `
-`broadening at one end to a stand, at the other to the glass itself.`
+<div class="wiki-block">
+
+This has been made of the finest crystal, with intricate and beautiful<br>engravings. It stands about eight inches tall, with the fragile stem <br>broadening at one end to a stand, at the other to the glass itself.
+
+</div>
 
 `>`**`consider glass`**
 `It is an exquisite wine glass.`

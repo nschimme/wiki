@@ -10,9 +10,11 @@ Harlond.
 
 `A ranger stands quietly here, willing to teach his knowledge of woodcraft.`
 `>`**`examine ranger`**
-`He is an expert ranger who seems to be very experienced in all mixed skills.`
-`His clothes are brown like the natural life and he has a lot of dust on his`
-`boots.`
+<div class="wiki-block">
+
+He is an expert ranger who seems to be very experienced in all mixed skills.<br>His clothes are brown like the natural life and he has a lot of dust on his<br>boots.
+
+</div>
 
 ## Skill list
 

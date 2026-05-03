@@ -12,6 +12,8 @@ and 3 copper.
 
 `A mewlip is here, faintly wailing at you.`
 `> `**`look mewlip`**
-`It is a pale shape floating in mid-air, about the size of a human torso with`
-`faint limbs. Its glance is cold and lost, and its voice seems to come from`
-`the very bottom of the swamps.`
+<div class="wiki-block">
+
+It is a pale shape floating in mid-air, about the size of a human torso with<br>faint limbs. Its glance is cold and lost, and its voice seems to come from<br>the very bottom of the swamps.
+
+</div>

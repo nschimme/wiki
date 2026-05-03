@@ -13,7 +13,8 @@ on the quest.
 
 `A ratty and mottled moneybag lies discarded here.`
 `> `**`examine moneybag`**
-`This small leather sack, held closed by a leather tie has seem better days. The`
-`leather has several cuts and tears and any coins put into it would likely drop`
-`out again right away. Parts of the old moneybag are discoloured and mottled as`
-`if it has been lying outdoors for a while.`
+<div class="wiki-block">
+
+This small leather sack, held closed by a leather tie has seem better days. The<br>leather has several cuts and tears and any coins put into it would likely drop<br>out again right away. Parts of the old moneybag are discoloured and mottled as<br>if it has been lying outdoors for a while.
+
+</div>

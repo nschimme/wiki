@@ -15,6 +15,8 @@ ponies, and more reliable than
 
 `A sturdy pack horse is standing here.`
 `>`**`examine horse`**
-`This horse follows his master, and carries whatever he is given. Stout,`
-`yet strong, this pack horse is used on long hauls often carrying the`
-`weight of his master and his master's belongings.`
+<div class="wiki-block">
+
+This horse follows his master, and carries whatever he is given. Stout,<br>yet strong, this pack horse is used on long hauls often carrying the<br>weight of his master and his master's belongings.
+
+</div>

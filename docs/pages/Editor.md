@@ -15,11 +15,11 @@ lines longer than 79 characters!).
 On the ":" prompt you can also enter certain command sequences. For
 example:
 
-`   %h        Lists all available commands`
-`   %L        Lists the lines of your message with lin`
-`   %d 2      Deletes line 2 of your message`
-`   %q        Cancels the message and exits the editor`
-`   %e        Saves the message and exits the editor`
+<div class="wiki-block">
+
+   %h        Lists all available commands<br>   %L        Lists the lines of your message with lin<br>   %d 2      Deletes line 2 of your message<br>   %q        Cancels the message and exits the editor<br>   %e        Saves the message and exits the editor
+
+</div>
 
 For information about other commands, please see [Editor
 Commands](./Editor_Commands.md).

@@ -22,7 +22,9 @@ well as on your search skill.
 
 Examples:
 
-`  > search up            searches for a hidden exit upwards`
-`  > search               searches for hidden items`
-`  > search q             searches quickly for hidden beings in the room`
+<div class="wiki-block">
+
+  \> search up            searches for a hidden exit upwards<br>  \> search               searches for hidden items<br>  \> search q             searches quickly for hidden beings in the room
+
+</div>
  

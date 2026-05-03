@@ -11,6 +11,8 @@ pelt](./Lynx_pelt.md) and some [meat](./Meat.md).
 
 `A swift lynx passes by.`
 `>`**`examine lynx`**
-`This animal looks like a big cat with black tufts of fur at the tip of its`
-`ears. It likes woodlands and heaths.`
-`A lynx is in an excellent condition.`
+<div class="wiki-block">
+
+This animal looks like a big cat with black tufts of fur at the tip of its<br>ears. It likes woodlands and heaths.<br>A lynx is in an excellent condition.
+
+</div>

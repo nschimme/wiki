@@ -10,8 +10,10 @@ tags:
 `sharpened and covered with hardened steel. `
 
 `>`**`consider lance`**
-`This charging weapon can be wielded one-handed.`
-`It is poor while attacking and poor while defending; its speed is average, and it inflicts very little damage upon hitting.`
-`It weighs three pounds.`
+<div class="wiki-block">
+
+This charging weapon can be wielded one-handed.<br>It is poor while attacking and poor while defending; its speed is average, and it inflicts very little damage upon hitting.<br>It weighs three pounds.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

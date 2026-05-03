@@ -10,6 +10,8 @@ mobiles, found in various locations around
 
 `A hungry-looking giant lizard is slithering towards you.`
 `>`**`examine lizard`**
-`It is a thirty foot long lizard, with a double set of sharply pointed teeth`
-`protruding from its wide maw. Its striped red-brown skin can probably protect`
-`it from the fiercest heat.`
+<div class="wiki-block">
+
+It is a thirty foot long lizard, with a double set of sharply pointed teeth<br>protruding from its wide maw. Its striped red-brown skin can probably protect<br>it from the fiercest heat.
+
+</div>

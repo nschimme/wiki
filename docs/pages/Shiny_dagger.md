@@ -14,9 +14,10 @@ silver.
 `is made of beautiful golden coloured metal.`
 
 `>`**`consider shiny`**
-`It is a shiny dagger.`
-`This piercing weapon can be wielded one-handed.`
-`It is good while attacking and good while defending; its speed is very fast, and it inflicts average damage upon hitting.`
-`It weighs half a pound.`
+<div class="wiki-block">
+
+It is a shiny dagger.<br>This piercing weapon can be wielded one-handed.<br>It is good while attacking and good while defending; its speed is very fast, and it inflicts average damage upon hitting.<br>It weighs half a pound.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

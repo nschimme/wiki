@@ -7,11 +7,11 @@ tags:
 **Malindon** teaches [mage](./Mage.md) spells
 at the **Home of the Old Elven Mage** in Harlond
 
-`Malindon the elven mage is here reading over some old texts.`
-`>exa mage`
-`A jovial and somewhat pudgy old elf stands before you and he even has a beard.`
-`He wears a long robe and carries a small staff. He almost looks too friendly to`
-`be able to teach you much, but his skills and knowledge might surprise you.`
+<div class="wiki-block">
+
+Malindon the elven mage is here reading over some old texts.<br>\>exa mage<br>A jovial and somewhat pudgy old elf stands before you and he even has a beard.<br>He wears a long robe and carries a small staff. He almost looks too friendly to<br>be able to teach you much, but his skills and knowledge might surprise you.
+
+</div>
 
 ## Spell list
 

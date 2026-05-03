@@ -27,9 +27,9 @@ You move slower when sneaking.
 
 Examples:
 
-`  > sneak`
-`  Ok, you'll try to move silently for a while.`
-`  S > sneak`
-`  You stop sneaking.`
-`  >`
+<div class="wiki-block">
+
+  \> sneak<br>  Ok, you'll try to move silently for a while.<br>  S > sneak<br>  You stop sneaking.<br>  \>
+
+</div>
  

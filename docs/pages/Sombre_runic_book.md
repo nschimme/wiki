@@ -9,13 +9,17 @@ can be [read](./Read.md) to learn the
 [Shadows](./Herblore#Shadows.md) herblore.
 
 `>`**`look book`**
-`This book is bound in very old leather dyed black as soot. Flowing,`
-`sinuous, lead-grey letters adorn the cover. The style is ancient,`
-`and the craftsmanship unheard of in this age.`
+<div class="wiki-block">
 
-` |^     | ^  <`
-`(|||)) (||))|)_n`
-` |/|    ||     /`
+This book is bound in very old leather dyed black as soot. Flowing,<br>sinuous, lead-grey letters adorn the cover. The style is ancient,<br>and the craftsmanship unheard of in this age.
+
+</div>
+
+<div class="wiki-block">
+
+ |^     | ^  <<br>(|||)) (||))|)_n<br> |/|    ||     /
+
+</div>
 
 `It teaches old secrets about potions and magic. To examine it, hold it and`
 `read it.`

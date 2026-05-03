@@ -36,10 +36,11 @@ in the practice list:
 Finally, 'train' can be used to improve some of your base
 abilities at the expense of others. For example:
 
-`> train improve strength`
-`> train neglect constitution`
-`> train maintain perception`
-`> train revert will`
+<div class="wiki-block">
+
+\> train improve strength<br>\> train neglect constitution<br>\> train maintain perception<br>\> train revert will
+
+</div>
 
 Once you choose some abilities to improve and some abilities to neglect,
 your statistics will start changing in the direction you required. The

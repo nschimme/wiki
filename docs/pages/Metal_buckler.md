@@ -11,10 +11,11 @@ silver.
 
 `A simple metal buckler lies here.`
 `>`**`examine buckler`**
-`This small round metal shield has been crafted to provide the wielder of a`
-`two-handed weapon a minimal element of defence. Small thick leather straps can`
-`be found on the inside of the buckler, allowing you to strap it onto one of`
-`your forearms.`
+<div class="wiki-block">
+
+This small round metal shield has been crafted to provide the wielder of a<br>two-handed weapon a minimal element of defence. Small thick leather straps can<br>be found on the inside of the buckler, allowing you to strap it onto one of<br>your forearms.
+
+</div>
 
 `>`**`consider buckler`**
 `It is a metal buckler.`

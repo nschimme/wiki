@@ -22,210 +22,253 @@ leaves/flowers/petals have it. To crush plant/flower/etc type "remove
 
 ## Athelas (Kingsfoil)
 
-` Description:  A small plant grows here, with long, pointed leaves and flowers at its top`
-` When crushed: some long, slender green leaves`
-` Location:     some NE from Harlond; near mottled snake N from Forlond; in the Old Fornost; OER in brushes`
-` Used in:      Antidote`
+<div class="wiki-block">
+
+ Description:  A small plant grows here, with long, pointed leaves and flowers at its top<br> When crushed: some long, slender green leaves<br> Location:     some NE from Harlond; near mottled snake N from Forlond; in the Old Fornost; OER in brushes<br> Used in:      Antidote
+
+</div>
 
 ## Belladonna
 
-` Description:  A large shrub covered with dark violet berries grow here`
-` Loads:        some violet berries`
-` Location:     BM area; Shire; Old Forest bonfire`
-` Used in:      Belladonna poison`
+<div class="wiki-block">
+
+ Description:  A large shrub covered with dark violet berries grow here<br> Loads:        some violet berries<br> Location:     BM area; Shire; Old Forest bonfire<br> Used in:      Belladonna poison
+
+</div>
 
 ## Blackberries
 
-` Description:  A large thorny branched shrub is growing here`
-` Loads:        some blackberries`
-` Location:     very common in Shire`
-` Used in:      Antidote`
+<div class="wiki-block">
+
+ Description:  A large thorny branched shrub is growing here<br> Loads:        some blackberries<br> Location:     very common in Shire<br> Used in:      Antidote
+
+</div>
 
 ## Blackcurrant
 
-` Description:  A shrub with maple-like leaves is growing here`
-` Loads:        a handful of blackcurrant berries`
-` Location:     very common in BM area; Shire`
-` Used in:      Soothing-draught`
+<div class="wiki-block">
+
+ Description:  A shrub with maple-like leaves is growing here<br> Loads:        a handful of blackcurrant berries<br> Location:     very common in BM area; Shire<br> Used in:      Soothing-draught
+
+</div>
 
 ## Baneberries
 
-` Description:  A dark green, foul-smelling shrub grows to about a foot in height`
-` Loads:        some white, egg-shaped berries`
-` Location:     brush south of wc, northwest of crossing in the road along OER, e of rd, pineforest, n of dt, s of vt, s of brolg tower, e of thorns/hedge, e of tall orc, and e of amanrandil. Note: like majestic oaktrees, only a certain number of shrubs load at once, and the berries themselves only load in certain seasons.`
-` Used in:      Drake-Slumber poison`
+<div class="wiki-block">
+
+ Description:  A dark green, foul-smelling shrub grows to about a foot in height<br> Loads:        some white, egg-shaped berries<br> Location:     brush south of wc, northwest of crossing in the road along OER, e of rd, pineforest, n of dt, s of vt, s of brolg tower, e of thorns/hedge, e of tall orc, and e of amanrandil. Note: like majestic oaktrees, only a certain number of shrubs load at once, and the berries themselves only load in certain seasons.<br> Used in:      Drake-Slumber poison
+
+</div>
 
 ## Cinnamon
 
-` Description:  A bag of cinnamon lies here`
-` Location:     GH herbalist only`
-` Used in:      Seeing, Shadow`
+<div class="wiki-block">
+
+ Description:  A bag of cinnamon lies here<br> Location:     GH herbalist only<br> Used in:      Seeing, Shadow
+
+</div>
 
 ## Clover
 
-` Description:  A small patch of clover grows here`
-` Location:     very common herb`
-` Used in:      Travelling, Walking`
+<div class="wiki-block">
+
+ Description:  A small patch of clover grows here<br> Location:     very common herb<br> Used in:      Travelling, Walking
+
+</div>
 
 ## Cloves
 
-` Description:  Some small cloves are lying here`
-` Location:     GH and Rivendell herbalists`
-` Used in:      Walking`
+<div class="wiki-block">
+
+ Description:  Some small cloves are lying here<br> Location:     GH and Rivendell herbalists<br> Used in:      Walking
+
+</div>
 
 ## Figwort (Turtlehead)
 
-` Description:  A tall plant grows here, with grey-green leaves and grey flowers`
-` When crushed: some grey petals`
-` Location:     Midgewater Marshes, on road to Tbad near Tbad, some SE of Khuzur, Lothlorien`
-` Used in:      Antidote`
+<div class="wiki-block">
+
+ Description:  A tall plant grows here, with grey-green leaves and grey flowers<br> When crushed: some grey petals<br> Location:     Midgewater Marshes, on road to Tbad near Tbad, some SE of Khuzur, Lothlorien<br> Used in:      Antidote
+
+</div>
 
 ## Ginseng
 
-` Description:  A dirty root, with stringy limbs like a man, lies here (5/6000)`
-` NOTE:         loads hidden, must be revealed`
-` Location:     around Last Bridge in the Forest`
-` Used in:      Travelling`
+<div class="wiki-block">
+
+ Description:  A dirty root, with stringy limbs like a man, lies here (5/6000)<br> NOTE:         loads hidden, must be revealed<br> Location:     around Last Bridge in the Forest<br> Used in:      Travelling
+
+</div>
 
 ## Green mushroom
 
-` Description:  A small, sickly green mushroom grows here`
-` Location:     secret with shadow in BM; ABR - near Giant's Prison; goblin caves sw of fork.`
-` Used in:      Psylonia poison`
+<div class="wiki-block">
+
+ Description:  A small, sickly green mushroom grows here<br> Location:     secret with shadow in BM; ABR - near Giant's Prison; goblin caves sw of fork.<br> Used in:      Psylonia poison
+
+</div>
 
 ## Hemlock
 
-` Description:  A tall plant with a perfectly smooth stem gracefully marks the landscape`
-` Location:     Old Forest bonfire; sw of Wuda; e of warrens Rockface entrance; south and east  of rd; near demon caves in dunland; brush; NOC area... and more`
-` Used in:      Drake-Slumber poison, Hemlock poison`
+<div class="wiki-block">
+
+ Description:  A tall plant with a perfectly smooth stem gracefully marks the landscape<br> Location:     Old Forest bonfire; sw of Wuda; e of warrens Rockface entrance; south and east  of rd; near demon caves in dunland; brush; NOC area... and more<br> Used in:      Drake-Slumber poison, Hemlock poison
+
+</div>
 
 ## Inkberries
 
-` Description:  A holly bush with dark green leaves is growing here`
-` Loads:        some inkberries`
-` Location:     very common in Eregion`
-` Used in:      Psylonia poison, Hemlock poison`
+<div class="wiki-block">
+
+ Description:  A holly bush with dark green leaves is growing here<br> Loads:        some inkberries<br> Location:     very common in Eregion<br> Used in:      Psylonia poison, Hemlock poison
+
+</div>
 
 ## Juniper
 
-` Description:  A short evergreen plant, with slightly bluish needles, grows here`
-` NOTE:         loads at certain season only (spring?)`
-` Loads:        a cluster of hard, round, black berries`
-` Location:     Shire - hills of Scary, 3e from "A Spring"; some ne of Harlond; Lothlorien; near entrance to tall orc; near NOC; around the Dark Tower`
-` Used in:      Clear-thoughts, Walking`
+<div class="wiki-block">
+
+ Description:  A short evergreen plant, with slightly bluish needles, grows here<br> NOTE:         loads at certain season only (spring?)<br> Loads:        a cluster of hard, round, black berries<br> Location:     Shire - hills of Scary, 3e from "A Spring"; some ne of Harlond; Lothlorien; near entrance to tall orc; near NOC; around the Dark Tower<br> Used in:      Clear-thoughts, Walking
+
+</div>
 
 ## Marjoram
 
-` Description:  A thin, hairy plant, with small, oval leaves, grows here`
-` When crushed: a pinch of pale-green, crushed leaves (2/275)`
-` Location:     Gamgee's garden; NE corner of zone NE from Bree; max e, nes10e from moors`
-` Used in:      Walking`
+<div class="wiki-block">
+
+ Description:  A thin, hairy plant, with small, oval leaves, grows here<br> When crushed: a pinch of pale-green, crushed leaves (2/275)<br> Location:     Gamgee's garden; NE corner of zone NE from Bree; max e, nes10e from moors<br> Used in:      Walking
+
+</div>
 
 ## Mauve petals
 
-` Description:  Some dried mauve petals can be found here`
-` Location:     on Big John's experienced smuggler, in sack; smuggler delow Halamir's ghost east of bree, also in sack; sold in most herb shops`
-` Used in:      Clear-thoughts`
+<div class="wiki-block">
+
+ Description:  Some dried mauve petals can be found here<br> Location:     on Big John's experienced smuggler, in sack; smuggler delow Halamir's ghost east of bree, also in sack; sold in most herb shops<br> Used in:      Clear-thoughts
+
+</div>
 
 ## Milkweed
 
-` Description:  A slender plant grows here, with clusters of tiny pink flowers atop its stem`
-` When crushed: a sticky mass of stems, leaves and sap`
-` Location:     Shire - some ne from Rushey; south of misty vale between bbt and warrens; north of rd ford; south of river near Eoghha; between vt and vale ford; southwest of fangorn; near demoncaves?; `
-` Used in:      Drake-Slumber poison`
+<div class="wiki-block">
+
+ Description:  A slender plant grows here, with clusters of tiny pink flowers atop its stem<br> When crushed: a sticky mass of stems, leaves and sap<br> Location:     Shire - some ne from Rushey; south of misty vale between bbt and warrens; north of rd ford; south of river near Eoghha; between vt and vale ford; southwest of fangorn; near demoncaves?; <br> Used in:      Drake-Slumber poison
+
+</div>
 
 ## Paprika
 
-` Description:  A small pile of pungent red powder lies here`
-` Location:     Malardil`
-` Used in:      Skillful-oil`
+<div class="wiki-block">
+
+ Description:  A small pile of pungent red powder lies here<br> Location:     Malardil<br> Used in:      Skillful-oil
+
+</div>
 
 ## Phosporescent moss
 
-` Description:  A patch of moss grows here on a wet, flat stone`
-` Location:     slug cave near road to GH; spirit castle near Fornost; commonly found in caverns with fungi`
-` Used in:      Seeing`
+<div class="wiki-block">
+
+ Description:  A patch of moss grows here on a wet, flat stone<br> Location:     slug cave near road to GH; spirit castle near Fornost; commonly found in caverns with fungi<br> Used in:      Seeing
+
+</div>
 
 ## Poppy
 
-` Description:  Some orange-red blossoms grow amid grey-green foliage`
-` Location:     north of NOC fork; south of Moria egate; west of OOC`
-` Used in:      Drake-slumber poison`
+<div class="wiki-block">
+
+ Description:  Some orange-red blossoms grow amid grey-green foliage<br> Location:     north of NOC fork; south of Moria egate; west of OOC<br> Used in:      Drake-slumber poison
+
+</div>
 
 ## Red mushroom / Agaric mushroom
 
-` Description:  A bright red mushroom is growing here`
-` Location:     common`
-` Used in:      Belladonna poison, Drake-Slumber poison, Psylonia poison`
+<div class="wiki-block">
+
+ Description:  A bright red mushroom is growing here<br> Location:     common<br> Used in:      Belladonna poison, Drake-Slumber poison, Psylonia poison
+
+</div>
 
 ## Red rose
 
-` Description:  A detached red rose is lying here`
-` When crushed: some red petals`
-` Location:     zone N from Forlond; inside Harlond/Bree; entrance to Fornost witch`
-` Used in:      Skillful-oil`
+<div class="wiki-block">
+
+ Description:  A detached red rose is lying here<br> When crushed: some red petals<br> Location:     zone N from Forlond; inside Harlond/Bree; entrance to Fornost witch<br> Used in:      Skillful-oil
+
+</div>
 
 ## Rosemary
 
-` Description:  A woody evergreen plant grows here, with many stems reaching upward`
-` When crushed: several needlelike leaves`
-` Location:     BM area; Shire; White sands near road to Fornost; little east of Wuda; some s from Tbad`
-` Used in:      Seeing, Shadow, Skillful-oil`
+<div class="wiki-block">
+
+ Description:  A woody evergreen plant grows here, with many stems reaching upward<br> When crushed: several needlelike leaves<br> Location:     BM area; Shire; White sands near road to Fornost; little east of Wuda; some s from Tbad<br> Used in:      Seeing, Shadow, Skillful-oil
+
+</div>
 
 ## Sage
 
-` Description:  A waist-high evergreen shrub grows here, with thick, reaching branches`
-` Loads:        some grey-green leaves`
-` Location:     GH area; near road to GH; Shire; some w of Wuda`
-` Used in:      Clear-thoughts, Soothing-draught`
+<div class="wiki-block">
+
+ Description:  A waist-high evergreen shrub grows here, with thick, reaching branches<br> Loads:        some grey-green leaves<br> Location:     GH area; near road to GH; Shire; some w of Wuda<br> Used in:      Clear-thoughts, Soothing-draught
+
+</div>
 
 ## Tarragon
 
-` Description:  A small evergreen plant grows here, its woody stems reaching two feet`
-` When crushed: a handful of narrow leaves`
-` Location:     some s from road to GH; Shire; at Oak trees; e from entrance to Wyrdda; some se of NOC; around tall orc`
-` Used in:      Travelling, Orkish draught`
+<div class="wiki-block">
+
+ Description:  A small evergreen plant grows here, its woody stems reaching two feet<br> When crushed: a handful of narrow leaves<br> Location:     some s from road to GH; Shire; at Oak trees; e from entrance to Wyrdda; some se of NOC; around tall orc<br> Used in:      Travelling, Orkish draught
+
+</div>
 
 ## Thyme
 
-` Description:  A low, many-branched shrub covers the ground here`
-` When crushed: some scented crushed leaves`
-` Location:     Shire; Eregion; around Eoghha`
-` Used in:      Clear-thoughts, Soothing-draught`
+<div class="wiki-block">
+
+ Description:  A low, many-branched shrub covers the ground here<br> When crushed: some scented crushed leaves<br> Location:     Shire; Eregion; around Eoghha<br> Used in:      Clear-thoughts, Soothing-draught
+
+</div>
 
 ## Valerian
 
-` Description:  A flowering plant grows here, its fern-like foliage dancing in the breeze`
-` When crushed: a foul-smelling root`
-` Location:     up from giant lizard in BM area; south-western Shire; east of rd hunter; se of brolg; se of vt (usually loads hidden, reveal root)`
-` Used in:      Drake-Slumber poison`
+<div class="wiki-block">
+
+ Description:  A flowering plant grows here, its fern-like foliage dancing in the breeze<br> When crushed: a foul-smelling root<br> Location:     up from giant lizard in BM area; south-western Shire; east of rd hunter; se of brolg; se of vt (usually loads hidden, reveal root)<br> Used in:      Drake-Slumber poison
+
+</div>
 
 ## Vanilla
 
-` Description:  A long brown bean, emitting a pleasant scent, is here`
-` Location:     GH and Rivendell herbalists`
-` Used in:      Skillful-oil`
+<div class="wiki-block">
+
+ Description:  A long brown bean, emitting a pleasant scent, is here<br> Location:     GH and Rivendell herbalists<br> Used in:      Skillful-oil
+
+</div>
 
 ## Water-lily
 
-` Description:  A blooming water-lily floats on the surface of the water`
-` When crushed: some white petals`
-` Location:     inside Forlond; near RTT; Dunland`
-` Used in:      Antidote, Soothing-draught`
+<div class="wiki-block">
+
+ Description:  A blooming water-lily floats on the surface of the water<br> When crushed: some white petals<br> Location:     inside Forlond; near RTT; Dunland<br> Used in:      Antidote, Soothing-draught
+
+</div>
 
 # Other
 
 ## Bluebells
 
-` Description(?): A dense carpet of blue flowers dip their heads in the breeze`
-` Description (inv): a cluster of pale blue flowers`
-` Location(?):  Tbad area; Lothlorien`
+<div class="wiki-block">
+
+ Description(?): A dense carpet of blue flowers dip their heads in the breeze<br> Description (inv): a cluster of pale blue flowers<br> Location(?):  Tbad area; Lothlorien
+
+</div>
 
 ## Blueberries
 
-` Description:  A low shrub with bright green, oblong leaves is growing here`
-` Loads:        some blueberries`
-` Location:     inside Harlond; Shire`
+<div class="wiki-block">
+
+ Description:  A low shrub with bright green, oblong leaves is growing here<br> Loads:        some blueberries<br> Location:     inside Harlond; Shire
+
+</div>
 
 ## Bulrushes
 
@@ -239,27 +282,35 @@ leaves/flowers/petals have it. To crush plant/flower/etc type "remove
 
 ## Cardamom
 
-` Description:  A small flower grows here, with a purple bloom and wide leaves`
-` When crushed: grey-brown powder`
-` Location:     BM area; Nen-i-sul; ABR; Lothlorien`
+<div class="wiki-block">
+
+ Description:  A small flower grows here, with a purple bloom and wide leaves<br> When crushed: grey-brown powder<br> Location:     BM area; Nen-i-sul; ABR; Lothlorien
+
+</div>
 
 ## Cherries
 
-` Description:  A large shrub grows here, its branches loosely spreading`
-` Loads:        some cherries`
-` Location:     Lothlorien`
+<div class="wiki-block">
+
+ Description:  A large shrub grows here, its branches loosely spreading<br> Loads:        some cherries<br> Location:     Lothlorien
+
+</div>
 
 ## Conker
 
-` Description:  A tall, stately, dome-topped tree grows here`
-` Loads:        a green spine capsule`
-` Location:     Shire - near Hobbiton; Eregion`
+<div class="wiki-block">
+
+ Description:  A tall, stately, dome-topped tree grows here<br> Loads:        a green spine capsule<br> Location:     Shire - near Hobbiton; Eregion
+
+</div>
 
 ## Coriander
 
-` Description:  A man's-waist high evergreen shrub grows here, with bright green branches`
-` Loads:        several splayed leaves`
-` Location:     "A dense thicket" - northeastern part of brush`
+<div class="wiki-block">
+
+ Description:  A man's-waist high evergreen shrub grows here, with bright green branches<br> Loads:        several splayed leaves<br> Location:     "A dense thicket" - northeastern part of brush
+
+</div>
 
 ## Daisy-chain
 
@@ -278,21 +329,27 @@ leaves/flowers/petals have it. To crush plant/flower/etc type "remove
 
 ## Foxglove
 
-` Description:  A slender plant, with white flowers at the top, grows here`
-` When crushed: some bluish-white petals`
-` Location:     BM area; Shire; Old Forest bonfire`
+<div class="wiki-block">
+
+ Description:  A slender plant, with white flowers at the top, grows here<br> When crushed: some bluish-white petals<br> Location:     BM area; Shire; Old Forest bonfire
+
+</div>
 
 ## Foxtail
 
-` Description:  A bushy plant grows here, with tall clusters of yellow flowers (230/4000)`
-` When crushed: some yellow petals`
-` Location:     s of Tharbad`
+<div class="wiki-block">
+
+ Description:  A bushy plant grows here, with tall clusters of yellow flowers (230/4000)<br> When crushed: some yellow petals<br> Location:     s of Tharbad
+
+</div>
 
 ## Goosegrass
 
-` Description:  A small and tough weed grows here`
-` When crushed: a crushed stem`
-` Location:     Shire; Dunland`
+<div class="wiki-block">
+
+ Description:  A small and tough weed grows here<br> When crushed: a crushed stem<br> Location:     Shire; Dunland
+
+</div>
 
 ## Gooseberry preserve
 
@@ -306,15 +363,19 @@ leaves/flowers/petals have it. To crush plant/flower/etc type "remove
 
 ## Hollyberries
 
-` Description:  A bright green holly bush is growing here`
-` Loads:        some berries`
-` Location:     very common in Khuzur and Eregion area`
+<div class="wiki-block">
+
+ Description:  A bright green holly bush is growing here<br> Loads:        some berries<br> Location:     very common in Khuzur and Eregion area
+
+</div>
 
 ## Honeysuckle
 
-` Description:  A large shrub grows here, filling the air with a heavy scent`
-` Loads:        a handful of fragile flowers`
-` Location:     some s from road to GH - entrance to Nagrorh; "Loudwater Plains" - 2s2e from crossing in the trail`
+<div class="wiki-block">
+
+ Description:  A large shrub grows here, filling the air with a heavy scent<br> Loads:        a handful of fragile flowers<br> Location:     some s from road to GH - entrance to Nagrorh; "Loudwater Plains" - 2s2e from crossing in the trail
+
+</div>
 
 ## Ivory rose
 
@@ -338,9 +399,11 @@ leaves/flowers/petals have it. To crush plant/flower/etc type "remove
 
 ## Reed
 
-` Description:  Cluster of slender stems and tall leaves thirve in the mud and shallows`
-` When dropped: A hollow length of stout reed lies here`
-` Location:     Harlond zone`
+<div class="wiki-block">
+
+ Description:  Cluster of slender stems and tall leaves thirve in the mud and shallows<br> When dropped: A hollow length of stout reed lies here<br> Location:     Harlond zone
+
+</div>
 
 ## Simbelmyne
 

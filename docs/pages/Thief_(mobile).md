@@ -15,6 +15,8 @@ equipment.
 
 `A thief is here looking for some stranger to rob.`
 `>`**`examine thief`**
-`This is a small man with sandy hair and an undistinguished appearance. His`
-`face has a cringing, furtive look, and his fingers are lithe, practiced,`
-`and ready for action.`
+<div class="wiki-block">
+
+This is a small man with sandy hair and an undistinguished appearance. His<br>face has a cringing, furtive look, and his fingers are lithe, practiced,<br>and ready for action.
+
+</div>

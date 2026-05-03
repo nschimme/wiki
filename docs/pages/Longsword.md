@@ -13,9 +13,10 @@ weaponsmiths.
 `The sword has a long straight blade, a strong hilt and a sturdy grip.`
 
 `>`**`consider sword`**
-`It is a longsword.`
-`This slashing weapon can be wielded one-handed.`
-`It is average while attacking and average while defending; its speed is slow, and it inflicts little damage upon hitting.`
-`It weighs five pounds.`
+<div class="wiki-block">
+
+It is a longsword.<br>This slashing weapon can be wielded one-handed.<br>It is average while attacking and average while defending; its speed is slow, and it inflicts little damage upon hitting.<br>It weighs five pounds.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

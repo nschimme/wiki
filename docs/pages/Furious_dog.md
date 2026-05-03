@@ -10,6 +10,8 @@ can [sneak](./Sneak.md).
 
 `A furious, wild dog is here, snarling and growling (hidden).`
 `>`**`examine dog`**
-`This dirty, wild dog snarls and shows his teeth. The barking and growling`
-`animal is not particularly large but makes up for that in sheer ferocity. The`
-`dog's eyes are watching for any weakness and shimmer with pure aggression.`
+<div class="wiki-block">
+
+This dirty, wild dog snarls and shows his teeth. The barking and growling<br>animal is not particularly large but makes up for that in sheer ferocity. The<br>dog's eyes are watching for any weakness and shimmer with pure aggression.
+
+</div>

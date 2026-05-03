@@ -11,9 +11,11 @@ worn on the [arms](./Arms_items.md). They are worth around 80
 
 `A plain pair of sleeves lies here.`
 `>`**`examine sleeves`**
-`These long sleeves are designed to cover the arms from the shoulder to the `
-`wrist. The elbows have an extra pad sewn into them for added protection. The `
-`stitching is such that it will not encumber the wearer.`
+<div class="wiki-block">
+
+These long sleeves are designed to cover the arms from the shoulder to the <br>wrist. The elbows have an extra pad sewn into them for added protection. The <br>stitching is such that it will not encumber the wearer.
+
+</div>
 
 `>`**`consider sleeves`**
 `They are a plain pair of sleeves.`

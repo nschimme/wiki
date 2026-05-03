@@ -14,7 +14,8 @@ Bolt](./Lightning_Bolt.md). Most of them load with a common
 
 `A dark intangible shadow turns to face you.`
 `>`**`look wraith`**
-`The shape seems to shift and coalesce in the murky light, but a vague`
-`humanoid outline can be gleaned. Tattered rags hang from the creature's`
-`body, seeming to almost float about its ethereal body. The only noticeable`
-`feature of this wraith is the gaze of its bloodshot, lidless eyes.`
+<div class="wiki-block">
+
+The shape seems to shift and coalesce in the murky light, but a vague<br>humanoid outline can be gleaned. Tattered rags hang from the creature's<br>body, seeming to almost float about its ethereal body. The only noticeable<br>feature of this wraith is the gaze of its bloodshot, lidless eyes.
+
+</div>

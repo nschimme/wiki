@@ -11,10 +11,11 @@ standard line editor (enter a %e on a single line to end).
 
 Examples:
 
-`> bug I can't move east from here`
-`> idea Fish should be cookable`
-`> typo Hill giant description`
-`> report Lost my account password - help!`
+<div class="wiki-block">
+
+\> bug I can't move east from here<br>\> idea Fish should be cookable<br>\> typo Hill giant description<br>\> report Lost my account password - help!
+
+</div>
 
 Please note that bug, idea, and typo messages are visible to all the
 [Ainur](./Ainur.md). It is recommended you use report, which is
@@ -71,9 +72,11 @@ report, e.g.
 2\. Now the line editor opens and you can explain the problem in detail,
 for example:
 
-`  : The prices in this shop seem to be multiplied with 1000, the red ruby`
-`  : costs 65.000 goldpieces.`
-`  : %e`
+<div class="wiki-block">
+
+  : The prices in this shop seem to be multiplied with 1000, the red ruby<br>  : costs 65.000 goldpieces.<br>  : %e
+
+</div>
 
 3\. To send your report type '%e' on an empty line, to cancel the report
 '%q'.

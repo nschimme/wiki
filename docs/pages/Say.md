@@ -14,10 +14,11 @@ heard by the person who you are talking to.
 
 Examples:
 
-` > Whisper thief Wanna teach me some illegal stuff?`
-` > Ask bilbo Have you found that ring yet?`
-` > Say Hi guys, lets go orc hunting?!`
-` > Comment duh gotta go AFK a sec, building on fire`
+<div class="wiki-block">
+
+ \> Whisper thief Wanna teach me some illegal stuff?<br> \> Ask bilbo Have you found that ring yet?<br> \> Say Hi guys, lets go orc hunting?!<br> \> Comment duh gotta go AFK a sec, building on fire
+
+</div>
 
 Notes:
 

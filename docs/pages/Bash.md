@@ -35,8 +35,10 @@ would.
 
 Examples:
 
-`  > bash bear`
-`  > bash door`
-`  > bash dis elf`
+<div class="wiki-block">
+
+  \> bash bear<br>  \> bash door<br>  \> bash dis elf
+
+</div>
 
 [Back to skill list](./Skill.md)

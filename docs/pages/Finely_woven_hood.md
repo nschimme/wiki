@@ -14,10 +14,11 @@ Witch-King of Angmar.
 
 `A finely woven grey hood of the Galadhrim lies folded here.`
 `>`**`examine hood`**
-`This hood is of exquisite quality, woven by some of the finest weavers`
-`known - the Elves of Lothlorien. No discernable pattern can be seen, yet `
-`the hood seems to shift and shimmer by itself, hinting of qualities beyond`
-`what can be seen by the mortal eye.`
+<div class="wiki-block">
+
+This hood is of exquisite quality, woven by some of the finest weavers<br>known - the Elves of Lothlorien. No discernable pattern can be seen, yet <br>the hood seems to shift and shimmer by itself, hinting of qualities beyond<br>what can be seen by the mortal eye.
+
+</div>
 
 `>`**`consider hood`**
 `It is a finely woven hood.`

@@ -11,12 +11,11 @@ Hill](./Black_Hill.md). He is looking for someone to retrieve
 
 `A crippled ranger is here, deep in thought.`
 `> `**`examine ranger`**
-`Clad in woodland colours and wearing a long cloak, the ranger blends into the`
-`background. His muscular frame is a result of a lifetime hunting evil creatures`
-`across Arda but his service has come at a great cost. The ranger walks with a`
-`pronounced limp, the result of a old wound in his left leg. Despite this, his`
-`movements are deft and he has mastered using a walking stick to compensate for`
-`his injury.`
+<div class="wiki-block">
+
+Clad in woodland colours and wearing a long cloak, the ranger blends into the<br>background. His muscular frame is a result of a lifetime hunting evil creatures<br>across Arda but his service has come at a great cost. The ranger walks with a<br>pronounced limp, the result of a old wound in his left leg. Despite this, his<br>movements are deft and he has mastered using a walking stick to compensate for<br>his injury.
+
+</div>
 
 ## Skill list
 

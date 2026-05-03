@@ -11,6 +11,8 @@ to 6pm.
 
 `A noble Elf stands here, proudly displaying his valuable assets.`
 `>`**`examine elf`**
-`A plainly dressed elf stands here, with grey eyes, yellow hair, and a serious`
-`expression. He looks young and strong, and watches over the valuables that`
-`have been given into his care attentively.`
+<div class="wiki-block">
+
+A plainly dressed elf stands here, with grey eyes, yellow hair, and a serious<br>expression. He looks young and strong, and watches over the valuables that<br>have been given into his care attentively.
+
+</div>

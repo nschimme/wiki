@@ -12,6 +12,8 @@ fur](./Warg_fur.md).
 
 `A ferocious warg is here, snarling angrily.`
 `> `**`look warg`**
-`This is an exceptionally large wolf of thick black fur. Saliva drips from the`
-`great fangs and the eyes reveal an evil intelligence. Allied with the orcs,`
-`this creature of Morgoth's devising is the bane of the free people of the west.`
+<div class="wiki-block">
+
+This is an exceptionally large wolf of thick black fur. Saliva drips from the<br>great fangs and the eyes reveal an evil intelligence. Allied with the orcs,<br>this creature of Morgoth's devising is the bane of the free people of the west.
+
+</div>

@@ -15,7 +15,8 @@ knife](./Broad-bladed_knife.md).
 
 `A tall and hardened man sits here, whittling a piece of wood.`
 `>`**`examine carpenter`**
-`His face is rough and chiselled; and his hair has the colour of dark`
-`walnut. His hands are calloused from decades of work, and his eyes`
-`survey you critically. Around him is the scent of countless woods:`
-`cedar, oak, and other more exotic types.`
+<div class="wiki-block">
+
+His face is rough and chiselled; and his hair has the colour of dark<br>walnut. His hands are calloused from decades of work, and his eyes<br>survey you critically. Around him is the scent of countless woods:<br>cedar, oak, and other more exotic types.
+
+</div>

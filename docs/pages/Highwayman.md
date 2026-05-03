@@ -14,7 +14,9 @@ hostile to you. They load 1 silver and 50 copper, a sword, a
 
 `A highwayman is here, grinning evilly at you.`
 `>`**`examine man`**
-`Callous, calculating eyes consider you and your purse, apparently judging his`
-`chances for getting richer. He seems experienced in the ways of the world,`
-`obviously taking no chances.`
+<div class="wiki-block">
+
+Callous, calculating eyes consider you and your purse, apparently judging his<br>chances for getting richer. He seems experienced in the ways of the world,<br>obviously taking no chances.
+
+</div>
  

@@ -16,7 +16,8 @@ silver) will loosen his lips enough for him to spill the beans...
 
 `> Olly is standing here, cleaning some cups.`
 `> `**`look Olly`**
-`> Olly is fairly short for a human, and a bit fat too. Also his hair is `
-`retreating from his forehead. This he tries to hide by combing the little hair `
-`he still has forward, but of course it only makes things worse. He glares`
-`suspiciously at you.`
+<div class="wiki-block">
+
+\> Olly is fairly short for a human, and a bit fat too. Also his hair is <br>retreating from his forehead. This he tries to hide by combing the little hair <br>he still has forward, but of course it only makes things worse. He glares<br>suspiciously at you.
+
+</div>

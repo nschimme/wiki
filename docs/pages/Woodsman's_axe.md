@@ -15,8 +15,10 @@ weaponsmiths.
 `The long handle is made of hickory wood and wrapped in leather.`
 
 `>`**`consider axe`**
-`This cleaving weapon can be wielded one-handed.`
-`It is average while attacking and average while defending; its speed is slow, and it inflicts considerable damage upon hitting.`
-`It weighs five pounds. `
+<div class="wiki-block">
+
+This cleaving weapon can be wielded one-handed.<br>It is average while attacking and average while defending; its speed is slow, and it inflicts considerable damage upon hitting.<br>It weighs five pounds.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

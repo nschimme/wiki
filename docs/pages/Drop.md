@@ -16,9 +16,11 @@ You can also use the "drop" command to try to shake off an unwanted
 
 or "drop everyone" to try to shake off everyone:
 
-` > drop everyone`
-` Pippin stops following you.`
-` Merry stops following you.`
+<div class="wiki-block">
+
+ \> drop everyone<br> Pippin stops following you.<br> Merry stops following you.
+
+</div>
 
 See also: [Get](./Get.md), [Put](./Put.md),
 Abandon

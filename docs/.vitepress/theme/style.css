@@ -389,3 +389,22 @@ a:hover {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--mume-gold);
 }
+
+/* ---------- Wiki Preformatted Blocks ---------- */
+
+.wiki-block {
+  background-color: var(--vp-code-block-bg);
+  padding: 1em;
+  border-radius: 8px;
+  border: 1px solid var(--mume-border);
+  margin: 1em 0;
+  overflow-x: auto;
+  font-family: var(--vp-font-family-mono);
+}
+
+.vp-doc .wiki-block p {
+  margin: 0 !important;
+  padding: 0 !important;
+  white-space: pre;
+  line-height: 1.2;
+}

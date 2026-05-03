@@ -12,9 +12,11 @@ absorption and considerably reduce movement cost. They are worth around
 
 `A pair of black padded boots lie on the ground here.`
 `>`**`examine boots`**
-`The boots are made of a rough black leather. The soles have a double.`
-`layer of it, reinforced by heavy stitching. The inside is comfortably`
-`padded, and would dampen one's footsteps over even the roughest terrain.`
+<div class="wiki-block">
+
+The boots are made of a rough black leather. The soles have a double.<br>layer of it, reinforced by heavy stitching. The inside is comfortably<br>padded, and would dampen one's footsteps over even the roughest terrain.
+
+</div>
 
 `>`**`consider boots`**
 `They are a black pair of padded boots.`

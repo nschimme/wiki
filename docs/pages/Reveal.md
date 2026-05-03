@@ -35,8 +35,10 @@ a surprise attack.
 
 Examples:
 
-`> reveal boots`
-`> reveal scout`
-`> reveal quickly`
+<div class="wiki-block">
+
+\> reveal boots<br>\> reveal scout<br>\> reveal quickly
+
+</div>
 
 See also: [Hide](./Hide.md), [Search](./Search.md)

@@ -10,9 +10,11 @@ characters.
 
 The 'hints' command lets everyone review these tips at will. Example:
 
-` > hints                displays a random hint`
-` > hints show all       displays all hints`
-` > hints view all       sends all hints to your viewer`
+<div class="wiki-block">
+
+ \> hints                displays a random hint<br> \> hints show all       displays all hints<br> \> hints view all       sends all hints to your viewer
+
+</div>
 
 ### Contributing
 

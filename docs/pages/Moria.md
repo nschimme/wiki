@@ -4,13 +4,11 @@ description: '"Durin is the name that the Dwarves use for the eldest 
 tags:
   - Locations
 ---
-`  "Durin is the name that the Dwarves use for the eldest of the Seven`
-`    Fathers of their race, and the ancestor of all the kings of the`
-`    Longbeards. He slept alone, until in the deeps of time and the`
-`    awakening of that people he came to Azanulbizar, and in the caves`
-`    above Kheled-zaram in the east of the Misty Mountains he made his`
-`    dwelling, where afterwards were the Mines of Moria renowned in`
-`    song." `
+<div class="wiki-block">
+
+  "Durin is the name that the Dwarves use for the eldest of the Seven<br>&nbsp;   Fathers of their race, and the ancestor of all the kings of the<br>&nbsp;   Longbeards. He slept alone, until in the deeps of time and the<br>&nbsp;   awakening of that people he came to Azanulbizar, and in the caves<br>&nbsp;   above Kheled-zaram in the east of the Misty Mountains he made his<br>&nbsp;   dwelling, where afterwards were the Mines of Moria renowned in<br>&nbsp;   song."
+
+</div>
 
 Greatest of the Dwarf-halls, the mansion and folk-home of Durin's Folk,
 was carved by Durin I early in the First Age in the caves overlooking

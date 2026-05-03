@@ -28,9 +28,11 @@ Examples:
 
 For following a track over several rooms:
 
-` > track *dwarf*  OR  pursue *dwarf*`
-` > pursue`
-` > pursue`
+<div class="wiki-block">
+
+ \> track *dwarf*  OR  pursue *dwarf*<br> \> pursue<br> \> pursue
+
+</div>
 
 See also: [Track](./Track.md)
  

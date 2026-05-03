@@ -19,7 +19,9 @@ leather equipment.
 
 `A tall, lean man follows your every move with his eyes.`
 `>`**`examine Malardil`**
-`Malardil has a grim and firm look. He is a well dressed man and he has`
-`an aura that shows his power and his arrogance. His dark eyes hold a cruel,`
-`calculating glint.`
+<div class="wiki-block">
+
+Malardil has a grim and firm look. He is a well dressed man and he has<br>an aura that shows his power and his arrogance. His dark eyes hold a cruel,<br>calculating glint.
+
+</div>
  

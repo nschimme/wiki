@@ -10,12 +10,11 @@ Galadhon](/pages/Lothlórien). The guild is open from 6am to 6pm.
 
 `Rumil the Master Bard of Lothlórien is here smiling gently (glowing).`
 `>`**`examine Rumil`**
-`With a smile on his lips, Rumil, the Master Bard of the Golden Wood, stands in`
-`front of you. As ages passed him by, he has collected immeasurable wisdom and`
-`knowledge of the ancient lore of the Elves. He is clad in the grey garments of`
-`a woodsman. The only things that acknowledge him as the Master Bard is the `
-`flute tucked into his belt and the fine lute that he carries, always close at `
-`hand.`
+<div class="wiki-block">
+
+With a smile on his lips, Rumil, the Master Bard of the Golden Wood, stands in<br>front of you. As ages passed him by, he has collected immeasurable wisdom and<br>knowledge of the ancient lore of the Elves. He is clad in the grey garments of<br>a woodsman. The only things that acknowledge him as the Master Bard is the <br>flute tucked into his belt and the fine lute that he carries, always close at <br>hand.
+
+</div>
 
 ## Spell list
 

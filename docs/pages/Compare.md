@@ -19,9 +19,11 @@ Comparing objects in your [inventory](./Inventory.md) or in
 
 Comparing objects in a shop:
 
-` > compare 2122 233`
-` > compare 2122 sword`
-` > compare sword 233`
+<div class="wiki-block">
+
+ \> compare 2122 233<br> \> compare 2122 sword<br> \> compare sword 233
+
+</div>
 
 See also: [Consider](./Consider.md), Show
  

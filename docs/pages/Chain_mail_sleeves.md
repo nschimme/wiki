@@ -13,9 +13,11 @@ bonus](./Offensive_bonus.md). They are worth around 1
 
 `A pair of chain mail sleeves lies here.`
 `>`**`examine sleeves`**
-`The sleeves are made of small metal rings linked together to form a tight but`
-`pretty stiff chainmail. In general, each ring is connected to four others, yet`
-`quite some errors in the pattern can be spotted.`
+<div class="wiki-block">
+
+The sleeves are made of small metal rings linked together to form a tight but<br>pretty stiff chainmail. In general, each ring is connected to four others, yet<br>quite some errors in the pattern can be spotted.
+
+</div>
 
 `>`**`consider sleeves`**
 `They are a pair of chain mail sleeves.`

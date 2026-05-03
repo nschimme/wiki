@@ -12,12 +12,11 @@ first time you pray, thus choosing your hometown).
 
 Being a citizen affects certain aspects to life in the city, e.g.
 
-`- In most cities you may not walk about with an unsheathed `[`weapon`](./Weapon.md)` unless `
-`  you're a citizen.`
-`- `[`Shopkeepers`](./Shop.md)` will charge higher prices to you for their goods and `
-`  `[`innkeepers`](./Inn.md)` will charge you higher `[`rent`](./Rent.md)` if you're not a citizen.`
-`- You may only complain about ``criminals`` if you're a citizen`
-`- The city ``gates`` will open even at night for citizens.`
+<div class="wiki-block">
+
+\- In most cities you may not walk about with an unsheathed `[`weapon`](./Weapon.md)` unless <br>  you're a citizen.<br>\- `[`Shopkeepers`](./Shop.md)` will charge higher prices to you for their goods and <br>  `[`innkeepers`](./Inn.md)` will charge you higher `[`rent`](./Rent.md)` if you're not a citizen.<br>\- You may only complain about ``criminals`` if you're a citizen<br>\- The city ``gates`` will open even at night for citizens.
+
+</div>
 
 Depending on the town, there are different means of obtaining
 citizenship. Some may require payment, others will give it free

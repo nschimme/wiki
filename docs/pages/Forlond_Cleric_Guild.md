@@ -10,9 +10,11 @@ Forlond.
 
 `A venerable elven priest is here, willing to teach his art.`
 `>`**`examine priest`**
-`This ancient elf does not show his age on his face or body, it shows in`
-`his confident, commanding manner and the great respect that other elves`
-`show him.`
+<div class="wiki-block">
+
+This ancient elf does not show his age on his face or body, it shows in<br>his confident, commanding manner and the great respect that other elves<br>show him.
+
+</div>
 
 ## Spell list
 

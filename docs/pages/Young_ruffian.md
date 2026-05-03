@@ -13,6 +13,8 @@ cloth equipment.
 
 `A young ruffian is here, keeping a careful watch over the road.`
 `>`**`examine ruffian`**
-`The young ruffian is a grungy man who relies on thievery and murder as a means`
-`of survival. An outlaw from Bree, he lives in anger, breathing hostility and `
-`vengeance on the unwary.`
+<div class="wiki-block">
+
+The young ruffian is a grungy man who relies on thievery and murder as a means<br>of survival. An outlaw from Bree, he lives in anger, breathing hostility and <br>vengeance on the unwary.
+
+</div>

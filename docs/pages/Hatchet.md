@@ -14,8 +14,10 @@ weaponsmiths.
 `branches and debris. The blade is backed up by a hammer on the opposite side.`
 
 `>`**`consider hatchet`**
-`This cleaving weapon can be wielded one-handed.`
-`It is poor while attacking and poor while defending; its speed is average, and it inflicts very little damage upon hitting.`
-`It weighs three pounds. `
+<div class="wiki-block">
+
+This cleaving weapon can be wielded one-handed.<br>It is poor while attacking and poor while defending; its speed is average, and it inflicts very little damage upon hitting.<br>It weighs three pounds.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

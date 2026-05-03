@@ -10,9 +10,11 @@ equipment worn on the [head](./Head_items.md).
 
 `A leather helmet lies here.`
 `>`**`look helmet`**
-`Rabbit fur lines the inside of this skullcap making it both comfortable and`
-`warm. Two small straps at the back of the cap can be tightened to ensure a snug`
-`fit, which will be useful in high winds.`
+<div class="wiki-block">
+
+Rabbit fur lines the inside of this skullcap making it both comfortable and<br>warm. Two small straps at the back of the cap can be tightened to ensure a snug<br>fit, which will be useful in high winds.
+
+</div>
 
 `>`**`consider helmet`**
 `It is a leather helmet.`

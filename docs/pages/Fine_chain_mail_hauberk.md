@@ -13,10 +13,11 @@ bonus](./Offensive_bonus.md). It is worth around 2
 
 `A fine chain mail hauberk is on the ground.`
 `>`**`examine hauberk`**
-`Countless small, yet very hard rings form this armour. The rings are linked`
-`together and have been riveted shut, reducing the chance of being split open.`
-`A very complicated six-to-one pattern offers good protection while maintaining`
-`the freedom to move for the wearer.`
+<div class="wiki-block">
+
+Countless small, yet very hard rings form this armour. The rings are linked<br>together and have been riveted shut, reducing the chance of being split open.<br>A very complicated six-to-one pattern offers good protection while maintaining<br>the freedom to move for the wearer.
+
+</div>
 
 `>`**`consider hauberk`**
 `It is a fine chain mail hauberk.`

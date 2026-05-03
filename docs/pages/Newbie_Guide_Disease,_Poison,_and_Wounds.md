@@ -439,11 +439,11 @@ Some races in MUME have some benefits against wounds.
 
 Wounds come in various strengths and severity.
 
-`light`
-`deep`
-`serious`
-`grievous`
-`critical`
+<div class="wiki-block">
+
+light<br>deep<br>serious<br>grievous<br>critical
+
+</div>
 
 The more sever the would is, the more it bleeds for and the more it
 reduces your base abilities.

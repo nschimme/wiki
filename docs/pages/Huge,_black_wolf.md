@@ -12,6 +12,8 @@ fur](./Black_wolf_fur.md) and some [meat](./Meat.md).
 
 `A huge, black wolf is here, ready to devour.`
 `>`**`examine wolf`**
-`Large, even by the standards of black wolves, this beast is a true killer,`
-`afraid of no one. As large as some wargs, its howl strikes terror into even`
-`the most hardened elf or orc. Forever hungry, the wolf attacks mercilessly.`
+<div class="wiki-block">
+
+Large, even by the standards of black wolves, this beast is a true killer,<br>afraid of no one. As large as some wargs, its howl strikes terror into even<br>the most hardened elf or orc. Forever hungry, the wolf attacks mercilessly.
+
+</div>

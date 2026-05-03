@@ -10,10 +10,11 @@ Mountains](./Blue_Mountains.md).
 
 `An aged and experienced dwarf is here, eager to share his wisdom.`
 `>`**`examine dwarf`**
-`This is a very old yet very healthy dwarf, weather-beaten of skin and`
-`tough of sinew.  He has clearly spent much of his life exploring the wild`
-`places of Arda, and is ready to share his survival skills with those who`
-`will listen.`
+<div class="wiki-block">
+
+This is a very old yet very healthy dwarf, weather-beaten of skin and<br>tough of sinew.  He has clearly spent much of his life exploring the wild<br>places of Arda, and is ready to share his survival skills with those who<br>will listen.
+
+</div>
 
 ## Skill list
 

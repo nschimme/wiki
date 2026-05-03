@@ -12,11 +12,11 @@ require fuel. Red rubies can be bought at jeweller's for around 52
 
 `A large red gem lies on the ground, glowing strangely.`
 `> `**`examine ruby`**
-`This large ruby would fit nicely into your hand. It has been cut by some very`
-`skilled craftsman and its sides are perfectly symmetrical. The ruby glows in a`
-`mysterious red light; a closer look at the inside reveals a million small`
-`rays and sparks of red, which are reflected and broken more often than there`
-`are glowing sparks in a great fire.`
+<div class="wiki-block">
+
+This large ruby would fit nicely into your hand. It has been cut by some very<br>skilled craftsman and its sides are perfectly symmetrical. The ruby glows in a<br>mysterious red light; a closer look at the inside reveals a million small<br>rays and sparks of red, which are reflected and broken more often than there<br>are glowing sparks in a great fire.
+
+</div>
 
 `> `**`consider ruby`**
 `It is a red ruby.`

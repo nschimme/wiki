@@ -10,9 +10,11 @@ Harlond.
 
 `Filatior the elven acolyte is here performing sacred ceremonies.`
 `>`**`examine Filatior`**
-`You see a slender elf of medium height before you. He has a pleasant smile`
-`and seems to be quite happy to see you. He wears a thin robe, some leather`
-`boots and a small medallion around his neck.`
+<div class="wiki-block">
+
+You see a slender elf of medium height before you. He has a pleasant smile<br>and seems to be quite happy to see you. He wears a thin robe, some leather<br>boots and a small medallion around his neck.
+
+</div>
 
 ## Spell list
 

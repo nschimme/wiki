@@ -15,10 +15,11 @@ tailors for around 3 [gold](./Gold.md).
 
 `A fine piece of red-brown cloth has been folded neatly here.`
 `>`**`examine cloak`**
-`The cloak is made from a finely-woven fabric of a deep reddish-brown colour.`
-`Thin strands of darker browns, and minute flecks of silver-grey lend to the`
-`fabric a richer look, which complements the superior workmanship and subtle`
-`styling of the garment.`
+<div class="wiki-block">
+
+The cloak is made from a finely-woven fabric of a deep reddish-brown colour.<br>Thin strands of darker browns, and minute flecks of silver-grey lend to the<br>fabric a richer look, which complements the superior workmanship and subtle<br>styling of the garment.
+
+</div>
 
 `>`**`consider cloak`**
 `It is a russet cloak.`

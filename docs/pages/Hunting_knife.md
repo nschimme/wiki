@@ -16,9 +16,10 @@ silver and is sold by most weaponsmiths.
 `blade is a serrated portion, perhaps to cut bone.`
 
 `>`**`consider knife`**
-`It is a hunting knife.`
-`This piercing weapon can be wielded one-handed.`
-`It is awful while attacking and poor while defending; its speed is very fast, and it inflicts very little damage upon hitting.`
-`It weighs a couple of ounces.`
+<div class="wiki-block">
+
+It is a hunting knife.<br>This piercing weapon can be wielded one-handed.<br>It is awful while attacking and poor while defending; its speed is very fast, and it inflicts very little damage upon hitting.<br>It weighs a couple of ounces.
+
+</div>
 
 <!--@include: ../includes/Items.md-->

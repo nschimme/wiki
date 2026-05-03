@@ -6,10 +6,11 @@ tags:
 ---
 `A full metal shield is on the ground.`
 `>`**`examine shield`**
-`This shield is composed out of several layers of steel and iron, ensuring`
-`its strength and durability. Two leather bands are pinched on the inside,`
-`which allows a firm grip to the shield. While the middle of the front plate is`
-`devoid of design, a small board around it is engraved with several icons.`
+<div class="wiki-block">
+
+This shield is composed out of several layers of steel and iron, ensuring<br>its strength and durability. Two leather bands are pinched on the inside,<br>which allows a firm grip to the shield. While the middle of the front plate is<br>devoid of design, a small board around it is engraved with several icons.
+
+</div>
 
 `>`**`consider shield`**
 `It is a full metal shield.`

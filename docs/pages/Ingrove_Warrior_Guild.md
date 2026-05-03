@@ -10,11 +10,11 @@ tags:
 
 `A battle-hardened man stands alert.`
 `>`**`examine tymen`**
-`Scars line his face and hands, which are the only exposed parts of his body. He`
-`walks with a slight gait, more than likely the result of an old injury. The`
-`casual observer might mistake this man for a tired soldier, but his eyes tell a`
-`different tale. Though calm and composed, quick eye movements indicate that he`
-`is ready to spring at a moment's notice.`
+<div class="wiki-block">
+
+Scars line his face and hands, which are the only exposed parts of his body. He<br>walks with a slight gait, more than likely the result of an old injury. The<br>casual observer might mistake this man for a tired soldier, but his eyes tell a<br>different tale. Though calm and composed, quick eye movements indicate that he<br>is ready to spring at a moment's notice.
+
+</div>
 
 ## Skill list
 

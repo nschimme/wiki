@@ -13,10 +13,11 @@ for 2 hours.
 
 `Gathrain, a retired Bree guard lives here, looking for pupils to train.`
 `>`**`examine Gathrain`**
-`A veteran of many battles and services of the Mayor, this warrior has now`
-`settled in Bree, turning his hand to training others in the art of fighting.`
-`Though his techniques are not exemplary, you can probably hone some of your`
-`skills in warcraft here.`
+<div class="wiki-block">
+
+A veteran of many battles and services of the Mayor, this warrior has now<br>settled in Bree, turning his hand to training others in the art of fighting.<br>Though his techniques are not exemplary, you can probably hone some of your<br>skills in warcraft here.
+
+</div>
 
 ## Skill list
 

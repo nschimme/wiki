@@ -16,7 +16,9 @@ some basic cloth equipment.
 
 `A scrawny, yet muscular man skulks around.`
 `>`**`examine rogue`**
-`Not a spare ounce of flesh is on his frame, but he looks strong and nimble.`
-`He has the shifty eyes of a ne'er-do-well, and his demeanour is that of a`
-`man not to be trusted.`
+<div class="wiki-block">
+
+Not a spare ounce of flesh is on his frame, but he looks strong and nimble.<br>He has the shifty eyes of a ne'er-do-well, and his demeanour is that of a<br>man not to be trusted.
+
+</div>
  
