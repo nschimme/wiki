@@ -140,3 +140,5 @@ Necromancy
 ## See also:
 
 - [Skills](./Skill.md)
+
+<!--@include: ../includes/Spells.md-->
