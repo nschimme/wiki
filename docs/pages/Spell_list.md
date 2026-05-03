@@ -11,7 +11,7 @@ description: 'Levels and names of Magic User and Cleric spells'
 | 4 | [Create Light](./Create_Light.md) (5)<br>[Locate Magic](./Locate_Magic.md) (20) | [Cure Blindness](./Cure_Blindness.md) (5)<br>[Protection From Evil](./Protection_From_Evil.md) (20) |
 | 5 | [Burning Hands](./Burning_Hands.md) (7)<br>[Shroud](./Shroud.md) (5) | [Bless](./Bless.md) (5)<br>[Cure Serious](./Cure_Serious.md) (15) |
 | 6 | [Locate](./Locate.md) (20)<br>[Find the Path](./Find_the_Path.md) (21) | [Blindness](./Blindness.md) (10)<br>[Cure Disease](./Cure_Disease.md) (15) |
-| 7 | [Night Vision](./Night_Vision.md) (25)<br>[Shocking Grasp](./Shocking_Grasp.md) (9)<br>[Call Familiar](./Call_Familiar.md) (15) | [Strength](./Strength.md) (20)<br>[Sense Life](./Sense_Life.md) (5) |
+| 7 | [Night Vision](./Night_Vision.md) (25)<br>[Shocking Grasp](./Shocking_Grasp.md) (9)<br>[Call Familiar](./Call_Familiar.md) (15) | [Strength](./Strength_Spell(1).md) (20)<br>[Sense Life](./Sense_Life.md) (5) |
 | 8 | [Teleport](./Teleport.md) (35)<br>[Earthquake](./Earthquake.md) (15) | [Summon](./Summon.md) (50)<br>[Poison](./Poison.md) (10) |
 | 9 | [Lightning Bolt](./Lightning_Bolt.md) (11)<br>[Block Door](./Block_Door.md) (30) | [Cure Critic](./Cure_Critic.md) (20)<br>[Remove Poison](./Remove_Poison.md) (5) |
 | 10 | [Control Weather](./Control_Weather.md) (25)<br>[Store](./Store.md) (25) | [Breath of Briskness](./Breath_of_Briskness.md) (25)<br>[Curse](./Curse.md) (20) |
@@ -26,6 +26,6 @@ description: 'Levels and names of Magic User and Cleric spells'
 
 ## Special spells
 * [Create Focus](./Create_Focus.md)
-* [Corrupt](./Corrupt.md)
+* [Corrupt](./Corrupting.md)
 
 See also [Spells](./Spells.md)
