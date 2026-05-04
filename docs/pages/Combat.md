@@ -29,3 +29,6 @@ help file, check out the "See Also" section at the bottom.
   bodyguard.
 - "[BANDAGE](./Bandage.md)" - A way of soothing the pain from
   wounds.
+
+
+<!--@include: ../includes/Guides.md-->

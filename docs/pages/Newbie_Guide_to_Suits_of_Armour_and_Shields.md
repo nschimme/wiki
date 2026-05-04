@@ -735,7 +735,5 @@ damage is ignored.
 
 ------------------------------------------------------------------------
 
-Link back to the wiki guides:
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

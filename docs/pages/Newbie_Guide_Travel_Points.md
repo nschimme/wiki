@@ -379,7 +379,5 @@ travel points, and discovered many secret doors.
 
 ------------------------------------------------------------------------
 
-Link back to the wiki guides:
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

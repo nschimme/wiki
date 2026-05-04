@@ -422,7 +422,5 @@ due to this very scary type of death in the game.
 
 ------------------------------------------------------------------------
 
-Link back to the wiki guides:
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

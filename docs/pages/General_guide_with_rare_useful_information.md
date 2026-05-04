@@ -912,3 +912,8 @@ Mr R, Ares, Mr E, Elestir, Mr H, Belamir and Dearth.
     levelling, need "average" command
 - malardil gypsy woman
   - sancs herself
+
+------------------------------------------------------------------------
+
+
+<!--@include: ../includes/Guides.md-->

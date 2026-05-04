@@ -550,7 +550,5 @@ The **Heal** spell will also function as a cure critic spell.
 
 ------------------------------------------------------------------------
 
-Link back to the wiki guides:
 
-- Guide
- 
+<!--@include: ../includes/Guides.md-->

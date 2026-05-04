@@ -1,5 +1,40 @@
 /* MUME Wiki — dark fantasy theme inspired by mume.org */
 
+@font-face {
+  font-family: 'Merriweather';
+  src: url('./fonts/Merriweather-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('./fonts/Merriweather-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('./fonts/Merriweather-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Kelt';
+  src: url('./fonts/kelt.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Kelt';
+  src: url('./fonts/kelt-bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
 :root {
   /* Brand colors - Optimized for Light Mode Readability */
   --mume-gold: #8b6b10;
@@ -463,6 +498,59 @@ a:hover {
   color: var(--mume-gold);
   text-decoration: none;
   padding-left: 0.3rem;
+}
+
+/* ---------- Footer ---------- */
+
+.VPFooter {
+  background-color: #262626 !important;
+  border-top: 1px solid var(--mume-border) !important;
+  padding: 1.5rem 0 !important;
+}
+
+.VPFooter .message, .VPFooter .copyright {
+  font-family: 'Merriweather', serif !important;
+  font-size: 0.75rem !important;
+  line-height: 1.6 !important;
+  color: darkgrey !important;
+}
+
+.VPFooter a {
+  color: darkgrey !important;
+  text-decoration: underline !important;
+}
+
+.VPFooter a:hover {
+  color: goldenrod !important;
+  text-decoration: none !important;
+}
+
+.footer-play {
+  font-family: 'Kelt', Georgia, serif;
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+  color: silver;
+}
+
+.footer-play a {
+  background-color: darkgoldenrod;
+  padding: 0.3em 1.2em;
+  border-radius: 2rem;
+  color: white !important;
+  text-decoration: none !important;
+  font-weight: bold;
+  display: inline-block;
+  margin-left: 0.5em;
+  box-shadow: 1px 3px 6px rgba(0,0,0,0.3);
+}
+
+.footer-play a:hover {
+  background-color: goldenrod;
+  color: #3a3a3a !important;
+}
+
+.footer-info {
+  margin-bottom: 0.5rem;
 }
 
 /* ---------- Edit link ---------- */

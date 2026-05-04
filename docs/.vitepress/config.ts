@@ -146,8 +146,16 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'MUME Wiki — community documentation for Multi-Users in Middle-earth',
-      copyright: 'Content © respective contributors',
+      message: `
+        <div class="footer-play">
+          Speak, friend, and enter <a href="https://mume.org/play/" target="_blank" rel="noopener">Mellon</a>
+        </div>
+        <div class="footer-info">
+          Do you like MUME? Tell others on <a href="https://www.mudconnect.com/cgi-bin/search.cgi?mode=mud_listing&mud=MUME+-+Multi+Users+In+Middle+Earth" target="_blank" rel="noopener">The Mud Connector</a>.<br>
+          Wiki maintained by the community. Hosted at <a href="https://www.heig-vd.ch/" target="_blank" rel="noopener">HEIG-VD</a>.
+        </div>
+      `,
+      copyright: 'MUME is based on the works of J.R.R. Tolkien. Content © respective contributors.',
     },
 
     outline: {
