@@ -7,8 +7,8 @@ This wiki is built with [VitePress](https://vitepress.dev/) and hosted at https:
 Use Docker — do not run `npm install` directly.
 
 ```bash
-docker compose up dev        # dev server at http://localhost:5174/wiki/ (hot reload)
-docker compose up --build wiki   # production build & E2E tests (mirrors CI)
+docker compose up dev        # dev server at http://localhost:5173/wiki/ (hot reload)
+docker compose up --build wiki   # production build & E2E tests (mirrors CI) at http://localhost:8080/wiki/
 ```
 
 To update packages:
@@ -114,8 +114,8 @@ This file (`AGENTS.md`) is read automatically by Claude Code, OpenAI Codex, Gemi
 Key facts for agents:
 - All wiki content is in `docs/pages/*.md` — edit there, not in `_pages/` (legacy source)
 - Images live in `docs/public/img/` and are referenced as `/img/filename`
-- Dev server: `docker compose up dev` (port 5174)
-- Build command: `docker compose up --build wiki` (port 4173); automatically runs E2E tests.
+- Dev server: `docker compose up dev` (port 5173)
+- Build command: `docker compose up --build wiki` (port 8080); automatically runs E2E tests.
 - Basic E2E verification is done via Playwright.
 - `ignoreDeadLinks: false` in VitePress config — dead links cause the build to fail; fix them, don't disable the check
 - CI environment: Node 22, `git` required (VitePress uses it for last-modified dates); use `Dockerfile`/`docker-compose.yml` to replicate locally
