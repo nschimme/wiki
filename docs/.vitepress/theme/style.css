@@ -137,18 +137,28 @@ a:hover {
   border-bottom: 2px solid var(--mume-gold);
 }
 
+/*
+   Moving backdrop-filter to .VPNavBar child to avoid creating a new
+   stacking context on the .VPNav parent, which can cause the
+   fixed-position .VPNavScreen to be clipped on mobile.
+*/
 .VPNavBar {
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
 }
 
-/* Fix for navigation bar getting cut off on medium screens */
-@media (max-width: 1100px) {
+/* Fix for navigation bar getting cut off on medium screens (Reactive Mode) */
+@media (min-width: 768px) and (max-width: 1100px) {
   .VPNavBarMenu {
-    display: none !important;
-  }
-  .VPNavBarHamburger {
     display: flex !important;
+  }
+  .VPNavBarMenu :deep(.VPLink) {
+    padding: 0 6px; /* Slightly more compact */
+    font-size: 0.85rem;
+  }
+  /* Hide non-critical items to make room for nav links */
+  .VPNavBarAppearance, .VPNavBarSocialLinks, .VPNavBarExtra {
+    display: none !important;
   }
 }
 

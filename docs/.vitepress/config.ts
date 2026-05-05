@@ -66,11 +66,16 @@ export default defineConfig({
     nav: [
       { text: 'Guides', link: '/guides' },
       { text: 'Equipment', link: '/equipment' },
-      { text: 'Classes', link: '/classes' },
-      { text: 'Races', link: '/races' },
-      { text: 'Lore', link: '/lore' },
-      { text: 'History', link: '/history' },
-      { text: 'Tags', link: '/tags' },
+      {
+        text: 'Reference',
+        items: [
+          { text: 'Classes', link: '/classes' },
+          { text: 'Races', link: '/races' },
+          { text: 'Lore', link: '/lore' },
+          { text: 'History', link: '/history' },
+          { text: 'Tags', link: '/tags' },
+        ]
+      },
       { text: 'Homepage', link: 'https://mume.org/' },
     ],
 
