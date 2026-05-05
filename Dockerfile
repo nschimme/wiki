@@ -1,5 +1,6 @@
 # Use Playwright image for builder to allow running E2E tests during build
-FROM mcr.microsoft.com/playwright:v1.50.0-jammy AS builder
+# Version should match package.json
+FROM mcr.microsoft.com/playwright:v1.59.1-jammy AS builder
 
 RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
 
