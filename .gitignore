@@ -1,15 +1,61 @@
+# Dependencies
 node_modules/
+/dist/
+/build/
+
+# VitePress specific
 docs/.vitepress/dist/
 docs/.vitepress/cache/
 docs/.vitepress/.temp/
-.DS_Store
-assets/.DS_Store
+
+# MUME Wiki generated files
 docs/public/pages-meta.json
 docs/.vitepress/pages-meta.json
-docs_dev.log
 docs/includes/all_pages.txt
-test-results/
 all_pages.txt
 all_md_files.txt
-*.log
+
+# Playwright / Testing
+test-results/
 playwright-report/
+blob-report/
+/test-results/
+/playwright-report/
+/blob-report/
+
+# Logs
+*.log
+docs_dev.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+assets/.DS_Store
+
+# IDEs and Editors
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.mod
