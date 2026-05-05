@@ -9,6 +9,7 @@ Use Docker — do not run `npm install` directly.
 ```bash
 docker compose up dev        # dev server at http://localhost:5174/wiki/ (hot reload)
 docker compose up --build wiki   # production build at http://localhost:4173/wiki/
+docker compose up test       # run E2E tests (mirrors CI)
 ```
 
 To update packages:

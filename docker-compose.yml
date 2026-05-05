@@ -31,3 +31,14 @@ services:
         VITEPRESS_BASE: /wiki/
     ports:
       - "4173:80"
+
+  # E2E Tests (mirrors CI)
+  test:
+    image: mcr.microsoft.com/playwright:v1.50.0-focal
+    working_dir: /app
+    environment:
+      - VITEPRESS_BASE=/wiki/
+      - CI=true
+    volumes:
+      - .:/app
+    command: sh -c "npm ci && npx playwright install --with-deps chromium && npm run test:e2e"
