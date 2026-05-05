@@ -51,6 +51,14 @@ jobs:
           EDIT_REPO: ${{ github.repository }}
           EDIT_BRANCH: ${{ github.ref_name }}
 
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run E2E tests
+        run: npm run test:e2e
+        env:
+          VITEPRESS_BASE: ${{ steps.base_url.outputs.base }}
+
       - name: Collect PRs to deploy
         uses: actions/github-script@v7
         with:

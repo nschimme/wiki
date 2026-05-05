@@ -45,6 +45,14 @@ jobs:
           EDIT_REPO: ${{ github.event.pull_request.head.repo.full_name }}
           EDIT_BRANCH: ${{ github.event.pull_request.head.ref }}
 
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run E2E tests
+        run: npm run test:e2e
+        env:
+          VITEPRESS_BASE: ${{ steps.base_url.outputs.prefix }}pr-${{ github.event.number }}/
+
       - name: Package build
         run: |
           cd docs/.vitepress/dist
