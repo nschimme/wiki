@@ -8,7 +8,7 @@ export default defineConfig({
   workers: process.env.CI ? 1 : undefined,
   reporter: 'html',
   use: {
-    baseURL: 'http://localhost:4173/wiki/',
+    baseURL: `http://localhost:4173${process.env.VITEPRESS_BASE || '/wiki/'}`,
     trace: 'on-first-retry',
   },
   projects: [
@@ -23,7 +23,7 @@ export default defineConfig({
   ],
   webServer: {
     command: 'npm run docs:preview',
-    url: 'http://localhost:4173/wiki/',
+    url: `http://localhost:4173${process.env.VITEPRESS_BASE || '/wiki/'}`,
     reuseExistingServer: !process.env.CI,
   },
 });
