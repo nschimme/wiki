@@ -1,6 +1,7 @@
-FROM node:22-alpine AS builder
+# Use Playwright image for builder to allow running E2E tests during build
+FROM mcr.microsoft.com/playwright:v1.50.0-jammy AS builder
 
-RUN apk add --no-cache git
+RUN apt-get update && apt-get install -y git && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
@@ -9,10 +10,15 @@ RUN npm ci
 
 COPY . .
 
-ARG VITEPRESS_BASE=/
+ARG VITEPRESS_BASE=/wiki/
 ENV VITEPRESS_BASE=${VITEPRESS_BASE}
 
+# Build the site
 RUN npm run docs:build
+
+# Run E2E tests to ensure the build is valid
+# This makes tests "automatic" as part of the build process
+RUN npm run test:e2e
 
 FROM nginx:alpine
 

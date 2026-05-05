@@ -24,6 +24,7 @@ services:
     command: sh -c "apk add --no-cache git && npm ci && npm run docs:build"
 
   # Production build served via nginx (mirrors deployment)
+  # Automatically runs E2E tests as part of the build
   wiki:
     build:
       context: .
@@ -31,14 +32,3 @@ services:
         VITEPRESS_BASE: /wiki/
     ports:
       - "4173:80"
-
-  # E2E Tests (mirrors CI)
-  test:
-    image: mcr.microsoft.com/playwright:v1.50.0-focal
-    working_dir: /app
-    environment:
-      - VITEPRESS_BASE=/wiki/
-      - CI=true
-    volumes:
-      - .:/app
-    command: sh -c "npm ci && npx playwright install --with-deps chromium && npm run test:e2e"
