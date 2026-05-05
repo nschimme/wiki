@@ -144,5 +144,6 @@ See also: Newbie, [FAQ1](./FAQ1.md),
 [Advanced](./Advanced.md), Features,
 Rules
 
+---
 
 <!--@include: ../includes/Guides.md-->

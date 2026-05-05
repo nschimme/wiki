@@ -55,5 +55,6 @@ recently met. If you escape a huge fight and are finished off by a lucky
 level 1 enemy, that level 1 will not gain huge amounts of war points.
 Conversely, the enemies you were fleeing from will gain some.
 
+---
 
 <!--@include: ../includes/Guides.md-->

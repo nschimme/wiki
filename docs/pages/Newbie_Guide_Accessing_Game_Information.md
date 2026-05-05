@@ -672,5 +672,6 @@ mobs instead of items. You can get a "teleport key" for a mob by using
 this spell. You can also know more about the mobs offensive and
 defensive toughness, it's type, or level.
 
+---
 
 <!--@include: ../includes/Guides.md-->

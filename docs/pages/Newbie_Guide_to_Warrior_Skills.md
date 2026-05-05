@@ -455,5 +455,6 @@ skill. Then spend pracs on Bash after that.
 So go out and see what type of warrior you can become while you level up
 and practice with your character!
 
+---
 
 <!--@include: ../includes/Guides.md-->

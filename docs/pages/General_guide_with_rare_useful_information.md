@@ -913,7 +913,6 @@ Mr R, Ares, Mr E, Elestir, Mr H, Belamir and Dearth.
 - malardil gypsy woman
   - sancs herself
 
-------------------------------------------------------------------------
-
+---
 
 <!--@include: ../includes/Guides.md-->

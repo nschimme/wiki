@@ -489,5 +489,6 @@ agate at the same time:
         wimpy.
     - Total weight 27lbs + helm 6lbs
 
+---
 
 <!--@include: ../includes/Guides.md-->

@@ -667,5 +667,6 @@ they can suffer one of the greatest penalties in the entire game,
 - Mountain Trolls can shake trees, push boulders, drag corpses, open
   doors, and dig with shovel at increased speed and reduced move cost.
 
+---
 
 <!--@include: ../includes/Guides.md-->

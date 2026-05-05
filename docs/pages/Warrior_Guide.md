@@ -434,5 +434,6 @@ skills you might want. If you are going to play a smiting warrior
 then put all additional weapon practices into two-handed weapons
 beginning at level 3.
 
+---
 
 <!--@include: ../includes/Guides.md-->

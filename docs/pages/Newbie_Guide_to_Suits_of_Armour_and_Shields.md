@@ -733,7 +733,6 @@ are hit with a fireball for 100 damage, but have a 20 hit point cap
 Sanctuary spell up... you only take 20 damage, and the remaining 80
 damage is ignored.
 
-------------------------------------------------------------------------
-
+---
 
 <!--@include: ../includes/Guides.md-->

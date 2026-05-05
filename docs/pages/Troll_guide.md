@@ -1445,5 +1445,6 @@ By leveling forward you gain both OB and HP. (level 50 troll can have
 200 OB and 700hp in Warrens with no special equipment). Weapon trolls
 will have even more OB.
 
+---
 
 <!--@include: ../includes/Guides.md-->

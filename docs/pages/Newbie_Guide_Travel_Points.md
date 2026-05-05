@@ -377,7 +377,6 @@ It's similar to the warlord list, but for players that have traveled
 alot of the map, and while doing so, explored more zones, gained alot of
 travel points, and discovered many secret doors.
 
-------------------------------------------------------------------------
-
+---
 
 <!--@include: ../includes/Guides.md-->

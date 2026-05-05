@@ -490,7 +490,6 @@ Don't forget, selling herblore ingredients to other players or herbal
 shops for cash can be a good way to make some silver. Also most grocery
 shops will buy berries.
 
-------------------------------------------------------------------------
-
+---
 
 <!--@include: ../includes/Guides.md-->

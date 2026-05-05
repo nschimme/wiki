@@ -476,5 +476,6 @@ campfires faster to rest or sleep next too. Or even cook your next meal!
 So go out and see what type of ranger you can become while you level up
 and practice with your character!
 
+---
 
 <!--@include: ../includes/Guides.md-->

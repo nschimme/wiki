@@ -236,5 +236,6 @@ provides.
 So make a campfire today and start practicing some of those survival
 skills! It just takes a minute to try most of them out.
 
+---
 
 <!--@include: ../includes/Guides.md-->

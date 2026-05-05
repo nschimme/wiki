@@ -52,5 +52,6 @@ of other areas.
   advanced character
   statistics](./Guide_to_advanced_character_statistics.md)
 
+---
 
 <!--@include: ../includes/Guides.md-->

@@ -565,5 +565,6 @@ Please place any feedback below this line and include your character
 name if you want to help improve the guide. Additional Tips and Tricks
 are also welcome. Thanks for reading!
 
+---
 
 <!--@include: ../includes/Guides.md-->

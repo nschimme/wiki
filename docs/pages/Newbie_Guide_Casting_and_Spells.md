@@ -703,7 +703,6 @@ to Strength for you or another character. As you level up or put more
 pracs in, the spell will last longer. Eventually it will grant a +2
 bonus. High level casters that focus on it sometimes can grant a +3.
 
-------------------------------------------------------------------------
-
+---
 
 <!--@include: ../includes/Guides.md-->

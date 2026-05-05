@@ -1354,5 +1354,6 @@ characters. You don't lose them if you die, and it can over all lower
 how much you pay in rent in the game. And gives you more choices of
 cities to retreat to if danger is near.
 
+---
 
 <!--@include: ../includes/Guides.md-->

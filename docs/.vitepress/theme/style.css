@@ -5,6 +5,7 @@
   src: url('./fonts/Merriweather-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
   src: url('./fonts/Merriweather-Bold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -19,6 +21,7 @@
   src: url('./fonts/Merriweather-Italic.woff2') format('woff2');
   font-weight: normal;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
@@ -26,6 +29,7 @@
   src: url('./fonts/kelt.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -33,6 +37,7 @@
   src: url('./fonts/kelt-bold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 :root {
@@ -502,27 +507,28 @@ a:hover {
 
 /* ---------- Footer ---------- */
 
-.VPFooter {
-  background-color: #262626 !important;
-  border-top: 1px solid var(--mume-border) !important;
-  padding: 1.5rem 0 !important;
+.VPApp .VPFooter {
+  background-color: #262626;
+  border-top: 1px solid var(--mume-border);
+  padding: 1.5rem 0;
 }
 
-.VPFooter .message, .VPFooter .copyright {
-  font-family: 'Merriweather', serif !important;
-  font-size: 0.75rem !important;
-  line-height: 1.6 !important;
-  color: darkgrey !important;
+.VPApp .VPFooter .message,
+.VPApp .VPFooter .copyright {
+  font-family: 'Merriweather', serif;
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: darkgrey;
 }
 
-.VPFooter a {
-  color: darkgrey !important;
-  text-decoration: underline !important;
+.VPApp .VPFooter a {
+  color: darkgrey;
+  text-decoration: underline;
 }
 
-.VPFooter a:hover {
-  color: goldenrod !important;
-  text-decoration: none !important;
+.VPApp .VPFooter a:hover {
+  color: goldenrod;
+  text-decoration: none;
 }
 
 .footer-play {

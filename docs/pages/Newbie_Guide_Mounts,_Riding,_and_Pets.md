@@ -463,5 +463,6 @@ leading a mount.
 Also be careful using the **earthquake** spell with your mount. 100's of
 horses have died in this game because of the earthquake spell!
 
+---
 
 <!--@include: ../includes/Guides.md-->

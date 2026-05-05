@@ -1618,5 +1618,6 @@ As pure shamans get to high levels, you have a few choices:
 
 Closing: *Outros are for elves, snaga.*
 
+---
 
 <!--@include: ../includes/Guides.md-->

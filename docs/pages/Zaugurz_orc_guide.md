@@ -391,5 +391,6 @@ description: '- This is a Zaugurz Orc guide with all information I have been abl
 - To minmax orc moves, avoid terrain with Forest, Field, Brush,
   Shallows(source: &lt;https://mume.org/help/terrain&gt;)
 
+---
 
 <!--@include: ../includes/Guides.md-->

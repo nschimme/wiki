@@ -1168,5 +1168,6 @@ seen in 'stat' for the full 12 minutes although there is no noticeable
 effect after the last tic of the poison at about 10 minutes.
 :::
 
+---
 
 <!--@include: ../includes/Guides.md-->

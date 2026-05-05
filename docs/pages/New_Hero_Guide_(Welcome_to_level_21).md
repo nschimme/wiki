@@ -302,7 +302,6 @@ somewhat nearish the Misty Mountains, and other areas where the forces
 of Sauron often hold sway. Black Númenóreans get a few bonus zones to
 their flying distance.
 
-------------------------------------------------------------------------
-
+---
 
 <!--@include: ../includes/Guides.md-->
