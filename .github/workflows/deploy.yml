@@ -44,20 +44,19 @@ jobs:
             echo "base=/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
           fi
 
-      - name: Build
-        run: npm run docs:build
-        env:
-          VITEPRESS_BASE: ${{ steps.base_url.outputs.base }}
-          EDIT_REPO: ${{ github.repository }}
-          EDIT_BRANCH: ${{ github.ref_name }}
+      - name: Build and Test via Docker
+        run: |
+          docker build \
+            --target builder \
+            --build-arg VITEPRESS_BASE=${{ steps.base_url.outputs.base }} \
+            --build-arg EDIT_REPO=${{ github.repository }} \
+            --build-arg EDIT_BRANCH=${{ github.ref_name }} \
+            -t mume-wiki-builder .
 
-      - name: Install Playwright Browsers
-        run: npx playwright install --with-deps chromium
-
-      - name: Run E2E tests
-        run: npm run test:e2e
-        env:
-          VITEPRESS_BASE: ${{ steps.base_url.outputs.base }}
+          # Extract the built assets from the builder stage
+          docker create --name extractor mume-wiki-builder
+          docker cp extractor:/app/docs/.vitepress/dist ./docs/.vitepress/dist
+          docker rm extractor
 
       - name: Collect PRs to deploy
         uses: actions/github-script@v7
