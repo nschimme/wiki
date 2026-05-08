@@ -14,7 +14,7 @@ commands the familiar understands are directions
 to walk (as north, south, etc), [look](./Look.md),
 [exit](./Exit.md), [rest](./Rest.md), or stand. The
 familiars can also be [ordered](./Order.md) like a regular
-[charmie](./Charm.md) when in the same [room](./room.md) as
+[charmie](./Charm.md) when in the same [room](./Mechanics.md#room) as
 its owner. All familiars have the ability to see in darkness.
 
 Syntax : cast 'call familiar' Type : Miscellaneous Accumulative: No

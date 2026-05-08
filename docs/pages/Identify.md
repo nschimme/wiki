@@ -7,7 +7,7 @@ tags:
 ---
 **Identify** is a [level](./Level.md) 15 [mage](./Mage.md)
 [spell](./Spell.md). When [cast](./Cast.md) on an
-[object](./Item.md), this spell will reveal some of the important
+[object](./Items.md#item), this spell will reveal some of the important
 properties of the object. It also gives the caster the magical 'key'
 which would be used to find instances of such objects with the
 '[locate](./Locate.md)' spell.

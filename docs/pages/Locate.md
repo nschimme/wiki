@@ -12,8 +12,8 @@ Standing Level : Level 6 Class : Magic User Min. Mana : 20 NOTE:
 &lt;max distance&gt; is given in miles.
 
 NOTE: In order to use this spell you must first find out the magical key
-of the [object](./Item.md), [mobile](./Mobile.md), or
-[room](./room.md) you are attempting to locate. (In the example
+of the [object](./Items.md#item), [mobile](./Mobile.md), or
+[room](./Mechanics.md#room) you are attempting to locate. (In the example
 the magical key is the "zordurhozo" part).
 
 The keys for objects, mobiles, and players can be obtained with the

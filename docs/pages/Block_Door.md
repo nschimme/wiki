@@ -10,7 +10,7 @@ tags:
 it will block the door from being opened for some time. The only way to
 remove the block before it expires is with the [Break
 Door](./Break_Door.md) spell, by trying to [bash](./Bash.md)
-(unlikely to succeed), or with special rare [items](./Item.md).
+(unlikely to succeed), or with special rare [items](./Items.md#item).
 The spell does not work on natural closable [exits](./Exit.md),
 like branches.
 

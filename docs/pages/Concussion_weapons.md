@@ -13,6 +13,6 @@ defeated with this kind of weapon.
 
 ## See also
 
-- [Charge](./Charging_weapons.md), [Cleaving](./Cleaving_weapons.md), [Missile](./Missile_weapons.md), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Stabbing](./Stabbing_weapons.md), [Two-handed](./Two-handed_weapons.md)
+- [Charge](./Charging_weapons.md), [Cleaving](./Cleaving_weapons.md), [Missile](./Weapon.md#missile-weapons), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Stabbing](./Stabbing_weapons.md), [Two-handed](./Two-handed_weapons.md)
 
 <!--@include: ../includes/Skills.md-->

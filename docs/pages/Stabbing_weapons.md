@@ -24,6 +24,6 @@ happening depends on your reach and the opponent's reach: a
 
 ## See also
 
-- [Charge](./Charging_weapons.md), [Cleaving](./Cleaving_weapons.md), [Concussion](./Concussion_weapons.md), [Missile](./Missile_weapons.md), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Two-handed](./Two-handed_weapons.md)
+- [Charge](./Charging_weapons.md), [Cleaving](./Cleaving_weapons.md), [Concussion](./Concussion_weapons.md), [Missile](./Weapon.md#missile-weapons), [Piercing](./Piercing_weapons.md), [Slashing](./Slashing_weapons.md), [Two-handed](./Two-handed_weapons.md)
 
 <!--@include: ../includes/Skills.md-->

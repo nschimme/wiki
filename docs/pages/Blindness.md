@@ -14,7 +14,7 @@ opening and closing exits. When cast on mobs this is
 especially powerful with the shoot/[flee](./Flee.md) strategy .
 During PK a successful blind can be a likely lethal
 blow, because it requires superb area knowledge to escape without being
-able to see the [room](./room.md) descriptions. Its success rate
+able to see the [room](./Mechanics.md#room) descriptions. Its success rate
 depends primarily on the willpower of the opponent. The effects of the
 spell last a few minutes and can be removed with the [Cure
 Blindness](./Cure_Blindness.md) spell.

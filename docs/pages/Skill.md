@@ -38,7 +38,7 @@ Damage
 
 - [Attack](./Attack.md)
 - [Backstab](./Backstab.md)
-- [Missile](./Missile_weapons.md)
+- [Missile](./Weapon.md#missile-weapons)
 - [Piercing](./Piercing_weapons.md)
 
 Subtlety
